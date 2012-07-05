@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="toast_fm_not_played">Nelze zapnout FM rádio</string>
+    <string name="headset_disconnect">Sluchátka odpojena. Rádio je vypnuto</string>
+    <string name="toast_tap_to_rename">Klepněte na frekvenci k přejmenování</string>
+    <string name="toast_channel_invalid">Neplatná frekvence</string>
+    <string name="toast_tune" formatted="false">Ladím %1$d.%2$d MHz...</string>
+    <string name="toast_tap_to_remove">Klepněte na frekjvenci k odebrání</string>
+    <string name="toast_busy_tunning">Obsazeno. Ladím...</string>
+    <string name="toast_no_fav_channel">Žádné oblíbené stanice</string>
+    <string name="toast_already_scan">Již skenuji...</string>
+    <string name="toast_rename_error">Nelze přejmenovat</string>
+    <string name="toast_already_playing" formatted="false">Frekvence %1$d.%2$d MHz právě hraje</string>
+    <string name="dialog_cancel_scan">Ruším...</string>
+    <string name="dialog_scan">Skenuji...</string>
+    <string name="alarm_text1">FM Rádio se vypne za %1$d minut(u,y)</string>
+    <string name="alarm_text2">FM Rádio se vypne za 1 hodinu</string>
+    <string name="alarm_text3">FM Rádio se vypne za %1$d hodin (y)</string>
+    <string name="toast_already_added">Tato frekvence již existuje</string>
+    <string name="dialog_channel_found" formatted="false">Nalezena stanice %1$d.%2$d MHz. Celkem nalezeno %3$d stanic</string>
+    <string name="dialog_channel_one_found" formatted="false">%1$d.%2$d MHz stanice nalezena.</string>
+    <string name="dialog_channel_found_south_region" formatted="false">Nalezena stanice %1$s MHz. Celkem nalezeno %2$d stanic</string>
+    <string name="dialog_channel_one_found_south_region">%1$s MHz stanice nalezena.</string>
+    <string name="toast_channel_found">%1$d stanic nalezeno</string>
+    <string name="toast_one_channel_found">1 stanice nalezena</string>
+    <string name="toast_on_alert">Zapněte FM rádio</string>
+    <string name="app_name">FM rádio</string>
+    <string name="scan">Skenovat</string>
+    <string name="remove">Odebrat</string>
+    <string name="settings">Nastavení</string>
+    <string name="allchannels">Všechny stanice</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Zrušit</string>
+    <string name="southeast_asia_region">Jihovýchodní Asie</string>
+    <string name="rename">Přejmenovat</string>
+    <string name="rename_text">Vložit jméno</string>
+    <string name="done">Hotovo</string>
+    <string name="replace">Nahradit</string>
+    <string name="setting_region">Region</string>
+    <string name="setting_backgroud_playing">Hrát na pozadí</string>
+    <string name="setting_sationid">Zobrazit ID stanice</string>
+    <string name="setting_af">Alternativní frekvence</string>
+    <string name="setting_autooff">Automatické vypnutí rádia</string>
+    <string name="setting_bgplaying_summary">FM rádio bude hrát na pozadí po zavření aplikace</string>
+    <string name="setting_stationid_summary">Informace o stanici budou zobrazeny</string>
+    <string name="setting_af_summary">Použití alternativních frekvencí</string>
+    <string name="setting_europe">Evropa</string>
+    <string name="setting_korea">Korea</string>
+    <string name="setting_japan">Japonsko</string>
+    <string name="setting_usa">USA</string>
+    <string name="setting_off">Vypnuto</string>
+    <string name="setting_30min">Po 30 min</string>
+    <string name="setting_hour">Za 1 hod</string>
+    <string name="setting_2hour">Za 2 hod</string>
+    <string name="save">Uložit</string>
+    <string name="toast_earphone_not_connected">Sluchátka nejsou připojena</string>
+    <string name="dialog_autoscan">Auto skenování</string>
+    <string name="toast_initial_access">Spouštím auto sken...</string>
+    <string name="scan_result">Vysledky hledání</string>
+    <string name="rename_channel">Přejmenovat</string>
+    <string name="alert">Upozornění</string>
+    <string name="fav_channel">Oblíbené</string>
+    <string name="menu_refersh_all">Všechny kanály</string>
+    <string name="menu_refresh">Zachovat oblíbené</string>
+    <string name="number_30">30</string>
+    <string name="number_2">2</string>
+    <string name="alrm_30_min_past">Auto vypnutí FM Rádia. %1$d min</string>
+    <string name="alrm_1_hr_past">Auto vypnutí FM Rádia. 1 hodinu</string>
+    <string name="alrm_2_hrs_past">Auto vypnutí FM Rádia. %1$d hodiny</string>
+    <string name="scan_channels">Skenuji kanály</string>
+    <string name="selectall">Vybrat vše</string>
+    <string name="no_channel_selected">Zvolte alespoň jednu položku</string>
+    <string name="toast_airplane_mode">Nelze používat FM rádio v Offline režimu</string>
+    <string name="dialog_tts_confirm">Instalace hlasových dat je potřebná pro syntézu řeči</string>
+    <string name="RSSI">Set Seek RSSI (int)</string>
+    <string name="SNR">Set Seek SNR (int)</string>
+    <string name="CNT">Set Seek CNT (int)</string>
+    <string name="AF_Threshold">Nastavit rozsah AF (int)</string>
+    <string name="AF_Valid_Threshold">Nastavit platná rozsah AF (int)</string>
+    <string name="Current_Threshold">Získat aktuální rozsah (int)</string>
+    <string name="speaker">Reproduktor</string>
+    <string name="af_switching">Přepínání AF</string>
+    <string name="af_switching_msg">AF přepínání probíhá. Stiskněte zpět pro ukončení</string>
+    <string name="toast_battery_low">Nelze spustit aplikaci. Baterie skoro vybitá</string>
+    <string name="toast_af_success" formatted="false">AF switched and found %1$d.%2$d MHz frequency</string>
+    <string name="toast_disabled">%1$s vypnuto</string>
+    <string name="toast_no_channel_found">Nenealezeny žádné kanály</string>
+    <string name="toast_unavailable_in_tvout_mode">Nedostupné v TV-out módu</string>
+    <string name="seeking">Hledání...</string>
+    <string name="via_earphone">Sluchátka</string>
+    <string name="via_speaker">Reproduktor</string>
+    <string name="normal_frequency">Normální frekvence</string>
+    <string name="notify">U1 FM Rádio je podporováno pouze u HW verze 0.7 nebo vyšší</string>
+    <string name="audio_shock_warning">Hlasitá hudba může poškodit váš sluch, pokud ji posloucháte příliž dlouho</string>
+</resources>

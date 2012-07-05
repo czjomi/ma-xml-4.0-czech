@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sdílení</string>
+    <string name="app_title">Vyberte aplikaci pro sdílení</string>
+    <string name="btn_done">Hotovo</string>
+    <string name="btn_cancel">Zrušit</string>
+    <string name="package_info" formatted="false">"Doporučuji použít %s. 
+Navštívit odkazy z vašeho Android zařízení. 
+%s"</string>
+    <string name="title_share_via">Sdílet přes</string>
+    <string name="emptyview_loading">Nahrávám ...</string>
+    <string name="emptyview_noresult">Žádné výsledky hledání</string>
+    <string name="no_item_selected">Žádné položky vybrány</string>
+    <string name="no_item_searched">Žádné položky nenalezeny</string>
+    <string name="search_app">Hledat aplikace</string>
+</resources>

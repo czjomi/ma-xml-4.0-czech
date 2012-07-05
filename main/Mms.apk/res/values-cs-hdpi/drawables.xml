@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="nickname_icon">false</item>
+    <item type="drawable" name="nickname_icon_p">false</item>
+</resources>

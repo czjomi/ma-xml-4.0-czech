@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SIM Toolkit</string>
+    <string name="menu_end_session">Konec relace</string>
+    <string name="help">Nápověda</string>
+    <string name="menu_back">Zpět</string>
+    <string name="service_name">Název služby</string>
+    <string name="stk_no_service">Služba nedostupná</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Zrušit</string>
+    <string name="button_yes">Ano</string>
+    <string name="button_no">Ne</string>
+    <string name="alphabet">Abeceda</string>
+    <string name="digits">Digitální (0-9, *, #, +)</string>
+    <string name="default_call_setup_msg">Pokračovat ve volání ?</string>
+    <string name="default_setup_call_msg">Volání je nastavení</string>
+    <string name="stk_app_state">Application state</string>
+    <string name="enable_app">Zapnuto</string>
+    <string name="disable_app">Vypnuto</string>
+    <string name="airplanemode">Nelze spustit aplikaci.Je aktivní režim Letadlo.</string>
+    <string name="setup_call">Volat?</string>
+</resources> 

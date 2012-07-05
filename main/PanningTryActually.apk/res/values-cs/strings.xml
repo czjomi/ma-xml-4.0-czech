@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="panning_tutorial">"Zkusme to, posuň!"</string>
+    <string name="hold_me">Podrž mě</string>
+    <string name="move_left_or_right">Naklonit zařízení vlevo nebo vpravo.</string>
+    <string name="done">Hotovo</string>
+    <string name="ok">OK</string>
+    <string name="back">Zpět</string>
+    <string name="panning">Posouvání</string>
+    <string name="panning_dialog_message">Nakloňte zařízení vlevo nebo vpravo, zatímco držíte vybranou ikonu pro přemístění na jinou stránku.</string>
+    <string name="try_button">Zkusit</string>
+    <string name="try_again">Zkusit znovu</string>
+    <string name="good_job">Dobrá práce!</string>
+</resources>

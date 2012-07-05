@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MtpApplication!</string>
+    <string name="app_name">MTP Aplikace</string>
+    <string name="error_title">Pozor</string>
+    <string name="bluetooth_running">Aktivace režimu USB deaktivuje Bluetooth. Chcete pokračovat?</string>
+    <string name="alert_dialog_yes">Ano</string>
+    <string name="alert_dialog_no">Ne</string>
+    <string name="animation_initializing">Inicializace...</string>
+    <string name="animation_connected">Připojeno</string>
+    <string name="animation_synchronizing">Synchronizování...</string>
+    <string name="animation_downloading">Stahování...</string>
+    <string name="animation_sending">Posílání...</string>
+    <string name="notification_mtp_connected">MTP připojeno</string>
+    <string name="notification_usb_connected">USB připojeno</string>
+    <string name="notification_mtp_initialization">MTP inicializace</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="alert_dialog_cancel">Zrušit</string>
+    <string name="non_idle_toast">"Připojení k PC je dispozici pouze na pohotovostní obrazovce..
+zavřete spuštěné aplikace."</string>
+    <string name="media_scanner_running">Probíhá skenování médií...</string>
+    <string name="media_scanner_finished">Skenování médií dokončeno</string>
+    <string name="kies_software_check">Zkontrolujte Kies(PC software)</string>
+</resources>

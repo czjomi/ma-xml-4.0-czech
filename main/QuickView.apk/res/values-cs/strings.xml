@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Náhled</string>
+    <string name="camera_toss">Smazat</string>
+    <string name="camera_share">Sdílet</string>
+    <string name="camera_set">Použít jako</string>
+    <string name="video_play">Přehrát</string>
+    <string name="camera_history">Historie</string>
+    <string name="OK_STRING">OK</string>
+    <string name="gridview_cancelbutton_text">Zrušit</string>
+    <string name="no_way_to_share_image">Žádná aplikace pro sdílení snímků</string>
+    <string name="no_way_to_share_video">Žádná aplikace pro sdílení videí</string>
+    <string name="confirm_delete_title">Smazat</string>
+    <string name="confirm_delete_message">Snímek byl smazán</string>
+    <string name="confirm_delete_video_message">Video bylo smazáno</string>
+    <string name="setImage">Nastavit snímek jako</string>
+    <string name="sendImage">Sdílet snímek přes</string>
+    <string name="sendVideo">Sdílet video přes</string>
+    <string name="preparing_sd">Připravuji SD kartu…</string>
+    <string name="media_scanner_running">Probíhá skenování médií...</string>
+    <string name="no_sdcard">SD karta nebyla nalezena</string>
+    <string name="no_media_found">Žádné položky</string>
+    <string name="OPTION_1">OPTION 1</string>
+    <string name="OPTION_2">OPTION 2</string>
+    <string name="OPTION_3">OPTION 3</string>
+    <string name="no_have_video">"Video soubor neexistuje, nebo je poškozený."</string>
+    <string name="camera_more">Více</string>
+    <string name="rename">Přejmenovat</string>
+    <string name="rename_dialog_message">Vložte nový název souboru</string>
+    <string name="name_is_empty">Nepojmenované</string>
+    <string name="already_exists">Již existuje</string>
+    <string name="unable_to_rename">Nelze přejmenovat</string>
+    <string name="failed_to_rename">Přejmenování se nezdařilo</string>
+    <string name="invalid_character">Neplatné znaky</string>
+    <string name="max_char_reached_msg">Dosaženo maximálního počtu znaků</string>
+    <string name="menu_kodak">Kodak</string>
+    <string name="menu_snapfish">Snapfish</string>
+    <string name="Title_SetDefDest">Nastavte výchozí umístění</string>
+    <string name="My_Album_Online">Mé alba Online</string>
+    <string name="include_default_destination">Výchozí umístění</string>
+    <string name="Title_Dest">"Výchozí
+umístění"</string>
+    <string name="app_recent_recipients">Nedávní příjemci</string>
+    <string name="app_new_number">Nové číslo</string>
+    <string name="app_new_email">Nový Email</string>
+    <string name="DEST_RECENTRECIPIENT">"Nedávní
+ příjemci"</string>
+    <string name="DEST_PHONEBOOK">"Telefonní
+ seznam"</string>
+    <string name="DEST_NEWNUMBER">"Nové
+ číslo"</string>
+    <string name="DEST_NEWEMAIL">"Nový
+ Email"</string>
+    <string name="DEST_ONLINEALBUM">"Online
+ album"</string>
+    <string name="DEST_CURRENTDEST">"Aktuální
+ umístění"</string>
+    <string name="CURRENTDESTINATION_REPLACE">Nahradit</string>
+    <string name="CURRENTDESTINATION_REMOVE">Odebrat</string>
+    <string name="remove_dialog">Opravdu chcete odebrat?</string>
+    <string name="remove_dialog_removed">Odebráno</string>
+    <string name="remove_dialog_canceled">Zrušeno</string>
+    <string name="Send_to">Odeslat</string>
+    <string name="Dialog_Yes">Ano</string>
+    <string name="Dialog_No">Ne</string>
+    <item type="string" name="APKTOOL_DUMMY_0038">false</item>
+</resources>

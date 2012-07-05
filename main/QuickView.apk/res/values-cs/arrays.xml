@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="defalut_dest_list_activity">
+        <item>Kontakty</item>
+        <item>Nová emailová adresa</item>
+        <item>Nové tel. číslo</item>
+    </string-array>
+</resources>
