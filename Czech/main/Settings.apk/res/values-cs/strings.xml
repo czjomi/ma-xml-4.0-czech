@@ -867,7 +867,7 @@
     <string name="lockpattern_recording_intro_header">Proveďte gesto odemknutí</string>
     <string name="lockpattern_recording_intro_footer">Nápovědu zobrazíte stisknutím klávesy Menu.</string>
     <string name="lockpattern_recording_inprogress">Na závěr zdvihněte prst z obrazovky.</string>
-    <string name="lockpattern_recording_incorrect_too_short">Minimální počet spojených teček je . Zkuste to znovu:</string>
+    <string name="lockpattern_recording_incorrect_too_short">Minimální počet spojených teček je %d . Zkuste to znovu:</string>
     <string name="lockpattern_pattern_entered_header">Gesto bylo zaznamenáno.</string>
     <string name="lockpattern_need_to_confirm">Proveďte gesto znovu pro potvrzení:</string>
     <string name="lockpattern_pattern_confirmed_header">Nové gesto odemknutí:</string>
