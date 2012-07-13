@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Přizpůsobení</string>
+    <string name="label_perso">Zámek sítě</string>
+    <string name="label_mcc_mnc">MCC/MNC</string>
+    <string name="label_nsp">Poskytovatel síťových služeb</string>
+    <string name="label_sp">Poskytovatel služeb</string>
+    <string name="label_cp">CP</string>
+    <string name="label_second">NCK</string>
+    <string name="label_control_key">Řídicí klíč</string>
+    <string name="sim_perso_ok_text">OK</string>
+    <string name="sim_perso_dismiss_text">Konec</string>
+    <string name="requesting_lock">Požadování zamknutí...</string>
+    <string name="lock_failed">požadavek na zamknutí nebyl úspěšný</string>
+    <string name="lock_success">zamknutí bylo úspěšně dokončeno</string>
+    <string name="requesting_unlock">Požadování odemknutí...</string>
+    <string name="unlock_failed">Požadavek na odemknutí se nezdařil</string>
+    <string name="unlock_success">Odemknutí bylo úspěšně dokončeno</string>
+    <string name="label_perso_unlock_tile">Odemknutí sítě</string>
+    <string name="label_unlock">Zadat řídicí klíč</string>
+    <string name="label_unlock_np">Zámek sítě</string>
+    <string name="label_unlock_nsp">Zámek podmnožiny sítě</string>
+    <string name="label_unlock_sp">Zámek SP</string>
+    <string name="label_unlock_cp">Zámek CP</string>
+    <string name="label_controlkey_np">Zadejte řídicí klíč zámku sítě</string>
+    <string name="label_controlkey_nsp">Zadejte řídicí klíč zámku podmnožiny sítě</string>
+    <string name="label_controlkey_sp">Zadejte řídicí klíč zámku poskytovatele služeb</string>
+    <string name="label_controlkey_cp">Zadejte řídicí klíč zámku CP</string>
+</resources>

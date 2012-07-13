@@ -395,8 +395,8 @@ Pokus: %s."</string>
     <string name="messaging_intent_label">SMS a MMS</string>
     <string name="multi_select_title_conversation_init">Prosím zvolte konverzaci(e)</string>
     <string name="multi_select_title_message_init">Prosím zvolte zprávu(y)</string>
-    <string name="multi_select_title_conversation">Vybráno(a,y) %1$s konverzace(í)</string>
-    <string name="multi_select_title_message">Vybráno(a,y) %1$s zpráv(a,y)</string>
+    <string name="multi_select_title_conversation">Vybráno konverzací: %1$s</string>
+    <string name="multi_select_title_message">Vybráno zpráv: %1$s</string>
     <string name="flatshow_page_no">%1$d</string>
     <string name="loading_contacts">Načítám kontakty...</string>
     <string name="prepare_send">Připraveno k odeslání...</string>
@@ -425,7 +425,7 @@ Pokus: %s."</string>
     <string name="to_send_wrapper">Bude odesláno v(e) %s</string>
     <string name="group_message">Skupinové zprávy</string>
     <string name="close">Zavřít</string>
-    <string name="timed_message_expired_title">%d načasovaná(é) zpráva(y) neodeslána(y)</string>
+    <string name="timed_message_expired_title">Neodeslané zprávy: %d</string>
     <string name="timed_message_expired_title_2">Chcete odeslat teď?</string>
     <string name="timed_message_to">komu</string>
     <string name="timed_message_in_total">... (%d celkem)</string>

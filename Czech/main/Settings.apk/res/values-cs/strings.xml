@@ -867,7 +867,7 @@
     <string name="lockpattern_recording_intro_header">Proveďte gesto odemknutí</string>
     <string name="lockpattern_recording_intro_footer">Nápovědu zobrazíte stisknutím klávesy Menu.</string>
     <string name="lockpattern_recording_inprogress">Na závěr zdvihněte prst z obrazovky.</string>
-    <string name="lockpattern_recording_incorrect_too_short">Minimální počet spojených teček je %d . Zkuste to znovu:</string>
+    <string name="lockpattern_recording_incorrect_too_short">Minimální počet spojených teček je . Zkuste to znovu:</string>
     <string name="lockpattern_pattern_entered_header">Gesto bylo zaznamenáno.</string>
     <string name="lockpattern_need_to_confirm">Proveďte gesto znovu pro potvrzení:</string>
     <string name="lockpattern_pattern_confirmed_header">Nové gesto odemknutí:</string>
@@ -1006,7 +1006,7 @@
     <string name="process_service_in_use_description">Služba %1$s se používá.</string>
     <string name="process_provider_in_use_description">Poskytovatel %1$s se používá.</string>
     <string name="runningservicedetails_stop_dlg_title">Zastavit systémovou službu?</string>
-    <string name="runningservicedetails_stop_dlg_text">Pokud tuto službu zastavíte, může se stát, že některé funkce tabletu nebudou fungovat správně, dokud telefon nevypnete a opět nezapnete.</string>
+    <string name="runningservicedetails_stop_dlg_text">Pokud tuto službu zastavíte, může se stát, že některé funkce telefonu nebudou fungovat správně, dokud telefon nevypnete a opět nezapnete.</string>
     <string name="language_settings">Jazyk a vstup</string>
     <string name="language_keyboard_settings_title">Jazyk a vstup</string>
     <string name="language_settings_category">Nastavení jazyka</string>
