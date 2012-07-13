@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="panning_tutorial">Zkuste sledovat</string>
+    <string name="hold_me">Držet</string>
+    <string name="move_left_or_right">Pohybujte zařízením doleva či doprava</string>
+    <string name="done">Hotovo</string>
+    <string name="ok">OK</string>
+    <string name="back">Zpět</string>
+    <string name="panning">Posouvání</string>
+    <string name="panning_dialog_message">Chcete-li přejít na jinou stránku, podržte vybranou ikonu a pohněte zařízením doleva nebo doprava</string>
+    <string name="try_button">Zkusit</string>
+    <string name="try_again">Opakovat</string>
+    <string name="good_job">Dobrá práce!</string>
+</resources>
