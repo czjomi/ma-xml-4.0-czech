@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Domů</item>
+        <item>Práce</item>
+        <item>(další)</item>
+        <item>Vlastní</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo!</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Práce</item>
+        <item>Ostatní</item>
+        <item>Vlastní</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Domů</item>
+        <item>Mobil</item>
+        <item>Práce</item>
+        <item>Pracovní fax</item>
+        <item>Fax domů</item>
+        <item>Pager</item>
+        <item>Ostatní</item>
+        <item>Vlastní</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Domů</item>
+        <item>Práce</item>
+        <item>Ostatní</item>
+        <item>Vlastní</item>
+    </string-array>
+    <string-array name="zzz_UnlockClock_strArrWeek">
+        <item>ERR</item>
+        <item>Ne</item>
+        <item>Po</item>
+        <item>Út</item>
+        <item>St</item>
+        <item>Čt</item>
+        <item>Pá</item>
+        <item>So</item>
+    </string-array>
+    <string-array name="zzz_UnlockClock_strArrMonth">
+        <item>ERR</item>
+        <item>Led</item>
+        <item>Úno</item>
+        <item>Bře</item>
+        <item>Dub</item>
+        <item>Kvě</item>
+        <item>Čer</item>
+        <item>Čvc</item>
+        <item>Srp</item>
+        <item>Zář</item>
+        <item>Říj</item>
+        <item>Lis</item>
+        <item>Pro</item>
+    </string-array>
+    <string-array name="zzz_UnlockClock_strArrAMPM">
+        <item>ERR</item>
+        <item>dop.</item>
+        <item>odp.</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Domů</item>
+        <item>Práce</item>
+        <item>Ostatní</item>
+        <item>Vlastní</item>
+    </string-array>
+    <string-array name="zzzzz_tw_cursor_handle_search_list">
+        <item>Google</item>
+        <item>Překlad Google</item>
+        <item>Wikipedia</item>
+        <item>Slovník</item>
+    </string-array>
+</resources>
