@@ -659,4 +659,19 @@ Zvolte jednu z následujících možností:"</string>
     <string name="raw_contact_account_label">Účty:%1$s</string>
     <string name="move_and_resize">Posuň měřítko</string>
     <string name="save_photo_progress">Ukládám fotku...</string>
+      <string name="export_sim_contact_finish">Exportování na SIM kartu je kompletní</string>
+      <string name="export_sim_contacts_dialog_message">Vaše SIM karta zvládne uložit %d kontaktů, opravdu chcete pokračovat?</string>
+      <string name="export_to_sim">Export na SIM kartu</string>
+      <string name="import_to_xiaomi_account_confirm">Import</string>
+      <string name="import_to_xiaomi_account_progress_finish">Import kompletní</string>
+      <string name="import_to_xiaomi_account_progress_message">Importuji...</string>
+      <string name="import_to_xiaomi_account_progress_title">Importovat kontakty do Xiaomi účtu</string>
+      <string name="import_to_xiaomi_account_title">Opravdu chcete importovat zvolené kontakty do vašeho Xiaomi účtu?</string>
+      <string name="pref_summary_import_from_account">Import kontaktů z Google a Exchange účtů do mého Xiaomi účtu</string>
+      <string name="pref_title_account_import">Iport z účtu</string>
+      <string name="pref_title_import_from_account">Import do Xiaomi účtu</string>
+      <string name="sim_card_no_free_space_message">Kapacita vaší SIM je vyčerpána, nelze importovat nové kontakty. Prosím uvolněte místo na SIM a zkuste to znovu</string>
+      <string name="sim_card_no_free_space_title">SIM karta je plná</string>
+      <string name="batch_delete_msg">"Smazat %d vybraných kontaktů? Kontaktní informace uložené v cloudu budou také odstraněny"</string>
+      <string name="menu_batch_delete">Dávkové odstranění kontaktů</string>
 </resources>
