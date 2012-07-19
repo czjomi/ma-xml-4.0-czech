@@ -128,4 +128,12 @@
     <string name="pref_network_speed_settings">Zobrazit rychlost sítě v notif. liště</string>
     <string name="pref_network_speed_internal_title">Interval aktualizace</string>
     <string name="pref_netwotk_speed_internal_summary">Rychlost sítě aktualizovat každých %d s</string>
+      <string name="force_stop_dlg_text">Pokud vynutíte zastavení aplikace, může to vyvolat chybu.</string>
+      <string name="force_stop_dlg_title">Vynutit zastavení?</string>
+      <string name="adjust_traffic_sms_template_update">Aktualizovat SMS vzor</string>
+      <string name="adjust_traffic_update">Aktualizace</string>
+      <string name="sync_setting_city">Sync with city location</string>
+      <string name="update_fail">Aktualizace selhala</string>
+      <string name="update_success">Aktualizace kompletní</string>
+      <string name="updating">Aktualizuji...</string>
 </resources>

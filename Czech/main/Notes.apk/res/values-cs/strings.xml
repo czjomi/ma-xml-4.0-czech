@@ -53,7 +53,7 @@
     <string name="info_note_enter_desktop">Poznámka byla přidána plochu</string>
     <string name="alert_message_delete_folder">Smazat složku a v ní obsažené poznámky?</string>
     <string name="alert_title_delete">Mazání vybraných poznámek</string>
-    <string name="alert_message_delete_notes">Chcete smazat poznámek(u,y) ?</string>
+    <string name="alert_message_delete_notes">Počet poznámek ke smazání: %d</string>
     <string name="alert_message_delete_note">Chcete smazat tuto poznámku?</string>
     <string name="format_move_notes_to_folder">Přesunuty %1$d poznámky do složky %2$s</string>
     <string name="error_sdcard_unmounted">SD karta je zaneprázdněna a není k dispozici</string>
@@ -101,4 +101,6 @@
     <string name="search_setting_description">Vyhledá text v poznámkách</string>
     <string name="search">Poznámky</string>
     <string name="select_text">Vyberte text</string>
+    <string name="menu_edit">Upravit</string>
+        <string name="button_new_note">Nová poznámka</string>
 </resources>

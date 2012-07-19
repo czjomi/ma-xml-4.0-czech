@@ -11,7 +11,7 @@
     <string name="all_recent_albums_desc">Oblíbené alba</string>
     <string name="already_saved">Fotka již uložena v %s</string>
     <string name="aperture">Clona</string>
-    <string name="apply_pic_for">Nastavit jako:</string>
+    <string name="apply_pic_for">Nastavit jako</string>
     <string name="appwidget_empty_text">Žádné fotky.</string>
     <string name="appwidget_title">Galerie fotografií</string>
     <string name="app_name">Galerie</string>
@@ -34,6 +34,8 @@
     <string name="click_import">Klepněte sem pro import</string>
     <string name="close">Zavřít</string>
     <string name="cloud_albums">Alba v Cloudu</string>
+    <string name="cloud_gallery_space_full">Uploadování se nezdařilo!, Cloudové úložiště galerie je plné</string>
+    <string name="cloud_media_set_set">Alba v Cloudu</string>
     <string name="confirm_delete">Opravdu chcete smazat %s položek?</string>
     <string name="confirm_know">OK</string>
     <string name="contact_photo">Foto kontaktu</string>
@@ -133,12 +135,14 @@
     <string name="menu_item_sort_size_desc">Velikost sestupně</string>
     <string name="menu_item_sort_visit_asc">Četnost otevření vzestupně</string>
     <string name="menu_item_sort_visit_desc">Četnost otevření sestupně</string>
+    <string name="message_no_delete_access">Přístup zamítnut. Nelze smazat soubor, nebo složku: %s</string>
     <string name="miliao_folder_display_name">MiTalk</string>
     <string name="miliao_painting_folder_display_name">MiTalk malování</string>
     <string name="mimetype">Typ MIME</string>
     <string name="miui_capture_screen_folder_display_name">Screenshoty</string>
     <string name="model">Model</string>
-    <string name="more">Více</string>
+    <string name="more">Více:</string>
+    <string name="move_cloud_data">Data v Cloudu galerie byla přesunuta do: %s</string>
     <string name="movie_view_label">Přehrávač videa</string>
     <string name="multiface_crop_help">Začněte klepnutím na obličej.</string>
     <string name="must_pick_file">Zvolte obrázek</string>
@@ -151,6 +155,7 @@
     <string name="no_files">Složka je prázdná</string>
     <string name="no_location">Neznámá poloha</string>
     <string name="no_recent_album">Můžete si dát často používané alba jako oblíbené pro rychlejší prohlížení..</string>
+    <string name="no_storage_disable_cloud_albums">Alba v Cloudu jsou zakázána; zkuste to prosím znovu až bude k dispozici externí úložiště.</string>
     <string name="no_storage_message">Externí úložiště nedostupné.</string>
     <string name="no_storage_title">Chybí úložiště</string>
     <string name="no_such_item">"Nelze najít položku."</string>
@@ -233,6 +238,7 @@
     <string name="share">Sdílet</string>
     <string name="sharpen">Zaostření</string>
     <string name="show_all">Obrázky a videa</string>
+    <string name="show_details">Detaily</string>
     <string name="show_hidden_album">Zobrazovat skrytá alba</string>
     <string name="show_images_only">Pouze obrázky</string>
     <string name="show_on_map">Zobrazit na mapě</string>
@@ -268,7 +274,7 @@
     <string name="video_err">Video nelze přehrát.</string>
     <string name="video_property">Vlastnosti videa</string>
     <string name="vignette">Medailonek</string>
-    <string name="wallpaper">Nastavování tapety...</string>
+    <string name="wallpaper">Tapeta plochy</string>
     <string name="warn">Upozornění</string>
     <string name="white_balance">Vyvážení bílé</string>
     <string name="widget_type">Výběr obrázků</string>

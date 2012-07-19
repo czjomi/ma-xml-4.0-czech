@@ -399,4 +399,15 @@
     <string name="search_google">Google</string>
     <string name="search_bing">Bing</string>
     <string name="help_page">Help</string>
+    <string name="pref_fling_on_border_enabled">Skočení na okraj</string>
+    <string name="pref_fling_on_border_operation">Akce skočení na okraj</string>
+    <string name="pref_gesture_title">Akce gest</string>
+    <string name="pref_key_title">Nastavení tlačítek</string>
+    <string name="pref_key_gesture_title">Tlačítka a gesta</string>
+    <string name="pref_volume_key_enabled">Tlačítka hlasitosti</string>
+    <string name="pref_volume_key_operation">Akce pro tlačítka hlasitosti</string>
+      <string name="crash_recovcery_message">Prohlížeč ukončen nestandardním způsobem. Chcete obnovit poslední relaci prohlížeče?</string>
+      <string name="manage_feature_permissions">Spravovat oprávnění</string>
+      <string name="recover">Obnovit</string>
+      <string name="recover_from_crash">Pokračovat v poslední relaci prohlížeče</string>
 </resources>

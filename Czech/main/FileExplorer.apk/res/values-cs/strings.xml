@@ -51,7 +51,7 @@
     <string name="operation_create_folder_message">Vložte jméno složky</string>
     <string name="operation_delete">Smazat</string>
     <string name="operation_delete_confirm_message">Opravdu smazat?</string>
-    <string name="operation_deleting">Mažu...</string>
+    <string name="operation_deleting">Mazání...</string>
     <string name="operation_favorite">Oblíbené</string>
     <string name="operation_hide_sys">Skrýt systémové soubory</string>
     <string name="operation_info">Info</string>
@@ -94,9 +94,9 @@
     <string name="operation_remove">Odebrat</string>
     <string name="tab_bluetooth">Bluetooth</string>
     <string name="sd_card_name">SD karta:</string>
-    <string name="multi_select_title">Vybráno %1$s položek</string>
+    <string name="multi_select_title">Vybrané položky: %1$s</string>
     <string name="file_loading">Nahrávám...</string>
-      <string name="backuproot">/AutoBackup</string>
+    <string name="backuproot">/AutoBackup</string>
       <string name="clear_cache">Smazat cache</string>
       <string name="create_new_folder_failed">Nelze vytvořit složku %1$s</string>
       <string name="create_new_folder_succeeded">Složka %1$s vytvořena</string>
@@ -194,4 +194,6 @@
       <string name="wangpan_root_path">Můj disk</string>
       <string name="wifi_notication">Všechny úkoly jsou připraveny k použití přes Wi-Fi</string>
       <string name="xiaomi_account">Xiaomi účet</string>
+      <string name="space_usage">Využité místo</string>
+      <string name="start_use_xiaomi_account">Začtněte zde!</string>
 </resources>

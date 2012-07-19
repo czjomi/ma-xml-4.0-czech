@@ -1006,7 +1006,7 @@
     <string name="process_service_in_use_description">Služba %1$s se používá.</string>
     <string name="process_provider_in_use_description">Poskytovatel %1$s se používá.</string>
     <string name="runningservicedetails_stop_dlg_title">Zastavit systémovou službu?</string>
-    <string name="runningservicedetails_stop_dlg_text">Pokud tuto službu zastavíte, může se stát, že některé funkce telefonu nebudou fungovat správně, dokud telefon nevypnete a opět nezapnete.</string>
+    <string name="runningservicedetails_stop_dlg_text">Pokud tuto službu zastavíte, může se stát, že některé funkce tabletu nebudou fungovat správně, dokud telefon nevypnete a opět nezapnete.</string>
     <string name="language_settings">Jazyk a vstup</string>
     <string name="language_keyboard_settings_title">Jazyk a vstup</string>
     <string name="language_settings_category">Nastavení jazyka</string>
@@ -1691,4 +1691,5 @@
     <string name="volume_bluetooth_description">Bluetooth</string>
     <string name="volume_restore">Obnovit výchozí</string>
     <string name="volume_restore_alert">Veškeré nastavení hlasitostí bude obnoveno do výchozích hodnot, chcete pokračovat?</string>
+    <string name="enable_snapshot_screenlock">Dlouhé držení tlačítka Zpět pro vytvoření snímku na zamykací obrazovce</string>
 </resources>
