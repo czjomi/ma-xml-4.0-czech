@@ -84,7 +84,7 @@
     <string name="slide_down_delelte_alarm">Posuňte dolů pro vypnutí budíku</string>
     <string name="start">Start</string>
     <string name="pause">Pauza</string>
-    <string name="reset">Vymaž</string>
+    <string name="reset">Reset</string>
     <string name="lap">Kolo</string>
     <string name="timer_continue">Pokračovat</string>
     <string name="elapsed_hour">%d hodin</string>
