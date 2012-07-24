@@ -8,7 +8,7 @@
     <string name="activity_title_contacts_filter">Kontakty pro zobrazení</string>
     <string name="activity_title_settings">Nastavení</string>
     <string name="add_account">Přidat účet</string>
-    <string name="add_blacklist">Přidat na black list</string>
+    <string name="add_blacklist">Přidat na černou listinu</string>
     <string name="add_connection_button">Přidat propojení</string>
     <string name="add_contact_dlg_message_fmt">Přidat \"%s\" do kontaktů?</string>
     <string name="add_contact_dlg_title">Přidat kontakt</string>
