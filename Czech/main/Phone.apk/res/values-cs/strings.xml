@@ -942,4 +942,5 @@
       <string name="turn_off_auto_select_title_miui">Vypnout automatický výběr sítě</string>
       <string name="turn_off_auto_select_warning_message_miui">Po vypnutí této volby se bude používat síť, kterou jste vybrali ručně a nebude probíhat registrovat do jiné sítě.</string>
       <string name="turn_off_miui">Vypínání</string>
+      <string name="set_preferred_network_type_when_data_enabled_miui">Volba preferovaného typu sítě je dostupná pouze při vypnutém datovém připojení</string>
 </resources>
