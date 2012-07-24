@@ -132,7 +132,7 @@
       <string name="menu_setting">Nastavení</string>
       <string name="no_file_selected">Nebyly vybrány soubory</string>
       <string name="no_tasks">Žádné úkoly</string>
-      <string name="no_wifi_hint">Nebylo nalezeno Wi-Fi připojení, klikněte pro kontrolu nastavení</string>
+      <string name="no_wifi_hint">Nebylo nalezeno Wi-Fi připojení</string>
       <string name="nowifi_notication">Všechny úkoly pozastaveny přes mobilní síť</string>
       <string name="operation_download_link">Generovat odkaz ke stažení</string>
       <string name="pan_settting">Nastavení MiDrive</string>
