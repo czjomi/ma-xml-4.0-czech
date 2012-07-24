@@ -157,14 +157,14 @@
     <string name="local_calendar_display_name">Místní kalendář</string>
     <string name="birthday_calendar_display_name">Připomenutí narozenin</string>
     <string name="local_owner_account_name">Místní účet</string>
-    <string name="birthday_notification_title_today">"%1$s's má narozeniny"</string>
+    <string name="birthday_notification_title_today">"%1$s má narozeniny"</string>
     <string name="birthday_notification_text_today">Nezapomeňte poblahopřát!</string>
-    <string name="birthday_notification_title_three_days_later">"%1$s's bude mít narozeniny"</string>
+    <string name="birthday_notification_title_three_days_later">"%1$s bude mít narozeniny"</string>
     <string name="birthday_notification_text_three_days_later">Zbývají 3 dny do narozenin (%3$s)</string>
     <string name="birthday_notification_age_term" />
     <string name="birthday_notification_type_term_lunar" />
     <string name="birthday_event_title">@string/birthday_notification_title_today</string>
-    <string name="birthday_event_description">"Dnes má %1$s's narozeniny!"</string>
+    <string name="birthday_event_description">"Dnes má %1$s narozeniny!"</string>
     <string name="birthday_event_description_detail_leap" />
     <string name="birthday_event_description_detail_smart" />
     <string name="more_string">Ještě %1$s...</string>
