@@ -67,7 +67,7 @@
     <string name="operation_show_sys">Zobrazit systémové soubory</string>
     <string name="operation_unfavorite">Odebrat z oblíbených</string>
     <string name="removed_favorite">Odebráno z oblíbených</string>
-    <string name="sd_card_available">Volné místo:</string>
+    <string name="sd_card_available">Volné místo:%1$s</string>
     <string name="sd_card_size">SD karta:%1$s</string>
     <string name="sd_folder">SD karta</string>
     <string name="search_hint">Zadejte část nebo celé jméno souboru</string>
