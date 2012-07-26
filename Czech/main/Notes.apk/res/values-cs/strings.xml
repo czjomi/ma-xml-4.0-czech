@@ -103,4 +103,5 @@
     <string name="select_text">Vyberte text</string>
     <string name="menu_edit">Upravit</string>
         <string name="button_new_note">Nová poznámka</string>
+        <string name="default_folder_name">Poznámky</string>
 </resources>

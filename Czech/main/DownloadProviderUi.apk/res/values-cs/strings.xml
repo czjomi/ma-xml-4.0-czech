@@ -69,4 +69,7 @@
     <string name="download_in_process">Stahování</string>
     <string name="download_complete">Staženo</string>
     <string name="might_lead_to_mobile_charge">"Nebude se zobrazovat výzva při stahování přes síť operátora. Může vést ke zvýšení nákladů"</string>
+    <string name="editmode_menu_delete">Smazat</string>
+    <string name="editmode_menu_share">Sdílet</string>
+    <string name="retry_after_network_available">Zkuste to prosím znovu při dostupném připojení k internetu</string>
 </resources>
