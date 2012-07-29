@@ -1598,7 +1598,7 @@
     <string name="pref_volume_wake_title">Probudit tlačítkem hlasitosti</string>
     <string name="pref_volume_wake_summary">Stiskem tlačítka zesílit/ztlumit probudíte zařízení.. Určeno pro zařízení s těžko dostupným zapínacím tlačítkem.</string>
     <string name="status_bar_settings">Notifikační lišta</string>
-    <string name="complete_settings">Kompletní nastavení</string>
+    <string name="complete_settings">Kompletní nast.</string>
     <string name="common_settings">Časté nastavení</string>
     <string name="launcher_settings_title">Spouštěč</string>
     <string name="battery_settings">Baterie</string>
