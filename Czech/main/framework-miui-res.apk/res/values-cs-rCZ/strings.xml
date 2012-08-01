@@ -406,5 +406,7 @@
     <string name="vernal_equinox"/>
     <string name="white_dews"/>
     <string name="winter_begins"/>
-    <string name="winter_solstice"/>  
+    <string name="winter_solstice"/>
+    <string name="perm_get_user_info_dspt">Zobrazit podrobnosti o Xiaomi účtu</string>
+    <string name="perm_get_user_info_lab">Zobrazit Xiaomi účet</string> 
 </resources>
