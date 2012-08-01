@@ -108,4 +108,26 @@ Více než %2$ uživatelů doporučilo WIUI %3$s"</string>
 "</string>
     <string name="view_upgrade_tutorial">Zobrazit kurz</string>
     <string name="upgrade_close">Zavřít</string>
+    <string name="active_xiaomi_account">Aktivace</string>
+    <string name="active_xiaomi_account_msg">"Jděte prosím na MIUI fórum pro aktivaci Xiaomi účtu:"</string>
+    <string name="active_xiaomi_account_title">Aktivace Xiaomi účtu</string>
+    <string name="best_update">2. Nejlepší aktual.</string>
+    <string name="expect">4. Očekávané</string>
+    <string name="finish">Dokončit</string>
+    <string name="get_update_error">Nelze získat informace o aktualizaci</string>
+    <string name="my_best_update">Můj výběr: Nejlepší aktual.</string>
+    <string name="my_expect_update">Můj výběr: Očekávané</string>
+    <string name="my_update_feel">Mé pocity</string>
+    <string name="my_worst_update">Můj výběr: Nejhorší aktual.</string>
+    <string name="next">Další</string>
+    <string name="previous">Předchozí</string>
+    <string name="update_comment_hint">(volitelné)</string>
+    <string name="update_comment_title">Vaše komentáře</string>
+    <string name="update_feedback">Four-grid Update Feedback</string>
+    <string name="update_feedback_expired">"Škoda, že jste nezadal/a názor o aktualizaci! Vložte ho prosím příští úterý"</string>
+    <string name="update_feel">1. Jak se cítíte?</string>
+    <string name="update_general">Není to špatný</string>
+    <string name="update_happy">Šťastný</string>
+    <string name="update_sad">Smutný</string>
+    <string name="worst_update">3. Nejhorší aktual.</string>
 </resources>
