@@ -16,7 +16,7 @@
     <string name="button_ok">OK</string>
     <string name="backup_finished">Záloha hotova</string>
     <string name="backup_report">Hlášení zálohování</string>
-    <string name="backup_hint">Vyhněte se restartování telefonu, použijte standardní vypnutí, aby se předešlo poškození dat</string>
+    <string name="backup_hint">Vyhněte se restartování telefonu,aby se předešlo poškození dat</string>
     <string name="menu_patch_delete">Smazat zálohy</string>
     <string name="delete">Smazat</string>
     <string name="cancel">Zrušit</string>
