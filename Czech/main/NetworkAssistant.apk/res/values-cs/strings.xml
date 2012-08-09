@@ -59,7 +59,7 @@
     <string name="daily_limit_result_no_limit">Upozornit mě, když denní provoz překročí limit. Vypnuto</string>
     <string name="daily_limit_result_no_disconnect">Upozornit mě, když denní provoz překročí %dM. Zapnuto</string>
     <string name="daily_limit_result">Upozornit mě a odpojit internet, pokud denní provoz překročí %dM. Zapnuto</string>
-    <string name="edit_frame_free_traffic_title">Limit Vašich dat</string></string>
+    <string name="edit_frame_free_traffic_title">Limit Vašich dat</string>
     <string name="edit_frame_warning_title">Varovná hodnota</string>
     <string name="edit_frame_month_start_title">Monitorovat ode dne:</string>
     <string name="carrier_query_number_title">Nastavení operátorů</string>
@@ -121,7 +121,7 @@
     <string name="loading_app">Načítání…</string>
     <string name="cannot_find_sms_cmd">SMS příkaz nelze nalézt</string>
     <string name="sms_template_match_fail">SMS vzor nesouhlasí</string>
-    <string name="traffic_settings_error" formatted="false">Chyba nastavení balíčku. Vámi nastavení datový balíček je %1$s, ale zpráva od operátora udává, že zbývá %2$s.</string>
+    <string name="traffic_settings_error">Chyba nastavení balíčku. Vámi nastavení datový balíček je %1$s, ale zpráva od operátora udává, že zbývá %2$s.</string>
     <string name="app_traffic_detail">" provoz(%s)"</string>
     <string name="sms_match_fail">SMS nesouhlasí</string>
     <string name="pref_network_status_bar">Notifikační lišta</string>
