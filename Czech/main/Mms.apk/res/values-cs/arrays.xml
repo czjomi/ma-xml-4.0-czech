@@ -7,13 +7,6 @@
         <item>5 krát</item>
         <item>10 krát</item>
     </string-array>
-    <string-array name="prefValues_ringtone_repeat">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>5</item>
-        <item>10</item>
-    </string-array>
     <string-array name="contact_entries">
         <item>Jméno</item>
         <item>Přezdívka</item>
@@ -48,5 +41,9 @@
         <string-array name="entries_date_type">
         <item>Zobrazit čas přijetí</item>
         <item>Zobrazit čas odeslání</item>
+    </string-array>
+    <string-array name="resent_via_entries">
+        <item>Pomocí SMS</item>
+        <item>Pomocí Cloud SMS</item>
     </string-array>  
 </resources>
