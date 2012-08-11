@@ -6,7 +6,6 @@
     <string name="albums">Alba</string>
     <string name="alert">Oznámení</string>
     <string name="alert_message_sync_histoy_power_on">Ve výchozím nastavení se historie obrázků synchronizuje pouze při nabíjení baterie. Toto nastavení lze změnit v menu Nastavení.</string>
-    <string name="all_album">Vše</string>
     <string name="all_album">Všechny</string>
     <string name="all_albums_desc">Alba</string>
     <string name="all_albums_loading">Nahrávání...</string>
