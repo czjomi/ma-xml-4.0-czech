@@ -157,7 +157,7 @@
     <string name="HIPS_SecurityPrompt_Reject">Zakázáno (%d)</string>
     <string name="HIPS_SecurityPrompt_Remember">Pamatovat si nastavení</string>
     <string name="HIPS_SecurityPrompt_ROOT_Caption">Důležité upozornění</string>
-    <string name="HIPS_SecurityPrompt_ROOT_Step1">Přejete si, aby aplikace %1$s získala root oprávnění?</string>
+    <string name="HIPS_SecurityPrompt_ROOT_Step1">Přejete si, aby aplikace %1$d získala root oprávnění?</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step2">ROOT oprávnění může způsobit nestabilitu systému</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step3">Vaše soukromá data, jako jsou účty, hesla a zprávy by mohly být ohroženy</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step4">Také je možné trvalé poškození přístroje</string>

@@ -261,7 +261,7 @@
     <string name="data_enabled">Datové přenosy</string>
     <string name="default_contacts_countrycode_hint_miui">Například: 86</string>
     <string name="default_contacts_countrycode_miui">Výchozí kód země kontaktů</string>
-    <string name="default_contacts_countrycode_sum_miui">Nastavit výchozí kód země pro vaše kontakty</string>
+    <string name="default_contacts_countrycode_sum_miui">Nastavit výchozí kód země pro vaše kontakty: %s</string>
     <string name="default_port">5060</string>
     <string name="default_preference_summary">&lt;Nenastaveno></string>
     <string name="default_transport">UDP</string>
