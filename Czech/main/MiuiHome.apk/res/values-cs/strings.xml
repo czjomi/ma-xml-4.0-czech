@@ -11,6 +11,7 @@
     <string name="confirm_btn_label">OK</string>
     <string name="default_folder_title_game">Hry</string>
     <string name="default_folder_title_recommend">Doporučené</string>
+    <string name="default_folder_title_security">Centrum zabezpečení</string>
     <string name="default_folder_title_tools">Nástroje</string>
     <string name="durationformatlong" formatted="false">%1$d:%3$02d:%5$02d</string>
     <string name="durationformatshort" formatted="false">%2$2d:%5$02d</string>
