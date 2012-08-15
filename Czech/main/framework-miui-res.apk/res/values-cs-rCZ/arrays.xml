@@ -1,33 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="mobile_operator_display_names">
-        <item>Plus GSM</item>
-        <item>T-Mobile</item>
-        <item>Orange</item>
-        <item>Play</item>
-        <item>PTK</item>
-        <item>Tele2</item>
-        <item>Aero2</item>      
-        <item>CyfrowyPolsat</item>
+        <item>T-Mobile CZ</item>
+        <item>O2 CZ</item>
+        <item>Vodafone CZ</item>
+        <item>U:fon CZ</item>
+        <item>Vodafone CZ</item>
+    <item>ORANGE SK</item>
+        <item>T-Mobile SK</item>
+	<item>T-Mobile SK</item>
+        <item>O2 SK</item>
     </string-array>
     <string-array name="mobile_operator_numeric_values">
-        <item>26001</item>
-        <item>26002</item>
-        <item>26003</item>
-        <item>26006</item>
-        <item>26005</item>
-        <item>26004</item>
-        <item>26017</item>   
-        <item>26012</item>
+        <item>23001</item>
+        <item>23002</item>
+        <item>23003</item>
+        <item>23004</item>
+        <item>23099</item>
+	<item>23101</item>
+        <item>23102</item>
+	<item>23104</item>
+        <item>23106</item>
     </string-array>
     <string-array name="mobile_operator_numeric_equivalencies">
-        <item>26001</item>
-        <item>26002</item>
-        <item>26003</item>
-        <item>26006</item>
-        <item>26005</item>
-        <item>26004</item>
-        <item>26017</item>
-        <item>26012</item>
+        <item>23001</item>
+        <item>23002</item>
+        <item>23003</item>
+        <item>23004</item>
+        <item>23099</item>
+	<item>23101</item>
+        <item>23102</item>
+	<item>23104</item>
+        <item>23106</item>
     </string-array>
 </resources>
