@@ -91,6 +91,8 @@
         </Image>
         <Image x="#unlock_x" y="226-230" align="center" src="unlock_top_p.png" visibility="not(#unlocker.state)"/>
         <Image x="#unlock_x" y="226" align="center" alignV="center" src="music_album_cover.png" visibility="not(#unlocker.state)"/>
+
+	
         <!-- 上一首 -->
         <Button name="music_prev" x="#unlock_x-226" y="116" w="#screen_width/2-110" h="220" visibility="not(#unlocker.state)">
             <Normal>
@@ -133,6 +135,20 @@
         </Button>
     </MusicControl>
 
+       <!--音量控制-->
+    <Var name="volume_height" expression="8" const="true" />
+    <Group visibility="eq(#volume_type, 3)">
+	<Image x="411" y="85"  src="volume_background.png">
+	</Image>
+	<Image x="401" y="224"  src="volume_open.png" visibility="#volume_level">
+        </Image>
+	<Image x="401" y="224"  src="volume_close.png" visibility="not(#volume_level)">
+	</Image>
+	<Image x="411" y="205-#volume_height*#volume_level" src="volume.png" >
+		<Mask x="411" y="213" src="volume_mask.png" align="absolute"/>
+	</Image>
+     </Group>
+
     <Unlocker name="unlocker" bounceInitSpeed="500" bounceAcceleration="1500">
         <StartPoint x="#unlock_x-78" y="#unlock_y-78" w="136" h="136">
         </StartPoint>
@@ -174,6 +190,11 @@
 			        </AlphaAnimation>
 	            </Text>
 
+		<Group>
+                    <Image x="#screen_width/2+30" y="180" src="volumn.png" visibility="1">
+                    </Image>
+                </Group>
+
 		        <Group>
                     <AlphaAnimation>
                         <Alpha a="255" time="0"/>
@@ -183,13 +204,13 @@
                     <!-- 未接电话 -->
                     <Image x="#screen_width/2-55" y="180" src="icon_phone.png" align="center" alignV="center" visibility="#call_missed_count">
                     </Image>
-                    <Text x="#screen_width/2-35" y="168" color="#FFFFFFFF" size="18" format="Zmeškané hovory %d" paras="#call_missed_count" visibility="#call_missed_count">
+                    <Text x="#screen_width/2-35" y="168" color="#FFFFFFFF" size="18" format="Zmeškané hovory: %d" paras="#call_missed_count" visibility="#call_missed_count">
                     </Text>
 
                     <!-- 未读短信, 如果没有未接电话，位置往上移 -->
                     <Image x="#screen_width/2-55" y="180+28*min(#call_missed_count,1)" src="icon_sms.png" align="center" alignV="center" visibility="#sms_count">
                     </Image>
-                    <Text x="#screen_width/2-35" y="168+28*min(#call_missed_count,1)" color="#FFFFFFFF" size="18" format="Nepřečtené zprávy %d" paras="#sms_count" visibility="#sms_count">
+                    <Text x="#screen_width/2-35" y="168+28*min(#call_missed_count,1)" color="#FFFFFFFF" size="18" format="SMS zprávy: %d" paras="#sms_count" visibility="#sms_count">
                     </Text>
                 </Group>
 
@@ -234,15 +255,15 @@
                         <Alpha a="0" time="1000000000000000"/>
                     </AlphaAnimation>
                     <!-- 低电状态 low battery -->
-                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(2,#battery_state)" color="#80FF0000" size="18" format="Baterie je vybitá (%d%%)" paras="#battery_level">
+                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(2,#battery_state)" color="#80FF0000" size="18" format="Nízký stav baterie (%d%%)" paras="#battery_level">
                     </Text>
 
                     <!-- 充电进度 charging -->
-                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(1,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" format="Nabíjení (%d%%)" paras="#battery_level">
+                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(1,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" format="Nabíjení baterie (%d%%)" paras="#battery_level">
                     </Text>
 
                     <!-- 已充满 battery full -->
-                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(3,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" text="Nabito">
+                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(3,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" text="Baterie nabita!">
                     </Text>
                 </Group>
 
@@ -283,7 +304,8 @@
                         <Alpha a="0" time="1000000000000000"/>
                     </AlphaAnimation>
                 </Image>
-
+				
+                
 
                 <!-- 时间、日期 -->
                 <Group>
@@ -305,7 +327,7 @@
                         <Alpha a="128" time="1000000000000000"/>
                     </AlphaAnimation>
                 </Text>
-
+                
                 <Group>
                     <AlphaAnimation>
                         <Alpha a="192*not(#preview_call_count+#sms_count)" time="0"/>
@@ -315,13 +337,13 @@
                     <!-- 未接电话 -->
                     <Image x="#screen_width/2-55" y="180" src="icon_phone.png" align="center" alignV="center" visibility="#call_missed_count">
                     </Image>
-                    <Text x="#screen_width/2-35" y="168" color="#FFFFFFFF" size="18" format="Zmeškané hovory %d" paras="#call_missed_count" visibility="#call_missed_count">
+                    <Text x="#screen_width/2-35" y="168" color="#FFFFFFFF" size="18" format="Zmeškané hovory: %d" paras="#call_missed_count" visibility="#call_missed_count">
                     </Text>
 
                     <!-- 未读短信, 如果没有未接电话，位置往上移 -->
                     <Image x="#screen_width/2-55" y="180+28*min(#call_missed_count,1)" src="icon_sms.png" align="center" alignV="center" visibility="#sms_count">
                     </Image>
-                    <Text x="#screen_width/2-35" y="168+28*min(#call_missed_count,1)" color="#FFFFFFFF" size="18" format="Nepřečtené zprávy %d" paras="#sms_count" visibility="#sms_count">
+                    <Text x="#screen_width/2-35" y="168+28*min(#call_missed_count,1)" color="#FFFFFFFF" size="18" format="SMS zprávy: %d" paras="#sms_count" visibility="#sms_count">
                     </Text>
                 </Group>
 
@@ -359,6 +381,7 @@
                     </Image>
                 </Group>
 
+
                 <Group>
                     <AlphaAnimation>
                         <Alpha a="64" time="0"/>
@@ -366,15 +389,15 @@
                         <Alpha a="128" time="1000000000000000"/>
                     </AlphaAnimation>
                     <!-- 低电状态 low battery -->
-                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(2,#battery_state)" color="#80FF0000" size="18" format="Baterie je vybitá (%d%%)" paras="#battery_level">
+                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(2,#battery_state)" color="#80FF0000" size="18" format="Nízký stav baterie (%d%%)" paras="#battery_level">
                     </Text>
 
                     <!-- 充电进度 charging -->
-                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(1,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" format="Nabíjení (%d%%)" paras="#battery_level">
+                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(1,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" format="Nabíjení baterie (%d%%)" paras="#battery_level">
                     </Text>
 
                     <!-- 已充满 battery full -->
-                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(3,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" text="Nabito">
+                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(3,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" text="Baterie nabita!">
                     </Text>
                 </Group>
 
@@ -402,7 +425,7 @@
         </EndPoint>
 
         <!-- 相机 -->
-        <EndPoint x="-68" y="-68" w="#screen_width" h="#screen_height-#screen_width/2-110">
+        <EndPoint x="-68" y="-68" w="#screen_width" h="#screen_height-#screen_width/2-120">
             <Intent action="android.media.action.STILL_IMAGE_CAMERA" category="android.intent.category.DEFAULT"/>
             <PressedState>
                 <Image x="#unlock_x" y="#unlock_y-192" align="center" alignV="center" src="unlock_camera_n.png">
@@ -451,7 +474,7 @@
         </EndPoint>
 
         <!-- 电话 -->
-        <EndPoint x="#unlock_x-110-500-68" y="#unlock_y-110-68" w="500" h="220">
+        <EndPoint x="#unlock_x-110-500-68" y="#unlock_y-110-68" w="490" h="220">
             <Intent action="android.intent.action.VIEW" type="vnd.android.cursor.dir/calls"/>
             <PressedState>
                 <Image x="#unlock_x-192" y="#unlock_y" align="center" alignV="center" src="unlock_phone_n.png">
@@ -500,7 +523,7 @@
         </EndPoint>
 
         <!-- 桌面 -->
-        <EndPoint x="-68" y="#unlock_y+110-68" w="#screen_width" h="500">
+        <EndPoint x="-68" y="#unlock_y+110-78" w="#screen_width" h="500">
             <PressedState>
                 <Image x="#unlock_x" y="#unlock_y+192" align="center" alignV="center" src="unlock_home_n.png">
                     <PositionAnimation>
@@ -548,7 +571,7 @@
         </EndPoint>
 
         <!-- 短信 -->
-        <EndPoint x="#unlock_x+110-68" y="#unlock_y-110-68" w="500" h="220">
+        <EndPoint x="#unlock_x+110-78" y="#unlock_y-110-68" w="500" h="220">
            <Intent action="android.intent.action.MAIN" type="vnd.android-dir/mms-sms" category="android.intent.category.DEFAULT"/>
             <PressedState>
                 <Image x="#unlock_x+192" y="#unlock_y" align="center" alignV="center" src="unlock_sms_n.png">
