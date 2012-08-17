@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="VideoView_error_button">OK</string>
+    <string name="VideoView_error_text_invalid_progressive_playback">Omlouvám se, tento video přehrávač není platný pro streamování do tohoto zařízení</string>
+    <string name="VideoView_error_text_unknown">Toto video není možné přehrát</string>
+    <string name="VideoView_error_title">Toto video není možní otevřít.</string>
+    <string name="about_app_name">Videopřehrávač MIUI</string>
+    <string name="about_title">O aplikaci</string>
+    <string name="about_version">V4.0</string>
+    <string name="adjust_position_next_media_notice">Další</string>
+    <string name="adjust_position_prev_media_notice">Předchozí</string>
+    <string name="airkan_control_device_des">Můžete ovládat přehrávání pomocí tlačítek v dolní části</string>
+    <string name="airkan_device_xiaomi_phone">Xiaomi</string>
+    <string name="app_name">Video</string>
+    <string name="hello">Hello World, VideoPlayerActivity!</string>
+    <string name="menu_item_about_label">O aplikaci</string>
+    <string name="menu_item_hide_media_info_label">Skrýt info o videu</string>
+    <string name="menu_item_media_info_label">Informace o videu</string>
+    <string name="menu_item_switch_width_height_label">Nastavit poměr stran</string>
+    <string name="menu_wh_item_adapt_height_label">Přizpůsobit na výšku</string>
+    <string name="menu_wh_item_adapt_width_label">Přizpůsobit na šířku</string>
+    <string name="menu_wh_item_auto_select_label">Výběr</string>
+    <string name="menu_wh_item_using_16_9_label">Poměr 16:9</string>
+    <string name="menu_wh_item_using_4_3_label">Poměr 4:3</string>
+    <string name="toast_back_key_pressed_notice">Stiskněte znovu pro ukončení.</string>
+    <string name="video_info_audio_bitrate_label">Bitrate audia:</string>
+    <string name="video_info_audio_coding_label">Formát kódování zvuku:</string>
+    <string name="video_info_audio_null">Nedostupný</string>
+    <string name="video_info_frame_rate_label">FPS:</string>
+    <string name="video_info_length_label">Délka:</string>
+    <string name="video_info_resolution_label">Rozlišení videa:</string>
+    <string name="video_info_video_coding_label">Formát kódování videa:</string>
+</resources>
