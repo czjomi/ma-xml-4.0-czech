@@ -2,7 +2,7 @@
 <resources>
     <string-array name="defalut_dest_list_activity">
         <item>Kontakty</item>
-        <item>Nová emailová adresa</item>
-        <item>Nové tel. číslo</item>
+        <item>New Email address</item>
+        <item>Nové telefonní číslo</item>
     </string-array>
 </resources>
