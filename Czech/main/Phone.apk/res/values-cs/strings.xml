@@ -569,7 +569,6 @@
     <string name="notification_on_hold">Přidržený hovor</string>
     <string name="notification_ongoing_call">Probíhající hovor</string>
     <string name="notification_ongoing_call_format">Aktuální hovor (%s)</string>
-    <string name="notification_ongoing_calling_format_miui">Volá</string>
     <string name="notification_ongoing_calling_format_miui">Volání (%s)</string>
     <string name="notification_voicemail_no_vm_number">Číslo hlasové schránky je neznámé.</string>
     <string name="notification_voicemail_text_format">Vytočit hlasovou schránku %s</string>
@@ -921,13 +920,11 @@
     <string name="updating_title">Nastavení hovorů</string>
     <string name="username">Uživatelské jméno</string>
     <string name="username_title">Uživatelské jméno</string>
-    <string name="ussdRunning">Kód USSD je spuštěn...</string>
     <string name="ussdRunning">Spouštění USSD kódu…</string>
     <string name="verifyFailed">Zadané SIM PINy se neshodují. Zkuste znovu.</string>
     <string name="verifyNewPin">Vložte nový SIM PIN znovu pro potvrzení</string>
     <string name="vibrate_on_ring_title">Vibrovat při vyzvánění</string>
     <string name="vm_change_failed">"Nelze změnit číslo hlasové schránky. \n Kontaktujte vašeho operátora, pokud tento problém přetrvává."</string>
-    <string name="vm_change_failed">"Změna čísla hlasové schránky se nezdařila. Pokud problém přetrvává, obraťte se na svého operátora."</string>
     <string name="vm_changed">Číslo hlasové schránky bylo změněno.</string>
     <string name="vm_save_number">Uložit číslo hlasové schránky</string>
     <string name="voice_privacy">Ochrana soukromí hlasové pošty</string>
