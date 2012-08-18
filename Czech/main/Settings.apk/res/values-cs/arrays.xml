@@ -76,6 +76,8 @@
         <item>Odpojování...</item>
         <item>Odpojeno</item>
         <item>Neúspěšné</item>
+	<item>Blokované</item>
+	<item>Dočasně nedostupné kvůli slabému signálu</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
@@ -88,6 +90,8 @@
         <item>Odpojování od sítě %1$s...</item>
         <item>Odpojeno</item>
         <item>Neúspěšné</item>
+	<item>Blokované</item>
+	<item>Dočasně nedostupné kvůli slabému signálu</item>
     </string-array>
     <string-array name="wifi_ap_security">
         <item>Open</item>
@@ -331,5 +335,21 @@
         <item>Růžová</item>
         <item>Oranžová</item>
         <item>Safírová</item>
+    </string-array>
+	<string-array name="animator_duration_scale_entries">
+        <item>Animace vypnuté</item>
+        <item>Animace .5x</item>
+        <item>Animace 1x</item>
+        <item>Animace 1.5x</item>
+        <item>Animace 2x</item>
+        <item>Animace 5x</item>
+        <item>Animace 10x</item>
+    </string-array>
+    <string-array name="user_content_ratings_entries">
+        <item>Ascended being</item>
+        <item>Človek</item>
+        <item>Neandrtálec</item>
+        <item>Šimpanz</item>
+        <item>Opice</item>
     </string-array>
 </resources>
