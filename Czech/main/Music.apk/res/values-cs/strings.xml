@@ -5,12 +5,13 @@
     <string name="add_to_playlist">Přidat do playlistu</string>
     <string name="add_tracks">Přidat skladbu</string>
     <string name="album_display_settings">Zobrazovat obrázek alba</string>
+    <string name="album_display_summary">Zobrazit obal alba v přehrávači</string>
     <string name="album_download">Stáhnout obrázek alba</string>
     <string name="album_edit">Album</string>
     <string name="album_picker_not_found">Ve vašem zařízení nebyla nalezena galerie</string>
     <string name="album_search_failed">Obrázek alba nebyl nalezen!</string>
     <string name="albums_title">Alba</string>
-    <string name="albumsongseparator" />
+    <string name="albumsongseparator">""</string>
     <string name="all_tracks">Veškerá hudba</string>
     <string name="android_album_settings">Použít integrovaný obrázek alba.</string>
     <string name="android_album_summary">Automaticky použije obrázek ze skladby. Může způsobit chyby.</string>
@@ -34,8 +35,7 @@
     <string name="delete_file_from_sdcard">Současně odstranit soubory z SD karty</string>
     <string name="delete_item">Smazat</string>
     <string name="delete_playlist_menu">Smazat</string>
-    <string name="delete_song_desc">\"%s\" bude nenávratně smazáno z SD karty.</string>
-    <string name="delete_song_desc_nosdcard">\"%s\" bude nenávratně smazáno z USB úložiště.</string>
+    <string name="delete_song_desc">%s bude nenávratně smazáno z SD karty.</string>
     <string name="deselect_all">Odznačit vše</string>
     <string name="detail_album">"Album: "</string>
     <string name="detail_artist">"Umělec: "</string>
@@ -83,8 +83,6 @@
     <string name="filter_by_size_min">0KB</string>
     <string name="filter_by_size_prefix">Minimální velikost:</string>
     <string name="filter_by_size_summary">Filtrovat velmi malé soubory</string>
-    <string name="filter_max">2MB</string>
-    <string name="filter_min">0K</string>
     <string name="filter_notification">Složky jsou filtrovány. Můžete upravit v nastavení filtrování</string>
     <string name="flow_save_confirm">Ano, vím</string>
     <string name="flow_save_hint">Povolit vyskakovací okna</string>
@@ -122,7 +120,9 @@
     <string name="lrc_search_failed">Texty nenalezeny!</string>
     <string name="lrc_searching">Hledání textů...</string>
     <string name="lrc_select">Vyberte text</string>
+    <string name="lyric_and_album">Texty a Alba</string>
     <string name="lyric_display_settings">Zobrazovat texty</string>
+    <string name="lyric_display_summary">Zobrazit texty v přehrávači. (Doporučené)</string>
     <string name="lyric_download">Stáhnout texty</string>
     <string name="lyric_open_other_connect">Stahovat text pomocí mobilního připojení k internetu.</string>
     <string name="lyric_picker_not_found">Ve vašem zařízení nebyl nalezen žádný správce souborů</string>
@@ -130,18 +130,16 @@
     <string name="mediaplaybacklabel">Hudba</string>
     <string name="menu_batch_selection">Editor</string>
     <string name="min_interval">1</string>
-    <string name="min_track_size">Minimální velikost pro hudební soubory</string>
     <string name="mobile_connect_settings">Mobilní internet</string>
-    <string name="modify_id3_for_list">The songs of current list ID3 information will be edited</string>
-    <string name="modify_id3_for_selected">The selected songs ID3 information will be edited</string>
+    <string name="modify_id3_for_list">ID3 informace pro skladby v současném seznamu budou upraveny</string>
+    <string name="modify_id3_for_selected">ID3 informace pro vybrané skladby budou upravené</string>
     <string name="modify_meta">Upravit informace o skladbě</string>
-    <string name="modify_tracks_id3_background">Modify selected songs ID3 information in background</string>
+    <string name="modify_tracks_id3_background">Upravit ID3 informace pro vybrané skladby na pozadí</string>
     <string name="music_browser_label">Hudba</string>
     <string name="music_filter">Filtrování souborů</string>
     <string name="music_filter_helper">Aby bylo možné skrýt soubory, které nesouvisí s hudbou (zvonění, melodie atd) je filtr pro velikost skladeb nastaven na 800K. Toto nastavení můžete upravit v menu Nastavení / Filtrování souborů.</string>
     <string name="music_picker_title">Vyberte skladbu</string>
     <string name="music_settings">Nastavení</string>
-    <string name="musicbrowserlabel">Hudba</string>
     <string name="network_error">Žádné připojení k internetu, prosím zkontrolujte nastavení internetu</string>
     <string name="new_albums">Nová alba</string>
     <string name="new_equalizer_name_template">Nový profil %d</string>
@@ -150,12 +148,10 @@
     <string name="no_effect">Bez efektu</string>
     <string name="no_tracks_title">Žádné skladby</string>
     <string name="not_selected">Vyberte prosím skladbu</string>
-    <string name="notification_artist_album" formatted="false">%2$s %1$s</string>
-    <string name="nowplaying_title">Právě hraje</string>
+    <string name="notification_artist_album" formatted="false">"%2$s%1$s"</string>
     <string name="online_indicator">-online</string>
     <string name="online_music">Online hudba</string>
     <string name="online_search_hint">Hledat hudbu online</string>
-    <string name="online_track_count">Nekonečný</string>
     <string name="other_settings">Ostatní</string>
     <string name="overwrite_confirm">Přepsat</string>
     <string name="picker_song_add">Přidat (%d)</string>
@@ -167,12 +163,12 @@
     <string name="playback_failed_by_network">%s nelze přehrát, zkontrolujte nastavení internetu</string>
     <string name="playback_failed_no_title_by_bad_file">Skladbu nelze přehrát, nepodporovaný formát, nebo soubor neexistuje.</string>
     <string name="playback_failed_no_title_by_network">Skladbu nelze přehrát, zkontrolujte nastavení internetu</string>
+    <string name="player_display_settings">Nastavení přehrávače</string>
     <string name="playlist_custom">Mé playlisty</string>
     <string name="playlist_deleted_message">Playlist smazán.</string>
     <string name="playlist_favorite">Oblíbené</string>
     <string name="playlist_frequently_played">Často přehrávané</string>
     <string name="playlist_new">Vytvořit nový playlist</string>
-    <string name="playlist_nowplaying">Právě hraje</string>
     <string name="playlist_recently_added">Nedávno přidané</string>
     <string name="playlist_recently_played">Nedávno přehrávané</string>
     <string name="playlist_renamed_message">Playlist přejmenován.</string>
@@ -223,15 +219,14 @@
     <string name="service_start_error_button">OK</string>
     <string name="service_start_error_msg">Promiňte, skladbu nelze přehrát.</string>
     <string name="service_start_error_title">Problém při přehrávání</string>
+    <string name="shake_and_skip">Zatřes. pro přeskočení skladby</string>
     <string name="shake_degree_desc">Citlivost zatřepání</string>
     <string name="shake_degree_high">Vysoká</string>
     <string name="shake_degree_low">Nízká</string>
-    <string name="shake_sensitivity_helper">Přesuňte vlevo pro vyšší citlivost, vpravo pro nižší</string>
-    <string name="shake_sensitivity_settings">Citlivost zatřepání</string>
-    <string name="shake_sensitivity_summary">Nastavte citlivost zatřepání k přeskočení skladby</string>
     <string name="shake_settings">Zatřepáním přeskočit</string>
-    <string name="shake_summary">Zatřepejte s telefonem pro přeskočení skladby</string>
+    <string name="shake_summary">zatřepejte s telefonem pro přeskočení skladby</string>
     <string name="shake_while_screen_on_title">Přeskočit pouze, pokud je display zapnutý</string>
+    <string name="shake_while_screen_on_title_summary">Zatřesení přepne písničku jen, když je display zapnutý. Zabrání přeskakování skladeb např. při chůzi.</string>
     <string name="shuffle_all">Vše náhodně</string>
     <string name="sleep_mode">Časovač</string>
     <string name="sort_by_album">Alba</string>
@@ -242,7 +237,6 @@
     <string name="start_to_download_album">Stahování obrázků alb pro všechny skladby v knihovně</string>
     <string name="stop_when_wifi_disconnect">"WiFi byla odpojena, online přehrávání bylo pozastaveno. Pokud chcete pro poslech použít mobilní internet, upravte nastavení"</string>
     <string name="streamloadingtext">Připojování k %s</string>
-    <string name="track_album_format" formatted="false">%s - %s</string>
     <string name="track_edit">Skladba</string>
     <string name="track_num_format">(%s)</string>
     <string name="tracks_title">Všechny skladby</string>
