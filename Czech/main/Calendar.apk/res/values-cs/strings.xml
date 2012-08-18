@@ -154,7 +154,7 @@
     <string name="snooze_all_label">Odložit vše</string>
     <string name="synced">synchronizován</string>
     <string name="tardis">TARDIS</string>
-    <string name="template_announce_item_index" formatted="false">Událost %1$s z %2$s.</string>
+    <string name="template_announce_item_index" formatted="false">Událost %1$s z %2$s</string>
     <string name="timezone_label">Časové pásmo</string>
     <string name="tomorrow">Zítra</string>
     <string name="view_event_calendar_label">Kalendář:</string>
