@@ -35,5 +35,7 @@
     <string name="search_sources_summary">Vyberte si, co hledat na telefonu</string>
     <string name="search_widget">Hledat</string>
     <string name="system_search_category_title">Telefon</string>
+    <string name="voice_search_hint_quotation_end">”</string>
+    <string name="voice_search_hint_quotation_start">“</string>
     <string name="voice_search_hint_title">Zkus mluvit:</string>
 </resources>
