@@ -4,7 +4,6 @@
     <string name="account_phone">Pouze v telefonu (nesynchronizováno)</string>
     <string name="account_sim">Pouze na SIM kartě (nesynchronizováno)</string>
     <string name="account_type_format">%1$s kontakt</string>
-    <string name="activity_title_confirm_add_detail">Přidat do kontaktů</string>
     <string name="activity_title_contacts_filter">Kontakty pro zobrazení</string>
     <string name="activity_title_settings">Nastavení</string>
     <string name="add_account">Přidat účet</string>
@@ -57,7 +56,6 @@
     <string name="callDetailsDurationFormat" formatted="false">%s minut %s vteřin</string>
     <string name="callDetailTitle">Detaily hovoru</string>
     <string name="calllog_menu_blacklist">Přidat na černou listinu</string>
-    <string name="calllog_menu_call_ip_number">Volat IP telefon (volat %s)</string>
     <string name="calllog_menu_edit_before_call">Upravit před voláním</string>
     <string name="calllog_menu_send_sms">Poslat SMS</string>
     <string name="callNoAnswerTimeFormat">Zvonil %s krát</string>
@@ -74,7 +72,6 @@
     <string name="callrecordview_menu_delete_all">Smazat všechny záznamy o hovorech</string>
     <string name="callrecordview_menu_delete_called">Smazat volané hovory</string>
     <string name="callrecordview_menu_delete_confirm">Smazat %s?</string>
-    <string name="callrecordview_menu_delete_group">Smazat tuto skupinu hovorů</string>
     <string name="callrecordview_menu_delete_missed">Smazat zmeškané hovory</string>
     <string name="callrecordview_menu_delete_one">Smazat záznam o hovoru</string>
     <string name="callrecordview_menu_delete_stranger">Smazat neznámá čísla</string>
@@ -100,7 +97,6 @@
     <string name="clearCallLogConfirmation_title">Vymazat hovory</string>
     <string name="clearCallLogProgress_title">Mažu seznam hovorů</string>
     <string name="click_close">Klepněte pro zavření</string>
-    <string name="close">Zavřít</string>
     <string name="composer_failed_to_get_database_infomation">Načtení informací z databáze se nezdařilo</string>
     <string name="composer_has_no_exportable_contact">Nelze exportovat žádné kontakty. Pokud máte v telefonu skutečně uložené kontakty, je možné, že některý poskytovatel datových služeb zakázal jejich export mimo telefon.</string>
     <string name="composer_not_initialized">Editor vCard není správně inicializován</string>
@@ -468,7 +464,6 @@
     <string name="preference_others">Ostatní</string>
     <string name="preference_remove_duplicate">Sloučit duplicitní kontakty</string>
     <string name="preference_select_account_display">Filtrovat dle účtu</string>
-    <string name="preference_sim">Karta SIM</string>
     <string name="preview_contact_card_title">Importovat vizitku</string>
     <string name="primary_indicator">(výchozí)</string>
     <string name="private_num">Soukromé číslo</string>
@@ -489,7 +484,6 @@
     <string name="recentCalls_removeFromRecentList">Odstranit z hovorů</string>
     <string name="recentCalls_trashVoicemail">Smazat hlasovou zprávu</string>
     <string name="recentCallsIconLabel">Výpis hovorů</string>
-    <string name="recentContactsIconLabel">Nedávné kontakty</string>
     <string name="relationLabelsGroup">Příbuzné</string>
     <string name="remind_btn_ignore">Ignorovat</string>
     <string name="remind_btn_sync_now">Synchronizovat nyní</string>
@@ -497,7 +491,6 @@
     <string name="ringLabelsGroup">Vyzváněcí tón</string>
     <string name="save_photo_progress">Ukládám fotku...</string>
     <string name="savingDisplayGroups">Ukládám nastavení zobrazení…</string>
-    <string name="savingContact">Ukládám kontakt…</string>
     <string name="scan_duplicate">"Hledám duplicitní data, prosím čekejte... "</string>
     <string name="scan_duplicate_message">Počet duplicitních kontaktů: %1$d</string>
     <string name="scan_merge">Hledání možných duplicitních kontaktů, prosím čekejte...</string>
@@ -532,8 +525,6 @@
     <string name="sim_card_no_free_space_title">SIM karta je plná</string>
     <string name="sim_contact_search_error">Došlo k chybě při hledání kontaktů na SIM kartě</string>
     <string name="sim_contacts">SIM kontakty</string>
-    <string name="sim_contacts_invisiable">Skryté</string>
-    <string name="sim_contacts_visiable">Viditelné</string>
     <string name="sim_export_loading">Informace o SIM kartě se načítají. Tato operace může trvat déle.</string>
     <string name="sim_indexed_contact_not_exist" formatted="false">Pozice %1$d na SIM kartě není platná, should between %2$d and %3$d</string>
     <string name="sim_no_contact">Žádné kontakty na SIM kartě</string>
@@ -573,7 +564,6 @@
     <string name="strequentList">Oblíbené</string>
     <string name="success_message_import_from_account">Import byl úspěšný</string>
     <string name="summary_kind_title">Souhrn</string>
-    <string name="sync_xiaomi_cloud_contacts">Obnovit z online zálohy</string>
     <string name="t9_search_guide">Inteligentní vyhledávání jmen a čísel</string>
     <string name="take_new_photo">Pořídit novou fotku</string>
     <string name="take_photo">Pořídit fotku</string>
