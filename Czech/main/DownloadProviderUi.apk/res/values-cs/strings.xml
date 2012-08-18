@@ -45,7 +45,7 @@
     <string name="menu_enter_edit_mode">Editor</string>
     <string name="menu_preferences">Nastavení</string>
     <string name="might_lead_to_mobile_charge">"Nebude se zobrazovat výzva při stahování přes síť operátora. Může vést ke zvýšení nákladů"</string>
-    <string name="missing_title">&lt;Neznámý></string>
+    <string name="missing_title">Neznámý></string>
     <string name="no_downloads">Žádná stahování.</string>
     <string name="open_download">Otevřít</string>
     <string name="pause_download">Pauza</string>
@@ -71,5 +71,4 @@
     <string name="select_all">Vybrat vše</string>
     <string name="select_operation_items">Please select operation items</string>
     <string name="selected_count">Vybráno %1$d z %2$d</string>
-    <string name="selected_format">Vybráno %1$d</string>
 </resources>

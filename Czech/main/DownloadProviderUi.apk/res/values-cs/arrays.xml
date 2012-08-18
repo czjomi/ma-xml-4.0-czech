@@ -23,12 +23,4 @@
         <item>204800</item>
         <item>102400</item>
     </string-array>
-    <string-array name="download_filters_package">
-        <item></item>
-        <item>com.android.thememanager</item>
-        <item>com.xiaomi.market</item>
-        <item>com.android.browser</item>
-        <item>com.miui.player</item>
-        <item>*others*</item>
-    </string-array>
 </resources>
