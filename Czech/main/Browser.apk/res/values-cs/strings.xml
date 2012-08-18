@@ -81,16 +81,14 @@
     <string name="bookmarks_management">Záložky</string>	
     <string name="bookmarks_root_folder">Root složka</string>	
     <string name="bookmarks_search">Prohlížeč</string>
+    <string name="browser_bookmarks_page_bookmarks_text">Záložky</string>
+    <string name="browser_history">Nedávno navštívené stránky</string>
     <string name="browserFrameFileErrorLabel">Problém se souborem</string>
     <string name="browserFrameFormResubmitLabel" />
     <string name="browserFrameFormResubmitMessage">Stránka, kterou se pokoušíte zobrazit, obsahuje data, která již byla potvrzena v (\"POSTDATA\"). Jestliže data odešlete, budete muset formulář znovu vyplnit.</string>
     <string name="browserFrameNetworkErrorLabel">Problém s připojením</string>
-    <string name="browser_bookmarks_page_bookmarks_text">Záložky</string>
-    <string name="browser_history">Nedávno navštívené stránky</string>
     <string name="cancel">Zrušit</string>
     <string name="cannot_download">Je možné stáhnout jen \"http\" nebo \"https\" URL.</string>
-    <string name="choose_upload">Vyber soubor pro nahrání</string>	
-    <string name="choosertitle_sharevia">Sdílet přes</string>    
     <string name="clear">Vyčistit</string>
     <string name="clear_history">Vyčistit historii</string>
     <string name="containing_folder">Přidat do</string>
@@ -164,12 +162,14 @@
     <string name="geolocation_settings_page_summary_not_allowed">Tato stránka momentálně nemůže zjistit Vaši pozici</string>
     <string name="geolocation_settings_page_title">Vymazat přístup k pozici</string>
     <string name="go_home">Domovská stránka</string>
-    <string name="goto_dot">Jít</string>
     <string name="google_bookmarks">"Google: "</string>	
+    <string name="goto_dot">Jít</string>
     <string name="history">Historie</string>
     <string name="homepage_base">http://www.google.com/webhp?client={CID}&amp;source=android-home</string>
     <string name="homepage_set">Domovská stránka nastavena.</string>
     <string name="http">http://</string>
+    <string name="choose_upload">Vyber soubor pro nahrání</string>	
+    <string name="choosertitle_sharevia">Sdílet přes</string>    
     <string name="import_bookmark">Importovat záložky</string>
     <string name="import_bookmark_failure">Selhal import záložek!</string>
     <string name="import_bookmark_sucess">Záložky byly úspěšně importovány!</string>
@@ -218,8 +218,8 @@
     <string name="new_folder">Nová složka</string>
     <string name="new_incognito_tab">Nový inkognito panel</string>
     <string name="new_tab">Nový panel</string>
-    <string name="not_remind_again">Znovu nepřipomínat</string> 
     <string name="no_subfolders">Žádné podsložky.</string>
+    <string name="not_remind_again">Znovu nepřipomínat</string> 
     <string name="ok">OK</string>
     <string name="open_all_bookmarks">Otevřít vše</string>	
     <string name="open_all_in_new_window">Otvírat vše v nových panelech</string>
@@ -390,8 +390,8 @@
     <string name="report_reading_mode_issue">Oznámit problémy s čtecím módem MIUI</string>	
     <string name="rlz_access_point">Y1</string>
     <string name="save">OK</string>
-    <string name="saving_snapshot">Ukládání…</string>
     <string name="save_to_bookmarks">Uložit do záložek</string>
+    <string name="saving_snapshot">Ukládání…</string>
     <string name="search_baidu">Baidu</string>
     <string name="search_bing">Bing</string>
     <string name="search_button_text">Jít</string>

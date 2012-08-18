@@ -27,7 +27,6 @@
     <string name="Dashboard_Su_Enable_Content">Povolení dovolí požádat aplikace o oprávnění ROOT. Aplikace s tímto oprávněním mohou způsobit nestabilitu systému, nebo ztrátu dat, případně i poškození systému a hardwaru. Buďte prosím opatrný. Opravdu chcete to chcete povolit?</string>
     <string name="Dashboard_Su_Enable_Title">Oprávnění ROOT</string>
     <string name="Generic_Canceling">Ruším...</string>
-    <string name="Generic_Check">Zkontrolovat</string>
     <string name="Generic_Clean">Vymazat</string>
     <string name="Generic_Configuration">Nastavení</string>
     <string name="Generic_Copyright">Powered by Team LBE</string>
@@ -35,6 +34,7 @@
     <string name="Generic_Enable">Povolit</string>
     <string name="Generic_Good">Dobrý</string>
     <string name="Generic_HideSystemApp">Skrýt systémové aplikace</string>
+    <string name="Generic_Check">Zkontrolovat</string>
     <string name="Generic_InvalidInput">Neplatný vstup</string>
     <string name="Generic_Loading">Nahrávám...</string>
     <string name="Generic_MonitoredApp">Monitorované aplikace (%1$d)</string>
@@ -72,6 +72,9 @@
     <string name="HIPS_Perm_AllowAll">Povolit vše</string>
     <string name="HIPS_Perm_AnswerCall">zvednout příchozí hovor</string>
     <string name="HIPS_Perm_Call">Telefonní hovor</string>
+    <string name="HIPS_Perm_Call_Desc">Vytočení, přijmutí a zavěšení hovoru</string>
+    <string name="HIPS_Perm_Call_Hint">%1$s aplikace mají povolení k vytočení, přijmutí a zavěšení hovoru</string>
+    <string name="HIPS_Perm_Call_Number">volat %1$s</string>
     <string name="HIPS_Perm_CallLog">Záznamy o volání</string>
     <string name="HIPS_Perm_CallLog_Access">přístup k záznamům o volání</string>
     <string name="HIPS_Perm_CallLog_Desc">Přístup k záznamům o volání</string>
@@ -82,9 +85,6 @@
     <string name="HIPS_Perm_CallState">Stav telefonu</string>
     <string name="HIPS_Perm_CallState_Desc">Zjistí stav telefonu</string>
     <string name="HIPS_Perm_CallState_Hint">%1$s aplikace mají povolení k zjistění stavu telefonu</string>
-    <string name="HIPS_Perm_Call_Desc">Vytočení, přijmutí a zavěšení hovoru</string>
-    <string name="HIPS_Perm_Call_Hint">%1$s aplikace mají povolení k vytočení, přijmutí a zavěšení hovoru</string>
-    <string name="HIPS_Perm_Call_Number">volat %1$s</string>
     <string name="HIPS_Perm_CancelMissedCalls">smazat upozornění na zmeškané hovory</string>
     <string name="HIPS_Perm_Contact">Kontakty</string>
     <string name="HIPS_Perm_Contact_Access">přístup ke kontaktům</string>
@@ -164,19 +164,19 @@
     <string name="HIPS_SecurityPrompt_ROOT_Step5">Použijte s opatrností!</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step6">Opravdu chcete povolit aplikaci %1$s získat ROOT oprávnění?</string>
     <string name="HIPS_SecurityPrompt_Title">%1$s se pokouší %2$s</string>
-    <string name="Privacy_AppPerm_Count">%1$d oprávnění</string>
-    <string name="Privacy_AppPerm_Count_Trust">%1$d oprávnění - &lt;font color=#478800>Důveryhodné&lt;/font></string>
     <string name="Privacy_App_Finish">Dokončit</string>
     <string name="Privacy_App_Installed">Nastavit oprávnění</string>
     <string name="Privacy_App_Launch">Spustit</string>
     <string name="Privacy_App_Log">Logy</string>
     <string name="Privacy_App_Manage">Detaily</string>
     <string name="Privacy_App_Trust">Duvěřuji této aplikaci</string>
-    <string name="Privacy_App_TrustDialog_Content">MIUI nebude pro tuto aplikaci požadovat žádné potvrzení týkající se bezpečnosti a soukromí.</string>
-    <string name="Privacy_App_TrustDialog_Title">Důvěřovat této aplikaci</string>
     <string name="Privacy_App_Trust_Summary_Off">MIUI bude tuto aplikaci sledovat</string>
     <string name="Privacy_App_Trust_Summary_On">MIUI bude této aplikaci důvěřovat</string>
+    <string name="Privacy_App_TrustDialog_Content">MIUI nebude pro tuto aplikaci požadovat žádné potvrzení týkající se bezpečnosti a soukromí.</string>
+    <string name="Privacy_App_TrustDialog_Title">Důvěřovat této aplikaci</string>
     <string name="Privacy_App_Uninstall">Odinstalovat</string>
+    <string name="Privacy_AppPerm_Count">%1$d oprávnění</string>
+    <string name="Privacy_AppPerm_Count_Trust">%1$d oprávnění - &lt;font color=#478800>Důveryhodné&lt;/font></string>
     <string name="Privacy_Perm_Count">Povolen: %1$d Zakázán: %2$d</string>
     <string name="Su_Enable_Dialog">%1$s se pokouší získat oprávnění ROOT, čož je z důvodu bezpečnosti standardně zakázáno. Jestliže chcete oprávnění povolit, učiňte tak v nastavení aplikace Správce oprávnění.</string>
     <string name="SysOpt_Boost_AutoStart">Oprávnění autom. spuštění</string>

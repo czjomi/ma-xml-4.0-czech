@@ -450,8 +450,7 @@
     <string name="type_to_compose_text_enter_to_send">Sem pište zprávu</string>
     <string name="type_to_compose_text_or_leave_blank">Zadejte text nebo nechte prázdné</string>
     <string name="type_video">video</string>
-    <string name="undelivered_msg_dialog_body">"Zprávu se nepodařilo odeslat. 
-Pokus: %s."</string>
+    <string name="undelivered_msg_dialog_body">"Zprávu se nepodařilo odeslat. \nPokus: %s."</string>
     <string name="undelivered_msg_dialog_title">Nedoručená zpráva</string>
     <string name="undelivered_sms_dialog_body">Zprávu se nepodařilo odeslat.</string>
     <string name="unknown_sender">Neznámý odesílatel</string>

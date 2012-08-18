@@ -31,11 +31,9 @@
     <string name="accessibility_service_default_description">K dispozici není žádný popis.</string>
     <string name="accessibility_service_disable_warning_summary">Klepnutím na tlačítko OK službu %1$s ukončíte.</string>
     <string name="accessibility_service_disable_warning_title">Ukončit službu %1$s?</string>
-    <string name="accessibility_service_no_apps_message">TalkBack poskytuje mluvenou navigaci nevidomým a slabozrakým uživatelům. Chcete tuto aplikaci stáhnout zdarma ze služby 
-    Google play?</string>
+    <string name="accessibility_service_no_apps_message">TalkBack poskytuje mluvenou navigaci nevidomým a slabozrakým uživatelům. Chcete tuto aplikaci stáhnout zdarma ze služby \nGoogle play?</string>
     <string name="accessibility_service_no_apps_title">Potřebujete čtečku obrazovky?</string>
-    <string name="accessibility_service_security_warning_summary">Služba %1$s zaznamenává veškerý text, který napíšete, kromě hesel. 
-    To zahrnuje osobní údaje, jako jsou čísla platebních karet. Zaznamenává také údaje o interakci s telefonem.</string>
+    <string name="accessibility_service_security_warning_summary">Služba %1$s zaznamenává veškerý text, který napíšete, kromě hesel. \nTo zahrnuje osobní údaje, jako jsou čísla platebních karet. Zaznamenává také údaje o interakci s telefonem.</string>
     <string name="accessibility_service_security_warning_title">Použít službu %1$s?</string>
     <string name="accessibility_service_state_off">Vypnuto</string>
     <string name="accessibility_service_state_on">Zapnuto</string>
@@ -48,27 +46,21 @@
     <string name="accessibility_sync_error">Chyba synchronizace.</string>
     <string name="accessibility_system_title">Systém</string>
     <string name="accessibility_toggle_large_text_title">Velký text</string>
-    <string name="accessibility_touch_exploration_summary">"Po zapnutí vám funkce Explore by Touch poskytuje zobrazený nebo hlasový popis toho, na co ukážete prstem. Tato funkce 
-    je určena pro slabozraké uživatele."</string>
+    <string name="accessibility_touch_exploration_summary">"Po zapnutí vám funkce Explore by Touch poskytuje zobrazený nebo hlasový popis toho, na co ukážete prstem. Tato funkce \nje určena pro slabozraké uživatele."</string>
     <string name="accessibility_touch_exploration_title">Zjišťovat dotykem</string>
     <string name="accessibility_touch_exploration_warning">Tato funkce mění způsob, jakým zařízení reaguje na dotyk. Chcete ji zapnout?</string>
     <string name="accessibility_tutorial_back">Zpět</string>
     <string name="accessibility_tutorial_finish">Dokončit</string>
-    <string name="accessibility_tutorial_lesson_1_text_1">Jakmile zapnete funkci Průzkum dotykem, můžete dotykem obrazovky zjistit, co se nachází pod prstem. Příklad: Aktuální obrazovka obsahuje ikony 
-    aplikací. Dotkněte se obrazovky a posunujte prstem, dokud některou z nich nenajdete.</string>
+    <string name="accessibility_tutorial_lesson_1_text_1">Jakmile zapnete funkci Průzkum dotykem, můžete dotykem obrazovky zjistit, co se nachází pod prstem. Příklad: Aktuální obrazovka obsahuje ikony \naplikací. Dotkněte se obrazovky a posunujte prstem, dokud některou z nich nenajdete.</string>
     <string name="accessibility_tutorial_lesson_1_text_2_more">Dobře, přejíždějte prstem po obrazovce, dokud nenajdete ještě alespoň jednu ikonu.</string>
-    <string name="accessibility_tutorial_lesson_1_text_3">Chcete-li aktivovat položku, které se dotýkáte, klepněte na ni. Přejíždějte prstem, až najdete ikonu aplikace %s. Poté ikonu aktivujte jedním 
-    klepnutím.</string>
+    <string name="accessibility_tutorial_lesson_1_text_3">Chcete-li aktivovat položku, které se dotýkáte, klepněte na ni. Přejíždějte prstem, až najdete ikonu aplikace %s. Poté ikonu aktivujte jedním \nklepnutím.</string>
     <string name="accessibility_tutorial_lesson_1_text_4">Prst se nachází na ikoně aplikace %s. Ikonu aktivujete jedním klepnutím.</string>
-    <string name="accessibility_tutorial_lesson_1_text_4_exited">Přesunuli jste prst na ikonu aplikace %s, ale pak jste jej z ikony přesunuli pryč. Pomalu přejíždějte prstem po obrazovce, dokud znovu nenajdete 
-    ikonu prohlížeče.</string>
+    <string name="accessibility_tutorial_lesson_1_text_4_exited">Přesunuli jste prst na ikonu aplikace %s, ale pak jste jej z ikony přesunuli pryč. Pomalu přejíždějte prstem po obrazovce, dokud znovu nenajdete \nikonu prohlížeče.</string>
     <string name="accessibility_tutorial_lesson_1_text_5">Dobře. Chcete-li přejít do další lekce, najděte a aktivujte tlačítko %s umístěné v pravém dolním rohu obrazovky.</string>
     <string name="accessibility_tutorial_lesson_1_title">Lekce 1: Zkoumání obrazovky</string>
-    <string name="accessibility_tutorial_lesson_2_text_1">Chcete-li procházet seznam, přejíždějte prsty po obrazovce. Příklad: Aktuální obrazovka obsahuje seznam názvů aplikací, který můžete posunovat 
-    nahoru a dolů. Nejdříve zkuste přejížděním jedním prstem rozpoznat několik položek v seznamu.</string>
+    <string name="accessibility_tutorial_lesson_2_text_1">Chcete-li procházet seznam, přejíždějte prsty po obrazovce. Příklad: Aktuální obrazovka obsahuje seznam názvů aplikací, který můžete posunovat \nnahoru a dolů. Nejdříve zkuste přejížděním jedním prstem rozpoznat několik položek v seznamu.</string>
     <string name="accessibility_tutorial_lesson_2_text_2_more">Dobře. Pokračujte v přejíždění prstem a najděte ještě alespoň jednu položku.</string>
-    <string name="accessibility_tutorial_lesson_2_text_3">Nyní umístěte dva prsty na položku seznamu a přejíždějte prsty směrem nahoru. Jakmile dosáhnete horní části obrazovky, zvedněte prsty, umístěte je do nižší části seznamu 
-    a pokračujte v přejíždění směrem nahoru.</string>
+    <string name="accessibility_tutorial_lesson_2_text_3">Nyní umístěte dva prsty na položku seznamu a přejíždějte prsty směrem nahoru. Jakmile dosáhnete horní části obrazovky, zvedněte prsty, umístěte je do nižší části seznamu \na pokračujte v přejíždění směrem nahoru.</string>
     <string name="accessibility_tutorial_lesson_2_text_3_more">Dobře, přejeďte prsty nahoru a posuňte seznam ještě víc.</string>
     <string name="accessibility_tutorial_lesson_2_text_4">Dokončili jste kurz. Chcete-li kurz ukončit, najděte tlačítko %s a klepněte na ně.</string>
     <string name="accessibility_tutorial_lesson_2_title">Lekce 2: Posun pomocí dvou prstů</string>
@@ -80,8 +72,7 @@
     <string name="active_device_admin_msg">Správce zařízení</string>
     <string name="active_input_method_subtypes">Aktivní metody vstupu</string>
     <string name="activity_picker_label">Vybrat aktivitu</string>
-    <string name="adb_warning_message">Ladění prostřednictvím rozhraní USB je určeno pouze pro účely vývoje. Použijte je ke kopírování dat mezi počítačem a zařízením, 
-    instalaci aplikací do zařízení bez upozornění a čtení dat protokolů.</string>
+    <string name="adb_warning_message">Ladění prostřednictvím rozhraní USB je určeno pouze pro účely vývoje. Použijte je ke kopírování dat mezi počítačem a zařízením, \n instalaci aplikací do zařízení bez upozornění a čtení dat protokolů.</string>
     <string name="adb_warning_title">Povolit ladění USB?</string>
     <string name="add_account_label">Přidat účet</string>
     <string name="add_device_admin">Aktivovat</string>
@@ -97,9 +88,7 @@
     <string name="allow_mock_location">Povolit simulované polohy</string>
     <string name="allow_mock_location_summary">Povolit simulované polohy</string>
     <string name="android_beam_disabled_summary">Není k dispozici, protože je vypnuta funkce NFC</string>
-    <string name="android_beam_explained">"Pokud je funkce zapnuta, můžete přenášet obsah aplikace do jiného zařízení s funkcí NFC tím, že podržíte zařízení 
-    blízko sebe. Můžete například přenášet stránky prohlížeče, videa YouTube, kontakty a další. Přiložte zařízení k sobě (zpravidla zadní stranou) 
-    a dotkněte se obrazovky. Aplikace určí, jaký obsah se bude přenášet."</string>
+    <string name="android_beam_explained">"Pokud je funkce zapnuta, můžete přenášet obsah aplikace do jiného zařízení s funkcí NFC tím, že podržíte zařízení \nblízko sebe. Můžete například přenášet stránky prohlížeče, videa YouTube, kontakty a další. Přiložte zařízení k sobě (zpravidla zadní stranou) \na dotkněte se obrazovky. Aplikace určí, jaký obsah se bude přenášet."</string>
     <string name="android_beam_label">Android Beam</string>
     <string name="android_beam_off_summary">Vypnuto</string>
     <string name="android_beam_on_summary">Přenos obsahu aplikace prostřednictvím NFC je připraven</string>
@@ -171,8 +160,7 @@
     <string name="back_long_press">Tlačítko zpět</string>
     <string name="back_long_press_timeout">Doba stisku</string>
     <string name="background_data">Data na pozadí</string>
-    <string name="background_data_dialog_message">Deaktivace přenosu dat na pozadí šetří baterii a snižuje objem přenesených dat. Některé aplikace mohou přesto datové připojení 
-    na pozadí používat.</string>
+    <string name="background_data_dialog_message">Deaktivace přenosu dat na pozadí šetří baterii a snižuje objem přenesených dat. Některé aplikace mohou přesto datové připojení \nna pozadí používat.</string>
     <string name="background_data_dialog_title">Deaktivovat data na pozadí?</string>
     <string name="background_data_summary">Aplikace mohou kdykoli synchronizovat, odesílat a přijímat data.</string>
     <string name="background_process_stop_description">Toto je starý proces aplikace, který je spuštěn pro případ, že bude znovu potřeba. Zpravidla není důvod jej zastavovat.</string>
@@ -180,8 +168,7 @@
     <string name="backup_configure_account_title">Účet zálohy</string>
     <string name="backup_data_summary">Zálohovat data aplikací, hesla sítí Wi-Fi a další nastavení na serverech Google</string>
     <string name="backup_data_title">Zálohování mých dat</string>
-    <string name="backup_erase_dialog_message">Chcete přestat zálohovat hesla sítí Wi-Fi, záložky, další nastavení, data aplikací a vymazat všechny kopie ze serverů 
-    Google?</string>
+    <string name="backup_erase_dialog_message">Chcete přestat zálohovat hesla sítí Wi-Fi, záložky, další nastavení, data aplikací a vymazat všechny kopie ze serverů \nGoogle?</string>
     <string name="backup_erase_dialog_title" />
     <string name="backup_lock_settings_picker_title">Výběr záložního zámku</string>
     <string name="backup_pw_cancel_button_text">Zrušit</string>
@@ -280,8 +267,7 @@
     <string name="bluetooth_ask_enablement_and_lasting_discovery">Aplikace v telefonu chce zapnout připojení Bluetooth a nastavit telefon do viditelného režimu. Povolit?</string>
     <string name="bluetooth_ask_lasting_discovery">Aplikace v telefonu chce trvale nastavit telefon do viditelného režimu pro ostatní zařízení Bluetooth. Povolit?</string>
     <string name="bluetooth_auto_connect">Automatické připojení</string>
-    <string name="bluetooth_confirm_passkey_msg">Párování se zařízením:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Zkontrolujte, zda zařízení zobrazuje tento přístupový 
-    klíč:&lt;br>&lt;b>%2$s&lt;/b></string>
+    <string name="bluetooth_confirm_passkey_msg">Párování se zařízením:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Zkontrolujte, zda zařízení zobrazuje tento přístupový \nklíč:&lt;br>&lt;b>%2$s&lt;/b></string>
     <string name="bluetooth_connect_specific_profiles_title">Připojit k síti…</string>
     <string name="bluetooth_connected">Připojeno</string>
     <string name="bluetooth_connected_no_a2dp">Připojeno (žádná média)</string>
@@ -319,8 +305,7 @@
     <string name="bluetooth_disconnect_title">Odpojit?</string>
     <string name="bluetooth_disconnected">Odpojeno</string>
     <string name="bluetooth_disconnecting">Odpojování...</string>
-    <string name="bluetooth_display_passkey_pin_msg">Párování se zařízením:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Zadejte:&lt;br>&lt;b>%2$s&lt;/b> a poté 
-    stiskněte klávesu Return nebo Enter.</string>
+    <string name="bluetooth_display_passkey_pin_msg">Párování se zařízením:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Zadejte:&lt;br>&lt;b>%2$s&lt;/b> a poté \nstiskněte klávesu Return nebo Enter.</string>
     <string name="bluetooth_dock_settings">Nastavení doku</string>
     <string name="bluetooth_dock_settings_a2dp">Pro hudbu a média</string>
     <string name="bluetooth_dock_settings_headset">Jako telefon pro hlasitý poslech</string>
@@ -443,8 +428,6 @@
     <string name="carrier_enabled_summaryOff">Název přístupového bodu (APN) zakázán</string>
     <string name="carrier_enabled_summaryOn">Název přístupového bodu (APN) povolen</string>
     <string name="cdma_security_settings_summary">Nastavení funkce Moje poloha, odemknutí obrazovky a zamknutí úložiště pověření</string>
-    <string name="checkbox_notification_same_as_incoming_call">Použije hlasitost příchozích hovorů také pro oznámení</string>	
-    <string name="choose_timezone">Vybrat časové pásmo</string>	
     <string name="clear_activities">Vymazat výchozí nastavení</string>
     <string name="clear_cache_btn_text">Vymazat mezipaměť</string>
     <string name="clear_data_dlg_text">Veškerá data (všechny soubory, nastavení, účty, databáze apod.) této aplikace budou trvale vymazána.</string>
@@ -484,21 +467,16 @@
     <string name="crypt_keeper_button_text">Šifrovat telefon</string>
     <string name="crypt_keeper_confirm_title">Potvrdit šifrování</string>
     <string name="crypt_keeper_cooldown">Zkuste to znovu za: ^1 s.</string>
-    <string name="crypt_keeper_desc">"Účty, nastavení, stažené aplikace a jejich data, média a další soubory můžete šifrovat. Jakmile telefon zašifrujete, musíte jej při každém zapnutí dešifrovat pomocí kódu PIN 
-    nebo hesla. Šifrování můžete zrušit pouze obnovením továrního nastavení, čímž se veškerá data v telefonu vymažou. Šifrování může trvat více než hodinu. V telefonu musí být nabitá baterie a po celou dobu 
-    šifrování musí být telefon připojen ke zdroji elektřiny. Pokud proces šifrování přerušíte, ztratíte některá nebo 
-    všechna data."</string>
+    <string name="crypt_keeper_desc">"Účty, nastavení, stažené aplikace a jejich data, média a další soubory můžete šifrovat. Jakmile telefon zašifrujete, musíte jej při každém zapnutí dešifrovat pomocí kódu PIN \nnebo hesla. Šifrování můžete zrušit pouze obnovením továrního nastavení, čímž se veškerá data v telefonu vymažou. Šifrování může trvat více než hodinu. V telefonu musí být nabitá baterie a po celou dobu \nšifrování musí být telefon připojen ke zdroji elektřiny. Pokud proces šifrování přerušíte, ztratíte některá nebo \nvšechna data."</string>
     <string name="crypt_keeper_dialog_need_password_message">Před začátkem šifrování musíte nastavit kód PIN nebo heslo zámku obrazovky.</string>
     <string name="crypt_keeper_dialog_need_password_title">Chybí heslo nebo kód PIN zámku obrazovky</string>
     <string name="crypt_keeper_encrypt_summary">Při každém zapnutí telefonu vyžadovat kód PIN nebo heslo za účelem dešifrování</string>
     <string name="crypt_keeper_encrypt_title">Šifrování telefonu</string>
     <string name="crypt_keeper_encrypted_summary">Šifrováno</string>
     <string name="crypt_keeper_enter_password">Zadejte heslo</string>
-    <string name="crypt_keeper_failed_summary">"Šifrování bylo přerušeno a nelze je dokončit. Z tohoto důvodu již nebudou údaje v telefonu přístupné. Chcete-li telefon opět začít používat, je 
-    potřeba obnovit tovární nastavení. Po obnově budete moci v průběhu nastavení telefonu obnovit všechna data, která jsou zálohována v účtu Google."</string>
+    <string name="crypt_keeper_failed_summary">"Šifrování bylo přerušeno a nelze je dokončit. Z tohoto důvodu již nebudou údaje v telefonu přístupné. Chcete-li telefon opět začít používat, je \npotřeba obnovit tovární nastavení. Po obnově budete moci v průběhu nastavení telefonu obnovit všechna data, která jsou zálohována v účtu Google."</string>
     <string name="crypt_keeper_failed_title">Šifrování se nezdařilo</string>
-    <string name="crypt_keeper_final_desc">Šifrovat telefon? Tato operace se nedá vrátit, a pokud ji přerušíte, budou vaše data ztracena. Šifrování může trvat více než hodinu. Během 
-    této doby se telefon několikrát restartuje.</string>
+    <string name="crypt_keeper_final_desc">Šifrovat telefon? Tato operace se nedá vrátit, a pokud ji přerušíte, budou vaše data ztracena. Šifrování může trvat více než hodinu. Během \ntéto doby se telefon několikrát restartuje.</string>
     <string name="crypt_keeper_low_charge_text">Nabijte baterii a zkuste to znovu.</string>
     <string name="crypt_keeper_settings_title">Šifrování</string>
     <string name="crypt_keeper_setup_description">Počkejte prosím, než bude telefon zašifrován. Dokončeno: ^1 %</string>
@@ -514,8 +492,7 @@
     <string name="data_usage_app_restrict_background">Omezit datové přenosy na pozadí</string>
     <string name="data_usage_app_restrict_background_summary">Zakázat data na pozadí v mobilních sítích. Používat sítě Wi-Fi.</string>
     <string name="data_usage_app_restrict_background_summary_disabled">Data na pozadí u aplikace omezíte nastavením limitu mob. dat.</string>
-    <string name="data_usage_app_restrict_dialog">"Tato funkce může způsobit, že aplikace závislé na datech na pozadí nebudou fungovat, pokud nebude k dispozici síť Wi-Fi. Vhodnější ovládací 
-    prvky pro využití dat naleznete v nastaveních jednotlivých aplikací."</string>
+    <string name="data_usage_app_restrict_dialog">"Tato funkce může způsobit, že aplikace závislé na datech na pozadí nebudou fungovat, pokud nebude k dispozici síť Wi-Fi. Vhodnější ovládací \nprvky pro využití dat naleznete v nastaveních jednotlivých aplikací."</string>
     <string name="data_usage_app_restrict_dialog_title">Omezení datových přenosů na pozadí?</string>
     <string name="data_usage_app_settings">Zobrazit nastavení aplikací</string>
     <string name="data_usage_cycle">Cyklus počítání dat</string>
@@ -535,8 +512,7 @@
     <string name="data_usage_change_cycle">Změnit cyklus...</string>
     <string name="data_usage_label_background">Pozadí</string>
     <string name="data_usage_label_foreground">Popředí</string>
-    <string name="data_usage_limit_dialog">"Po dosažení stanoveného limitu bude datové připojení k síti %1$s zakázáno. Protože se přenesená data měří pomocí telefonu 
-    a operátor je může účtovat odlišně, je vhodné nastavit nízký limit."</string>
+    <string name="data_usage_limit_dialog">"Po dosažení stanoveného limitu bude datové připojení k síti %1$s zakázáno. Protože se přenesená data měří pomocí telefonu \na operátor je může účtovat odlišně, je vhodné nastavit nízký limit."</string>
     <string name="data_usage_limit_dialog_title">Nastavuje se omezení datových přenosů</string>
     <string name="data_usage_limit_editor_title">Nastavení limitu datových přenosů</string>
     <string name="data_usage_list_mobile">mobilní</string>
@@ -647,13 +623,13 @@
     <string name="emergency_tone_summary">Nastavit chování při tísňovém volání</string>
     <string name="emergency_tone_title">Tísňové vyzvánění</string>
     <string name="empty_list_msg">Žádné aplikace třetích stran nejsou nainstalovány.</string>
-    <string name="enableNetwork">Zapnout síť</string>   
     <string name="enable_adb">Ladění USB</string>
     <string name="enable_adb_summary">Povolit režim ladění s připojeným zařízením USB</string>
     <string name="enable_back_long_press">Zabití aplikací držením tlačítka zpět</string>
     <string name="enable_compatibility">Upravit velikost aplikace</string>
     <string name="enable_snapshot_screenlock">Screenshot na zamyk. obr.</string>
     <string name="enable_text">Povolit</string>
+    <string name="enableNetwork">Zapnout síť</string>   
     <string name="enter_password">Chcete-li obsah úložiště dešifrovat, zadejte heslo.</string>
     <string name="erase_application">Vymazat aplikace</string>
     <string name="erase_application_description">Smaže všechny doinstalované aplikace</string>
@@ -718,8 +694,9 @@
     <string name="heavy_weight_stop_description">Tuto aplikaci nemůžete bezpečně ukončit. Mohlo by dojít ke ztrátě části vaší aktuální práce.</string>
     <string name="hidden_ssid_label">Skryté SSID:</string>
     <string name="history_details_title">Podrobnosti historie</string>
-    <string name="ime_security_warning">Prostřednictvím této metody zadávání dat lze shromažďovat zadaný text včetně osobních údajů, jako jsou hesla a čísla platebních karet. Metoda je poskytována aplikací %1$s. Chcete tuto metodu zadávání 
-    dat použít?</string>
+    <string name="checkbox_notification_same_as_incoming_call">Použije hlasitost příchozích hovorů také pro oznámení</string>	
+    <string name="choose_timezone">Vybrat časové pásmo</string>	
+    <string name="ime_security_warning">Prostřednictvím této metody zadávání dat lze shromažďovat zadaný text včetně osobních údajů, jako jsou hesla a čísla platebních karet. Metoda je poskytována aplikací %1$s. Chcete tuto metodu zadávání \ndat použít?</string>
     <string name="immediately_destroy_activities">Neukládat aktivity</string>
     <string name="immediately_destroy_activities_summary">Rušit všechny činnosti, jakmile je uživatel zavře</string>
     <string name="ims_reg_required_off">Vyžaduje se vypnutí registrace IMS</string>
@@ -740,9 +717,8 @@
     <string name="input_methods_and_subtype_enabler_title">Vybrat aktivní metody vstupu</string>
     <string name="input_methods_settings_label_format">Nastavení modulu %1$s</string>
     <string name="input_methods_settings_title">Zadávání textu</string>
-<string name="input_settings">Nastavení vstupu</string>    
-    <string name="install_all_warning">Váš telefon a osobní údaje jsou zranitelnější vůči útoku aplikací z neznámých zdrojů. Souhlasíte s tím, že nesete osobní odpovědnost za 
-    jakékoli škody způsobené na vašem telefonu nebo za ztrátu dat v důsledku používání těchto aplikací.</string>
+    <string name="input_settings">Nastavení vstupu</string>    
+    <string name="install_all_warning">Váš telefon a osobní údaje jsou zranitelnější vůči útoku aplikací z neznámých zdrojů. Souhlasíte s tím, že nesete osobní odpovědnost za \njakékoli škody způsobené na vašem telefonu nebo za ztrátu dat v důsledku používání těchto aplikací.</string>
     <string name="install_applications">Neznámé zdroje</string>
     <string name="install_unknown_applications">Povolit instalaci aplikací, které nepocházejí ze služby Market</string>
     <string name="insufficient_storage">Nedostatek místa v úložišti.</string>
@@ -790,8 +766,7 @@
     <string name="location_title">Moje poloha</string>
     <string name="lock_after_timeout">Automaticky zamknout</string>
     <string name="lock_after_timeout_summary">po spánku %1$s</string>
-    <string name="lock_intro_message">"Svůj telefon můžete chránit před neoprávněným použitím pomocí osobního gesta pro odemknutí obrazovky. Tečky na následující obrazovce spojte prstem 
-    v jakémkoli pořadí. Spojit je třeba alespoň čtyři tečky. Jakmile budete připraveni začít, dotkněte se tlačítka Další."</string>
+    <string name="lock_intro_message">"Svůj telefon můžete chránit před neoprávněným použitím pomocí osobního gesta pro odemknutí obrazovky. Tečky na následující obrazovce spojte prstem \nv jakémkoli pořadí. Spojit je třeba alespoň čtyři tečky. Jakmile budete připraveni začít, dotkněte se tlačítka Další."</string>
     <string name="lock_screen_unlock_show">Zobraz heslo displeje přímo</string>
     <string name="lock_screen_unlock_show_summary">"Po povolení nepoužívejte jiné zamykání displeje, jděte pouze do rozhraní pro zamykání"</string>
     <string name="lock_settings_picker_settings">Nastavit zámek obrazovky</string>
@@ -871,8 +846,7 @@
     <string name="master_clear_all">"Opravdu chcete telefon vrátit do továrního nastavení？Pozor prosím，Tuto operaci nelze vrátit zpět"</string>
     <string name="master_clear_button_text">Resetovat telefon</string>
     <string name="master_clear_confirm_title">Resetovat?</string>
-    <string name="master_clear_desc">"Tato akce smaže veškerá data z interního úložiště telefonu, mimo jiné i následující:účet Google, nastavení a data systému 
-    a aplikací,stažené aplikace."</string>
+    <string name="master_clear_desc">"Tato akce smaže veškerá data z interního úložiště telefonu, mimo jiné i následující:účet Google, nastavení a data systému \na aplikací,stažené aplikace."</string>
     <string name="master_clear_desc_also_erases_external">"Hudba, Fotky a další uživatelské údaje"</string>
     <string name="master_clear_desc_erase_external_storage">"Chcete-li smazat také hudbu, obrázky a další uživatelská data, je potřeba vymazat úložiště USB."</string>
     <string name="master_clear_erase_application_progress">Mazání aplikací probíhá</string>
@@ -1103,8 +1077,7 @@
     <string name="recognizer_settings_title">Hlasové vyhledávání</string>
     <string name="recognizer_title">Rozpoznávání hlasu</string>
     <string name="recompute_size">Přepočítávání velikosti...</string>
-    <string name="remove_account_failed">Některé aplikace tento účet vyžadují. Můžete jej odebrat pouze tím, že v telefonu v nabídce Nastavení > Zálohovat a obnovit obnovíte tovární 
-    nastavení (vymažete tak všechna svá osobní data).</string>
+    <string name="remove_account_failed">Některé aplikace tento účet vyžadují. Můžete jej odebrat pouze tím, že v telefonu v nabídce Nastavení > Zálohovat a obnovit obnovíte tovární \nnastavení (vymažete tak všechna svá osobní data).</string>
     <string name="remove_account_label">Odebrat účet</string>
     <string name="remove_device_admin">Deaktivovat</string>
     <string name="remove_from_frequently_fragment">Odstranit \"%s\" z častého nastavení?</string>
@@ -1235,8 +1208,7 @@
     <string name="settings_license_activity_unavailable">Při načítání licencí došlo k chybě.</string>
     <string name="settings_safetylegal_activity_loading">Načítání...</string>
     <string name="settings_safetylegal_activity_title">Bezpečnostní informace</string>
-    <string name="settings_safetylegal_activity_unreachable">Datové připojení momentálně není k dispozici. 
-    Chcete-li tyto informace zobrazit, přejděte z libovolného počítače připojeného k internetu na stránku %s.</string>
+    <string name="settings_safetylegal_activity_unreachable">Datové připojení momentálně není k dispozici. \nChcete-li tyto informace zobrazit, přejděte z libovolného počítače připojeného k internetu na stránku %s.</string>
     <string name="settings_safetylegal_title">Bezpečnostní informace</string>
     <string name="settings_shortcut">Zástupce nastavení</string>
     <string name="show_all_anrs">Zobrazit všechny ANR</string>
@@ -1299,8 +1271,7 @@
     <string name="sound_category_sound_title">Obecné</string>
     <string name="sound_effects_enable_title">Zvuky při dotyku</string>
     <string name="sound_settings">Zvuk</string>
-    <string name="spellchecker_security_warning">Prostřednictvím této kontroly pravopisu lze shromažďovat zadaný text včetně osobních údajů, jako jsou hesla a čísla kreditních karet. Kontrola pravopisu je součástí aplikace %1$s. Chcete 
-    tuto kontrolu pravopisu použít?</string>
+    <string name="spellchecker_security_warning">Prostřednictvím této kontroly pravopisu lze shromažďovat zadaný text včetně osobních údajů, jako jsou hesla a čísla kreditních karet. Kontrola pravopisu je součástí aplikace %1$s. Chcete \ntuto kontrolu pravopisu použít?</string>
     <string name="spellcheckers_settings_title">Oprava pravopisu</string>
     <string name="ssid_label">SSID:</string>
     <string name="status_awake_time">Doba provozu</string>
@@ -1349,10 +1320,8 @@
     <string name="sync_item_title">Synchronizace aplikace %s</string>
     <string name="sync_menu_sync_cancel">Zrušit synchronizaci</string>
     <string name="sync_menu_sync_now">Synchronizovat</string>
-    <string name="sync_one_time_sync">"Dotykem provedete synchronizaci nyní 
-    %1$s"</string>
-    <string name="sync_plug">"Vítá vás aplikace Google Sync. Nový pohled na synchronizaci dat v režii Googlu. Poskytuje vám přístup ke kontaktům, schůzkám a dalším informacím, 
-    ať jste kdekoli."</string>
+    <string name="sync_one_time_sync">"Dotykem provedete synchronizaci nyní \n%1$s"</string>
+    <string name="sync_plug">"Vítá vás aplikace Google Sync. Nový pohled na synchronizaci dat v režii Googlu. Poskytuje vám přístup ke kontaktům, schůzkám a dalším informacím, \nať jste kdekoli."</string>
     <string name="sync_settings">Účty a synchronizace</string>
     <string name="system_package">Aktualizace systému nelze nainstalovat na externí média.</string>
     <string name="system_update_settings_list_item_summary" />
@@ -1407,8 +1376,7 @@
     <string name="tts_engine_name_is_enabled_summary">Položka %s je aktivována</string>
     <string name="tts_engine_name_settings">Nastavení modulu %s</string>
     <string name="tts_engine_preference_section_title">Preferovaný modul</string>
-    <string name="tts_engine_security_warning">Modul pro syntézu řeči může shromažďovat veškerý mluvený text, včetně osobních dat jako jsou hesla nebo čísla kreditních karet. Je založen na modulu %s. 
-    Chcete modul pro syntézu řeči aktivovat?</string>
+    <string name="tts_engine_security_warning">Modul pro syntézu řeči může shromažďovat veškerý mluvený text, včetně osobních dat jako jsou hesla nebo čísla kreditních karet. Je založen na modulu %s. \nChcete modul pro syntézu řeči aktivovat?</string>
     <string name="tts_engine_settings_button">Spustit vyhledávač</string>
     <string name="tts_engine_settings_section">Nastavení modulu</string>
     <string name="tts_engine_settings_title">Nastavení pro modul %s</string>
@@ -1485,8 +1453,7 @@
     <string name="usb_label_installer_cd">Instalace nástrojů pro přenos souborů</string>
     <string name="usb_msd_summary">Umožňuje přenos souborů na Windows a Mac</string>
     <string name="usb_msd_title">Velkokapacitní paměť</string>
-    <string name="usb_mtp_summary">Umožňuje přenášet multimediální soubory v systému Windows nebo pomocí aplikace Android File Transfer v systému Mac (další informace na 
-    stránce www.android.com/filetransfer).</string>
+    <string name="usb_mtp_summary">Umožňuje přenášet multimediální soubory v systému Windows nebo pomocí aplikace Android File Transfer v systému Mac (další informace na \nstránce www.android.com/filetransfer).</string>
     <string name="usb_mtp_title">Zařízení pro média (MTP)</string>
     <string name="usb_ptp_summary">Umožňuje přenos fotografií pomocí softwaru fotoaparátu a přenos jakýchkoli souborů do počítačů, které nepodporují protokol MTP</string>
     <string name="usb_ptp_title">Fotoaparát (PTP)</string>
@@ -1537,9 +1504,9 @@
     <string name="virus_scanner_scan">Skenovat</string>
     <string name="virus_scanner_scanning">Skenování...</string>
     <string name="virus_scanner_select_Cancel">Zrušit</string>
-    <string name="virus_scanner_select_OK">OK</string>
     <string name="virus_scanner_select_lib">Virová databáze</string>
     <string name="virus_scanner_select_multi">Vybrání více, než jedné virové databáze. Bude vyžadována reinstalace</string>
+    <string name="virus_scanner_select_OK">OK</string>
     <string name="virus_scanner_select_single">Zvolte virovou databázi</string>
     <string name="virus_scanner_select_trust_lib">Zvolte knihu virusů</string>
     <string name="virus_scanner_title">Skener virusů</string>
@@ -1603,8 +1570,7 @@
     <string name="wifi_connect">Připojit</string>
     <string name="wifi_disabled_generic">Vypnuto</string>
     <string name="wifi_disabled_heading" />
-    <string name="wifi_disabled_help">Síť nebyla použita z důvodu špatného připojení. Toto nastavení můžete vypnout na obrazovce Nastavení v části Wi-Fi, položka nabídky 
-    Pokročilé.</string>
+    <string name="wifi_disabled_help">Síť nebyla použita z důvodu špatného připojení. Toto nastavení můžete vypnout na obrazovce Nastavení v části Wi-Fi, položka nabídky \nPokročilé.</string>
     <string name="wifi_disabled_network_failure">Bylo zabráněno slabému připojení</string>
     <string name="wifi_disabled_password_failure">Problém s ověřením</string>
     <string name="wifi_dns1">Server DNS 1</string>
@@ -1700,8 +1666,7 @@
     <string name="wifi_setup_description_connected">"Chcete-li pokračovat v nastavení, dotkněte se možnosti Další. Dotkněte se možnosti Zpět, chcete-li se připojit k jiné síti Wi-Fi."</string>
     <string name="wifi_setup_description_connecting">Připojování může trvat několik minut...</string>
     <string name="wifi_setup_detail">Podrobnosti sítě</string>
-    <string name="wifi_setup_eap_not_supported">Připojení Wi-Fi EAP nelze nakonfigurovat při instalaci. Můžete to provést po dokončení instalace v nabídce Nastavení v části 
-    Bezdrátová připojení a sítě.</string>
+    <string name="wifi_setup_eap_not_supported">Připojení Wi-Fi EAP nelze nakonfigurovat při instalaci. Můžete to provést po dokončení instalace v nabídce Nastavení v části \nBezdrátová připojení a sítě.</string>
     <string name="wifi_setup_forget">Odstranit</string>
     <string name="wifi_setup_next">Další</string>
     <string name="wifi_setup_not_connected">Nepřipojeno</string>

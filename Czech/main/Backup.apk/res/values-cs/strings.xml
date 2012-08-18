@@ -64,8 +64,8 @@
     <string name="delete_backup_confirm">Opravdu chcete smazat zálohu?</string>
     <string name="delete_backup_process">Mažu zálohu, čekejte prosím..</string>
     <string name="delete_failed_backup_confirm">Tato záloha je poškozená a nedá se z ní obnovit</string>
-    <string name="disable_encrypt_title">Šifrování vypnuté</string>
     <string name="dir_date_format">yyyy-MM-dd-HH-mm-ss</string>
+    <string name="disable_encrypt_title">Šifrování vypnuté</string>
     <string name="enable_encrypt">Povolit</string>
     <string name="enable_encrypt_fail">Nelze zapnout šifrování</string>
     <string name="enable_encrypt_indicator">Záloha není zaširfována, klepněte pro zapnutí.</string>
@@ -81,7 +81,7 @@
     <string name="guarded_mode_dialog_message">V režimu návštěvník nelze vytvářet nebo obnovovat zálohy</string>
     <string name="guarded_mode_dialog_title">Režim návštěvník</string>
     <string name="import_from_xiaomi_account_hint_title">Pro zálohování kontaktů používejte MiTalk</string>
-<string name="import_from_xiaomi_account_hint1">1.Nainstalujte MiTalk a přihlašte se.\nhttp://www.miliao.com\n\n3.Přejděte na nastavení MiTalk a a zvolte "Zálohovať na účet Xiaomi"</string> 
+    <string name="import_from_xiaomi_account_hint1">1.Nainstalujte MiTalk a přihlašte se.\nhttp://www.miliao.com\n\n3.Přejděte na nastavení MiTalk a a zvolte "Zálohovať na účet Xiaomi"</string> 
     <string name="import_from_xiaomi_account_hint2">Poznámka: Přejděte k dalšímu kroku pokud již existuje záloha</string>
     <string name="local_app_name">Záloha</string>
     <string name="local_backup_window_title">Uložené</string>

@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="ack_record">Záznam ACK</string>
-    <string name="authdlg_title">Požadována Bluetooth autorizace</string>
-    <string name="ErrorTooManyRequests">Je zpracováváno příliš mnoho požadavků. Opakujte akci později.</string>
     <string name="airplane_error_msg">"V režimu Letadlo není možné Bluetooth použít."</string>
     <string name="airplane_error_title">Režim Letadlo</string>
-    <string name="authdlg_service_opp">%1$s potřebuje povolení pro připojení k vašemu telefonu a přenosu objektů</string>
     <string name="app_name">Bluetooth</string>
     <string name="auth_notif_message">Zadejte klíč relace pro zařízení %1$s</string>
     <string name="auth_notif_ticker">Požadavek ověření Obex</string>
     <string name="auth_notif_title">Klíč relace</string>
+    <string name="authdlg_service_opp">%1$s potřebuje povolení pro připojení k vašemu telefonu a přenosu objektů</string>
+    <string name="authdlg_title">Požadována Bluetooth autorizace</string>
     <string name="bluetooth_security_mode_disable">Zásady zabezpečení omezují použití Bluetooth připojení</string>
     <string name="bluetooth_share_file_name">bluetooth_content_share</string>
-    <string name="btopp_live_folder">Přijaté soubory přes Bluetooth</string>
     <string name="bt_enable_cancel">Zrušit</string>
     <string name="bt_enable_line1">Zapněte Bluetooth pro použití služby Bluetooth</string>
     <string name="bt_enable_line2">Zapnout Bluetooth?</string>
@@ -32,12 +30,13 @@
     <string name="bt_toast_received">Soubor přijat</string>
     <string name="bt_toast_sent">Soubor odeslán</string>
     <string name="bt_toast_upload_fail">Soubor nebyl odeslán</string>
+    <string name="btopp_live_folder">Přijaté soubory přes Bluetooth</string>
     <string name="Button_Cancel">Zrušit</string>
     <string name="Button_Cancel_All">Zrušit vše</string>
     <string name="defaultname">Sada handsfree do auta</string>
     <string name="defaultnumber">000000</string>
-    <string name="deleteAll_record">Smazat všechny záznamy</string>
     <string name="delete_record">Smazat záznam</string>
+    <string name="deleteAll_record">Smazat všechny záznamy</string>
     <string name="download_cancel">Zastavit</string>
     <string name="download_fail_line1">Soubor nebyl přijat</string>
     <string name="download_fail_line2">Soubor: %1$s</string>
@@ -49,12 +48,13 @@
     <string name="download_line4" />
     <string name="download_line5">Přijímám soubor…</string>
     <string name="download_ok">Skrýt</string>
-    <string name="download_success">%1$s přijato</string>
     <string name="download_succ_line5">Soubor přijat</string>
     <string name="download_succ_ok">Otevřít</string>
+    <string name="download_success">%1$s přijato</string>
     <string name="download_title">Přenos souborů</string>
     <string name="enabling_progress_content">Zapínání Bluetooth…</string>
     <string name="enabling_progress_title">Prosím čekejte</string>
+    <string name="ErrorTooManyRequests">Je zpracováváno příliš mnoho požadavků. Opakujte akci později.</string>
     <string name="hello">Ahoj světe, TestActivity</string>
     <string name="inbound_history_title">Příchozí přenosy</string>
     <string name="inbound_noti_title">Bluetooth: přijaté soubory</string>
@@ -69,6 +69,9 @@
     <string name="incoming_file_toast_msg">Potvrďte prosím příjem příchozího souboru z jiného zařízení.</string>
     <string name="insert_record">Vložit záznam</string>
     <string name="localPhoneName">Mé jméno</string>
+    <string name="no_transfers">Historie přenosů je prázdná</string>
+    <string name="not_exist_file">Soubor neexistuje</string>
+    <string name="not_exist_file_desc">Soubor neexistuje</string>
     <string name="Notification_prefix">Sdílení:</string>
     <string name="notification_received">%1$s přijato</string>
     <string name="notification_received_fail">%1$s nepřijato</string>
@@ -78,10 +81,6 @@
     <string name="notification_sent_complete">100% dokončeno</string>
     <string name="notification_sent_fail">%1$s nebylo odesláno</string>
     <string name="notify_server">Upozornit server TCP</string>
-	<string name="noti_caption" formatted="false">Dokončeno: %1$s, selhalo: %2$s.</string>
-    <string name="not_exist_file">Soubor neexistuje</string>
-    <string name="not_exist_file_desc">Soubor neexistuje</string>
-    <string name="no_transfers">Historie přenosů je prázdná</string>
     <string name="ok_button">OK</string>
     <string name="outbound_history_title">Odchozí přenosy</string>
     <string name="outbound_noti_title">Bluetooth: nahrané soubory</string>
@@ -98,8 +97,8 @@
     <string name="status_connection_error">Připojení selhalo</string>
     <string name="status_file_error">Chyba SD karty</string>
     <string name="status_forbidden">Soubor nelze přenést</string>
-    <string name="status_not_accept">Nepodporovaný obsah</string>
     <string name="status_no_sd_card">Chybí SD karta. Vložte SD kartu pro uložení souboru</string>
+    <string name="status_not_accept">Nepodporovaný obsah</string>
     <string name="status_pending">Přenos souborů nebyl zahájen</string>
     <string name="status_protocol_error">Operaci není možné uskutečnit</string>
     <string name="status_running">Odesílání souborů…</string>
@@ -123,7 +122,8 @@
     <string name="upload_line1">Komu: \"%1$s\"</string>
     <string name="upload_line3" formatted="false">Typ souboru: %1$s (%2$s)</string>
     <string name="upload_line5">Odesílání souboru…</string>
-    <string name="upload_success">%1$s odesláno</string>
     <string name="upload_succ_line5">Soubor odeslán</string>
     <string name="upload_succ_ok">OK</string>
+    <string name="upload_success">%1$s odesláno</string>
+	  <string name="noti_caption" formatted="false">Dokončeno: %1$s, selhalo: %2$s.</string>
 </resources>

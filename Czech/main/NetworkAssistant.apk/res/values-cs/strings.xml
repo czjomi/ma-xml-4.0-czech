@@ -17,8 +17,7 @@
     <string name="app_detail_version">Verze: %s</string>
     <string name="app_name">Monitoring sítě</string>
     <string name="app_traffic_detail">" provoz(%s)"</string>
-    <string name="apply_rules_failed">"Nepodařilo se použít bránu firewall, prosím zkuste znovu.
-(%s)"</string> 
+    <string name="apply_rules_failed">"Nepodařilo se použít bránu firewall, prosím zkuste znovu.\n(%s)"</string> 
     <string name="apply_rules_failed_known">OK</string>
     <string name="batch_connect_control">Dávkové řízení sítí</string>
     <string name="cancel_txt">Zrušit</string>
@@ -46,8 +45,7 @@
     <string name="edit_frame_warning_title">Varovná hodnota</string>
     <string name="empty" />
     <string name="finish_traffic_settings_hint">Nastavení balíčku dokončeno</string>
-    <string name="finish_traffic_settings_message">"Využité data jsou %s. Souhlasí data?
- Můžete je upravit."</string>
+    <string name="finish_traffic_settings_message">"Využité data jsou %s. Souhlasí data?\n Můžete je upravit."</string>
     <string name="finish_traffic_settings_title">Upravit data</string>
     <string name="fire_rule_program_list">Seznam aplikací</string>
     <string name="force_stop_dlg_text">Pokud vynutíte zastavení aplikace, může to vyvolat chybu.</string>

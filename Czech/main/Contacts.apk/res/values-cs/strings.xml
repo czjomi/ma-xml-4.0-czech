@@ -424,7 +424,7 @@
                 fgcolor="#ffffffff"><li>"Zálohování a obnovení, import z SD karty nebo SIM "</li></font></b>" "</string>
     <string name="noContactsWithPhoneNumbers">Žádné kontakty s telefonními čísly.</string>
     <string name="noFavoritesHelpText">"Nemáte žádné oblíbené. Chcete-li přidat kontakt do seznamu oblíbených položek: "<li>Stiskni <b>Kontakty</b>" "</li>" "<li>"Vyberte kontakt, který má být přidán do
-            Oblíbených "</li>" "<li>"Zvolte hvězdičku vedle jména kontaktu "</li>" "</string>  
+                    Oblíbených "</li>" "<li>"Zvolte hvězdičku vedle jména kontaktu "</li>" "</string>  
     <string name="noGroups">Žádné skupiny</string>
     <string name="noMatchingContacts">Nenalezeny žádné odpovídající kontakty.</string>
     <string name="non_phone_add_to_contacts">Přidat do kontaktů</string>
@@ -489,6 +489,7 @@
     <string name="recentCalls_removeFromRecentList">Odstranit z hovorů</string>
     <string name="recentCalls_trashVoicemail">Smazat hlasovou zprávu</string>
     <string name="recentCallsIconLabel">Výpis hovorů</string>
+    <string name="recentContactsIconLabel">Nedávné kontakty</string>
     <string name="relationLabelsGroup">Příbuzné</string>
     <string name="remind_btn_ignore">Ignorovat</string>
     <string name="remind_btn_sync_now">Synchronizovat nyní</string>
@@ -496,6 +497,7 @@
     <string name="ringLabelsGroup">Vyzváněcí tón</string>
     <string name="save_photo_progress">Ukládám fotku...</string>
     <string name="savingDisplayGroups">Ukládám nastavení zobrazení…</string>
+    <string name="savingContact">Ukládám kontakt…</string>
     <string name="scan_duplicate">"Hledám duplicitní data, prosím čekejte... "</string>
     <string name="scan_duplicate_message">Počet duplicitních kontaktů: %1$d</string>
     <string name="scan_merge">Hledání možných duplicitních kontaktů, prosím čekejte...</string>
@@ -529,6 +531,7 @@
     <string name="sim_card_no_free_space_message">Kapacita vaší SIM je vyčerpaná, nemůžete přidat další kontakty. Prosím uvolněte místo</string>
     <string name="sim_card_no_free_space_title">SIM karta je plná</string>
     <string name="sim_contact_search_error">Došlo k chybě při hledání kontaktů na SIM kartě</string>
+    <string name="sim_contacts">SIM kontakty</string>
     <string name="sim_contacts_invisiable">Skryté</string>
     <string name="sim_contacts_visiable">Viditelné</string>
     <string name="sim_export_loading">Informace o SIM kartě se načítají. Tato operace může trvat déle.</string>
@@ -582,6 +585,7 @@
     <string name="toast_join_with_empty_contact">Prosím zadejte jméno kontaktu před spojením s dalším kontaktem.</string>
     <string name="toast_making_personal_copy">Vytvářím osobní kopii</string>
     <string name="toast_text_copied">Text zkopírován</string>
+    <string name="today">Dnes</string>
     <string name="type_incoming">Příchozí hovor</string>
     <string name="type_missed">Zmeškaný hovor</string>
     <string name="type_outgoing">Odchozí hovor</string>
@@ -625,8 +629,4 @@
     <string name="websiteLabelsGroup">WWW stránka</string>
     <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Vymazat data</string>
-	  <string name="sim_contacts">SIM kontakty</string>
-	  <string name="today">Dnes</string>
-		<string name="recentContactsIconLabel">Nedávné kontakty</string>
-		<string name="savingContact">Ukládám kontakt…</string>
 </resources>

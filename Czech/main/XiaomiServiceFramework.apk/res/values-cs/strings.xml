@@ -53,8 +53,7 @@
     <string name="micloud_input_email_prompt">Vložte svůj email</string>
     <string name="micloud_input_password_prompt">Vložte heslo</string>
     <string name="micloud_log_prompt">Přihlášení ke XiaoMi účtu</string>
-    <string name="micloud_on_pc_notice">"Navštivte i.xiaomi.com 
-ke správě vašich dat"</string>
+    <string name="micloud_on_pc_notice">"Navštivte i.xiaomi.com \nke správě vašich dat"</string>
     <string name="micloud_password_confirm_hint">Potvrďte heslo</string>
     <string name="micloud_password_error_inconsistent">Hesla se neshodují</string>
     <string name="micloud_password_req_notice">8 ~ 16 znaků, obsahuje číslice, abecední písmena, velká a malá písmena</string>
