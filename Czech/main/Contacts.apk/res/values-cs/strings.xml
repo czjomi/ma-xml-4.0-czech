@@ -26,6 +26,11 @@
     <string name="blurbJoinContactDataWith">Vyberte kontakt se kterým chcete sloučit %s.</string>
     <string name="caching_vcard_message">Probíhá ukládání vizitek do dočasného úložiště, samotný import proběhne za okamžik</string>
     <string name="caching_vcard_title">Ukládání vizitek do dočasného úložiště</string>
+    <string name="callBack">Zpětné volání</string>
+    <string name="callDetailsDurationFormat" formatted="false">%s minut %s vteřin</string>
+    <string name="callDetailTitle">Detaily hovoru</string>
+    <string name="callNoAnswerTimeFormat">Zvonil %s krát</string>
+    <string name="callShortcutActivityTitle">Vyberte číslo, kterému chcete volat</string>
     <string name="call_assistant">Volat na číslo %s</string>
     <string name="call_callback">Volat na číslo zpětného volání</string>
     <string name="call_car">Volat do auta</string>
@@ -52,13 +57,9 @@
     <string name="call_work">Volat do práce</string>
     <string name="call_work_mobile">Volat na pracovní mobil</string>
     <string name="call_work_pager">Volat na pracovní pager</string>
-    <string name="callBack">Zpětné volání</string>
-    <string name="callDetailsDurationFormat" formatted="false">%s minut %s vteřin</string>
-    <string name="callDetailTitle">Detaily hovoru</string>
     <string name="calllog_menu_blacklist">Přidat na černou listinu</string>
     <string name="calllog_menu_edit_before_call">Upravit před voláním</string>
     <string name="calllog_menu_send_sms">Poslat SMS</string>
-    <string name="callNoAnswerTimeFormat">Zvonil %s krát</string>
     <string name="callrecordview_item_newcontact">Nový kontakt</string>
     <string name="callrecordview_item_op_time_minutes_seconds" formatted="false">%d min %d s</string>
     <string name="callrecordview_item_op_time_missed">Nezvednuto</string>
@@ -84,7 +85,6 @@
     <string name="callrecordview_menu_show_missed">Zmeškané hovory</string>
     <string name="callrecordview_menu_show_stranger">Neznámá čísla</string>
     <string name="callrecordview_menu_show_title">Výběr kategorie</string>
-    <string name="callShortcutActivityTitle">Vyberte číslo, kterému chcete volat</string>
     <string name="cancel_confirmation_dialog_message">Chcete zrušit provedené změny?</string>
     <string name="cancel_confirmation_dialog_title">Zrušit změny</string>
     <string name="cancel_export_confirmation_message">Opravdu chcete přerušit export %s?</string>
@@ -92,10 +92,20 @@
     <string name="cancel_import_confirmation_message">Opravdu chcete přerušit import %s?</string>
     <string name="cancel_import_confirmation_title">Ruším import vizitek</string>
     <string name="cancel_vcard_import_or_export_failed">Rušení importu/exportu vizitek selhalo</string>
-    <string name="clear_default">Vymazat výchozí</string>
+    <string name="chat">Chat</string>
+    <string name="chat_aim">Chatovat pomocí AIM</string>
+    <string name="chat_gtalk">Chatovat pomocí Google Talk</string>
+    <string name="chat_icq">Chatovat pomocí ICQ</string>
+    <string name="chat_jabber">Chatovat pomocí Jabberu</string>
+    <string name="chat_msn">Chatovat pomocí Windows Live</string>
+    <string name="chat_qq">Chatovat pomocí QQ</string>
+    <string name="chat_skype">Chatovat pomocí Skype</string>
+    <string name="chat_yahoo">Chatovat pomocí Yahoo</string>
+    <string name="check_unsynchronized_accounts">Synchronizace</string>
     <string name="clearCallLogConfirmation">Opravdu chcete vymazat hovory?</string>
     <string name="clearCallLogConfirmation_title">Vymazat hovory</string>
     <string name="clearCallLogProgress_title">Mažu seznam hovorů</string>
+    <string name="clear_default">Vymazat výchozí</string>
     <string name="click_close">Klepněte pro zavření</string>
     <string name="composer_failed_to_get_database_infomation">Načtení informací z databáze se nezdařilo</string>
     <string name="composer_has_no_exportable_contact">Nelze exportovat žádné kontakty. Pokud máte v telefonu skutečně uložené kontakty, je možné, že některý poskytovatel datových služeb zakázal jejich export mimo telefon.</string>
@@ -120,6 +130,7 @@
     <string name="contact_read_only">Kontaktní informace ze zdroje %1$s není možné na tomto zařízení upravit.</string>
     <string name="contact_status_update_attribution">přes %1$s</string>
     <string name="contact_status_update_attribution_with_date">%1$s přes %2$s</string>
+    <string name="contacts_unavailable_add_xiaomi_account">Synch. kontakty Xiaomi</string>
     <string name="contactDetailAbout">O kontaktu</string>
     <string name="contactDetailCalllog">Záznamy hovorů</string>
     <string name="contactDetailUpdates">Aktualizace</string>
@@ -149,7 +160,7 @@
     <string name="delete_contact_calllog_title">Chcete vymazat všechny záznamy o volání kontaktu?</string>
     <string name="delete_duplicate">Sloučit</string>
     <string name="delete_duplicate_message">"Slučuji ... "</string>
-    <string name="delete_group_dialog_message">"Opravdu chcete vymazat skupinu '%1$s'? (Kontakty ve skupině nebudou smazány.)"</string>
+    <string name="delete_group_dialog_message">"Opravdu chcete vymazat skupinu \"%1$s\"? (Kontakty ve skupině nebudou smazány.)"</string>
     <string name="delete_group_dialog_title">Vymazat skupinu</string>
     <string name="delete_unknown_contact_calllog_title">Potvrdit smazání volání na neznámá čísla?</string>
     <string name="deleteConfirmation">Tento kontakt bude smazán.</string>
@@ -230,7 +241,7 @@
     <string name="export_vcard_description">Exportovat vCard na SD kartu</string>
     <string name="exporting_contact_failed_message">"Kontaktní údaje nejsou zkopírovány. Příčina: \"%s\""</string>
     <string name="exporting_contact_failed_title">Export dat kontaktů se nezdařil</string>
-    <string name="exporting_contact_list_message">Probíhá export dat kontaktů do souboru %s</string>
+    <string name="exporting_contact_list_message">Probíhá export dat kontaktů do souboru: %s</string>
     <string name="exporting_contact_list_title">Export dat kontaktů</string>
     <string name="exporting_vcard_canceled_title">Export %s byl přerušen</string>
     <string name="exporting_vcard_finished_title">Export %s dokončen</string>
@@ -268,18 +279,8 @@
     <string name="groupsLabel">Skupiny</string>
     <string name="hint_findContacts">Najít kontakty</string>
     <string name="hint_search_contacts">%d kontaktů</string>
-    <string name="chat">Chat</string>
-    <string name="chat_aim">Chatovat pomocí AIM</string>
-    <string name="chat_gtalk">Chatovat pomocí Google Talk</string>
-    <string name="chat_icq">Chatovat pomocí ICQ</string>
-    <string name="chat_jabber">Chatovat pomocí Jabberu</string>
-    <string name="chat_msn">Chatovat pomocí Windows Live</string>
-    <string name="chat_qq">Chatovat pomocí QQ</string>
-    <string name="chat_skype">Chatovat pomocí Skype</string>
-    <string name="chat_yahoo">Chatovat pomocí Yahoo</string>
-    <string name="check_unsynchronized_accounts">Synchronizace</string>
-    <string name="imei">IMEI</string>
     <string name="imLabelsGroup">IM</string>
+    <string name="imei">IMEI</string>
     <string name="import_all_vcard_string">Importovat všechny vizitky</string>
     <string name="import_contact_card_button">Import</string>
     <string name="import_failure_no_vcard_file">Na SD kartě nebyla nalezena žádná vizitka</string>
@@ -304,21 +305,14 @@
     <string name="label_notes">Poznámky</string>
     <string name="label_sip_address">Internetový telefon (SIP)</string>
     <string name="launcherDialer">Telefon</string>
+    <string name="listFoundAllContactsZero">Nenalezeno</string>
+    <string name="listTotalAllContactsZeroStarred">Žádné oblíbené kontakty</string>
     <string name="list_filter_all_accounts">Všechny kontakty</string>
     <string name="list_filter_all_starred">Oblíbené</string>
     <string name="list_filter_custom">Vlastní</string>
     <string name="list_filter_customize">Vlastní...</string>
     <string name="list_filter_phones">Všechny kontakty s telefonními čísly</string>
     <string name="list_filter_single">Kontakt</string>
-    <string name="listAllContactsInAccount">Kontakty v %s</string>
-    <string name="listCustomView">Kontakty ve vlastním zobrazení</string>
-    <string name="listFoundAllContactsZero">Nenalezeno</string>
-    <string name="listSingleContact">Jeden kontakt</string>
-    <string name="listTotalAllContactsZero">Žádné kontakty.</string>
-    <string name="listTotalAllContactsZeroCustom">Žádné viditelné kontakty.</string>
-    <string name="listTotalAllContactsZeroGroup">Žádné kontakty v %s</string>
-    <string name="listTotalAllContactsZeroStarred">Žádné oblíbené kontakty</string>
-    <string name="listTotalPhoneContactsZero">Žádné kontakty s tel. číslem</string>
     <string name="liveFolder_all_label">Všechny kontakty</string>
     <string name="liveFolder_favorites_label">Oblíbené</string>
     <string name="liveFolder_phones_label">Telefony</string>
@@ -372,7 +366,7 @@
     <string name="menu_splitAggregate">Rozdělit</string>
     <string name="menu_sync_remove">Zrušit synchronizaci skupiny</string>
     <string name="menu_viewContact">Zobrazit kontakt</string>
-    <string name="merge_contact_message">%1$d kontaktů s částečně duplicitními daty, %2$d vybráno</string>
+    <string name="merge_contact_message" formatted="false">%1$d kontaktů s částečně duplicitními daty, %2$d vybráno</string>
     <string name="messageShortcutActivityTitle">Výběr čísla pro zprávu</string>
     <string name="missing_name">(bez jména)</string>
     <string name="move_and_resize">Posuň měřítko</string>
@@ -446,13 +440,15 @@
     <string name="pick_recent_list_title">Celkem %1$d nedávno použitých kontaktů</string>
     <string name="pickerNewContactHeader">Vytvořit nový kontakt</string>
     <string name="pkgLabel">Kontakty a Vytáčení</string>
+    <string name="postalLabelsGroup">Adresa</string>
     <string name="postal_address">Adresa</string>
     <string name="postal_city">Město</string>
     <string name="postal_country">Země</string>
     <string name="postal_postcode">PSČ</string>
     <string name="postal_region">Stát</string>
     <string name="postal_street">Ulice</string>
-    <string name="postalLabelsGroup">Adresa</string>
+    <string name="pref_key_rebuild_t9_index_message">Opravit index vyhledávání kontaktů</string>
+    <string name="pref_key_rebuild_t9_index_title">Obnovit T9 index</string>
     <string name="pref_summary_import_from_account">Import kontaktů z Google a Exchange účtů do mého Xiaomi účtu</string>
     <string name="pref_title_account_import">Iport z účtu</string>
     <string name="pref_title_import_from_account">Import do Xiaomi účtu</string>
@@ -474,7 +470,7 @@
     <string name="raw_contact_account_label">Účty:%1$s</string>
     <string name="raw_contact_list_title">"Tento kontakt obsahuje následující %1$d raw kontakty，klikněte na vybraný kontakt pro úpravu"</string>
     <string name="reading_vcard_failed_title">Načtení dat vCard se nezdařilo</string>
-    <string name="readOnlyContactDeleteConfirmation">Tento kontakt obsahuje informace z několika účtů. Informace z účtů pouze pro čtení budou v seznamech kontaktů skryty, ale nebudou smazány.</string>
+    <string name="readOnlyContactDeleteConfirmation">Tento kontakt obsahuje informace z několika účtů. Informace z účtů pouze pro čtení budou v seznamech kontaktů skryty, \nale nebudou smazány.</string>
     <string name="readOnlyContactWarning">Z účtů pouze pro čtení není možné kontakty mazat, můžete je však v seznamech kontaktů skrýt.</string>
     <string name="recent_contacts_label">Nedávné</string>
     <string name="recent_updates">Poslední aktualizace</string>
