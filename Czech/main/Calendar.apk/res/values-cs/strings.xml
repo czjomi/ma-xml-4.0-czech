@@ -38,7 +38,7 @@
     <string name="birthday_notification_title_today">"%1$s má narozeniny"</string>
     <string name="birthday_notification_type_term_lunar" />
     <string name="calendar_refresh">Aktualizovat</string>
-    <string name="copy">Kopírovat e-mailovou adresu</string>
+    <string name="copy">Kopírovat emailovou adresu</string>
     <string name="copy_db">Odeslat databázi</string>
     <string name="create_an_account_desc">"Kalendář funguje lépe s účtem Google.\n• Přístup z jakéhokoliv webového prohlížeče\n• Bezpečné zálohování událostí"</string>
     <string name="creating_event">Událost byla vytvořena.</string>
