@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <item type="string" name="APKTOOL_DUMMY_0104">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0105">false</item>
     <string name="accessibility_airplane_mode">Letadlo.</string>
     <string name="accessibility_back">Zpět</string>
     <string name="accessibility_battery_full">Baterie plná.</string>
@@ -47,6 +45,9 @@
     <string name="accessibility_remove_notification">Vymazat notifikace.</string>
     <string name="accessibility_ringer_silent">Zvonění ztišeno.</string>
     <string name="accessibility_ringer_vibrate">Vibrace.</string>
+    <string name="accessibility_rotation_lock_off">Obrazovka se bude otáčet automaticky.</string>
+    <string name="accessibility_rotation_lock_on_landscape">Obrazovka je uzamknutá v horizontální poloze.</string>
+    <string name="accessibility_rotation_lock_on_portrait">Obrazovka je uzamknutá ve vertikální poloze.</string>
     <string name="accessibility_settings_button">Systémové nastavení.</string>
     <string name="accessibility_tty_enabled">TeleTypewriter zapnut.</string>
     <string name="accessibility_wifi_one_bar">Wi-Fi jedna čárka.</string>
@@ -59,7 +60,6 @@
     <string name="accessibility_wimax_two_bars">WiMAX dvě čárky.</string>
     <string name="always_use_accessory">Použít jako výchozí pro toto USB příslušenství</string>
     <string name="always_use_device">Použít jako výchozí pro toto USB zařízení</string>
-    <string name="APKTOOL_DUMMY_0112">false</string>
     <string name="app_label">System UI</string>
     <string name="battery_low_percent_format">zbývá %d%%</string>
     <string name="battery_low_subtitle">Baterie je skoro vybitá.</string>
@@ -79,6 +79,7 @@
     <string name="camera_key_action_shortcut_wake">Zamknout/probudit zařízení</string>
     <string name="camera_key_action_title">MI tlačítko</string>
     <string name="camera_key_action_toggle_title">Vyvolat přepínače</string>
+    <string name="chooseUsbActivity">Zvolte aplikaci pro USB zařízení</string>	
     <string name="compat_mode_help_body">Jestliže byla aplikace navržena pro menší obrazovku, bude vedle hodin zobrazeno ovládání zoomu.</string>
     <string name="compat_mode_help_header">Kompatibilní zoom</string>
     <string name="compat_mode_off">Roztáhnout pro vyplnění obrazovky</string>
@@ -91,11 +92,17 @@
     <string name="data_usage_disabled_dialog_enable">Znovu povolit data</string>
     <string name="data_usage_disabled_dialog_mobile_title">Mobilní data vypnuta</string>
     <string name="data_usage_disabled_dialog_title">Data vypnuta</string>
+    <string name="description_direction_down">Posuňte dolů pro %s.</string>
+    <string name="description_direction_left">Posuňte vlevo pro %s.</string>
+    <string name="description_direction_right">Posuňte vpravo pro %s.</string>
+    <string name="description_direction_up">Posuňte nahoru pro %s.</string>
+    <string name="description_target_search">Hledat</string>
     <string name="dismount_storage">Ne</string>
     <string name="dlg_confirm_kill_storage_users_text">Pokud zapnete USB úložiště, některé spuštěné aplikace mohou přestat reagovat.</string>
     <string name="dlg_confirm_kill_storage_users_title">Zapnout USB úložiště</string>
     <string name="dlg_error_title">USB operace nedokončena</string>
     <string name="dlg_ok">OK</string>
+    <string name="dreams_dock_launcher">Aktivovat spořič obrazovky</string>	
     <string name="ext_media_badremoval_notification_message">Odpojte USB úložiště před odebráním, aby se zabránilo poškození dat.</string>
     <string name="ext_media_badremoval_notification_title">USB úložiště neočekávaně odebráno</string>
     <string name="ext_media_checking_notification_message">Kontroluji chyby.</string>
@@ -108,13 +115,12 @@
     <string name="ext_media_safe_unmount_notification_title">USB úložiště bezpečně odebráno</string>
     <string name="ext_media_unmountable_notification_message">USB úložiště poškozeno. Možná je potřeba přeformátovat.</string>
     <string name="ext_media_unmountable_notification_title">Poškozené USB úložiště</string>
-    <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
     <string name="gps_notification_found_text">Nastavena pozice dle GPS</string>
     <string name="gps_notification_searching_text">Hledání GPS pozice</string>
-    <string name="chooseUsbActivity">Zvolte aplikaci pro USB zařízení</string>
     <string name="incoming_call_vibrate_hint">Příchozí hovor</string>
     <string name="installer_cd_button_title">Nainstalovat aplikaci Android File Transfer pro Mac</string>
     <string name="invalid_charger">"Nabíjení z USB není podporováno.Použijte síťovou nabíječku."</string>
+    <string name="key_position_custom">Vlastní pozice tlačítek</string>	
     <string name="label_view">Zobrazit</string>
     <string name="lockscreen_carrier_default">Bez signálu</string>
     <string name="mms_vibrate_hint">Zprávy</string>
@@ -137,12 +143,21 @@
     <string name="notification_icon_filter_show">Zobrazovat notifikace v liště</string>
     <string name="notification_icon_filter_summary">Vypnutím této volby, budou všechny notifikace pro aplikace zobrazeny v levém horním rohu lišty.</string>
     <string name="notification_icon_filter_title">Skrýt notifikace</string>
+    <string name="notifications_off_text">Klikněte sem pro opětovnout aktivaci notifikací.</string>
+    <string name="notifications_off_title">Vypnutí notifikací</string>
     <string name="notification_vibrate_hint">Notifikace</string>
+    <string name="recent_apps_key">Naposledy spuštěné</string>	
+    <string name="recent_apps_key_show">Zobrazit naposledy spuštěné</string>	
     <string name="return_to_incall_screen">Stiskněte pro návrat k hovoru</string>
+    <string name="screen_button_custom">Přizpůsobit pozici tlačítka</string>	
     <string name="screen_button_disabled_message">Tlačítka pod displayem jsou vypnuta. Můžete je zapnout stiskem tlačítek \"Home\" a \"Power\"</string>
     <string name="screen_button_enabled_message">Tlačítka pod displayem jsou zapnuta</string>
     <string name="screen_button_notification_text">"Stiskněte 'Home'+'Power' pro opětovné zapnutí"</string>
     <string name="screen_button_notification_title">Tlačítka pod displayem jsou vypnuta</string>
+    <string name="screen_key_back">Zpět tlačítko</string>	
+    <string name="screen_key_home">Domů tlačítko</string>	
+    <string name="screen_key_menu">Menu tlačítko</string>	
+    <string name="screen_key_recent_apps">Naposledy spuštěné tlačítko</string>	
     <string name="screen_rotation_freeze_message">Otáčení obrazovky uzamčeno v režimu na šířku</string>
     <string name="screenshot_failed_text">"Nelze uložit screenshot. Úložistě se používá."</string>
     <string name="screenshot_failed_title">"Nelze vytvořit screenshot."</string>
@@ -172,26 +187,30 @@
     <string name="settings_toggle_position_divider_page">%1$d přepínačů nad čarou je aktivních</string>
     <string name="settings_toggle_position_reset">Obnovit výchozí nastavení</string>
     <string name="status_bar_accessibility_dismiss_recents">Zavřít nedávné aplikace</string>
+    <string name="share">Sdílet</string>
     <string name="status_bar_clear_all_button">Vyčistit</string>
     <string name="status_bar_date_format">d.MMMM yyyy</string>
     <string name="status_bar_date_formatter">%2$s</string>
     <string name="status_bar_do_not_disturb_button">Nerušit</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Nastavení vstupu</string>
     <string name="status_bar_latest_events_title">Notifikace</string>
-    <string name="status_bar_network_flow">"Za dnešní den: %1$s  Zbývá: %2$s"</string>
-    <string name="status_bar_network_flow_today">Za dnešní den: %1$s</string>
+    <string name="status_bar_network_flow">"Dnes: %1$s  Zbývá: %2$s Balíček: %3$s"</string>
+    <string name="status_bar_network_flow_exceed">"Dnes: %1$s | Překročené: %2$s | Balíček: %3$s"</string>	
+    <string name="status_bar_network_flow_today">Dnes: %1$s</string>
     <string name="status_bar_network_name_separator">"\n"</string>
+    <string name="status_bar_notification_inspect_item_title">App info</string>
     <string name="status_bar_no_notifications_title">Žádné notifikace</string>
     <string name="status_bar_no_recent_apps">Žádné nové aplikace</string>
     <string name="status_bar_ongoing_events_title">Probíhající</string>
     <string name="status_bar_please_disturb_button">Zobrazit notifikace</string>
-    <string name="status_bar_recent_clear_nothing_result">Žádná paměť k uvolnění</string>
-    <string name="status_bar_recent_clear_result">"Vymazáno %1$s.Aktuální dostupná paměť je %2$s."</string>
+    <string name="status_bar_recent_clear_result">Vymazané: %1$s. | Dostupné: %2$s.</string>
     <string name="status_bar_recent_guide_all">Přetažením nahoru ukončíte, přetažením dolů uzamknete</string>
     <string name="status_bar_recent_guide_bottom">Přetažením dolů uzamknete</string>
     <string name="status_bar_recent_guide_top">Přetažením nahoru ukončíte</string>
     <string name="status_bar_recent_inspect_item_title">Info o aplikaci</string>
+    <string name="status_bar_recent_memory_info">%1$s / %2$s</string>	
     <string name="status_bar_recent_remove_item_title">Odstranit ze seznamu</string>
+    <string name="status_bar_recent_clear_nothing_result">Žádná paměť k uvolnění</string>
     <string name="status_bar_settings_airplane">Letadlo</string>
     <string name="status_bar_settings_auto_brightness_label">AUTO</string>
     <string name="status_bar_settings_auto_rotation">Otáčení</string>
@@ -243,6 +262,7 @@
     <string name="tab_toggles_lable">Přepínače</string>
     <string name="title_usb_accessory">USB příslušenství</string>
     <string name="to_vibrate_settings">Nastavení vibrací</string>
+    <string name="toast_rotation_locked">Obrazovka je zamknutá naležato.</string>	
     <string name="torch_activity_hint">Svítilnu můžete také zapnout podržením tlačítka Home v zamykací obrazovce</string>
     <string name="torch_activity_name">Svítilna</string>
     <string name="usb_accessory_confirm_prompt">Otevřít %1$s když je připojeno USB příslušenství?</string>
