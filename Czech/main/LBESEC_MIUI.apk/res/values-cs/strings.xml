@@ -106,11 +106,8 @@
     <string name="HIPS_Perm_MobileNetwork">Mobilní data</string>
     <string name="HIPS_Perm_MobileNetwork_Desc">Přístup k Internetu přes mobilní data (3G apod.)</string>
     <string name="HIPS_Perm_MobileNetwork_Hint">%1$s aplikace mají povolení pro přístup na Internet přes mobilní síť</string>
-    <string name="HIPS_Perm_Network">Internet</string>
     <string name="HIPS_Perm_Network_Accept">Přijmout připojení od %1$s</string>
     <string name="HIPS_Perm_Network_Connect">připojeno k %1$s</string>
-    <string name="HIPS_Perm_Network_Desc">Internet</string>
-    <string name="HIPS_Perm_Network_Hint">%1$s aplikace mají povolení pro přístup na Internet</string>
     <string name="HIPS_Perm_Network_Listen">naslouchat portu %1$s</string>
     <string name="HIPS_Perm_Network_MobileEvent">Použít mobilní síť</string>
     <string name="HIPS_Perm_Network_Recv">přijmout data</string>
