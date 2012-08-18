@@ -8,14 +8,12 @@
     <string name="cant_remove_folder">Nelze smazat složky které nejsou prázdné</string>
     <string name="cant_remove_retained_app">Nelze odinstalovat aplikace přizpůsobené vaším operátorem</string>
     <string name="cant_remove_system_app">Systémové aplikace nelze odinstalovat</string>
+    <string name="chooser_wallpaper">Vybrat pozadí z</string>    
     <string name="confirm_btn_label">OK</string>
     <string name="default_folder_title_game">Hry</string>
     <string name="default_folder_title_recommend">Doporučené</string>
     <string name="default_folder_title_security">Centrum zabezpečení</string>
     <string name="default_folder_title_tools">Nástroje</string>
-    <string name="durationformatlong" formatted="false">%1$d:%3$02d:%5$02d</string>
-    <string name="durationformatshort" formatted="false">%2$2d:%5$02d</string>
-    <string name="durationformatshort_padding_with_0" formatted="false">%2$02d:%5$02d</string>
     <string name="edit_folder_title">Úprava názvu složky</string>
     <string name="editing_tips">Přidat nebo odebrat Widget</string>
     <string name="emptyplaylist">Seznam skladeb je prázdný</string>
@@ -35,18 +33,14 @@
     <string name="gadget_photo_44_label">Fotorámeček 4x4</string>
     <string name="gadget_weather_app_not_installed">Prosím nainstalujte MIUI počasí</string>
     <string name="gadget_weather_loading">Žádná data o počasí</string>
-    <string name="gadget_weather_time_format">EEE D.M.</string>
-    <string name="gadget_weather_time_spliter">:</string>
     <string name="gadget_weather_title_14">Počasí 1X4</string>
     <string name="gadget_weather_title_24">Počasí 2X4</string>
-    <string name="gadget_weather_to">转</string>
     <string name="global_search_hint">Vložte hledaný výraz</string>
     <string name="group_folder">Nová složka</string>
     <string name="group_live_folders">Složky</string>
     <string name="group_shortcuts">Zástupci</string>
     <string name="guide_tips_editing_mode">Podržte prst na widgetu pro jeho přetažení na obrazovku</string>
     <string name="home_indicator">bottom_point</string>
-    <string name="chooser_wallpaper">Vybrat pozadí z</string>
     <string name="install">Instalovat</string>
     <string name="invalid_contact_shortcut">Neplatný zástupce kontaktu</string>
     <string name="menu_add">Přidat</string>
@@ -106,6 +100,8 @@
     <string name="uninstall">Odinstalovat</string>
     <string name="uninstall_body_format">Odinstalovat aplikaci \"%s\"?</string>
     <string name="unknown_artist_name">Neznámý interpret</string>
+    <string name="upside_apps_title">Vyberte aplikaci</string>
+    <string name="upside_edit_bottom_empty_tip">Klepněte na obdélník pro editaci</string>
     <string name="wallpaper_scrolling">vše</string>
     <string name="widget_favorite_contacts_edit">Editor</string>
     <string name="widget_favorite_contacts_label">Oblíbené</string>
