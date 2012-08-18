@@ -28,7 +28,6 @@
     <string name="camera_connected">Fotoaparát byl připojen.</string>
     <string name="camera_disconnected">Fotoaparát byl odpojen.</string>
     <string name="camera_folder_display_name">Fotky z fotoaparátu</string>
-    <string name="camera_path">/DCIM/Camera</string>
     <string name="camera_setas_wallpaper">Tapeta</string>
     <string name="cancel">Zrušit</string>
     <string name="cancel_bookmark">Odebrat z oblíbených</string>
@@ -60,8 +59,6 @@
     <string name="description">Popis</string>
     <string name="deselect_all">Odznačit vše</string>
     <string name="details">Podrobnosti</string>
-    <string name="details_hms">%1$d:%2$02d:%3$02d</string>
-    <string name="details_ms">%1$02d:%2$02d</string>
     <string name="details_title">%1$d z %2$d položek:</string>
     <string name="disallowed_operation">Médium nepodporuje tuto operaci</string>
     <string name="documentary">Dokument</string>
@@ -77,6 +74,7 @@
     <string name="exposure_time">Doba expozice</string>
     <string name="facelift">Zářivý obličej</string>
     <string name="facetan">Opálený obličej</string>
+    <string name="fail_init_gallery_db_helper">Aplikace je zamknutá, nelze otevřít databázi galerie, paměť je plná.</string>
     <string name="fail_to_load">"Nelze načíst"</string>
     <string name="failure_external_storage_not_writable">Na externí úložiště nelze ukládat!</string>
     <string name="file_info_create_time">Vytvořeno:</string>
@@ -161,6 +159,7 @@
     <string name="no_file">Soubory nenalezeny</string>
     <string name="no_files">Složka je prázdná</string>
     <string name="no_location">Neznámá poloha</string>
+    <string name="no_map_app">Žádná aplikace pro mapy</string>
     <string name="no_recent_album">Můžete si dát často používané alba jako oblíbené pro rychlejší prohlížení..</string>
     <string name="no_storage_disable_cloud_albums">Alba v Cloudu jsou zakázána; zkuste to prosím znovu až bude k dispozici externí úložiště.</string>
     <string name="no_storage_message">Externí úložiště nedostupné.</string>
