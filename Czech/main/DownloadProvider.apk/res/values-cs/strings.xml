@@ -28,7 +28,7 @@
     <string name="permlab_downloadManagerAdvanced">Pokročilé funkce správce stahování.</string>
     <string name="permlab_downloadWithoutNotification">stahovat soubory bez upozornění</string>
     <string name="permlab_seeAllExternal">Zobrazit stahování – USB</string>
-    <string name="wifi_recommended_body">"Spuštění tohoto stahování se může zkrátit životnost baterie a nebo mít za následek nadměrné používání vašeho mobilního datového připojení.\nDotkněte se \"Fronta\" pro zařazení do fronty a následném stažení po připojení k WiFi\n Můžete změnit výchozí nastavení v \"Nastavení\" předvolby."</string>
+    <string name="wifi_recommended_body">"Spuštění tohoto stahování může zkrátit životnost baterie a nebo mít za následek nadměrné používání vašeho mobilního datového připojení.\nDotkněte se možnosti %s pro zařazení do fronty a následném stažení po připojení k WiFi\n Můžete změnit výchozí nastavení v \"Nastavení\" předvolby."</string>
     <string name="wifi_recommended_title">Zařadit do fronty pro pozdější stažení?</string>
     <string name="wifi_required_body" formatted="false">"K dokončení tohoto stahování o velikosti %s  je třeba připojení Wi-Fi.\nChcete-li stahování spustit při příštím připojení k síti Wi-Fi, dotkněte se možnosti %s ."</string>
     <string name="wifi_required_title">Stahovaný soubor je pro síť operátora příliš velký</string>
