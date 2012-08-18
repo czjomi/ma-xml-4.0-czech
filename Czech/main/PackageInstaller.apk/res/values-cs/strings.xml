@@ -42,7 +42,6 @@
     <string name="uninstall_failed">Odinstalace nebyla úspěšná.</string>
     <string name="uninstall_failed_device_policy_manager">Nelze odinstalovat: tento balíček je aktivním správcem zařízení.</string>
     <string name="uninstall_failed_msg">Aplikaci %1$s nelze odinstalovat.</string>
-    <string name="uninstall_failed_retained_app_msg">Aplikace přizpůsobené operátorem nelze odinstalovat</string>
     <string name="uninstall_update_text">Aplikace bude nahrazena výchozí verzí z výroby.</string>
     <string name="uninstall_update_title">Odinstalovat aktualizaci</string>
     <string name="uninstalling">Probíhá odinstalace...</string>
