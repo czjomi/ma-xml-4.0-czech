@@ -57,8 +57,12 @@
     <string name="account_settings_vibrate_when_never">Nikdy</string>
     <string name="account_settings_vibrate_when_silent">Pouze v tichém režimu</string>
     <string name="account_settings_vibrate_when_summary">Při příchodu e-mailu také vibrovat</string>
+    <string name="account_setup_account_type_exchange_action">Exchange</string>
+    <string name="account_setup_account_type_exchange_action_alternate">Microsoft Exchange ActiveSync</string>
     <string name="account_setup_account_type_headline">Typ účtu</string>
+    <string name="account_setup_account_type_imap_action">IMAP</string>
     <string name="account_setup_account_type_instructions">O jaký typ účtu se jedná?</string>
+    <string name="account_setup_account_type_pop_action">POP3</string>
     <string name="account_setup_account_type_title">Nastavení účtu</string>
     <string name="account_setup_basics_default_label">Ve výchozím nastavení odesílat e-maily z tohoto účtu.</string>
     <string name="account_setup_basics_email_label">E-mailová adresa</string>
@@ -186,6 +190,7 @@
     <string name="attachment_not_found">Přílohu nelze stáhnout.</string>
     <string name="bcc">Skrytá kopie</string>
     <string name="body_hint">Napsat e-mail</string>
+    <string name="build_number">20080722-0001</string> 
     <string name="cancel">Zrušit</string>
     <string name="cancel_action">Zrušit</string>
     <string name="cannot_move_multiple_accounts_toast">Přesun nelze uskutečnit, protože vybrané zprávy pocházejí z různých účtů.</string>
@@ -208,10 +213,19 @@
     <string name="contextmenu_send_mail">Odeslat e-mail</string>
     <string name="contextmenu_sharelink">Sdílet odkaz</string>
     <string name="contextmenu_sms_dot">SMS...</string>
-    <string name="copy">Kopírovat e-mailovou adresu</string>
+    <string name="copy_email">Kopírovat e-mailovou adresu</string>
+    <string name="copy_number">Kopírovat číslo telefonu</string>
     <string name="create_action">Vytvořit novou</string>
-    <string name="debug_title">Ladit</string>
+    <string name="debug_clear_webview_cache">Vymazat cache WebView</string>
+    <string name="debug_disable_graphics_acceleration_label">Zakázat HW akceleraci UI</string>
+    <string name="debug_enable_debug_logging_label">Zapnout debug log?</string>
+    <string name="debug_enable_exchange_file_logging_label">Zapnout logování Exchange z SD karty?</string>
+    <string name="debug_enable_exchange_logging_label">Enable exchange parser logging? (Extremely verbose)</string>
+    <string name="debug_enable_strict_mode_label">Povolit v omezeném režimu (s logováním)</string>
+    <string name="debug_force_one_minute_refresh_label">Vynutit 1-minutovou aktualizaci pro POP / IMAP</string>
+    <string name="debug_title">Ladění</string>
     <string name="debug_version_fmt">Verze: %s</string>
+    <string name="default_signature">Odeslané z MIUI</string>
     <string name="delete_action">Smazat</string>
     <string name="delete_quick_response_action">Smazat</string>
     <string name="destination_format" formatted="false">%1$s „%2$s“</string>
@@ -226,6 +240,7 @@
     <string name="dialog_sync_all_server_error">Při komunikaci se serverem došlo k potížím. Zkuste to prosím znovu později.</string>
     <string name="disable_admin_warning">UPOZORNĚNÍ: Deaktivujete-li oprávnění aplikace E-mail spravovat toto zařízení, budou smazány všechny účty aplikace E-mail, které toto oprávnění vyžadují. Společně s těmito účty budou smazány i všechny jejich e-maily, kontakty, události v kalendářích a další údaje.</string>
     <string name="discard_action">Zrušit</string>
+    <string name="done">Návrat</string>    
     <string name="done_action">Hotovo</string>
     <string name="edit_quick_response_dialog">Upravit rychlou odpověď</string>
     <string name="eml_view_title">Zobraz. souboru %s</string>
@@ -261,11 +276,11 @@
     <string name="general_preferences_clear_trusted_senders_summary">Obrázky ve zprávách se automaticky nezobrazí</string>
     <string name="general_preferences_clear_trusted_senders_title">Dotazovat se na zobrazování obrázků</string>
     <string name="header_label_general_preferences">Obecné</string>
-    <string name="chips_waiting_for_directory_result">Čeká se na další kontakty</string>
     <string name="choose_attachment_dialog_title">Výběr přílohy</string>
     <string name="choosertitle_sharevia">Sdílet pomocí</string>
     <string name="login_failed_ticker">Přihlášení selhalo: %s</string>
     <string name="login_failed_title">Přihlášení se nezdařilo.</string>
+    <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>   
     <string name="mailbox_list_account_selector_account_header">Účty</string>
     <string name="mailbox_list_account_selector_combined_view">Kombinované zobrazení</string>
     <string name="mailbox_list_account_selector_mailbox_header_fmt">Nejnovější složky (%s)</string>
@@ -279,6 +294,12 @@
     <string name="mailbox_name_display_sent">Odeslaná pošta</string>
     <string name="mailbox_name_display_trash">Koš</string>
     <string name="mailbox_name_display_unread">Nepřečtené</string>
+    <string name="mailbox_name_server_drafts">Drafts</string>
+    <string name="mailbox_name_server_inbox">Inbox</string>
+    <string name="mailbox_name_server_junk">Junk</string>
+    <string name="mailbox_name_server_outbox">Outbox</string>
+    <string name="mailbox_name_server_sent">Sent</string>
+    <string name="mailbox_name_server_trash">Trash</string> 
     <string name="mailbox_preferences_header">Nastavení synchronizace</string>
     <string name="mailbox_settings_action">Možnosti synchronizace</string>
     <string name="mailbox_settings_activity_title">Možnosti synchronizace</string>
@@ -375,6 +396,7 @@
     <string name="more_than_999">999+</string>
     <string name="move_action">Přesunout</string>
     <string name="move_to_folder_dialog_title">Přesunout do</string>
+    <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
     <string name="next_action">Další</string>
     <string name="notification_multiple_new_messages_fmt">Nové zprávy: %1$d</string>
     <string name="notification_to_account">komu: %1$s</string>
@@ -483,6 +505,7 @@
     <string name="settings_action">Nastavení</string>
     <string name="settings_activity_title">Nastavení</string>
     <string name="show_quick_text_list_dialog_action">Vložit rychlou odpověď</string>
+    <string name="single_new_message_notification_big_text">"%1$s%2$s"</string>   
     <string name="status_loading_messages">Načítání zpráv...</string>
     <string name="status_network_error">Problém s připojením.</string>
     <string name="subject_hint">Předmět</string>
@@ -525,6 +548,7 @@
     <string name="widget_all_mail">Všechny Doručené p.</string>
     <string name="widget_loading">Načítání...</string>
     <string name="widget_no_accounts">Zatím jste nenastavili e-mailový účet.</string>
+    <string name="widget_no_mailboxes">"Tento účet není synchronizovaný. Zkuste to znovu později."</string>
     <string name="widget_other_views">Změníte klepnutím na ikonu.</string>
     <string name="widget_starred">S hvězdičkou</string>
     <string name="widget_touch_to_configure">Dotykem nastavíte.</string>
