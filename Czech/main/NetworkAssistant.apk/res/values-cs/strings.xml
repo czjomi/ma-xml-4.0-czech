@@ -39,7 +39,7 @@
     <string name="dialog_button_adjust">Upravit</string>
     <string name="disable_background_connect_warning">Pokud zakážete připojování k internetu na pozadí, některé aplikace, nebo služby nebudou moct použít 2g/3g internet. Opravdu chcete pokračovat?</string>
     <string name="disable_background_mobile_connect">Připojení na pozadí zakázáno</string>
-    <string name="edit_frame_free_traffic_title">Zbývající data v balíčku</string>
+    <string name="edit_frame_free_traffic_title">Velikost datového balíčku</string>
     <string name="edit_frame_month_start_title">Monitorovat ode dne:</string>
     <string name="edit_frame_warning_title">Varovná hodnota</string>
     <string name="empty" />
