@@ -1182,8 +1182,8 @@
     <string name="runningservices_settings_summary">Umožňuje zobrazit a ovládat aktuálně spuštěné služby</string>
     <string name="runningservices_settings_title">Spuštěné služby</string>
     <string name="scan_list_label">Výsledky skenování:</string>
-    <string name="screen_button_custom">Úprava pozice tlačítka na displeji</string>    	
-    <string name="screen_button_key">Virtuální tlačítko na displeji</string>	
+    <string name="screen_button_custom">Úprava pozic tlačítek na displeji</string>    	
+    <string name="screen_button_key">Virtuální tlačítka na displeji</string>	
     <string name="screen_compatibility_label">Kompatibilita s obrazovkou</string>
     <string name="screen_compatibility_text">Tato aplikace nejspíš není určena pro vaši obrazovku. Zde můžete nastavit, jak se aplikace obrazovce přizpůsobí.</string>
     <string name="screen_timeout">Vypnutí displeje</string>

@@ -149,7 +149,7 @@
     <string name="recent_apps_key">Naposledy spuštěné</string>	
     <string name="recent_apps_key_show">Zobrazit naposledy spuštěné</string>	
     <string name="return_to_incall_screen">Stiskněte pro návrat k hovoru</string>
-    <string name="screen_button_custom">Přizpůsobit pozici tlačítka</string>	
+    <string name="screen_button_custom">Přizpůsobení pozic tlačítek</string>	
     <string name="screen_button_disabled_message">Tlačítka pod displayem jsou vypnuta. Můžete je zapnout stiskem tlačítek \"Home\" a \"Power\"</string>
     <string name="screen_button_enabled_message">Tlačítka pod displayem jsou zapnuta</string>
     <string name="screen_button_notification_text">"Stiskněte 'Home'+'Power' pro opětovné zapnutí"</string>
