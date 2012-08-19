@@ -1616,7 +1616,7 @@
     <string name="virus_scan_app_uninstall">Hromadná odinstalace (%d)</string>
     <string name="virus_scan_app_waiting">Čekání na</string>
     <string name="virus_scanner_scan">Skenovat</string>
-    <string name="virus_scanner_scanning">Skenování...</string>
+    <string name="virus_scanner_scanning">AntiVirus</string>
     <string name="virus_scanner_select_Cancel">Zrušit</string>
     <string name="virus_scanner_select_lib">Virová databáze</string>
     <string name="virus_scanner_select_multi">Vybrání více, než jedné virové databáze. Bude vyžadována reinstalace</string>
