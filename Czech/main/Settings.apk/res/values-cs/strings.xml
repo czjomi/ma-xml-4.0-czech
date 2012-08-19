@@ -1604,7 +1604,7 @@
     <string name="virus_scan_app_find_risk">%d je podezřelých，doporučuje se je odinstalovat.</string>
     <string name="virus_scan_app_finish">Dokončeno</string>
     <string name="virus_scan_app_force_stop">Skenování zastaveno.</string>
-    <string name="virus_scan_app_is_stop_scan">Chcete zastavit Skener Virusů?</string>
+    <string name="virus_scan_app_is_stop_scan">Chcete zastavit AntiVirus?</string>
     <string name="virus_scan_app_multi_engines">Vyberte nástroj, skenování může trvat déle</string>
     <string name="virus_scan_app_no_risk">Nebyla detekována hrozba.</string>
     <string name="virus_scan_app_passed">Skenování bylo úspěšně dokončeno.</string>
@@ -1623,7 +1623,7 @@
     <string name="virus_scanner_select_OK">OK</string>
     <string name="virus_scanner_select_single">Zvolte virovou databázi</string>
     <string name="virus_scanner_select_trust_lib">Zvolte knihu virusů</string>
-    <string name="virus_scanner_title">Skener virusů</string>
+    <string name="virus_scanner_title">AntiVirus</string>
     <string name="virus_scanner_update_lib">Aktualizovat virovou databázi</string>
     <string name="voice_category">Řeč</string>
     <string name="voice_input_output_settings">Hlasový vstup a výstup</string>
