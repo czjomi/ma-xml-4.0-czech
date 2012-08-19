@@ -51,6 +51,8 @@
     <string name="install_file_explorer">Nainstalujte si správce souborů prosím</string>
     <string name="install_rom_from_sd">Vyberte soubor s ROM</string>
     <string name="install_whole_rom">Doporučujeme vám stáhnout si kompletní balíček pro upgrade systému</string>
+    <string name="kernel_upgrade_link" />
+    <string name="kernel_upgrade_version" />
     <string name="loading">Připojení na MIUI</string>
     <string name="md5_check_cancelled">Ověření kontrolního součtu zrušeno</string>
     <string name="mione_update_fail_description">Prosím spusťte aktualizaci znovu</string>
@@ -99,8 +101,8 @@
     <string name="share_update_content_unsign">MIUI aktualizováno na %1$s! Pro detailní seznam změn, prosím shlédněte %2$s</string>
     <string name="sign_in_add_account_helper">Váš telefon nemá nakonfigurován účet MIUI, přihlašte se k MIUI.</string>
     <string name="sign_in_info">"Vaše hodnocení aktualizace %1$s %2$s si stáhlo %3$s uživatelů"</string>
-    <string name="sign_in_info_rank_more">"Vaše hodnocení aktualizace po %1$s. Více než %2$ uživatelů doporučilo WIUI %3$s"</string>
-    <string name="sign_in_info_total_more">"Vaše hodnocení aktualizace %1$s. Více než %2$ uživatelů doporučilo MIUI %3$s"</string>
+    <string name="sign_in_info_rank_more">"Vaše hodnocení aktualizace po %1$s. Více než %2$s uživatelů doporučilo MIUI %3$s"</string>
+    <string name="sign_in_info_total_more">"Vaše hodnocení aktualizace %1$s. Více než %2$s uživatelů doporučilo MIUI %3$s"</string>
     <string name="stable_build">Stabilní sestavení</string>
     <string name="start_update">Aktualizovat</string>
     <string name="submit">Odeslat</string>
