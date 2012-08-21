@@ -1761,7 +1761,7 @@
     <string name="wifi_p2p_wps_setup">Chráněné nastavení Wi-Fi</string>
     <string name="wifi_password">Heslo</string>
     <string name="wifi_poor_network_detection">Vyhýbat se špatným připojením</string>
-    <string name="wifi_poor_network_detection_summary">"Nepoužívatť Wi-Fi sítě, pokud nemají dobrý signál"</string>
+    <string name="wifi_poor_network_detection_summary">"Nepoužívat Wi-Fi sítě, pokud nemají dobrý signál"</string>
     <string name="wifi_quick_toggle_summary">Zapnout WiFi</string>
     <string name="wifi_quick_toggle_title">WiFi</string>
     <string name="wifi_remembered">Uloženo</string>
