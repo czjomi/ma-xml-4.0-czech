@@ -710,7 +710,7 @@
     <string name="filter_apps_third_party">Stažené</string>
     <string name="filter_dlg_title">Vyberte možnosti filtru</string>
     <string name="finish_button_label">Dokončit</string>
-    <string name="firmware_version">Verze systému Android</string>
+    <string name="firmware_version">Verze Android:</string>
     <string name="font_size_huge">Obrovské</string>
     <string name="font_size_large">Velké</string>
     <string name="font_size_medium">Střední</string>
@@ -965,7 +965,7 @@
     <string name="misc_files_selected_count">vybráno: %1$d z %2$d</string>
     <string name="misc_files_selected_count_bytes">%1$s z %2$s</string>
     <string name="mms_vibrate_abbreviation">Zprávy</string>
-    <string name="model_number">Označení modelu</string>
+    <string name="model_number">Označení modelu:</string>
     <string name="move_app">Přesunout</string>
     <string name="move_app_failed_dlg_text">Přesunutí aplikace  %1$s se nezdařilo.</string>
     <string name="move_app_failed_dlg_title" />
@@ -1088,7 +1088,7 @@
     <string name="quick_launch_summary">Umožňuje nastavit klávesové zkratky pro spouštění aplikací</string>
     <string name="quick_launch_title">Rychlé spuštění</string>
     <string name="radio_controls_summary">Spravovat Wi-Fi, Bluetooth, režim V letadle, mobilní sítě a sítě VPN</string>
-    <string name="radio_controls_title">Další...</string>
+    <string name="radio_controls_title">Další</string>
     <string name="radio_info_band_mode_label">Zvolit pásmo rádia</string>
     <string name="radio_info_call_redirect_label">Přesměrované hovory:</string>
     <string name="radio_info_call_status_label">Stav hovoru:</string>
