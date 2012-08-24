@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Nminutes">
-        <item quantity="other">%d minut</item>
-        <item quantity="one">1 minuta</item>
+        <item quantity="other">%d min</item>
+        <item quantity="one">1 min</item>
     </plurals>
     <plurals name="Nmins">
         <item quantity="other">%d min</item>
@@ -13,14 +13,22 @@
         <item quantity="one">1 hodina</item>
     </plurals>
     <plurals name="Ndays">
-        <item quantity="other">%d dnů</item>
+        <item quantity="other">%d dní</item>
         <item quantity="one">1 den</item>
     </plurals>
     <plurals name="weekN">
-        <item quantity="other">%d. TÝDEN</item>
+        <item quantity="other">%d. týdet</item>
     </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
-        <item quantity="one">1.0</item>
+        <item quantity="one">+1</item>
+    </plurals>
+	<plurals name="Nevents">
+        <item quantity="other">%d události</item>
+        <item quantity="one">1 událost</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d události</item>
+        <item quantity="one">+1 událost</item>
     </plurals>
 </resources>
