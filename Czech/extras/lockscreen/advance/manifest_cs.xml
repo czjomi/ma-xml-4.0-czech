@@ -156,6 +156,10 @@
         <!-- 此endpoint只为显示圆盘动画，不会有PressedState和ReachedState切换 -->
         <EndPoint x="0" y="0" w="0" h="0">
             <PressedState>
+                <FramerateController>
+                    <ControlPoint time="0" frameRate="50"/>
+                    <ControlPoint time="500" frameRate="0"/>
+                </FramerateController>
 		        <Group>
                     <AlphaAnimation>
                         <Alpha a="0" time="0"/>
@@ -255,7 +259,7 @@
                         <Alpha a="0" time="1000000000000000"/>
                     </AlphaAnimation>
                     <!-- 低电状态 low battery -->
-                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(2,#battery_state)" color="#80FF0000" size="18" format="Nízký stav baterie (%d%%)" paras="#battery_level">
+                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(2,#battery_state)" color="#80FF0000" size="18" format="Připojte nabíječku (%d%%)" paras="#battery_level">
                     </Text>
 
                     <!-- 充电进度 charging -->
@@ -389,7 +393,7 @@
                         <Alpha a="128" time="1000000000000000"/>
                     </AlphaAnimation>
                     <!-- 低电状态 low battery -->
-                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(2,#battery_state)" color="#80FF0000" size="18" format="Nízký stav baterie (%d%%)" paras="#battery_level">
+                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(2,#battery_state)" color="#80FF0000" size="18" format="Připojte nabíječku (%d%%)" paras="#battery_level">
                     </Text>
 
                     <!-- 充电进度 charging -->
