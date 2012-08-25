@@ -23,6 +23,7 @@
     <string name="description_version">Verze:</string>
     <string name="download_failed">Stahování neúspěšné</string>
     <string name="download_preview_failed">Stahování náhledu neúspěšné</string> 
+    <string name="find_device_sim_change_instructions">"Vaše zařízení bylo zablokované. Vložte SIM kartu nebo Vaše heslo pro účet Xiaomi."</string>
     <string name="firewall_setting">Režim Nerušit</string>
     <string name="first_back_long_press_message">"Chcete používat dlouhé stlačení klávesy Zpět k zabití aktivní aplikace? Funkci zapnete přes Nastavení > Systém > Tlačítka"</string>
     <string name="first_back_long_press_title">Dlouhé stlačení klávesy Zpět</string>
@@ -70,6 +71,10 @@
     <string name="payphone">Telefonní automat</string>
     <string name="perm_get_user_info_dspt">Zobrazit detaily účtu Xiaomi</string>
     <string name="perm_get_user_info_lab">Získat informace o účtě Xiaomi</string>
+    <string name="perm_tigger_toggle_dspt">Povolit aplikacím použít přepínače ve stav. liště</string>
+    <string name="perm_tigger_toggle_lab">Použít přepínače ze stav. lišty</string>
+    <string name="perm_use_find_device">Zjistit polohu zařízení</string>
+    <string name="perm_use_pin_security">Použít zabezpečení PIN</string>
     <string name="private_num">Soukromé číslo</string>
     <string name="processing">Zpracovávám ...</string>
     <string name="reboot_confirm">Telefon se restartuje</string>

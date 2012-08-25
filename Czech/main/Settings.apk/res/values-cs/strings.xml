@@ -456,6 +456,9 @@
     <string name="complete_settings">Kompletní nast.</string>
     <string name="computing_size">Probíhá výpočet…</string>
     <string name="config_list_label">Konfigurované sítě</string>
+    <string name="config_mass_storage_function_name">mass_storage</string>
+    <string name="config_mtp_function_name">mtp</string>
+    <string name="config_ptp_function_name">ptp</string>
     <string name="configure_input_method">Nastavit metody vstupu</string>
     <string name="confirm_erase">Potvrdit vymazání</string>
     <string name="confirm_new_backup_pw_prompt">Sem znovu zadejte aktuální heslo pro úplné zálohy.</string>
@@ -1849,10 +1852,12 @@
     <string name="wifi_unchanged">(nezměněno)</string>
     <string name="wifi_unspecified">(neurčeno)</string>
     <string name="wifi_update">Obnovit statistiku</string>
+    <string name="wifi_wapi_as_cert">WAPI AS Certifikát</string>	
     <string name="wifi_wapi_as_certificate">AS certifikát</string>
     <string name="wifi_wapi_fail_to_auth">"WAPI autentizace selhala. Prosím zkontrolujte pravost certifikátů"</string>
     <string name="wifi_wapi_fail_to_init">"Není možné otevřít WAPI certifikáty"</string>
     <string name="wifi_wapi_psk_type">Typ hesla</string>
+    <string name="wifi_wapi_user_cert">WAPI User Certifikát</string>
     <string name="wifi_wapi_user_certificate">Uživatelský certifikát</string>
     <string name="wifi_wps_available_first_item">Je k dispozici chráněná síť</string>
     <string name="wifi_wps_available_second_item">" (k dispozici je chráněná síť)"</string>
