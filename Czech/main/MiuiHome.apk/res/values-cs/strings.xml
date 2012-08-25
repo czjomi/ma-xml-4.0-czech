@@ -46,8 +46,10 @@
     <string name="menu_add">Přidat</string>
     <string name="menu_back_desktop">Zpět na plochu</string>
     <string name="menu_edit">Upravit widgety</string>
+    <string name="menu_exit_scene">Opustit Free Desktop</string>
     <string name="menu_item_add_item">Přidat na plochu</string>
     <string name="menu_launcher_setting">Nastavení spouštěče</string>
+    <string name="menu_reset_scene">Obnovit na výchozí scénu</string>
     <string name="menu_search">Hledat</string>
     <string name="menu_settings">Nastavení</string>
     <string name="menu_sort">Seřadit ikony na ploše</string>
@@ -79,6 +81,7 @@
     <string name="preferences_general_title">Základní nastavení</string>
     <string name="preferences_title">Nastavení spouštěče</string>
     <string name="process" />
+    <string name="reset_scene_prompt">Scéna bude obnovená do výchozího stavu</string>
     <string name="select_frame">Rám</string>
     <string name="select_photo">Fotka</string>
     <string name="sharedUserId" />
@@ -101,6 +104,8 @@
     <string name="uninstall_body_format">Odinstalovat aplikaci \"%s\"?</string>
     <string name="unknown_artist_name">Neznámý interpret</string>
     <string name="upside_apps_title">Vyberte aplikaci</string>
+    <string name="upside_edit_bar_empty">Prázdné</string>
+    <string name="upside_edit_bar_select_app">Vybrat aplikaci</string>
     <string name="upside_edit_bottom_empty_tip">Klepněte na obdélník pro editaci</string>
     <string name="wallpaper_scrolling">vše</string>
     <string name="widget_favorite_contacts_edit">Editor</string>
