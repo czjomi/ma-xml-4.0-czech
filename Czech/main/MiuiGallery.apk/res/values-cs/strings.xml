@@ -98,7 +98,7 @@
     <string name="gallery_cloud_provider_name">Galerie</string>
     <string name="global_setting">Nastavení</string>
     <string name="grain">Zrnitý film</string>
-    <string name="grayscale">B&amp;W</string>
+    <string name="grayscale">ČB</string>
     <string name="group_by">Seskupit podle</string>
     <string name="group_by_album">Podle alba</string>
     <string name="group_by_faces">Podle osob</string>
@@ -270,6 +270,9 @@
     <string name="sync_only_in_wifi">Pouze Wi-Fi</string>
     <string name="sync_only_in_wifi_summary">Doporučuje se povolit, jinak se zvýší využití dat přes operátora.</string>
     <string name="sync_picasa_albums">Obnovit</string>
+    <string name="tab_all_text">Nastav vše</string>
+    <string name="tab_lockscreen_text">Tapeta zamyk. obr.</string>
+    <string name="tab_wallpaper_text">Tapeta plochy</string>
     <string name="tags">Tagy</string>
     <string name="temperature">Teplo</string>
     <string name="time">Čas</string>
