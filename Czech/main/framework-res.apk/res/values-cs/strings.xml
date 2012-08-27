@@ -1297,7 +1297,7 @@
     <string name="seconds">s</string>
     <string name="security_policy_summary">Zásady šifrování obdrženy od vzdáleného správce</string>
     <string name="security_policy_title">Zásady šifrování</string>
-    <string name="selectAll">Vybrat vše</string>
+    <string name="selectAll">Vše</string>
     <string name="selectTextMode">Vybrat text...</string>
     <string name="select_character">Vkládání znaků</string>
     <string name="select_input_method">Výběr metody zadávání dat</string>
