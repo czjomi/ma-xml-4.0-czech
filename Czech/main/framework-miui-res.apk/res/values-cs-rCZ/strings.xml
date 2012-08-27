@@ -112,7 +112,7 @@
     <string name="sd_not_available_saved_to_internal_storage">Uloženo na interní úložiště</string>
     <string name="sd_not_available_use_internal_storage">SD karta nepřístupná, uloženo na interní úložiště</string>
     <string name="select">Vybrat</string>
-    <string name="select_all">Vybrat vše</string>
+    <string name="select_all">Vše</string>
     <string name="sync_one_time_sync">Klepněte pro synchronizaci (%1$s)</string>
     <string name="text_pastelist">Schránka</string>
     <string name="unknown">Neznámé číslo</string>
