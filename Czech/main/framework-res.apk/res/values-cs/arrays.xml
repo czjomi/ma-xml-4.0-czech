@@ -3,13 +3,13 @@
     <string-array name="emailAddressTypes">
         <item>Domů</item>
         <item>Práce</item>
-        <item>Další</item>
+        <item>(další)</item>
         <item>Vlastní</item>
-        </string-array>
+    </string-array>
     <string-array name="imProtocols">
         <item>AIM</item>
         <item>Windows Live</item>
-        <item>Yahoo</item>
+        <item>Yahoo!</item>
         <item>Skype</item>
         <item>QQ</item>
         <item>Google Talk</item>
@@ -37,19 +37,10 @@
         <item>Ostatní</item>
         <item>Vlastní</item>
     </string-array>
-    <integer-array name="maps_starting_lat_lng">
-        <item>36149777</item>
-        <item>-95993398</item>
-    </integer-array>
-    <integer-array name="maps_starting_zoom">
-        <item>3</item>
-    </integer-array>
-    <string-array name="special_locale_codes">
-        <item>zh_CN</item>
-        <item>zh_TW</item>
-    </string-array>
-    <string-array name="special_locale_names">
-        <item>中文 (简体)</item>
-        <item>中文 (繁體)</item>
+    <string-array name="imAddressTypes">
+        <item>Domů</item>
+        <item>Práce</item>
+        <item>Ostatní</item>
+        <item>Vlastní</item>
     </string-array>
 </resources>

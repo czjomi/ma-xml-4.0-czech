@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_nfc_enabled">NFC povolené.</string>
+    <string name="app_name">Služba Nfc</string>
+    <string name="beam_canceled">Přenos byl zrušen</string>
+    <string name="beam_complete">Přenos byl dokončen</string>
+    <string name="beam_failed">Přenos nebyl dokončen</string>
+    <string name="beam_handover_not_supported">Zařízení příjemce nepodporuje přenos velkých souborů přes funkci Beam.</string>
+    <string name="beam_progress">Příchozí přenos...</string>
+    <string name="beam_touch_to_view">Zobrazte dotykem</string>
+    <string name="cancel">Zrušit</string>
+    <string name="confirm_pairing">Opravdu chcete spárovat zařízení Bluetooth %1$s?</string>
+    <string name="connect_headset_failed">Nepodařilo se připojit</string>
+    <string name="connected_headset">Připojené</string>
+    <string name="connecting_headset">Probíhá připojování</string>
+    <string name="disconnected_headset">Odpojeno</string>
+    <string name="disconnecting_headset">Probíhá odpojování</string>
+    <string name="failed_to_enable_bt">Bluetooth se nepodařilo povolit</string>
+    <string name="inbound_me_profile_text">Dotknutím se přidáte tuto osobu mezi kontakty.</string>
+    <string name="inbound_me_profile_title">Kontakt přijatý přes NFC</string>
+    <string name="nfcUserLabel">Nfc</string>
+    <string name="outbound_me_profile_text">Dotknutím se této osobě odevzdáte svoje kontaktní údaje.</string>
+    <string name="outbound_me_profile_title">Interakce NFC byla dokončena</string>
+    <string name="pair_no">Ne</string>
+    <string name="pair_yes">Ano</string>
+    <string name="pairing_headset">Probíhá párování</string>
+    <string name="pairing_headset_failed">Není možné spárovat</string>
+    <string name="touch">Dotykem spustíte přenos</string>
+</resources>
