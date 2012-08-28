@@ -13,7 +13,7 @@
     <string name="ok">OK</string>
     <string name="paste">Vložit</string>
     <string name="search_go">Hledat</string>
-    <string name="selectAll">Vše</string>
+    <string name="selectAll">Vybrat vše</string>
     <string name="unknownName">(Neznámé)</string>
     <string name="untitled">&lt;Bez názvu></string>
     <string name="VideoView_error_button">OK</string>
@@ -1216,7 +1216,7 @@ pro účet %s."</string>
     <string name="fingerprints">Digitální otisky:</string>
     <string name="sha256_fingerprint">Digitální otisk SHA-256</string>
     <string name="sha1_fingerprint">Digitální otisk SHA-1:</string>
-    <string name="activity_chooser_view_see_all">Zobrazit vše</string>
+    <string name="activity_chooser_view_see_all"><b>Zobrazit vše</b></string>
     <string name="activity_chooser_view_dialog_title_default">Vybrat aktivitu</string>
     <string name="share_action_provider_share_with">Sdílet s</string>
     <string name="status_bar_device_locked">Zařízení je uzamčeno.</string>
