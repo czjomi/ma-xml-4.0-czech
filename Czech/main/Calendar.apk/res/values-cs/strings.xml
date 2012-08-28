@@ -34,7 +34,7 @@
     <string name="birthday_event_title">@string/birthday_notification_title_today</string>
     <string name="birthday_event_description_detail_leap" />
     <string name="birthday_event_description_detail_smart" />
-    <string name="birthday_notification_title_today">"%1$s má narozeniny"</string>
+    <string name="birthday_notification_title_today">%1$s má narozeniny</string>
     <string name="birthday_notification_text_today">Nezapomeňte poblahopřát!</string>
     <string name="birthday_notification_text_three_days_later">Zbývají 3 dny do narozenin (%3$s)</string>
     <string name="birthday_notification_title_three_days_later">%1$s bude mít narozeniny</string>
@@ -112,14 +112,14 @@
     <string name="no_syncable_calendars">Žádné kalendáře</string>
     <string name="no_title_label">(bez názvu)</string>
     <string name="not_synced">není synchronizován</string>
-    <string name="prefDefault_alerts_vibrate_false">never</string>
-    <string name="prefDefault_alerts_vibrate_true">always</string>
-    <string name="prefDefault_alerts_vibrateWhen">never</string>
+    <string name="prefDefault_alerts_vibrate_false">nikdy</string>
+    <string name="prefDefault_alerts_vibrate_true">vždy</string>
+    <string name="prefDefault_alerts_vibrateWhen">nikdy</string>
     <string name="prefDialogTitle_vibrateWhen">Vibrace</string>
     <string name="preferences_about_title">O aplikaci</string>
     <string name="preferences_alerts_popup_title">Vyskakovací oznámení</string>
     <string name="preferences_alerts_ringtone_title">Zvolit vyzvánění</string>
-    <string name="preferences_alerts_title">Oznámení</string>
+    <string name="preferences_alerts_title">Upozornění</string>
     <string name="preferences_alerts_vibrateWhen_title">Vibrace</string>
     <string name="preferences_build_version">Verze sestavení</string>
     <string name="preferences_clear_search_history_summary">Odstranit všechna provedená vyhledávání</string>
@@ -153,7 +153,7 @@
     <string name="response_maybe">Možná</string>
     <string name="response_no">Ne</string>
     <string name="response_yes">Ano</string>
-    <string name="save_label">Hotovo</string>
+    <string name="save_label">Uložit</string>
     <string name="saving_event">Událost byla uložena.</string>
     <string name="saving_event_with_guest">Aktualizace byly odeslány.</string>
     <string name="search">Hledat</string>
