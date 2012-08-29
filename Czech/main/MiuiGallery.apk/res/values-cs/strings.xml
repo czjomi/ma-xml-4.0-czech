@@ -263,6 +263,7 @@
     <string name="straighten">Vyrovnání</string>
     <string name="straighten_tooltip">Táhnutím prstem fotografii narovnáte</string>
     <string name="switch_to_camera">Přepnout do režimu Fotoaparát</string>
+    <string name="sync_album">Synch. album</string>
     <string name="sync_album_error">Stažení fotografií v tomto albu se nezdařilo. Zkuste to prosím později.</string>
     <string name="sync_album_set_error">Stažení seznamu alb se nezdařilo. Zkuste to prosím později.</string>
     <string name="sync_history_power_on">Synchronizovat historii obrázků jen při nabíjení</string>
@@ -285,9 +286,9 @@
     <string name="unit_mm">mm</string>
     <string name="unknown_location">Neznámá lokace</string>
     <string name="untagged">Neoznačeno</string>
-    <string name="video_err">Video nelze přehrát.</string>
+    <string name="video_err">"Video nelze přehrát."</string>
     <string name="video_property">Vlastnosti videa</string>
-    <string name="vignette">Medailonek</string>
+    <string name="vignette">Portrét</string>
     <string name="wallpaper">Tapeta plochy</string>
     <string name="warn">Upozornění</string>
     <string name="white_balance">Vyvážení bílé</string>
