@@ -90,7 +90,7 @@
     <string name="resource_default">Výchozí vyzvánění</string>
     <string name="resource_default_name">Zdroje</string>
     <string name="resource_delete_all">Opravdu chcete smazat %1$d vybraných položek?</string>
-    <string name="resource_delete_confirm">Jste si jistý že chcete smazat?</string>
+    <string name="resource_delete_confirm">Opravdu chcete smazat?</string>
     <string name="resource_detail">Detaily</string>
     <string name="resource_download">Stáhnout</string>
     <string name="resource_downloaded_title">Stáhnout</string>
