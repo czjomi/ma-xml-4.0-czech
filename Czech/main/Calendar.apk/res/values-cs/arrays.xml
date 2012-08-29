@@ -4,7 +4,6 @@
         <item>Notifikace</item>
         <item>E-mail</item>
         <item>SMS</item>
-	<item>Alarm</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
         <item>0 minut</item>
