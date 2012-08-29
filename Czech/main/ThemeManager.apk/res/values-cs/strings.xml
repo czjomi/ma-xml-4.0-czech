@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="all_ringtone_resource">Vše</string>
     <string name="app_name">Témata</string>
     <string name="apply_font_btn_exclude">Aplikovat bez písma</string>
     <string name="apply_font_btn_reboot">Použít a restartovat</string>
@@ -7,7 +8,7 @@
     <string name="apply_lockscreen_paper_tips">Téma zámku obrazovky se právě používá, náhled nového tématu nemusí být viditelný!</string>
     <string name="apply_theme_no_select_message">Prosím zvolte komponenty</string>
     <string name="backup_preference_title">Zálohovat téma</string>
-    <string name="backup_theme_dialog_message">"Zálohování aktuálního tématu do\n%1$s"</string>
+    <string name="backup_theme_dialog_message">Zálohování aktuálního tématu %1$s</string>
     <string name="backup_theme_dialog_ok">Zálohování</string>
     <string name="backup_theme_name">Moje zálohy</string>
     <string name="backup_theme_progress_message">Zálohuji aktuální téma..</string>
@@ -30,9 +31,11 @@
     <string name="live_wallpaper">Živá tapeta</string>
     <string name="lockscreen_wallpaper">Tapeta zámku</string>
     <string name="lockstyle_personal_settings">Přizpůsobení</string>	
+    <string name="long_ringtone_resource">Dlouhé (&gt;5sec)</string>
     <string name="play_all_audio_effect">Přehraj zvukové efekty (celkem: %1$s)</string>
     <string name="resource_fail_to_show">Téma neobsahuje potřebný obsah.</string>
     <string name="resource_preview">Náhled</string>
+    <string name="short_ringtone_resource">Krátké (&lt;5sec)</string>
     <string name="theme_activity_lable">Správce témat</string>
     <string name="theme_component_title_alarm">Budík</string>
     <string name="theme_component_title_all">Téma</string>
@@ -68,6 +71,7 @@
     <string name="title_local">Místní</string>
     <string name="title_online">Online</string>
     <string name="title_system_resource">Systémové položky</string>
+    <string name="wallpaper_crop">Oříznout</string>
     <string name="wallpaper_decoded_error">Nepodařilo se dekódovat</string>
     <string name="wallpaper_loading_text">Nahrávám ...</string>
     <string name="wallpaper_set_as_both">Nastavit obojí</string>
