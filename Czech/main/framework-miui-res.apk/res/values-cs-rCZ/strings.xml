@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="activate">Aktivovat</string>
+    <string name="activate_fail_notification_title">Znovu aktivujte synchronizaci Xiaomi</string>
     <string name="activating">Aktivace...</string>
     <string name="all_resources">Vše</string>
     <string name="android_lockscreen_glogin_instructions">Pro odemknutí se přihlašte ke svému účtu</string>
@@ -34,6 +36,8 @@
     <string name="global_action_privacy_mode_on_status">Režim návštěvník je Zapnutý</string>
     <string name="global_action_privacy_mode_on_toast">Režim návštěvník je zapnutý. Hovory, poznámky, galerie a sms jsou skryty a Spouštěč je uzamknutý.</string>
     <string name="global_action_toggle_privacy_mode">Návštěvník</string>
+    <string name="check_phone_error_title">Otevření synchronizace selhalo</string>
+    <string name="check_phone_io_error">Chyba sítě</string>
     <string name="childrens_day">"Den dětí"</string>
     <string name="chinese_youth_day">Den mládeže</string>
     <string name="christmas_dad">Vánoce</string>
@@ -69,6 +73,7 @@
     <string name="online_no_network">Nemohu se připojit do sítě</string>
     <string name="online_search_hint">Hledat online</string>
     <string name="payphone">Telefonní automat</string>
+    <string name="perm_auto_backup">Automatická záloha</string>
     <string name="perm_get_user_info_dspt">Zobrazit detaily účtu Xiaomi</string>
     <string name="perm_get_user_info_lab">Získat informace o účtě Xiaomi</string>
     <string name="perm_tigger_toggle_dspt">Povolit aplikacím použít přepínače ve stav. liště</string>
@@ -113,6 +118,9 @@
     <string name="sd_not_available_use_internal_storage">SD karta nepřístupná, uloženo na interní úložiště</string>
     <string name="select">Vybrat</string>
     <string name="select_all">Vše</string>
+    <string name="send_sms_for_sync_notice">Systém odešle aktivační SMS, chcete pokračovat?</string>
+    <string name="send_sms_for_sync_title">Odeslat SMS pro aktivaci Synchronizace</string>
+    <string name="sim_changed_reactivate_notice">Současná SIM karta není aktivovaná. Je nutné odeslat SMS zprávu pro aktivaci Xiaomi Synchronizace. Aktivovat teď?</string>
     <string name="sync_one_time_sync">Klepněte pro synchronizaci (%1$s)</string>
     <string name="text_pastelist">Schránka</string>
     <string name="unknown">Neznámé číslo</string>
