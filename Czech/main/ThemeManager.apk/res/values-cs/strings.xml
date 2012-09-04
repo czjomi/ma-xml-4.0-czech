@@ -45,7 +45,7 @@
     <string name="theme_component_title_clock">Hodiny</string>
     <string name="theme_component_title_contact">Vytáčení</string>
     <string name="theme_component_title_font">Písma</string>
-    <string name="theme_component_title_framework">Systém</string>
+    <string name="theme_component_title_framework">Framework</string>
     <string name="theme_component_title_icon">Ikony</string>
     <string name="theme_component_title_launcher">Plocha</string>
     <string name="theme_component_title_lockstyle">Zámek obrazovky</string>
@@ -63,7 +63,7 @@
     <string name="theme_changed_failed_message">Změna tématu se nezdařila!</string>
     <string name="theme_changed_message">Téma %1$s bylo úspěšně změněno!</string>
     <string name="theme_changing_dialog_title">Připravuje se nové téma, čekejte prosím..</string>
-    <string name="theme_import">Importovat</string>
+    <string name="theme_import">Nahrát z SD karty</string>
     <string name="theme_select_others">Ostatní</string>
     <string name="third_party_pickers_activity_title">Nastavit %1$s</string>
     <string name="title_component">Mix</string>
