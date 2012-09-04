@@ -85,10 +85,12 @@
     <string name="browser_history">Nedávno navštívené stránky</string>
     <string name="browserFrameFileErrorLabel">Problém se souborem</string>
     <string name="browserFrameFormResubmitLabel" />
-    <string name="browserFrameFormResubmitMessage">Stránka, kterou se pokoušíte zobrazit, obsahuje data, která již byla potvrzena v (\"POSTDATA\"). Jestliže data odešlete, budete muset formulář znovu vyplnit.</string>
+    <string name="browserFrameFormResubmitMessage">"Stránka, kterou se pokoušíte zobrazit, obsahuje data, která již byla potvrzena v (\"POSTDATA\"). Jestliže data odešlete, budete muset formulář znovu vyplnit."</string>
     <string name="browserFrameNetworkErrorLabel">Problém s připojením</string>
     <string name="cancel">Zrušit</string>
     <string name="cannot_download">Je možné stáhnout jen \"http\" nebo \"https\" URL.</string>
+    <string name="choose_upload">Vybrat soubor pro nahrání</string>	
+    <string name="choosertitle_sharevia">Sdílet přes</string>    
     <string name="clear">Vyčistit</string>
     <string name="clear_history">Vyčistit historii</string>
     <string name="containing_folder">Přidat do</string>
@@ -115,7 +117,7 @@
     <string name="current_page">"z "</string>
     <string name="defaultBookmarksUpButton">Záložky</string>
     <string name="delete">Vymazat</string>	
-    <string name="delete_bookmark_warning">Vymazat záložku \"%s\"?</string>
+    <string name="delete_bookmark_warning">Vymazat záložku „%s”?</string>
     <string name="delete_folder">Vymazat složku</string>
     <string name="delete_multi_bookmarks_alert_title">Opravdu chcete smazat %1$s položek?</string>	
     <string name="disable_autofill">Vypnout automatické vyplňování</string>
@@ -125,11 +127,11 @@
     <string name="download_pending">Začínám stahování…</string>
     <string name="download_sdcard_busy_dlg_msg">SD karta je zaneprázdněna. Zavřete SD kartu a zkuste to znovu.</string>
     <string name="download_sdcard_busy_dlg_title">SD karta je zaneprázdněna</string>
-    <string name="dump_counters">Dump V8 counters</string>
-    <string name="dump_display_tree">Dump display tree to file</string>
-    <string name="dump_dom_tree">Dump DOM tree to file</string>
-    <string name="dump_nav">Dump navigation cache</string>
-    <string name="dump_render_tree">Dump render tree to file</string>
+    <string name="dump_counters">Vypsat počítadla V8</string>
+    <string name="dump_display_tree">Vypsat display strom do souboru</string>
+    <string name="dump_dom_tree">Vypsat DOM strom do souboru</string>
+    <string name="dump_nav">Vypsat navigační cache</string>
+    <string name="dump_render_tree">Vypsat render strom do souboru</string>
     <string name="edit">Upravit</string>	
     <string name="edit_bookmark">Upravit záložku</string>
     <string name="edit_folder">Upravit složku</string>
@@ -142,7 +144,7 @@
     <string name="error_console_header_text_minimized">Ukázat JavaScripovout konzoli</string>
     <string name="exit_browser_warning">Ukončit prohlížeč?</string>
     <string name="export_bookmark">Exportovat záložky</string>
-    <string name="export_bookmark_failure">Velké selhání! Záložky nebyly uloženy na SD kartu!</string>
+    <string name="export_bookmark_failure">Záložky nebyly uloženy na SD kartu!</string>
     <string name="export_bookmark_sucess">Záložky byly úspěšně exportovány na SD kartu!</string>
     <string name="exported_bookmark_file_name">Oblíbené</string>
     <string name="file_picker_new_folder">Nová složka</string>
@@ -156,7 +158,7 @@
     <string name="geolocation_permissions_prompt_toast_allowed">Tato stránka může použít Vaši pozici. Změnit to můžete v Nastavení -> Pokročilé -> Soukromí a bezpečnost</string>
     <string name="geolocation_permissions_prompt_toast_disallowed">Tato stránka nemůže použít Vaši pozici. Změnit to můžete v Nastavení -> Pokročilé -> Soukromí a bezpečnost</string>
     <string name="geolocation_settings_page_dialog_cancel_button">Zrušit</string>
-    <string name="geolocation_settings_page_dialog_message">Odebrat této WWW stránce přístup k Vaší pozici?</string>
+    <string name="geolocation_settings_page_dialog_message">Odebrat této stránce přístup k Vaší pozici?</string>
     <string name="geolocation_settings_page_dialog_ok_button">OK</string>
     <string name="geolocation_settings_page_summary_allowed">Tato stránka má přístup k Vaší pozici</string>
     <string name="geolocation_settings_page_summary_not_allowed">Tato stránka momentálně nemůže zjistit Vaši pozici</string>
@@ -166,10 +168,8 @@
     <string name="goto_dot">Jít</string>
     <string name="history">Historie</string>
     <string name="homepage_base">http://www.google.com/webhp?client={CID}&amp;source=android-home</string>
-    <string name="homepage_set">Domovská stránka nastavena.</string>
+    <string name="homepage_set">Nastavit domovskou stránku.</string>
     <string name="http">http://</string>
-    <string name="choose_upload">Vyber soubor pro nahrání</string>	
-    <string name="choosertitle_sharevia">Sdílet přes</string>    
     <string name="import_bookmark">Importovat záložky</string>
     <string name="import_bookmark_failure">Selhal import záložek!</string>
     <string name="import_bookmark_sucess">Záložky byly úspěšně importovány!</string>
@@ -197,7 +197,7 @@
     <string name="is_page_top">V horní části stránky</string> 
     <string name="js_engine_flags">Nastavit JS přepínače</string>
     <string name="loading_video">Načítám video</string>
-    <string name="loadSuspended">Načítání bylo přerušeno. Připojení není dostupné.</string>
+    <string name="loadSuspended">"Načítání bylo přerušeno. Připojení není dostupné."</string>
     <string name="loadSuspendedTitle">Žádné připojení</string>
     <string name="local_bookmarks">Místní</string>
     <string name="location">Adresa</string>
@@ -210,6 +210,7 @@
     <string name="menu_save_snapshot">Uložit pro čtení offline</string>
     <string name="menu_share_url">Sdílet</string>
     <string name="menu_view_download">Stažené</string>
+    <string name="MIUI_homepage">MIUI Home</string>	
     <string name="miui_yellowpage_category">Kategorie</string>
     <string name="miui_yellowpage_site">Stránka</string>
     <string name="move_to_up_folder">O úroveň výše</string> 	
@@ -220,6 +221,7 @@
     <string name="new_tab">Nový panel</string>
     <string name="no_subfolders">Žádné podsložky.</string>
     <string name="not_remind_again">Znovu nepřipomínat</string> 
+    <string name="no_subfolders">Žádné podsložky.</string>	
     <string name="ok">OK</string>
     <string name="open_all_bookmarks">Otevřít vše</string>	
     <string name="open_all_in_new_window">Otvírat vše v nových panelech</string>
@@ -275,7 +277,7 @@
     <string name="pref_default_zoom_dialogtitle">Výchozí přiblížení</string>
     <string name="pref_developer_options">Vývojářské nastavení</string>
     <string name="pref_developer_options_summary">možnost pro hlášení chyb</string>
-    <string name="pref_development_cpu_upload_path">Enable Cpu Upload Path</string>
+    <string name="pref_development_cpu_upload_path">Povolit Cpu Upload Path</string>
     <string name="pref_development_error_console">Zobrazit Javascriptovou konzoli</string>
     <string name="pref_development_hardware_accel">Zapnout renderování pomocí OpenGL</string>
     <string name="pref_development_hardware_accel_skia">Zapnout HW akceleraci Skia</string>
@@ -302,7 +304,7 @@
     <string name="pref_font_size_category">Velikost textu</string>
     <string name="pref_force_userscalable">Vnutit nastavení přiblížení</string>
     <string name="pref_force_userscalable_summary">Ignorovat požadavek stránky na nastavení přiblížení</string>
-    <string name="pref_general_autofill_title">Předvyplnění</string>
+    <string name="pref_general_autofill_title">Autom. vyplnění</string>
     <string name="pref_general_exit_setting_title">Akce při ukončení</string>   
     <string name="pref_general_sync_title">Synchronizace</string>
     <string name="pref_general_title">Obecné</string>
@@ -375,6 +377,7 @@
     <string name="pref_zoom_on_double_tap">Přiblížení při dvojím klepnutí</string>
     <string name="preview">Náhled</string>
     <string name="progress_dialog_setting_wallpaper">Nastavují pozadí…</string>
+    <string name="readmode_reach_last_page">Bylo dosaženo poslední stránky</string>
     <string name="readmodelist_bookmarks">_readinglist_in_database_</string>
     <string name="readmodelist_bookmarks_to_show">Zoznam zaujímavych</string>
     <string name="recover">Obnovit</string>
@@ -410,7 +413,7 @@
     <string name="shortcut_bookmark">Záložka</string>
     <string name="shortcut_bookmark_title">Vybrat záložku</string>
     <string name="sign_in_to" formatted="false">Přihlásit k %s1 „%s2”</string>
-    <string name="snapshot_failed">Nemohu uložit pro offline použití.</string>
+    <string name="snapshot_failed">"Nemohu uložit pro offline použití."</string>
     <string name="snapshot_go_live">Go live</string>
     <string name="ssl_continue">Pokračovat</string>
     <string name="ssl_date_invalid">Certifikát má neplatné datum.</string>
@@ -418,7 +421,7 @@
     <string name="ssl_go_back">Zpět</string>
     <string name="ssl_invalid">Certifikát je neplatný.</string>
     <string name="ssl_mismatch">"Název stránky nesouhlasí s názvem certifikátu."</string>
-    <string name="ssl_not_yet_valid">Certifikace není platný.</string>
+    <string name="ssl_not_yet_valid">"Certifikace není platný."</string>
     <string name="ssl_unknown">Neznámá chyba certifikátu.</string>
     <string name="ssl_untrusted">"Certifikát nepochází z důvěryhodného zdroje."</string>
     <string name="ssl_warnings_header">Tato stránka má problém s bezpečnostním certifikátem!</string>
