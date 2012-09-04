@@ -10,7 +10,7 @@
     <string name="call_record">Nahrávání hovoru</string>
     <string name="call_record_or">nebo</string>
     <string name="default_record_name">nepojmenovaný záznam</string>
-    <string name="delete_dialog_title">Chcete smazat aktuální záznam?</string>
+    <string name="delete_dialog_message">Smazat aktuální záznam?</string>  
     <string name="dialog_delete">Smazat</string>
     <string name="dialog_play">Přehrát</string>
     <string name="dialog_send">Odeslat</string>
@@ -18,14 +18,16 @@
     <string name="error_app_internal">Vnitřní chyba aplikace</string>
     <string name="error_mediadb_new_record">Nelze uložit nahraný záznam</string>
     <string name="error_sdcard_access">SD karta není dostupná</string>
-    <string name="hour">%d hodin</string>
+    <string name="hour">%d h</string>
     <string name="insert_sd_card">Vložte SD kartu</string>
     <string name="mark_now">(Stávající)</string>
     <string name="max_length_reached">Dosažena maximální délka</string>
     <string name="menu_setting">Nastavení</string>
     <string name="menu_view_record_list">Zobrazit nahrávky</string>
-    <string name="minute">%d minut</string>
+    <string name="minute">%d min</string>
     <string name="no_file">Žádné nahrávky</string>
+    <string name="notification_playback">Přehrávání nahrávky...</string>
+    <string name="notification_playback_paused">Přehrávání pozastavené...</string>
     <string name="notification_recording">Nahrávám...</string>
     <string name="notification_stopped">Nahrávání bylo zastaveno</string>
     <string name="notification_warning">Málo místa, zbývá méně než %d minut</string>
@@ -43,7 +45,7 @@
     <string name="recording">Nahrávám...</string>
     <string name="recording_stopped">Nahrávání zastaveno</string>
     <string name="sd_card_not_available">SD karta není dostupná</string>
-    <string name="second">%d vteřin</string>
+    <string name="second">%d s</string>
     <string name="storage_is_full">SD karta je plná</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
 </resources>
