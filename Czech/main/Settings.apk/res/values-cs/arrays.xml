@@ -94,7 +94,7 @@
 	<item>Dočasně nedostupné kvůli slabému signálu</item>
     </string-array>
     <string-array name="wifi_ap_security">
-        <item>Open</item>
+        <item>Nezabezpečená</item>
         <item>WPA PSK</item>
         <item>WPA2 PSK</item>
     </string-array>
@@ -288,18 +288,6 @@
         <item>Pouze nabíjet</item>
         <item>Připojit úložiště</item>
     </string-array>
-    <string-array name="led_color_values">
-        <item>white</item>
-        <item>green</item>
-        <item>red</item>
-        <item>blue</item>
-        <item>yellow</item>
-        <item>cyan</item>
-        <item>\#800080</item>
-        <item>\#ffc0cb</item>
-        <item>\#ffa500</item>
-        <item>\#add8e6</item>
-    </string-array>
     <string-array name="led_freq_entries">
         <item>2 sekundy</item>
         <item>3 sekundy</item>
@@ -325,16 +313,14 @@
         <item>Vždy zapnuto</item>
     </string-array>
     <string-array name="led_color_entries">
-        <item>Bílá</item>
-        <item>Zelená</item>
-        <item>Červená</item>
         <item>Modrá</item>
-        <item>Žlutá</item>
-        <item>Azurová</item>
-        <item>Purpurová</item>
-        <item>Růžová</item>
+        <item>Červená</item>
         <item>Oranžová</item>
-        <item>Safírová</item>
+        <item>Žlutá</item>
+        <item>Zelená</item>
+        <item>Azurová</item>
+        <item>Bílá</item>
+        <item>Purpurová</item>
     </string-array>
 	<string-array name="animator_duration_scale_entries">
         <item>Animace vypnuté</item>
