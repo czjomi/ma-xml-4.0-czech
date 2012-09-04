@@ -108,6 +108,8 @@
     <string name="uninstall_body_format">Odinstalovat aplikaci \"%s\"?</string>
     <string name="unknown_artist_name">Neznámý interpret</string>
     <string name="unnamed_folder_name">Bez názvu</string>
+    <string name="upside_enter_tip">Přejeďte dolů dvěma prsty pro vstup do Free spouštěče</string>
+    <string name="upside_exit_tip">Přejeďte nahoru dvěma prsty pro odchod z Free spouštěče</string>
     <string name="upside_apps_title">Vyberte aplikaci</string>
     <string name="upside_edit_bar_empty">Prázdné</string>
     <string name="upside_edit_bar_select_app">Vybrat aplikaci</string>
