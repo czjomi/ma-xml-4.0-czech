@@ -3,8 +3,15 @@
     <string name="adjust_traffic_auto_adjust_hint">Systém se ptá a upravuje údaje pravidelně od operátora. Je třeba nastavit informace o operátorovi.</string>
     <string name="adjust_traffic_auto_adjust_open_hint">Automatické upravování měsíčního balíčku je nastaveno</string>
     <string name="adjust_traffic_auto_adjust_title">Automatické nastavení</string>
+    <string name="adjust_traffic_carrier_adjusting">Nastavování provozu...</string>
     <string name="adjust_traffic_carrier_adjust">Zjistit od operátora</string>
     <string name="adjust_traffic_carrier_settings_title">Mobilní operátor</string>
+    <string name="adjust_traffic_carrier_summary_more_onemonth_before">"Více jak měsíc už nebylo aktualizované"</string>
+    <string name="adjust_traffic_carrier_summary_more_oneweek_before">"Více jak týden už nebylo aktualizované"</string>
+    <string name="adjust_traffic_carrier_summary_oneweek_before">Aktualizované před týdnem</string>
+    <string name="adjust_traffic_carrier_summary_three_day_before">Aktualizované před 3 dny</string>
+    <string name="adjust_traffic_carrier_summary_today">Aktualizované dnes v %1$02d:%2$02d</string>
+    <string name="adjust_traffic_carrier_summary_yesterday">Aktualizované včera v: %1$02d:%2$02d</string>
     <string name="adjust_traffic_manual_adjust">Vložit ručně</string>
     <string name="adjust_traffic_relate_settings">Související nastavení.</string>
     <string name="adjust_traffic_title">Upravit přenos dat</string>
@@ -48,7 +55,7 @@
     <string name="finish_traffic_settings_title">Upravit data</string>
     <string name="fire_rule_program_list">Seznam aplikací</string>
     <string name="force_stop_dlg_text">Pokud vynutíte zastavení aplikace, může to vyvolat chybu.</string>
-    <string name="force_stop_dlg_title">Vynutit zastavení?</string>
+    <string name="force_stop_dlg_title">Vynutit ukončení?</string>
     <string name="i_known_button">OK</string>
     <string name="input_hint">Prosím zadejte</string>
     <string name="loading_app">Načítání…</string>
