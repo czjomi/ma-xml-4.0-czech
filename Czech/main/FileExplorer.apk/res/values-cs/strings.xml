@@ -107,6 +107,7 @@
     <string name="operation_cancel">Zrušit</string>
     <string name="operation_cancel_selectall">Zrušit vše</string>
     <string name="operation_compress">Zabalit</string>
+    <string name="operation_compressing">Komprimuji...</string>
     <string name="operation_copy">Kopírovat</string>
     <string name="operation_create_folder">Nová složka</string>
     <string name="operation_create_folder_message">Vložte jméno složky</string>
@@ -132,8 +133,8 @@
     <string name="operation_unfavorite">Odebrat z oblíbených</string>
     <string name="pan_settting">Nastavení MiDrive</string>
     <string name="remote_management">FTP</string>
-    <string name="rename_failed">Přejmenování《%1$s》selhalo</string>
-    <string name="rename_success">Přejmenování《%1$s》úspěšné</string>
+    <string name="rename_failed">Přejmenování %1$s selhalo</string>
+    <string name="rename_success">Přejmenování %1$s úspěšné</string>
     <string name="sd_card_available">"Volné místo: %1$s"</string>
     <string name="sd_card_size">"SD karta:%1$s"</string>
     <string name="sd_folder">SD karta</string>
@@ -172,6 +173,8 @@
     <string name="ui_main_menu_option_setting">Nastavení</string>
     <string name="ui_main_menu_option_task_manage">Řízení přenosů</string>
     <string name="ui_main_progress_txt_open_file">Stahování...</string>
+    <string name="ui_main_toast_favorite_removed">Odstraněné(ý) oblíbené(ý)</string>
+    <string name="ui_main_toast_operation_failed">Odstranění oblíbených %1$s selhalo</string>
     <string name="ui_main_toast_shareLink_err">Vytváření odkazu pro externí složku selhalo</string>
     <string name="ui_main_toast_shareLink_header">Sdílím %1$s přes MiDrive, klikněte prosím na níže uvedený odkaz pro zobrazení:</string>
     <string name="ui_task_menu_clean">Vymazat všechny úkoly</string>
