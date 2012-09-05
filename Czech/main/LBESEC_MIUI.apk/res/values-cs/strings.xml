@@ -23,13 +23,17 @@
     <string name="Dashboard_Perm_SU">Spravovat oprávnění ROOT</string>
     <string name="Dashboard_Perm_SU_Desc">Sledování %1$d aplikací s oprávněními ROOTa</string>
     <string name="Dashboard_Perm_SU_Disabled">Oprávnění ROOT je zakázáno</string>
+    <string name="Dashboard_Perm_SU_Disabled_In_Stable">ROOT není dostupný ve Stabilní verzi MIUI</string>
+    <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Povolení práv ROOT aplikacím třetích stran může způsobit nestabilitu systému, ztrátu Vašich osobních dat, nebo poškození telefonu. Pro povolení ROOT přejděte na vývojářskou verzi MIUI."</string>
+    <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Stáhnout MIUI</string>
+    <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miuiandroid.com/community/</string>
     <string name="Dashboard_Perm_SU_Switch">Oprávnění ROOT</string>
     <string name="Dashboard_Su_Enable_Content">Povolení dovolí požádat aplikace o oprávnění ROOT. Aplikace s tímto oprávněním mohou způsobit nestabilitu systému, nebo ztrátu dat, případně i poškození systému a hardwaru. Buďte prosím opatrný. Opravdu chcete to chcete povolit?</string>
     <string name="Dashboard_Su_Enable_Title">Oprávnění ROOT</string>
     <string name="Generic_Canceling">Ruším...</string>
     <string name="Generic_Clean">Vymazat</string>
     <string name="Generic_Configuration">Nastavení</string>
-    <string name="Generic_Copyright">Powered by Team LBE</string>
+    <string name="Generic_Copyright">Vytvořil Team LBE</string>
     <string name="Generic_Disable">Zakázat</string>
     <string name="Generic_Enable">Povolit</string>
     <string name="Generic_Good">Dobrý</string>
@@ -126,6 +130,7 @@
     <string name="HIPS_Perm_RejectAll">Zakázat vše</string>
     <string name="HIPS_Perm_ROOT">ROOT</string>
     <string name="HIPS_Perm_ROOT_Desc">Požaduje práva uživatele ROOT</string>
+    <string name="HIPS_Perm_ROOT_Desc_Stable">Nedostupné ve stabilní verzi MIUI</string>
     <string name="HIPS_Perm_ROOT_Hint">%1$s aplikace mají povolení pro ROOT přístup</string>
     <string name="HIPS_Perm_ROOT_Title">získat přáva ROOT</string>
     <string name="HIPS_Perm_SendSMS">Poslat SMS</string>
