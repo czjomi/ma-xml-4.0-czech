@@ -25,12 +25,17 @@
     <string name="description_version">Verze:</string>
     <string name="download_failed">Stahování neúspěšné</string>
     <string name="download_preview_failed">Stahování náhledu neúspěšné</string> 
+    <string name="error_forbidden">Váš účet má nějaké problémy. Synchronizace je vypnutá.</string>
+    <string name="error_not_acceptable">Server má problémy. Synchronizace je vypnutá.</string>
+    <string name="error_title">Chyba synchr. pro %s</string>
+    <string name="error_unauthorized">Příliž mnoho chyb u autorizace účtu. Synchronizace je vypnutá.</string>
     <string name="find_device_sim_change_instructions">"Vaše zařízení bylo zablokované. Vložte SIM kartu nebo Vaše heslo pro účet Xiaomi."</string>
     <string name="firewall_setting">Režim Nerušit</string>
     <string name="first_back_long_press_message">"Chcete používat dlouhé stlačení klávesy Zpět k zabití aktivní aplikace? Funkci zapnete přes Nastavení > Systém > Tlačítka"</string>
     <string name="first_back_long_press_title">Dlouhé stlačení klávesy Zpět</string>
     <string name="fools_day">"První Apríl"</string>
     <string name="force_exit_message">Úspěšně zabita aplikace \"%1$s\"</string>
+    <string name="format_time_in_12_hours">%1$s %2$s</string>
     <string name="global_action_privacy_mode_dialog_message">V módu návštěvník jsou hovory, poznámky, galerie a sms skryty a spouštěč (plochu) není možno upravovat.</string>
     <string name="global_action_privacy_mode_off_status">Režim návštěvník je Vypnutý</string>
     <string name="global_action_privacy_mode_on_status">Režim návštěvník je Zapnutý</string>
@@ -110,6 +115,8 @@
     <string name="resourcebrowser_lable">Zdroje</string>
     <string name="reverse_all">Vymazat vše</string>
     <string name="safetylegal_activity_unreachable">Váš telefon není připojen k datovém síti. Pro zobrazení informací nyní přejděte na %s z webového prohlížeče vašeho počítače připojeného k síti Internet.</string>
+    <string name="screen_on_proximity_sensor_hint">"Vynucené ukončení: dlouze podržte tlačítko 'Zapnutí' pro vyvolání Menu. Zabránění náhodného použití můžete vypnout v 'Nastavení - Obraz'."</string>
+    <string name="screen_on_proximity_sensor_summary">"Zabránění náhodného použití je povolené. Funkce telefonu jsou nedostupné"</string>
     <string name="sdcard_status_changed_dialog_message">"Aplikace se nyní ukončí. Prosím spusťte tuto aplikaci znovu pro aktualizaci informací."</string>
     <string name="sdcard_status_changed_dialog_title">Změna na SD kartě</string>
     <string name="sd_not_available">SD karta je odpojena nebo nepřístupná</string>

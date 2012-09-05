@@ -1302,6 +1302,8 @@
     <string name="settings_safetylegal_activity_unreachable">Datové připojení momentálně není k dispozici. \nChcete-li tyto informace zobrazit, přejděte z libovolného počítače připojeného k internetu na stránku %s.</string>
     <string name="settings_safetylegal_title">Bezpečnostní informace</string>
     <string name="settings_shortcut">Zástupce nastavení</string>
+    <string name="screen_on_proximity_sensor_summary">Zabránit použití telefonu např. v kapse (aktivované senzorem přiblížení).</string>
+    <string name="screen_on_proximity_sensor_title">Zabránit náhodnému použití</string>
     <string name="show_all_anrs">Zobrazit všechny ANR</string>
     <string name="show_all_anrs_summary">Dialog Aplikace neodpovídá pro aplikace na pozadí</string>
     <string name="show_background_processes">Zobrazit mezipaměť</string>

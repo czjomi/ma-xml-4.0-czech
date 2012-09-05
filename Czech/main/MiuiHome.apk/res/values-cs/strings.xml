@@ -61,10 +61,12 @@
     <string name="menu_workspace_preview">Náhled</string>
     <string name="out_of_space">Na této ploše již není místo.</string>
     <string name="permdesc_install_shortcut">Povoluje aplikaci přidat zástupce bez zásahu uživatele.</string>
+    <string name="permdesc_install_widget">Povolit aplikacím automaticky přidat widget na plochu.</string>
     <string name="permdesc_read_settings">Povoluje aplikaci číst nastavení a zástupce plochy.</string>
     <string name="permdesc_uninstall_shortcut">Povoluje aplikaci odstranit zástupce bez zásahu uživatele.</string>
     <string name="permdesc_write_settings">Povoluje aplikaci změnit nastavení a zástupce plochy.</string>
     <string name="permlab_install_shortcut">Přidat zástupce</string>
+    <string name="permlab_install_widget">Instalovat widgety</string>
     <string name="permlab_read_settings">Čtení nastavení a zástupců plochy</string>
     <string name="permlab_uninstall_shortcut">Odebrat zástupce</string>
     <string name="permlab_write_settings">Zápis nastavení a zástupců plochy</string>

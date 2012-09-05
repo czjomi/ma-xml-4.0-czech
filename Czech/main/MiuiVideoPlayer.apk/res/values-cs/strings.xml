@@ -7,6 +7,8 @@
     <string name="adjust_position_prev_media_notice">Předchozí</string>
     <string name="airkan_control_device_des">Můžete ovládat přehrávání pomocí tlačítek v dolní části</string>
     <string name="airkan_device_xiaomi_phone">Xiaomi</string>
+    <string name="airkan_video_playing" />
+    <string name="airkan_video_playing_in">Video se přehrává...</string>
     <string name="app_name">Video</string>
     <string name="buffering">Ukládání do vyrovnávací paměti...</string>
     <string name="hello">Hello World, VideoPlayerActivity!</string>
@@ -14,10 +16,14 @@
     <string name="menu_item_about_label">O aplikaci</string>
     <string name="menu_item_hide_media_info_label">Skrýt info o videu</string>
     <string name="menu_item_media_info_label">Informace o videu</string>
+    <string name="menu_item_orientation_auto_sensor_action">Povolit otáčení</string>
+    <string name="menu_item_orientation_fixed_by_videosize_action">Zakázat otáčení</string>
+    <string name="menu_item_screen_shot">Snímek obraz.</string>
     <string name="menu_item_switch_width_height_label">Nastavit poměr stran</string>
     <string name="menu_wh_item_adapt_height_label">Přizpůsobit na výšku</string>
     <string name="menu_wh_item_adapt_width_label">Přizpůsobit na šířku</string>
     <string name="menu_wh_item_auto_select_label">Výchozí</string>
+    <string name="menu_wh_item_full_screen_label">Celá obrazovka</string>
     <string name="menu_wh_item_using_16_9_label">Poměr 16:9</string>
     <string name="menu_wh_item_using_4_3_label">Poměr 4:3</string>
     <string name="toast_back_key_pressed_notice">Stiskněte znovu pro ukončení.</string>

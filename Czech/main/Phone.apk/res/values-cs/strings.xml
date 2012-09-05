@@ -78,6 +78,13 @@
     <string name="auto_ip_support_local_numbers">Podpora lokálních čísel</string>
     <string name="auto_record_call_summary_miui">Začne nahrávat hovor při spojení a ukládat jej na SD kartu</string>
     <string name="auto_record_call_title_miui">Automaticky nahrávat</string>
+    <string name="auto_record_scenario_enteries_always_miui">Automaticky nahrávat u všech tel. čísel</string>
+    <string name="auto_record_scenario_enteries_whitelist_miui">Automaticky nahrávat u vybraných tel. čísel</string>
+    <string name="auto_record_scenario_title_miui">Režim nahrávání hovoru</string>
+    <string name="auto_record_whitelist_miui">Nastavit vybraná čísla</string>
+    <string name="auto_record_whitelist_no_item_miui">Klikněte na spodní tlačítko pro přidání čísel na automatické nahrávání hovorů</string>
+    <string name="auto_record_whitelist_summary_for_one_miui">1</string>
+    <string name="auto_record_whitelist_summary_miui">%d čísel</string>
     <string name="auto_redial_pref_summary_miui">Automaticky volat zpět pokud je linka obsazená</string>
     <string name="auto_redial_pref_title_miui">Automaticky volat zpět</string>
     <string name="auto_reg">Auto-registrace</string>
@@ -126,6 +133,7 @@
     <string name="call_recording_notification_summary_miui">Zobrazit oznámení o nahrávce po ukončení hovoru</string>
     <string name="call_recording_notification_title_miui">Oznámení o nahrávání</string>
     <string name="call_recording_prompt_miui">Otevřít nahrávání hovoru</string>
+	<string name="call_record_setting_miui">Nahrávání hovoru</string>
     <string name="call_settings">Hovory</string>
     <string name="call_settings_category_miui">Nastavení hovorů</string>
     <string name="call_settings_miui">Nastavení hovorů</string>
@@ -319,7 +327,7 @@
     <string name="disable_sim_pin">Zakázat kód PIN karty SIM</string>
     <string name="disable_sim_pin_miui">Vypnout SIM PIN</string>
     <string name="display_name">Zobrazené jméno</string>
-    <string name="display_name_summary">&lt;Stejné jako jméno</string>
+    <string name="display_name_summary">Stejné jako jméno</string>
     <string name="display_name_title">Zobrazované jméno</string>
     <string name="domain_address">SIP doména</string>
     <string name="domain_address_title">Server</string>
