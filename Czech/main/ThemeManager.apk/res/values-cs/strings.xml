@@ -74,7 +74,7 @@
     <string name="wallpaper_crop">Oříznout</string>
     <string name="wallpaper_decoded_error">Nepodařilo se dekódovat</string>
     <string name="wallpaper_loading_text">Nahrávám ...</string>
-    <string name="wallpaper_set_as_both">Nastavit obojí</string>
+    <string name="wallpaper_set_as_both">Nastavit jako zámek i tapetu</string>
     <string name="wallpaper_set_as_destop">Nastavit jako tapetu</string>
     <string name="wallpaper_set_as_lockscreen">Nastavit jako zámek</string>
     <string name="wallpaper_settings">Nastavení tapety</string>
