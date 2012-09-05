@@ -45,6 +45,7 @@
     <string name="contact_photo">Foto kontaktu</string>
     <string name="crop">Oříznout</string>
     <string name="crop_action">Oříznout</string>
+    <string name="crop_fail_to_load_image">Načítání obrázku pro oříznutí selhalo.</string>
     <string name="crop_label">Oříznout fotografii</string>
     <string name="crop_not_saved">Ořezaný snímek není uložen.</string>
     <string name="crop_save_text">Oříznutí</string>
