@@ -871,7 +871,7 @@
     <string name="slide_to_decline">Posuňte vlevo pro odmítnutí</string>
     <string name="slide_to_decline_hint">Odmítnout</string>
     <string name="slide_to_silence">Posuňte vlevo pro ztišení vyzvánění</string>
-    <string name="sliding_down_hint_miui">Odpovědět posunmutím dolů</string>
+    <string name="sliding_down_hint_miui">Odpovědět posunutím dolů</string>
     <string name="sliding_target_hint_miui">Přetažení</string>
     <string name="sliding_up_hint_miui">Zamítnutí posunutím nahoru</string>
     <string name="sports_news_settings">Sportovní zprávy</string>
