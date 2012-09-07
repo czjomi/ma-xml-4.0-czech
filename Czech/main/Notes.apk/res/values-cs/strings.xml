@@ -23,6 +23,7 @@
     <string name="error_sync_cancelled">Synchronizace byla zrušena</string>
     <string name="error_sync_internal">Synchronizace selhala, vnitřní chyba</string>
     <string name="error_sync_network">Synchronizace selhala, zkontrolujte stav sítě a nastavení účtu</string>
+    <string name="error_widget_exist_for_send_to_desktop">Tato poznámka již na ploše existuje</string>
     <string name="failed_sdcard_export">Export selhal</string>
     <string name="file_name_txt_format">poznamka_%s.txt</string>
     <string name="file_path">/MIUI/notes/</string>
