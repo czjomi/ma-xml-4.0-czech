@@ -628,6 +628,7 @@
     <string name="device_internal_memory">Interní paměť:</string>
     <string name="device_internal_partition">Data/SD karta:</string>	
     <string name="device_memory">RAM:</string>
+    <string name="device_miui_version">MIUI verze:</string>
     <string name="disable_overlays">Vypnout HW překrývání</string>
     <string name="disable_overlays_summary">Vždy použít GPU pro zobrazování</string>
     <string name="device_picker">Výběr zařízení Bluetooth</string>
