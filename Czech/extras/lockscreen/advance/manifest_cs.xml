@@ -143,6 +143,10 @@
         <!-- 此endpoint只为显示圆盘动画，不会有PressedState和ReachedState切换 -->
         <EndPoint x="0" y="0" w="0" h="0">
             <PressedState>
+                <FramerateController>
+                    <ControlPoint time="0" frameRate="50"/>
+                    <ControlPoint time="500" frameRate="0"/>
+                </FramerateController>
 		        <Group>
                     <AlphaAnimation>
                         <Alpha a="0" time="0"/>
