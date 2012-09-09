@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_content_plugins_choices">
+        <item>Vždy zapnuto</item>
+        <item>Na vyžádání</item>
+        <item>Vypnout</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Aktuální stránka</item>
+        <item>Prázdná stránka</item>
+        <item>Výchozí stránka</item>
+        <item>Nejnavštěvovanější stránky</item>
+        <item>Další</item>
+    </string-array>
+    <string-array name="pref_homepage_choices_phone">
+        <item>Aktuální stránka</item>
+        <item>Prázdná stránka</item>
+        <item>Výchozí stránka</item>
+        <item>Další</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Drobné</item>
+        <item>Malé</item>
+        <item>Normální</item>
+        <item>Velké</item>
+        <item>Velmi velké</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Daleko</item>
+        <item>Střední</item>
+        <item>Zavřít</item>
+    </string-array>
+    <string-array name="pref_default_storage_choices">
+        <item>Telefon</item>
+        <item>Paměťová karta</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Čínština (GBK)</item>
+        <item>Čínština (Big5)</item>
+        <item>Japonsky (ISO-2022-JP)</item>
+        <item>Japonsky (SHIFT JIS)</item>
+        <item>Japonsky (EUC-JP)</item>
+        <item>Korejština (EUC-KR)</item>
+        <item>Automatické rozpoznání</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>Nikdy</item>
+        <item>Pouze přes Wi-Fi</item>
+        <item>Vždy</item>
+    </string-array>
+</resources>

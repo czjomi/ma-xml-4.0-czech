@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DataCreate</string>
+    <string name="current_data_state_call_log">Hovory</string>
+    <string name="current_data_state_incoming_call">Příchozí hovor</string>
+    <string name="current_data_state_outgoing_call">Odchozí hovor</string>
+    <string name="current_data_state_missed_call">Zmeškaný hovor</string>
+    <string name="current_data_state_photo">Fotografie</string>
+    <string name="current_data_state_video">Video</string>
+    <string name="current_data_state_mp3">MP3</string>
+    <string name="current_data_state_voice_memo">Hlasová poznámka</string>
+    <string name="current_data_state_phone_book">Phone Book</string>
+    <string name="current_data_state_schedule">Plán</string>
+    <string name="current_data_state_tasks">Úkoly</string>
+    <string name="current_data_state_memo">Pozn</string>
+    <string name="current_data_state_message">Zpráva</string>
+    <string name="current_data_state_mmsinbox">Přijaté MMS zprávy</string>
+    <string name="current_data_state_mmsoutbox">MMS zprávy k odeslání</string>
+    <string name="current_data_state_ring_tone">Zvonění</string>
+    <string name="current_data_state_screen">Displej</string>
+    <string name="current_data_state_not_available">Nepoužito</string>
+    <string name="current_data_state_calculating">Probíhá výpočet...</string>
+    <string name="data_copy_inbox">Přijaté</string>
+    <string name="data_copy_outbox">K odeslání</string>
+    <string name="data_copy_sentbox">Odeslané</string>
+    <string name="data_copy_draftbox">Koncepty</string>
+    <string name="data_copy_phonebook">Tel.sez.</string>
+    <string name="data_copy_calllog">Hovory</string>
+    <string name="data_copy_incoming_call">Příchozí hovor</string>
+    <string name="data_copy_outgoing_call">Odchozí hovor</string>
+    <string name="data_copy_missed_call">Zmeškaný hovor</string>
+    <string name="data_copy_etc">Atd.</string>
+    <string name="data_copy_schedule">Plán</string>
+    <string name="data_copy_memo">Pozn</string>
+    <string name="file_copy_photo">Obrázek</string>
+    <string name="file_copy_mp3">MP3</string>
+    <string name="file_copy_video">Video</string>
+    <string name="file_copy_voice_memo">Hlasová poznámka</string>
+    <string name="file_copy_reset">Vynulovat</string>
+    <string name="ver_version_name">Verze</string>
+    <string name="ver_label_FTA">Zkušební režim</string>
+    <string name="ver_version">Verze</string>
+</resources>

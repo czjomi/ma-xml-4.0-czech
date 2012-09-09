@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_mac">WLAN MAC address</string>
+    <string name="helloMac">MAC adresa</string>
+    <string name="Channel">Channel</string>
+    <string name="Power">Síla</string>
+    <string name="Start">Start</string>
+    <string name="Stop">Stop</string>
+    <string name="Clear">Smazat</string>
+    <string name="Error">Chyba</string>
+    <string name="Received">Přijato</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nastavení licence</string>
+    <string name="license_settings_title">Nastavení licence</string>
+    <string name="expiry_reminder">Vypršení platnosti připomenutí</string>
+    <string name="roaming_network">Roamingová síť</string>
+    <string name="roaming_network_summary">Automaticky stáhnout</string>
+    <string name="roaming_option_auto_download">Automaticky stáhnout</string>
+    <string name="roaming_option_manual">Ručně</string>
+    <string name="roaming_option_always_reject">Vždy odmítnout</string>
+    <string name="roaming_network_dialog_title">Roamingová síť</string>
+    <string name="dialog_cancel_button">Zrušit</string>
+    <string name="dialog_ok_button">OK</string>
+    <string name="dialog_deregistration_button">OK</string>
+    <string name="dialog_registration_button">OK</string>
+    <string name="dialog_cancel_registration_button">Zrušit</string>
+    <string name="dialog_ok_registration_button">OK</string>
+    <string name="expiry_reminder_summary">Automaticky stáhnout</string>
+    <string name="divx_registration_summary">Proces registrace DivX</string>
+    <string name="clear_license">Smazat licence</string>
+    <string name="clear_license_summary">Odstranit všechny licence DRM</string>
+    <string name="unable_to_remove_license">Licence nelze vymazat</string>
+    <string name="all_licenses_are_clearing">Mazání...</string>
+    <string name="all_licenses_are_removed">Vymazáno</string>
+    <string name="clear_license_popup">"Obsah, který vyžaduje licence, musí být před použitím znovu získán.
+Chcete odstranit licence?"</string>
+    <string name="divx_vod">DivX® VOD</string>
+    <string name="divx_registration">Registrace</string>
+    <string name="divx_deregistration">Zrušit registraci</string>
+    <string name="divx_registration_info">Pro přehrávání chráněného videa DivX® musíte zařízení zaregistrovat</string>
+    <string name="divx_registration_code">Registrační kód: %s</string>
+    <string name="divx_register_website">Registrovat v %s</string>
+    <string name="divx_deregistration_code">Kód zrušení registrace: %s</string>
+    <string name="divx_deregister_website">Zrušit registraci v %s</string>
+    <string name="divx_deregistration_info">Chcete pokračovat v registraci?</string>
+    <string name="dialog_deregister_confirmation_message">Toto zařízení je již zaregistrováno. Opravdu chcete zrušit registraci?</string>
+</resources>

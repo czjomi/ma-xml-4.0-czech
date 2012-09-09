@@ -45,7 +45,7 @@ spustit fotoaparát"</string>
     <string name="SM_CARTOON">Komiks</string>
     <string name="SM_SELFSHOT">Autoportrét</string>
     <string name="SM_SHOOTANDSHARE">Sdílet snímek</string>
-    <string name="NORMAL">Normální</string>
+    <string name="NORMAL">Norm.</string>
     <string name="VM_WARM">Teplo</string>
     <string name="VM_COOL">Frajer</string>
     <string name="VM_MONO">Mono</string>
@@ -250,7 +250,6 @@ spustit fotoaparát"</string>
     <string name="ev_minus_2_0">-2.0</string>
     <string name="not_supported_zoom">Při nahrávání Full HD videa není transfokace podporována</string>
     <string name="plugged_low_batt_msg">Nelze použít blesk. Baterie je vybitá</string>
-    <string name="low_temp_msg">Při nízké teplotě nelze použít blesk</string>
     <string name="user_profile_title">Profil uživatele</string>
     <string name="preview_file_received_title">Náhled přijatého souboru</string>
     <string name="network_title">Sdílet snímek při připojení Wi-Fi Direct</string>

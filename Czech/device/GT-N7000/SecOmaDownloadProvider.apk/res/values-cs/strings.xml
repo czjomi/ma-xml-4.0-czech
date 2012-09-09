@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Poskytov. stahování SEC</string>
+    <string name="permlab_downloadManager">Přístup ke správci stahování</string>
+    <string name="permdesc_downloadManager">Umožní aplikaci použít správce stahování a použít ho ke stahování souborů. Škodlivé aplikace to mohou využít k přerušení stahování a pro přístup k důvěrným informacím</string>
+    <string name="permlab_accessAllDownloads">Access all system downloads</string>
+    <string name="permdesc_accessAllDownloads">Allows the application to view and modify all initiated by any application on the system</string>
+    <string name="permlab_downloadManagerAdvanced">Rozšířené funkce správce stahování</string>
+    <string name="permdesc_downloadManagerAdvanced">Umožní aplikaci použít rozšířené funkce správce stahování. Škodlivé aplikace to mohou využít k přerušení stahování a pro přístup k důvěrným informacím</string>
+    <string name="permlab_cacheFilesystem">Použít systémovou paměť</string>
+    <string name="permdesc_cacheFilesystem">Umožní aplikaci přímý přístup do systémové paměti a provádění úprav a odstraňování položek z paměti. Škodlivé aplikace to mohou využít k přerušení stahování a běhu jiných aplikací a pro přístup k důvěrným informacím</string>
+    <string name="permlab_downloadCompletedIntent">Odeslat oznámení o stažení</string>
+    <string name="permdesc_downloadCompletedIntent">Umožní aplikaci odesílat oznámení o dokončených stahováních. Škodlivé aplikace to mohou využít ke zmatení ostatních aplikací stahujících soubory</string>
+    <string name="permlab_seeAllExternal">Zobrazit všechny soubory stažené na SD kartu</string>
+    <string name="permdesc_seeAllExternal">Povolí aplikaci zobrazit všechny soubory stažené na SD kartu bez ohledu na to, která aplikace soubory stáhla</string>
+    <string name="download_unknown_title">&lt;Bez názvu></string>
+    <string name="notification_filename_separator">", "</string>
+    <string name="notification_filename_extras">a %d dalších</string>
+    <string name="notification_download_complete">Stahování dokončeno</string>
+    <string name="notification_download_failed">Stažení se nezdařilo</string>
+    <string name="notification_downloaded_folder">Staženo do %s</string>
+</resources>

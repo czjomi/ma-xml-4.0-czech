@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kopie obrazovky</string>
+    <string name="done">Hot.</string>
+    <string name="save">Ulož.</string>
+    <string name="cancel">Zruš.</string>
+    <string name="save_title">Ukládání...</string>
+    <string name="saved">Ušetřeno</string>
+    <string name="pen_setting">Nastavení pera</string>
+    <string name="eraser">Guma</string>
+    <string name="crop">Oříznout</string>
+    <string name="no_storage">Před uložením vložte SD kartu</string>
+    <string name="crop_label">Crop image</string>
+    <string name="wallpaper">Nastavování pozadí. Počkejte prosím...</string>
+    <string name="savingImage">Ukládání obrázku...</string>
+    <string name="share_via">Sdílet přes</string>
+    <string name="set_as">Nastavit jako</string>
+    <string name="print">Tisknout</string>
+    <string name="processing">Probíhá zpracování...</string>
+    <string name="wait_dialog">Generování obrázku...</string>
+    <string name="fail_export">Fail Image Export.</string>
+    <string name="clearall">Smaz. vše</string>
+    <string name="lasso">Laso</string>
+    <string name="rectangle">Obdélník</string>
+    <string name="orange_guideline">Chcete-li změnit velikost, klepněte a přetáhněte oranžovou vodicí čáru</string>
+    <string name="Captured_And_Edit">Zkopírovaná nebo upravená obrazovka bude zrušena</string>
+    <string name="discard">Vyřadit</string>
+    <string name="phone_memory_is_full">Phone memory is full. Delete some items</string>
+    <string name="capture_complete">Kopie displeje byla uložena jako soubor s obrázkem</string>
+    <string name="screen_capture_fail">Během fotografování došlo k chybě</string>
+    <string name="screenshot_saving_ticker">Ukládání snímku obrazovky...</string>
+    <string name="screenshot_saving_title">Ukládání snímku obrazovky...</string>
+    <string name="screenshot_saving_text">Probíhá ukládání snímku obrazovky.</string>
+    <string name="screenshot_saved_title">Snímek obrazovky byl zachycen.</string>
+    <string name="screenshot_saved_text">Snímek obrazovky zobrazíte dotykem.</string>
+    <string name="screenshot_failed_title">Snímek obrazovky se nepodařilo zachytit.</string>
+    <string name="screenshot_failed_text">Snímek obrazovky se nepodařilo uložit. Je možné, že je externí úložiště právě používáno.</string>
+</resources>

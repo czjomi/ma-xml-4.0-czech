@@ -326,7 +326,7 @@
     <string name="global_action_silent_mode_off_status">Zvuk je ZAPNUTÝ</string>
     <string name="global_action_silent_mode_on_status_confirm">Bude zapnut režim Ticho</string>
     <string name="global_action_silent_mode_off_status_confirm">Bude vypnut režim Ticho</string>
-    <string name="global_actions_toggle_airplane_mode">Rež. Letadlo</string>
+    <string name="global_actions_toggle_airplane_mode">V letadle</string>
     <string name="global_actions_airplane_mode_on_status">Režim Letadlo je zapnutý</string>
     <string name="global_actions_airplane_mode_off_status">Režim Letadlo je vypnutý</string>
     <string name="global_actions_airplane_mode_on_status_confirm">Bude zapnut režim Letadlo</string>
@@ -334,8 +334,8 @@
     <string name="global_action_toggle_data_mode">Režim datové sítě</string>
     <string name="global_action_data_mode_on_status">Režim datové sítě byl aktivován</string>
     <string name="global_action_data_mode_off_status">Režim datové sítě byl deaktivován</string>
-    <string name="global_action_data_mode_on_status_confirm">Mobilní data budou zapnuta</string>
-    <string name="global_action_data_mode_off_status_confirm">Mobilní data budou vypnuta</string>
+    <string name="global_action_data_mode_on_status_confirm">Režim datové sítě bude aktivován</string>
+    <string name="global_action_data_mode_off_status_confirm">Režim datové sítě bude deaktivován</string>
     <string name="safeMode">Bezpečný režim</string>
     <string name="permgroupdesc_mdm">Umožní aplikaci používat služby MDM</string>
     <string name="permlab_mdmApplications">Oprávnění k aplikaci MDM</string>
@@ -865,6 +865,7 @@
     <string name="lockscreen_failed_attempts_almost_glogin">%1$dkrát jste chybně nakreslili znak pro odemknutí. Po %2$d dalších neúspěšných pokusech budete požádáni o odemknutí zařízení pomocí vašich přihlašovacích údajů pro Google nebo záložního PIN kódu. Opakujte akci za %3$d sekund</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Telefon jste se pokusili nesprávným způsobem odemknout %dkrát. Po %d dalších neúspěšných pokusech se v telefonu obnoví tovární nastavení a veškerá uživatelská data budou ztracena.</string>
     <string name="lockscreen_failed_attempts_now_wiping">Telefon jste se pokusili nesprávným způsobem odemknout %dkrát. V telefonu se nyní obnoví výchozí tovární nastavení.</string>
+    <string name="lockscreen_too_many_failed_attempts_countdown">Opakujte akci za %d sekund</string>
     <string name="lockscreen_forgot_pattern_button_text">Zapomněli jste znak?</string>
     <string name="lockscreen_glogin_forgot_pattern">Odemknutí účtu</string>
     <string name="lockscreen_glogin_too_many_attempts">Příliš mnoho pokusů o nakreslení znaku!</string>
@@ -990,8 +991,8 @@
     <string name="low_internal_storage_view_title">Paměť je téměř plná</string>
     <string name="low_internal_storage_view_text">V telefonu začíná být nedostatek volného místa</string>
     <string name="loading">Nahrávám...</string>
-    <string name="capital_on">I</string>
-    <string name="capital_off">O</string>
+    <string name="capital_on">Za</string>
+    <string name="capital_off">Vyp</string>
     <string name="whichApplication">Dokončit akci pomocí</string>
     <string name="alwaysUse">Použít ve výchozím nastavení pro tuto akci</string>
     <string name="clearDefaultHintMsg">Chcete-li zakázat výchozí aplikace, přejděte na Nastavení > Aplikace</string>
@@ -1066,8 +1067,6 @@ Chcete jej ukončit?"</string>
     <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct je zapnuto</string>
     <string name="wifi_p2p_enabled_notification_message">Klepněte pro změnu nastavení</string>
     <string name="wifi_p2p_connected_notification_title">Připojeno k %d zařízením prostřednictvím Wi-Fi Direct</string>
-    <string name="wifi_p2p_incoming_request_confirmation">Připojit k %1$s za %2$d s</string>
-    <string name="wifi_p2p_auto_disabling_confirmation">Po zapnutí Wi-Fi Direct nebyla po dobu %d minut vyvinuta žádná aktivita. Vypnutím Wi-Fi Direct se prodlouží životnost baterie. Chcete pokračovat?</string>
     <string name="select_character">Vložte znak</string>
     <string name="sms_control_default_app_name">Neznámá aplikace</string>
     <string name="sms_control_title">Odesílání SMS zpráv</string>
@@ -1124,7 +1123,6 @@ Chcete jej ukončit?"</string>
     <string name="configure_input_methods">Konfigurovat způsoby zadávání</string>
     <string name="fast_scroll_alphabet">" AÁBCČDĎEÉĚFGHCHIÍJKLMNŇOÓPQRŘSŠTŤUÚVWXYÝZŽ"</string>
     <string name="fast_scroll_numeric_alphabet">" 0123456789AÁBCČDĎEÉĚFGHCHIÍJKLMNŇOÓPQRŘSŠTŤUÚVWXYÝZŽ"</string>
-    <string name="restricts_use_of_external_sd_card_msg">Zásady zabezpečení omezují použití SD karty</string>
     <string name="ext_media_checking_notification_title">Probíhá příprava paměti USB...</string>
     <string name="ext_media_checking_notification_title_sd">Probíhá příprava SD karty...</string>
     <string name="ext_media_checking_notification_message">Probíhá kontrola chyb</string>
@@ -1200,7 +1198,6 @@ vyžadováno oprávnění"</string>
     <string name="car_mode_disable_notification_message">Deaktivovat režim Auto</string>
     <string name="tethered_notification_title">Sdílení připojení nebo aktivní bod je aktivní</string>
     <string name="tethered_notification_message">Konfigurujte klepnutím sem</string>
-    <string name="tethered_notification_title_client">K přenosnému aktivnímu bodu Wi-Fi je připojeno %s zařízení</string>
     <string name="back_button_label">Zpět</string>
     <string name="next_button_label">Další</string>
     <string name="skip_button_label">Přes-kočit</string>
@@ -1260,8 +1257,8 @@ vyžadováno oprávnění"</string>
     <string name="checkbox_not_checked">Nezaškrt.</string>
     <string name="radiobutton_selected">Vybráno</string>
     <string name="radiobutton_not_selected">Nejsou vybrány žádné kontakty</string>
-    <string name="switch_on">I</string>
-    <string name="switch_off">O</string>
+    <string name="switch_on">Za</string>
+    <string name="switch_off">Vyp</string>
     <string name="togglebutton_pressed">Stiskn.</string>
     <string name="togglebutton_not_pressed">nestisknuto</string>
     <string name="keyboardview_keycode_alt">ALT</string>
@@ -1429,7 +1426,6 @@ vyžadováno oprávnění"</string>
     <string name="invalid_sim_notification_title">Chybná SIM karta</string>
     <string name="invalid_sim_notification_text">Obraťte se na oddělení péče o zákazníky</string>
     <string name="unregistered_SIM">Neregistrovaná karta SIM</string>
-    <string name="keyguard_signature_guide">Pro odemknutí napište podpis na displej</string>
     <string name="cutAll">Vyjmout vše</string>
     <string name="copyAll">Kopírovat vše</string>
     <string name="undo">Zpět</string>
@@ -1445,6 +1441,4 @@ je příliš velký"</string>
     <string name="tw_ids_com_body_delete_from_clipboard">Odstranit ze schránky</string>
     <string name="tw_ids_com_body_Lock_in_clipboard">Zamknout do schránky</string>
     <string name="tw_ids_com_body_unlock_in_clipboard">Odemknout ze schránky</string>
-    <string name="tw_clipboard_no_item">Žádné položky</string>
-    <string name="lockscreen_too_many_failed_attempts_countdown">Opakujte akci za %d sekund</string>
 </resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="About_Share">
+        <item>AllShare</item>
+        <item>Bluetooth</item>
+        <item>Gmail</item>
+        <item>Zprávy</item>
+        <item>Picasa</item>
+        <item>S plánovač</item>
+        <item>E-mail</item>
+    </string-array>
+    <string-array name="About_SPlanner">
+        <item>Nová událost</item>
+        <item>Nový úkol</item>
+        <item>Odkaz</item>
+    </string-array>
+    <string-array name="About_Share_Recognition">
+        <item>Gmail</item>
+        <item>E-mail</item>
+        <item>Zpráva</item>
+        <item>SNS</item>
+        <item>S plánovač</item>
+        <item>Wi-Fi</item>
+    </string-array>
+    <string-array name="bg_color_menu">
+        <item>Žlutá</item>
+        <item>Modrá</item>
+        <item>Zelená</item>
+        <item>Růžová</item>
+        <item>Béžová</item>
+    </string-array>
+    <string-array name="sort_item">
+        <item>Datum (nejnovější)</item>
+        <item>Datum (nejstarší)</item>
+        <item>Text</item>
+        <item>Kreslení</item>
+        <item>Barva</item>
+    </string-array>
+    <string-array name="Set_as_items">
+        <item>Ikona kontaktu</item>
+        <item>Pozadí dom. obrazovky</item>
+        <item>Zámek pozadí displeje</item>
+    </string-array>
+</resources>
