@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="am_pm_entries">
-        <item>Ukázať AM/PM</item>
-        <item>Skryť AM/PM</item>
+        <item>Ukázat AM/PM</item>
+        <item>Skrýt AM/PM</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
-        <item>Grafická</item>
-        <item>Percentá</item>
-        <item>Čiara</item>
-        <item>Žiadna</item>
+        <item>Grafický</item>
+        <item>Procenta</item>
+        <item>Čára</item>
+        <item>Skrýt</item>
     </string-array>
     <string-array name="pref_overscroll_effect_entries">
-        <item>Žiaden</item>
-        <item>Žiara</item>
-        <item>Poskočiť a žiara</item>
-        <item>Poskočiť</item>
+        <item>Žádný</item>
+        <item>Záře</item>
+        <item>Poskočit a záře</item>
+        <item>Poskočit</item>
     </string-array>
     <string-array name="entries_overscroll_weight">
-        <item>Extra ťažké</item>
-        <item>Ťažké</item>
-        <item>Stredné</item>
-        <item>Ľahké</item>
-        <item>Extra ľahké</item>
+        <item>Extra těžké</item>
+        <item>Těžké</item>
+        <item>Střední</item>
+        <item>Lehké</item>
+        <item>Extra lehké</item>
     </string-array>
     <string-array name="layout_style_entries">
-        <item>Stred</item>
+        <item>Střed</item>
         <item>Vpravo</item>
-        <item>Skryť</item>
+        <item>Skrýt</item>
     </string-array>
 </resources>

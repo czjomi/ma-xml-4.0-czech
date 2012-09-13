@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="application_name">Google Play Updater</string>
-    <string name="install_toast">Služba Google Play byla aktualizována</string>
-    <string name="permission_label_update_market">aktualizace služby Google Play</string>
-</resources>
