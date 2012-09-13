@@ -18,6 +18,7 @@
     <string name="error_app_internal">Vnitřní chyba aplikace</string>
     <string name="error_mediadb_new_record">Nelze uložit nahraný záznam</string>
     <string name="error_sdcard_access">SD karta není dostupná</string>
+    <string name="fm_record">FM nahrávání (%d)</string>
     <string name="hour">%d h</string>
     <string name="insert_sd_card">Vložte SD kartu</string>
     <string name="mark_now">(Stávající)</string>

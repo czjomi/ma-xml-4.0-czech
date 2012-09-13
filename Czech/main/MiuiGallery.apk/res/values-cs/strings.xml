@@ -71,6 +71,8 @@
     <string name="edit">Upravit</string>
     <string name="edited_photo_bucket_name">Upraveno</string>
     <string name="empty_album">Žádné obrázky/videa nejsou k dispozici.</string>
+    <string name="error_should_not_select_image">Upozornění: nevybírejte obrázek.</string>
+    <string name="error_should_not_select_video">Upozornění: nevybírejte video.</string>
     <string name="expand_album_in_home_page">Expand album in home page</string>
     <string name="exposure_time">Doba expozice</string>
     <string name="facelift">Zářivý obličej</string>

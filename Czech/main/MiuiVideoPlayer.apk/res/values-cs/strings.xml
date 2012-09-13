@@ -19,6 +19,7 @@
     <string name="menu_item_orientation_auto_sensor_action">Povolit otáčení</string>
     <string name="menu_item_orientation_fixed_by_videosize_action">Zakázat otáčení</string>
     <string name="menu_item_screen_shot">Snímek obraz.</string>
+    <string name="menu_item_sub_title">Titulky</string>
     <string name="menu_item_switch_width_height_label">Nastavit poměr stran</string>
     <string name="menu_wh_item_adapt_height_label">Přizpůsobit na výšku</string>
     <string name="menu_wh_item_adapt_width_label">Přizpůsobit na šířku</string>
@@ -27,6 +28,11 @@
     <string name="menu_wh_item_using_16_9_label">Poměr 16:9</string>
     <string name="menu_wh_item_using_4_3_label">Poměr 4:3</string>
     <string name="toast_back_key_pressed_notice">Stiskněte znovu pro ukončení.</string>
+    <string name="toast_message_continue_play_from">Pokračovat v přehrávání od</string>
+    <string name="toast_message_continue_play_hour">h</string>
+    <string name="toast_message_continue_play_minute">m</string>
+    <string name="toast_message_continue_play_second_and_play">s</string>
+    <string name="temp_play_history_button_label">Zobrazit historii</string>
     <string name="video_info_audio_bitrate_label">Bitrate audia:</string>
     <string name="video_info_audio_coding_label">Formát kódování zvuku:</string>
     <string name="video_info_audio_null">Nedostupný</string>

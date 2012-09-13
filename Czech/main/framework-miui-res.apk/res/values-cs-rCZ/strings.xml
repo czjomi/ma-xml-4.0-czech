@@ -17,11 +17,13 @@
     <string name="description_author">Autor:</string>
     <string name="description_designer">Návrhář:</string>
     <string name="description_download">Stažení:</string>
+    <string name="description_downloadtime">Čas stáhnutí:</string>
     <string name="description_file">Soubor:</string>
     <string name="description_missed">N/A</string>
     <string name="description_modifiedtime">Upraven:</string>
     <string name="description_size">Velikost:</string>
     <string name="description_unknown">Neznámý</string>
+    <string name="description_uploadtime">Čas odeslání:</string>
     <string name="description_version">Verze:</string>
     <string name="download_failed">Stahování neúspěšné</string>
     <string name="download_preview_failed">Stahování náhledu neúspěšné</string> 
@@ -118,12 +120,12 @@
     <string name="screen_on_proximity_sensor_hint">"Vynucené ukončení: dlouze podržte tlačítko 'Zapnutí' pro vyvolání Menu. Zabránění náhodného použití můžete vypnout v 'Nastavení - Obraz'."</string>
     <string name="screen_on_proximity_sensor_summary">"Zabránění náhodného použití je povolené. Funkce telefonu jsou nedostupné"</string>
     <string name="screen_on_proximity_sensor_title">Zabránění náhodného použití</string>
-    <string name="sdcard_status_changed_dialog_message">"Aplikace se nyní ukončí. Prosím spusťte tuto aplikaci znovu pro aktualizaci informací."</string>
-    <string name="sdcard_status_changed_dialog_title">Změna na SD kartě</string>
     <string name="sd_not_available">SD karta je odpojena nebo nepřístupná</string>
     <string name="sd_not_available_low_internal_storage">SD karta je odpojena nebo nepřístupná. Na interním úložišti je málo místa.</string>
     <string name="sd_not_available_saved_to_internal_storage">Uloženo na interní úložiště</string>
     <string name="sd_not_available_use_internal_storage">SD karta nepřístupná, uloženo na interní úložiště</string>
+    <string name="sdcard_status_changed_dialog_message">"Aplikace se nyní ukončí. Prosím spusťte tuto aplikaci znovu pro aktualizaci informací."</string>
+    <string name="sdcard_status_changed_dialog_title">Změna na SD kartě</string>
     <string name="select">Vybrat</string>
     <string name="select_all">Vše</string>
     <string name="send_sms_for_sync_notice">Systém odešle aktivační SMS, chcete pokračovat?</string>
@@ -137,4 +139,5 @@
     <string name="user_agreement3">" a "</string>
     <string name="user_agreement4">ochraně osobních údajů</string>
     <string name="user_agreement5">Klepněte na OK pokud souhlasíte s následujícím ujednáním, klepnutím na Zrušit akci ukončíte.</string>
+    <string name="wake_alarm_message">Zastavit budík. Upozornit za %s</string>
 </resources>

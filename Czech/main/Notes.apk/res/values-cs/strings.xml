@@ -62,6 +62,7 @@
     <string name="menu_setting">Nastavení</string>
     <string name="menu_share">Sdílet</string>
     <string name="menu_title_select_folder">Vyberte složku</string>
+    <string name="move_to_parent">Přesunout do domovské složky</string>
     <string name="note_alert_expired">Prošlá</string>
     <string name="note_link_email">Napsat e-mail</string>
     <string name="note_link_other">Otevřít mapy</string>
