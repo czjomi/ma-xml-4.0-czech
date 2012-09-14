@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mobile_operator_display_names">
+        <item>T-Mobile CZ</item>
+        <item>O2 CZ</item>
+        <item>Vodafone CZ</item>
+        <item>U:fon CZ</item>
+        <item>Vodafone CZ</item>
+		<item>ORANGE SK</item>
+        <item>Telekom SK</item>
+		<item>Telekom SK</item>
+        <item>O2 SK</item>
+    </string-array>
+    <string-array name="mobile_operator_numeric_values">
+        <item>23001</item>
+        <item>23002</item>
+        <item>23003</item>
+        <item>23004</item>
+        <item>23099</item>
+		<item>23101</item>
+        <item>23102</item>
+		<item>23104</item>
+        <item>23106</item>
+    </string-array>
+    <string-array name="mobile_operator_numeric_equivalencies">
+        <item>23001</item>
+        <item>23002</item>
+        <item>23003</item>
+        <item>23004</item>
+        <item>23099</item>
+		<item>23101</item>
+        <item>23102</item>
+		<item>23104</item>
+        <item>23106</item>
+    </string-array>
+</resources>
