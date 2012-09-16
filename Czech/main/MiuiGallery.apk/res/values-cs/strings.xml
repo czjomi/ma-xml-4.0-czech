@@ -75,8 +75,8 @@
     <string name="error_should_not_select_video">Upozornění: nevybírejte video.</string>
     <string name="expand_album_in_home_page">Expand album in home page</string>
     <string name="exposure_time">Doba expozice</string>
-	<string name="external_sd_card">SD karta</string>
-	<string name="external_usb_device">USB zařízení</string>
+    <string name="external_sd_card">SD karta</string>
+    <string name="external_usb_device">USB zařízení</string>
     <string name="facelift">Zářivý obličej</string>
     <string name="facetan">Opálený obličej</string>
     <string name="fail_init_gallery_db_helper">Aplikace je zamknutá, nelze otevřít databázi galerie, paměť je plná.</string>
@@ -117,14 +117,14 @@
     <string name="how_many_pics">%d Fotek</string>
     <string name="how_many_sub_folders">%d Složek</string>
     <string name="how_many_videos">%d Videí</string>
-	<string name="how_many_volumes">%d úložných zařízení</string>
+    <string name="how_many_volumes">%d úložných zařízení</string>
     <string name="image_property">Vlastnosti fotky</string>
     <string name="Import">Importovat</string>
     <string name="import_complete">Import byl dokončen</string>
     <string name="import_fail">Import se nezdařil</string>
     <string name="internal_camera_folder_display_name">Fotky na interním úložišti</string>
     <string name="internal_miui_capture_screen_folder_display_name">Screenshoty na interním úložišti</string>
-	<string name="internal_sd_card">Interní SD karta</string>
+    <string name="internal_sd_card">Interní SD karta</string>
     <string name="iso">ISO</string>
     <string name="loading">Načítání...</string>
     <string name="loading_account">Načítání účtu…</string>
@@ -267,7 +267,7 @@
     <string name="slideshow_interval_dialog_title">Interval prezentace musí být delší, než 0 sekund</string>
     <string name="slideshow_interval_invalid">Chybně zadaný interval, musí být v rozmezí 1~3600.</string>
     <string name="slideshow_repeat_mode">Opakovat</string>
-	<string name="storage_all_volumes">Všechny úložní zařízení</string>
+    <string name="storage_all_volumes">Všechna úložná zařízení</string>
     <string name="straighten">Vyrovnání</string>
     <string name="straighten_tooltip">Táhnutím prstem fotografii narovnáte</string>
     <string name="switch_to_camera">Přepnout do režimu Fotoaparát</string>
