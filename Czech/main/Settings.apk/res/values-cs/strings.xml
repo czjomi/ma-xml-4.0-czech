@@ -1044,6 +1044,7 @@
     <string name="power_cell">V pohotovostním režimu</string>
     <string name="power_idle">V nečinnosti</string>
     <string name="power_key">Zapínací tlačítko</string>
+    <string name="power_mode">Režim napájení</string>
     <string name="power_phone">Hlasové hovory</string>
     <string name="power_screen">Obrazovka</string>
     <string name="power_usage_history">Využití baterie</string>
@@ -1697,6 +1698,14 @@
     <string name="wait_for_debugger_summary">Debugged application waits for debugger to attach before executing</string>
     <string name="wallpaper_settings_fragment_title">Vybrat tapetu z</string>
     <string name="wallpaper_settings_title">Tapeta</string>
+    <string name="wfd_available_devices">Dostupné zařízení</string>
+    <string name="wfd_disconnect_diag_msg">Pokud přerušíte připojení k Wi-Fi, Vaše spojení s %1$s se ukončí.</string>
+    <string name="wfd_disconnect_diag_title">Přerušit připojení Wi-Fi?</string>
+    <string name="wfd_disconnect_multiple_diag_message">Pokud přerušíte Wi-Fi Displej, Vaše spojení s %1$s a %2$s ostatními zařízeními se ukončí.</string>
+    <string name="wfd_menu_search">Vyhledat zařízení</string>
+    <string name="wfd_menu_searching">Vyhledávání...</string>
+    <string name="wfd_menu_teardown">Odpojit</string>
+    <string name="wfd_settings_title">Nastavení Wi-Fi Displej</string>
     <string name="widget_picker_title">Zvolte widget</string>
     <string name="wifi_access_points">Sítě WiFi</string>
     <string name="wifi_add_network">Přidat síť</string>
@@ -1753,6 +1762,7 @@
     <string name="wifi_menu_forget">Odstranit záznam sítě</string>
     <string name="wifi_menu_modify">Upravit síť</string>
     <string name="wifi_menu_scan">Vyhledávání</string>
+    <string name="wifi_menu_wfd">Wi-Fi Displej</string>
     <string name="wifi_menu_wps_pbc">WPS tlačítko</string>
     <string name="wifi_menu_wps_pin">WPS Pin</string>
     <string name="wifi_more">Více</string>    

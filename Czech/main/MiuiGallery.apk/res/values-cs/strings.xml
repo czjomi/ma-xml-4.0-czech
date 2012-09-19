@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="account_not_login">Můžete se přihlásit na svůj účet Xiaomi a synchronizovat Vaše data s MiCloud.</string>
     <string name="activity_not_found">Není k dispozici žádná aplikace k dokončení akce.</string>
     <string name="add_account">Přidat účet</string>
     <string name="add_bookmark">Přidat do oblíbených</string>
     <string name="albums">Alba</string>
     <string name="alert">Oznámení</string>
+    <string name="alert_message_initial_cloud">Systém automaticky odešle Vaše staré a nové fotografie pouze, pokud je telefon připojený k Wi-fi.</string>
     <string name="alert_message_sync_histoy_power_on">Ve výchozím nastavení se historie obrázků synchronizuje pouze při nabíjení baterie. Toto nastavení lze změnit v menu Nastavení.</string>
     <string name="all_album">Všechny</string>
     <string name="all_albums_desc">Alba</string>
@@ -131,9 +133,12 @@
     <string name="loading_failure">Fotku nelze nahrát.</string>
     <string name="loading_files">Načítám...</string>
     <string name="loading_image">Načítání obrázku…</string>
+    <string name="loading_thumbnail">Stahování náhledů...</string>
     <string name="loading_video">Načítání videa...</string>
+    <string name="loading_will_cost">Stahování fotografií vyžaduje přenos dat</string>
     <string name="location">Lokalita</string>
     <string name="locations">Lokality</string>
+    <string name="login_account">Přihlášení Xiaomi &amp; Sync</string>
     <string name="lomoish">Lomo</string>
     <string name="make_available_offline">Zpřístupnit offline</string>
     <string name="maker">Tvůrce</string>
@@ -176,6 +181,7 @@
     <string name="not_auto_create_recent_album">Nevytvářet automatická alba</string>
     <string name="open_map">Otevřít mapu</string>
     <string name="open_single_image_failure">Nelze načíst obrázek!</string>
+    <string name="open_sync">Synchr. teď</string>
     <string name="operation_cancel">Zrušit</string>
     <string name="operation_delete">Smazat</string>
     <string name="operation_info">Detaily</string>
@@ -211,7 +217,7 @@
     <string name="rotate_tooltip">Táhnutím prstem fotografii otočíte</string>
     <string name="running_face_detection">Zadávám identifikaci obličeje,prosím čekejte...</string>
     <string name="saturation">Sytost</string>
-    <string name="save">ULOŽIT</string>
+    <string name="save">Uložit</string>
     <string name="save_error">Oříznutý obrázek nelze uložit.</string>
     <string name="save_photo">Chcete upravenou fotografii uložit?</string>
     <string name="save_pic_error">Nelze uložit obrázek!</string>
@@ -276,6 +282,7 @@
     <string name="sync_album_set_error">Stažení seznamu alb se nezdařilo. Zkuste to prosím později.</string>
     <string name="sync_history_power_on">Synchronizovat historii obrázků jen při nabíjení</string>
     <string name="sync_history_power_on_summary">Doporučuje se povolit, jinak se může baterie vybíjet rychleji.</string>
+    <string name="sync_not_open">Můžete automaticky synchronizovat Vaše fotografie s cloudom pro jejich jednodušší organizaci.</string>
     <string name="sync_only_in_wifi">Pouze Wi-Fi</string>
     <string name="sync_only_in_wifi_summary">Doporučuje se povolit, jinak se zvýší využití dat přes operátora.</string>
     <string name="sync_picasa_albums">Obnovit</string>
