@@ -306,6 +306,12 @@
     <string name="label_notes">Poznámky</string>
     <string name="label_sip_address">Internetový telefon (SIP)</string>
     <string name="launcherDialer">Telefon</string>
+    <string name="listAllContactsInAccount">Kotakty z %s</string>
+    <string name="listCustomView">Kontakty ve vlastním zobrazení</string>
+    <string name="listSingleContact">Jediný kontakt</string>
+    <string name="listTotalAllContactsZero">Žádné kontakty.</string>
+    <string name="listTotalAllContactsZeroCustom">Žádné viditelné kontakty.</string>
+    <string name="listTotalAllContactsZeroGroup">Žádné kontakty v %s</string>
     <string name="listFoundAllContactsZero">Nenalezeno</string>
     <string name="listTotalAllContactsZeroStarred">Žádné oblíbené kontakty</string>
     <string name="list_filter_all_accounts">Všechny kontakty</string>
