@@ -16,6 +16,5 @@
     <string name="preview_device_lbl">Zařízení</string>
     <string name="preview_done_btn">Hotovo</string>
     <string name="preview_id_lbl">Unikátní ID</string>
-    <string name="preview_title">Náhled odesílaných dat</string>
     <string name="preview_version_lbl">Verze</string>
 </resources>

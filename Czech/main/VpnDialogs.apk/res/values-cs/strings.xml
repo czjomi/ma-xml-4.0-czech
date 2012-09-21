@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="accept">Této aplikaci věřím.</string>
-  <string name="blank_value">--</string>
   <string name="configure">Konfigurovat</string>
   <string name="data_received">Přijato:</string>
   <string name="data_transmitted">Odesláno:</string>

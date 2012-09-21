@@ -23,10 +23,8 @@
     <string name="cancel">Zrušit</string>
     <string name="cancel_sleep_mode">Časovač zastaven</string>
     <string name="category_num_format">(%s)</string>
-    <string name="clear_search_history">Vymazat historii hledání</string>
     <string name="click_to_shuffle">Klepněte sem pro spuštění náhodného přehrávání</string>
     <string name="confirm">Potvrdit</string>
-    <string name="continue_when_wifi_disconnect">Potvrdit poslech online hudby přes mobilní síť</string>
     <string name="create_confirm">Potvrdit</string>
     <string name="create_equalzier_create_text_prompt">Název ekvalizéru</string>
     <string name="create_playlist_create_text_prompt">Název playlistu</string>
@@ -43,7 +41,6 @@
     <string name="detail_genre">"Žánr: "</string>
     <string name="detail_size">"Velikost: "</string>
     <string name="discovery_music">Prozkoumat hudbu</string>
-    <string name="donot_ask_me_again">"Neptat se znovu"</string>
     <string name="download">Stáhnout</string>
     <string name="download_album_settings">Automaticky stahovat obrázky alb</string>
     <string name="download_album_summary">Může stahovat větší množství dat, zvažte použití WiFi</string>
@@ -84,9 +81,6 @@
     <string name="filter_by_size_prefix">Minimální velikost:</string>
     <string name="filter_by_size_summary">Filtrovat velmi malé soubory</string>
     <string name="filter_notification">Složky jsou filtrovány. Můžete upravit v nastavení filtrování</string>
-    <string name="flow_save_confirm">Ano, vím</string>
-    <string name="flow_save_hint">Povolit vyskakovací okna</string>
-    <string name="flow_save_hint_summary">Povolit vyskakovací okna pro potvrzování stažení skladeb</string>
     <string name="folder_title_format" formatted="false">%s(%d)</string>
     <string name="folders_title">Složky</string>
     <string name="frequentlyplayed_title">Nejčastěji přehrávané</string>
@@ -111,8 +105,6 @@
     <string name="load_audio_in_process">Načíst seznam audia</string>
     <string name="load_bill_failed">Nepodařilo se načíst seznam billboard, zkuste to prosím znovu</string>
     <string name="load_bill_in_process">Načíst seznam billboard</string>
-    <string name="load_category_failed">Nepodařilo se načíst seznam kategorií, zkuste to prosím znovu.</string>
-    <string name="load_category_in_process">Načtení seznamu(ů)</string>
     <string name="load_channel_failed">Nepodařilo se načíst seznam stanic, zkuste to prosím znovu</string>
     <string name="load_channel_in_process">Načíst seznam stanic</string>
     <string name="loading">Načítám</string>
@@ -146,7 +138,6 @@
     <string name="new_playlist">Nový</string>
     <string name="new_playlist_name_template">Nový playlist %d</string>
     <string name="no_effect">Bez efektu</string>
-    <string name="no_tracks_title">Žádné skladby</string>
     <string name="not_selected">Vyberte prosím skladbu</string>
     <string name="notification_artist_album" formatted="false">"%2$s%1$s"</string>
     <string name="online_indicator">-online</string>
@@ -203,11 +194,7 @@
     <string name="sdcard_error_message_nosdcard">Došlo k chybě na USB úložišti.</string>
     <string name="sdcard_missing_message">Váš telefon nemá vloženou SD kartu.</string>
     <string name="sdcard_missing_message_nosdcard">Váš telefon nemá USB úložiště.</string>
-    <string name="search_failed">Hledání selhalo</string>
     <string name="search_hint">Hledat hudbu</string>
-    <string name="search_history">Historie hledání</string>
-    <string name="search_in_process">Hledání</string>
-    <string name="search_result_format">\"%s\"</string>
     <string name="search_settings_description">Umělci, alba, a skladby</string>
     <string name="search_suggestion">Doporučené vyhledávání:</string>
     <string name="search_title">Hledat</string>
@@ -235,7 +222,6 @@
     <string name="spectrogram_display_settings">Zobrazit spektrogram</string>
     <string name="spectrogram_display_summary">Zobrazit spektrogram ve widgetu a v přehrávači</string>
     <string name="start_to_download_album">Stahování obrázků alb pro všechny skladby v knihovně</string>
-    <string name="stop_when_wifi_disconnect">"WiFi byla odpojena, online přehrávání bylo pozastaveno. Pokud chcete pro poslech použít mobilní internet, upravte nastavení"</string>
     <string name="streamloadingtext">Připojování k %s</string>
     <string name="track_edit">Skladba</string>
     <string name="track_num_format">(%s)</string>

@@ -63,7 +63,6 @@
     <string name="file_info_size">Velikost:</string>
     <string name="file_large_error">"Soubory větší jak 300Mb nemohou být uploadovány."</string>
     <string name="file_loading">Nahrávám...</string>
-    <string name="file_size">%d bytů</string>
     <string name="guide_access_files_through_phone">"Také můžete uploadovat prostřednictvím webových stránek, soubory se objeví v MiDrive v telefonu"</string>
     <string name="guide_access_files_through_web">"Vaše soubory mohou být zobrazeny na jakémkoliv PC připojeném k internetu"</string>
     <string name="guide_advance_tech">Rozšířené možnosti</string>

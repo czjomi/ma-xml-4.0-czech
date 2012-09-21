@@ -20,7 +20,6 @@
     <string name="description_downloadtime">Čas stáhnutí:</string>
     <string name="description_file">Soubor:</string>
     <string name="description_missed">N/A</string>
-    <string name="description_modifiedtime">Upraven:</string>
     <string name="description_size">Velikost:</string>
     <string name="description_unknown">Neznámý</string>
     <string name="description_uploadtime">Čas odeslání:</string>
@@ -86,7 +85,6 @@
     <string name="perm_tigger_toggle_dspt">Povolit aplikacím použít přepínače ve stav. liště</string>
     <string name="perm_tigger_toggle_lab">Použít přepínače ze stav. lišty</string>
     <string name="perm_use_find_device">Zjistit polohu zařízení</string>
-    <string name="perm_use_pin_security">Použít zabezpečení PIN</string>
     <string name="private_num">Soukromé číslo</string>
     <string name="processing">Zpracovávám ...</string>
     <string name="reboot_confirm">Telefon se restartuje</string>

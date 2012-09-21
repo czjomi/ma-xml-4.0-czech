@@ -16,10 +16,7 @@
     <string name="close">Zavřít</string>
     <string name="component_category_finest_title">Doporučené</string>
     <string name="component_category_more_title">Více</string>
-    <string name="component_category_ringtone_title">Vyzvánění</string>
-    <string name="component_category_style_title">Vzhled</string>
     <string name="component_category_title">Úprava tématu</string>
-    <string name="component_category_wallpaper_title">Tapety</string>
     <string name="component_include_title">Vybrané: %1$s</string>
     <string name="component_lockstyle_personal_title">Nastavení</string>	
     <string name="component_screen_title">Včetně tapety</string>

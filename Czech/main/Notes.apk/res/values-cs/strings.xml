@@ -8,8 +8,6 @@
     <string name="alert_title_delete">Mazání vybraných poznámek</string>
     <string name="app_name">Poznámky</string>
     <string name="app_widget">Poznámky</string>
-    <string name="app_widget2x2">Poznámky 2x2</string>
-    <string name="app_widget4x4">Poznámky 4x4</string>
     <string name="attachment_camera">Fotoaparát</string>
     <string name="attachment_contact">Kontakt</string>
     <string name="attachment_gallery">Galerie</string>

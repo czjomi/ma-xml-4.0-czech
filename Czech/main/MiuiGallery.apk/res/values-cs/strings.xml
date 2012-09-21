@@ -17,7 +17,6 @@
     <string name="already_saved">Fotka již uložena v %s</string>
     <string name="aperture">Clona</string>
     <string name="app_name">Galerie</string>
-    <string name="apply_pic_for">Nastavit jako</string>
     <string name="appwidget_empty_text">Žádné fotky.</string>
     <string name="appwidget_title">Galerie fotografií</string>
     <string name="auto">Autom.</string>
@@ -227,7 +226,6 @@
     <string name="saving_image">Ukládání fotografie...</string>
     <string name="screen_saver_wallpaper">Tapeta zámku</string>
     <string name="sd_explorer">Procházet úložiště</string>
-    <string name="sd_folder">Složky v úložišti</string>
     <string name="sd_not_available">SD karta odpojena, nebo nedostupná</string>
     <string name="seconds">sekund</string>
     <string name="select_album">Vyberte album</string>

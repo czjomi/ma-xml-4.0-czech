@@ -61,7 +61,6 @@
     <string name="data_no_enough_space_message">Záloha se nemusí provést, uvolněte místo a zkuste to znovu</string>
     <string name="date_format">yyyy MM dd HH:mm:ss</string>
     <string name="delete">Smazat</string>
-    <string name="delete_backup_confirm">Opravdu chcete smazat zálohu?</string>
     <string name="delete_backup_process">Mažu zálohu, čekejte prosím..</string>
     <string name="delete_failed_backup_confirm">Tato záloha je poškozená a nedá se z ní obnovit</string>
     <string name="dir_date_format">yyyy-MM-dd-HH-mm-ss</string>
