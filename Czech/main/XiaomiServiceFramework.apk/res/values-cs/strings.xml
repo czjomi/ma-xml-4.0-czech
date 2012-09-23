@@ -109,7 +109,7 @@
     <string name="sync_on">Zap</string>
     <string name="sync_one_time_sync">Klepněte pro synchronizaci ( %1$s )</string>
     <string name="sync_settings">Nastavení synchr.</string>
-    <string name="sync_sub_dspt">SMS k aktivování služby se zasílá</string>
+    <string name="sync_sub_dspt">Odešle se SMS pro aktivaci služby</string>
     <string name="title_activate">Aktivujte svůj XiaoMi účet</string>
     <string name="title_login">Přihlašte se ke XiaoMi účtu</string>
     <string name="title_reg">Zaregistrujte XiaoMi účet</string>
