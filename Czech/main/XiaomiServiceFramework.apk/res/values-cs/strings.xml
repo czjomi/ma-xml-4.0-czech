@@ -77,7 +77,7 @@
     <string name="micloud_val_sms_alert">Zašle se SMS k potvrzení Vašeho telefonního čísla, pokračovat?</string>
     <string name="micloud_waiting">Čekejte...</string>
     <string name="micloud_welcome_banner">XiaoMi účet</string>
-    <string name="micloud_welcome_skip_login" />
+    <string name="micloud_welcome_skip_login"><u>Přeskočit tento krok</u></string>
     <string name="next">Další</string>
     <string name="no_sim">SIM karta nenalezena, nelze synchronizovat</string>
     <string name="other_settings">Další nastavení</string>
