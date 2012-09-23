@@ -1353,6 +1353,7 @@
     <string name="sim_reenter_new">Potvrďte nový kód PIN.</string>
     <string name="skip_button_label">Zrušit</string>
     <string name="skip_label">Dále</string>
+    <string name="skip_step">Přeskočit tento krok</string>
     <string name="small_font">Malá</string>
     <string name="sms_delivered_sound_dialog_title">Vybrat zvuk doručenky</string>
     <string name="sms_delivered_sound_title">Zvuk doručenky</string>
