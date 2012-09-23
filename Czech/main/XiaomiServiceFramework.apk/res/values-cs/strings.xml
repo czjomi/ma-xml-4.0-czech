@@ -34,7 +34,9 @@
     <string name="find_device_error_network">Síť je nedostupná</string>
     <string name="find_device_error_server">Chyba serveru</string>
     <string name="find_device_check_phone_error_title">Nepodařilo se zapnout zjišťování polohy zařízení</string>
-    <string name="find_device_notice">Pokud nemůžete nalézt Váš telefon, můžete na my.xiaomi.com zjistit jeho polohu, zablokovat, nebo vymazat všechna data</string>
+    <string name="find_device_notice_p1">Pokud nemůžete nalézt Váš telefon, navštivte</string>
+    <string name="find_device_notice_p2">i.xiaomi.com</string>
+    <string name="find_device_notice_p3">pro zjištění polohy, zablokování, nebo vymazání všech dat</string>   
     <string name="find_device_success_title">Zjišťování polohy je zapnuté</string>
     <string name="forget_password"><u>Zapomenuté heslo</u></string>
     <string name="header_data_and_synchronization">Data &amp; synchronizace</string>
