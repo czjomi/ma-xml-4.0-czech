@@ -23,6 +23,8 @@
     <string name="compress_title">Zabalit</string>
     <string name="confirm">OK</string>
     <string name="confirm_know">OK</string>
+    <string name="copy_failed">Kopírování selhalo</string>
+    <string name="copy_success">Kopírování dokončeno</string>
     <string name="create_new_folder_failed">Nelze vytvořit složku %1$s</string>
     <string name="create_new_folder_succeeded">Složka %1$s vytvořena</string>
     <string name="cution">Tipy</string>
@@ -63,6 +65,7 @@
     <string name="file_info_size">Velikost:</string>
     <string name="file_large_error">"Soubory větší jak 300Mb nemohou být uploadovány."</string>
     <string name="file_loading">Nahrávám...</string>
+    <string name="file_size">%d Bytů</string>
     <string name="guide_access_files_through_phone">"Také můžete uploadovat prostřednictvím webových stránek, soubory se objeví v MiDrive v telefonu"</string>
     <string name="guide_access_files_through_web">"Vaše soubory mohou být zobrazeny na jakémkoliv PC připojeném k internetu"</string>
     <string name="guide_advance_tech">Rozšířené možnosti</string>
@@ -80,6 +83,8 @@
     <string name="instruction_pre">Slouží k přenosu souborů mezi telefonem a PC pomocí ftp protokolu.</string>
     <string name="kuaipan_over_space">Váš MiDrive nemá volné místo.</string>
     <string name="kuaipan_tech_support">Technická podpora ze strany Kingsoft Kuaipan</string>
+    <string name="kuaipan_prompt">MiDrive Pomoc</string>
+    <string name="kuaipan_prompt_message">"Server je momentálně nedostupný, zkuste to znovu později"</string>
     <string name="local_cache">Místní cache</string>
     <string name="local_cache_size">Velikost místní cache: %s</string>
     <string name="login_reg_content">MiDrive umožňuje ukládat soubory a synchronizovat je mezi více zařízení..</string>
@@ -91,6 +96,8 @@
     <string name="menu_item_sort_name">Jména</string>
     <string name="menu_item_sort_size">Velikosti</string>
     <string name="menu_item_sort_type">Typu</string>
+    <string name="move_failed">Přesunutí selhalo</string>
+    <string name="move_success">Přesunutí sokončeno</string>
     <string name="multi_select_title">Vybrané položky: %1$s</string>
     <string name="net_lose_connected">Síť není dostupná, nelze získat velikost</string>
     <string name="networkView_notConnected">Žádná síť k dispozici</string>

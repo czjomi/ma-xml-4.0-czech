@@ -1257,6 +1257,7 @@
     <string name="search_launcher">spouštěč</string>
     <string name="search_led">led</string>
     <string name="search_network">síť</string>
+    <string name="search_power_mode">running mode; performance; priority performance; performance mode; normal mode; conventional mode; default mode; balanced performance; saving mode; energy-saving mode; performance; power</string>
     <string name="search_ring_volume">hlasitost zvonění</string>
     <string name="search_ringtone">melodie</string>
     <string name="search_screen_timeout">časový limit displeje</string>
