@@ -16,34 +16,34 @@
         <item>yyyy-MM-dd</item>
     </string-array>
     <string-array name="screen_timeout_entries">
-        <item>15 sekund</item>
-        <item>30 sekund</item>
-        <item>1 minuta</item>
-        <item>2 minuty</item>
-        <item>5 minut</item>
-        <item>10 minut</item>
-        <item>30 minut</item>
+        <item>15 s</item>
+        <item>30 s</item>
+        <item>1 min</item>
+        <item>2 min</item>
+        <item>5 min</item>
+        <item>10 min</item>
+        <item>30 min</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Nikdy</item>
-        <item>15 sekund</item>
-        <item>30 sekund</item>
-        <item>1 minuta</item>
-        <item>2 minuty</item>
-        <item>5 minut</item>
-        <item>10 minut</item>
-        <item>30 minut</item>
+        <item>15 s</item>
+        <item>30 s</item>
+        <item>1 min</item>
+        <item>2 min</item>
+        <item>5 min</item>
+        <item>10 min</item>
+        <item>30 min</item>
     </string-array>
     <string-array name="lock_after_timeout_entries">
         <item>Za okamžik</item>
-        <item>5 sekund</item>
-        <item>15 sekund</item>
-        <item>30 sekund</item>
-        <item>1 minuta</item>
-        <item>2 minuty</item>
-        <item>5 minut</item>
-        <item>10 minut</item>
-        <item>30 minut</item>
+        <item>5 s</item>
+        <item>15 s</item>
+        <item>30 s</item>
+        <item>1 min</item>
+        <item>2 min</item>
+        <item>5 min</item>
+        <item>10 min</item>
+        <item>30 min</item>
     </string-array>
     <string-array name="entries_font_size">
         <item>Malé</item>
@@ -299,10 +299,10 @@
         <item>9 sekund</item>
     </string-array>  
     <string-array name="back_long_press_timeout">
-        <item>0.5 sekundy</item>
-        <item>1 sekunda</item>
-        <item>1.5 sekundy</item>
-        <item>2 sekundy</item>
+        <item>0.5 s</item>
+        <item>1 s</item>
+        <item>1.5 s</item>
+        <item>2 s</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 sekunda</item>
