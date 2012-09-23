@@ -47,9 +47,9 @@
     <string name="login_notice">Přihlašování...</string>
     <string name="login_retry">Opakovat</string>
     <string name="micloud_about">" "<u>Více o MiCloud</u>" "</string>
-    <string name="micloud_account">XiaoMi účet</string>
+    <string name="micloud_account">XiaoMi</string>
     <string name="micloud_account_label">Účet: %1$s</string>
-    <string name="micloud_account_name">XiaoMi účet</string>
+    <string name="micloud_account_name">XiaoMi</string>
     <string name="micloud_account_not_actived">Účet není aktivován</string>
     <string name="micloud_active_email_sent_1">Zaslat aktivační email na adresu:</string>
     <string name="micloud_active_email_sent_2" />
