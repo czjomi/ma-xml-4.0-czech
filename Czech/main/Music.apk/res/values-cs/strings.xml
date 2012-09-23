@@ -108,7 +108,9 @@
     <string name="load_channel_failed">Nepodařilo se načíst seznam stanic, zkuste to prosím znovu</string>
     <string name="load_channel_in_process">Načíst seznam stanic</string>
     <string name="loading">Načítám</string>
-    <string name="lpa_off_hint">You need to close low-power audio play to enable equalizer, please set in Settings-> System -> Battery Settings. Your battery consumption will increase.</string>
+    <string name="lpa_off_hint">Pro použití equalizéru je nutné vypnout přehrávání s nízkou spotřebou energie, Nastavte v Nastavení-> Systém -> Nastavení baterie. Spotřeba baterie se může zvýšit.</string>	
+    <string name="lrc_progress_modify">Nastavit rychlost textu písně</string>	
+    <string name="lrc_progress_modify_helper">Nastavte rychlost textu písně posunutím nahoru, nebo dolů</string>
     <string name="lrc_search_failed">Texty nenalezeny!</string>
     <string name="lrc_searching">Hledání textů...</string>
     <string name="lrc_select">Vyberte text</string>

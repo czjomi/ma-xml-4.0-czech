@@ -316,6 +316,11 @@
     <string name="dial_emergency_empty_error">Hovor nebyl spojen, vytočte číslo tísňového volání!</string>
     <string name="dial_emergency_error">Hovor nelze spojit, %s není číslo nouzového volání.</string>
     <string name="dialer_emptyListWorking">Nahrávám…</string>
+    <string name="dial_pad_touch_tone_default_miui">Výchozí</string>
+    <string name="dial_pad_touch_tone_human_miui">Lidský hlas</string>
+    <string name="dial_pad_touch_tone_miui">Tóny číselníku</string>
+    <string name="dial_pad_touch_tone_piano_miui">Zvuk klavíru</string>
+    <string name="dial_pad_touch_tone_setting_miui">Nastavení zvuku číselníku</string>
     <string name="dialerKeyboardHintText">Číslo vytočíte pomocí klávesnice.</string>
     <string name="disable">Vypnout</string>
     <string name="disable_all_cf_miui">Zrušit přesměrování hovorů</string>
@@ -926,6 +931,7 @@
     <string name="throttle_status_subtext">"%1$s (%2$d٪) z limitu %3$s pro období. Počet dní do začátku dalšího období: %4$d (%5$s)"</string>
     <string name="throttle_time_frame">Období využití dat</string>
     <string name="throttle_time_frame_subtext">"Uplynulo %1$d٪ cyklu. Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
+    <string name="tone_miui">Tóny</string>
     <string name="transport">Protocol</string>
     <string name="transport_title">Typ trasportu</string>
     <string name="tty_mode_entries_full_miui">plný TTY</string>
