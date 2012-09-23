@@ -4,7 +4,7 @@
     <string name="main_btn_preview">Náhled dat</string>
     <string name="main_btn_save">Uložit nastavení</string>
     <string name="main_desc">"Přihlášení se k odesílání anonymních dat použití umožní vývojářům MIUI získat přehled o instalacích na zařízeních. Odesílané data obsahují unikátní identifikátor, který žádným způsobem neohrozí Vaše soukromí, nezveřejní typ zařízení, nebo informace o verzi. Data jsou odesílána při každém startu zařízení. Stisknutím tlačítka 'Náhled dat' níže uvidíte příklad dat, která jsou odesílána."</string>
-    <string name="main_link">&lt;a href=http://www.cyanogenmod.com/blog/cmstats-what-it-is-and-why-you-should-opt-in>Další informace&lt;/a></string>
+    <string name="main_link">&lt;a href=http://miuiandroid.com/miui-stats-opt-in-information/>Learn More&lt;/a></string>
     <string name="main_optin">Povolit zasílání</string>
     <string name="main_show_stats">Zobrazit statistiku</string>
     <string name="main_title">Anonymní data použití</string>
