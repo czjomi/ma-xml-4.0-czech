@@ -592,7 +592,7 @@
     <string name="debug_app">Zvolte debug app</string>
     <string name="debug_app_not_set">Není nastavená žádná debug app.</string>
     <string name="debug_app_set">Debugging app.: %1$s</string>
-    <string name="debug_applications_category">Aplikácia</string>
+    <string name="debug_applications_category">Aplikace</string>
     <string name="debug_debugging_category">Debugging</string>
     <string name="debug_drawing_category">Kresba</string>
     <string name="debug_input_category">Vstup</string>
