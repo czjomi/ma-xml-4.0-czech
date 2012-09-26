@@ -116,7 +116,7 @@
     <string name="reverse_all">Vymazat vše</string>
     <string name="safetylegal_activity_unreachable">Váš telefon není připojen k datovém síti. Pro zobrazení informací nyní přejděte na %s z webového prohlížeče vašeho počítače připojeného k síti Internet.</string>
     <string name="screen_on_proximity_sensor_hint">"Vynucené ukončení: dlouze podržte tlačítko 'Zapnutí' pro vyvolání Menu. Zabránění náhodného použití můžete vypnout v 'Nastavení - Obraz'."</string>
-    <string name="screen_on_proximity_sensor_summary">"Zabránění náhodného použití je povolené. Funkce telefonu jsou nedostupné"</string>
+    <string name="screen_on_proximity_sensor_summary">"Funkce telefonu jsou nedostupné"</string>
     <string name="screen_on_proximity_sensor_title">Zabráněno náhodnému použití</string>
     <string name="sd_not_available">SD karta je odpojena nebo nepřístupná</string>
     <string name="sd_not_available_low_internal_storage">SD karta je odpojena nebo nepřístupná. Na interním úložišti je málo místa.</string>
