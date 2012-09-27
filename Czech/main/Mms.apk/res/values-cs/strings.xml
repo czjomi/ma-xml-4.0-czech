@@ -232,11 +232,14 @@
     <string name="mx_activate_hint_sim_change">SIM karta změněna. K reaktivaci je zapotřebí sms. Aktivovat teď?</string>
     <string name="mx_activating">Aktivuji</string>
     <string name="mx_auto_resend_sms">Poslat jako SMS</string>
-    <string name="mx_auto_resend_sms_summary">Poslat jako SMS pokud cloudové zprávy nejsou k dispozici.</string>
+    <string name="mx_auto_resend_sms_summary">Poslat jako SMS pokud cloudové zprávy nejsou k dispozici. Zprávy mohou být zpoplatněny</string>
     <string name="mx_btn_enable">Zapnout</string>
     <string name="mx_count_dspt">Od aktivace, MIUI poslalo %d cloud zpráv</string>
     <string name="mx_dspt">Poslat sms přes internet pomocí MIUI, pokud odeslání přes operátora selže</string>
+    <string name="mx_dspt_disabled">Poslat sms přes internet pomocí MIUI, pokud odeslání přes operátora selže</string>
     <string name="mx_enable">Zapnout cloudové zprávy</string>
+    <string name="mx_offline">Offline</string>	
+    <string name="mx_online">Online</string>
     <string name="mx_warning_notice">SMS byla odeslána k aktivaci cloudových zpráv.</string>
     <string name="need_download">Čekání na synchr...</string>
     <string name="new_message">Nová zpráva</string>
