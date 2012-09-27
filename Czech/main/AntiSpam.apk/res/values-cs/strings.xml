@@ -39,6 +39,8 @@
     <string name="clear_all_mslog">Smazat log zpráv</string>
     <string name="close_rule">Zakázat pravidla firewallu.</string>
     <string name="confirm">OK</string>
+    <string name="confirm_clear_blacklist">Opravdu chcete vymazat černou listinu?</string>
+    <string name="confirm_clear_whitelist">Opravdu chcete vymazat bílou listinu?</string>
     <string name="context_add_contact">Přidat do existujícího kontaktu</string>
     <string name="context_call">Hovor %s</string>
     <string name="context_ms">Poslat SMS / MMS</string>

@@ -30,6 +30,7 @@
     <string name="camera_disconnected">Fotoaparát byl odpojen.</string>
     <string name="camera_folder_display_name">Fotky z fotoaparátu</string>
     <string name="camera_setas_wallpaper">Tapeta</string>
+    <string name="camera_view_none_message">Zde budou zobrazené Vaše fotografie.</string>
     <string name="cancel">Zrušit</string>
     <string name="cancel_bookmark">Odebrat z oblíbených</string>
     <string name="cleaning_cache">Mazání mezipaměti...</string>
@@ -37,8 +38,10 @@
     <string name="clear_thumbnail_cache_confirm">Náhledy byly smazány. Galerie přeskenuje veškerá média a vytvoří náhledy znovu.</string>
     <string name="clear_thumbnail_cache_summary">Prohlížení galerie vytvoří náhledy. Vymazání mezipaměti uvolní místo na úložišti.</string>
     <string name="click_import">Klepněte sem pro import</string>
+    <string name="click_to_enter_camera">Otevřít fotoaparát</string>
     <string name="close">Zavřít</string>
     <string name="cloud_albums">Alba v Cloudu</string>
+    <string name="cloud_gallery_no_pictures">Žádné fotografie v MiCloud</string>
     <string name="cloud_gallery_setting">Nastavení galerie v Cloudu</string>
     <string name="cloud_gallery_space_full">Uploadování se nezdařilo!, Cloudové úložiště galerie je plné</string>
     <string name="cloud_media_set_set">Alba v Cloudu</string>
@@ -159,6 +162,7 @@
     <string name="mimetype">Typ MIME</string>
     <string name="miui_capture_screen_folder_display_name">Screenshoty</string>
     <string name="model">Model</string>
+    <string name="modify_cloud_settings">Nastavení MiCloud</string>
     <string name="more">Více:</string>
     <string name="move_cloud_data">Data v Cloudu galerie byla přesunuta do: %s</string>
     <string name="movie_view_label">Přehrávač videa</string>
@@ -171,6 +175,7 @@
     <string name="no_file">Soubory nenalezeny</string>
     <string name="no_files">Složka je prázdná</string>
     <string name="no_location">Neznámá poloha</string>
+    <string name="no_network_connected">Žádné internetové připojení</string>
     <string name="no_map_app">Žádná aplikace pro mapy</string>
     <string name="no_recent_album">Můžete si dát často používané alba jako oblíbené pro rychlejší prohlížení..</string>
     <string name="no_storage_disable_cloud_albums">Alba v Cloudu jsou zakázána; zkuste to prosím znovu až bude k dispozici externí úložiště.</string>
@@ -179,6 +184,7 @@
     <string name="no_such_item">"Nelze najít položku."</string>
     <string name="no_thumbnail">Chybí miniatura</string>
     <string name="not_auto_create_recent_album">Nevytvářet automatická alba</string>
+    <string name="only_upload_in_charging">Fotografie budou odeslané pouze při připojené nabíječce.</string>
     <string name="open_map">Otevřít mapu</string>
     <string name="open_single_image_failure">Nelze načíst obrázek!</string>
     <string name="open_sync">Synchr. teď</string>
