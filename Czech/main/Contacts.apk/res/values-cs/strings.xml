@@ -272,7 +272,7 @@
     <string name="group_name_coworkers">Spolupracovníci</string>
     <string name="group_name_family">Rodina</string>
     <string name="group_name_friends">Přátelé</string>
-    <string name="group_name_hint">Jméno skupiny</string>
+    <string name="group_name_hint">Název skupiny</string>
     <string name="group_read_only">Na tomto zařízení nelze upravit</string>
     <string name="groupSavedErrorToast">Chyba, nemohu uložit změny.</string>
     <string name="groupSavedToast">Skupina uložena</string>

@@ -39,8 +39,9 @@
     <string name="answer_widget_sliding_vertical_miui">Vertikální posunutí</string>
     <string name="answer_widget_title_miui">Odpovědní gesto</string>
     <string name="apn_settings">Názvy přístupových bodů (AP)</string>
+    <string name="areacode_required_accept_miui">OK</string>
     <string name="areacode_required_for_emergency_number_miui">Místní tísnové číslo</string>
-    <string name="areacode_required_miui">Kód země je potřeba</string>
+    <string name="areacode_required_miui">Je zapotřebí kód země</string>
     <string name="atr_disable">Oblastní přehledy dopravy zakázány</string>
     <string name="atr_enable">Oblastní přehledy dopravy povoleny</string>
     <string name="audio_mode_bluetooth">Bluetooth</string>
@@ -263,10 +264,11 @@
     <string name="countrycode_alert_title_miui">Upozornění</string>
     <string name="crystaltalk_summary_miui">Nastavení optimalizace zvuku hovoru</string>
     <string name="crystaltalk_title_miui">Nastavení NICAM</string>
-    <string name="current_areacode_miui">Lokální kód oblasti</string>
-    <string name="current_areacode_sum_miui">Lokální kód aktuálního umístění. Například: 420</string>
+    <string name="current_areacode_miui">Předvolba krajiny</string>
+    <string name="current_areacode_sum_miui">Aktuální předvolba krajiny. Například: 420</string>
+    <string name="current_areacode_sum_set_miui">Aktuální předvolba krajiny: %s</string>
     <string name="custom_location_location_hint_miui">Jméno</string>
-    <string name="custom_location_number_hint_miui">AKód oblasti jako 420, číslo skupiny jako 68#####</string>
+    <string name="custom_location_number_hint_miui">Předvolba krajiny jako 420, číslo skupiny jako 68#####</string>
     <string name="cw_title_miui">Čekající hovor</string>
     <string name="data_enable_summary">Aktivuje datové přenosy prostřednictvím mobilní sítě</string>
     <string name="data_enabled">Datové přenosy</string>

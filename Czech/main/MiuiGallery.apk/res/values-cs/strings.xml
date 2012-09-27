@@ -35,6 +35,7 @@
     <string name="cleaning_cache">Mazání mezipaměti...</string>
     <string name="clear_thumbnail_cache">Mazání náhledů</string>
     <string name="clear_thumbnail_cache_confirm">Náhledy byly smazány. Galerie přeskenuje veškerá média a vytvoří náhledy znovu.</string>
+    <string name="clear_thumbnail_cache_summary">Prohlížení galerie vytvoří náhledy. Vymazání mezipaměti uvolní místo na úložišti.</string>
     <string name="click_import">Klepněte sem pro import</string>
     <string name="close">Zavřít</string>
     <string name="cloud_albums">Alba v Cloudu</string>
@@ -278,6 +279,7 @@
     <string name="sync_album">Synch. album</string>
     <string name="sync_album_error">Stažení fotografií v tomto albu se nezdařilo. Zkuste to prosím později.</string>
     <string name="sync_album_set_error">Stažení seznamu alb se nezdařilo. Zkuste to prosím později.</string>
+    <string name="sync_album_summary">Nahrejte Vaše fotky do MiCloud</string>
     <string name="sync_history_power_on">Synchronizovat historii obrázků jen při nabíjení</string>
     <string name="sync_history_power_on_summary">Doporučuje se povolit, jinak se může baterie vybíjet rychleji.</string>
     <string name="sync_not_open">Můžete automaticky synchronizovat Vaše fotografie s cloudom pro jejich jednodušší organizaci.</string>

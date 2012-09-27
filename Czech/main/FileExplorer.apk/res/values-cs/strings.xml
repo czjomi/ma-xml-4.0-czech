@@ -159,6 +159,7 @@
     <string name="tab_category">Knihovna</string>
     <string name="tab_networkdisk">MiDrive</string>
     <string name="tab_sd">SD karta</string>
+    <string name="toast_file_not_can_read">Soubor je poškozený.</string>
     <string name="trash_box_capacity">Kapacita koše: %1$s</string>
     <string name="trash_box_link">Přejít na pan.xiaomi.com a vyprázdnit koš</string>
     <string name="trash_box_message1">Můžete odstranit zbytečné soubory a uvolnit tak místo</string>
@@ -170,6 +171,7 @@
     <string name="ui_bar_txt_download_success">MiDrive: Stahování dokončeno</string>
     <string name="ui_bar_txt_file_not_found">MiDrive: Soubor nenalezen</string>
     <string name="ui_bar_txt_remain_task">%1$d zbývá</string>
+    <string name="ui_bar_txt_text">Přenášení souboru MiDrive...%1$d zbývá (%2$d%%)</string>
     <string name="ui_bar_txt_upload_failed">MiDrive: Odesílání selhalo</string>
     <string name="ui_bar_txt_upload_progress">Odesílání...</string>
     <string name="ui_bar_txt_upload_success">MiDrive: Odesílání dokončeno</string>
