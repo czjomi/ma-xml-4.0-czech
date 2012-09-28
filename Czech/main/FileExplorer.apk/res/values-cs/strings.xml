@@ -75,7 +75,7 @@
     <string name="guide_download_install_apk">Stáhnout a nainstalovat MiDrive klient</string>
     <string name="guide_changes_sync">"Synchronizujte změny mezi všemi vašimi zařízeními. Je to tak jednoduché!"</string>
     <string name="guide_install_app_on_several_computers">Nainstalujte MiDrive klienta na více počítačích</string>
-    <string name="guide_login_url">"Prosím navštivte pan.xiaomi.com na Vašem počítači"</string>
+    <string name="guide_login_url">"Prosím navštivte i.xiaomi.com na Vašem počítači"</string>
     <string name="guide_manage_files_through_computer">"Můžete jednoduše upravovat soubory uložené v  MiDrive na Vašem počítači"</string>
     <string name="guide_senior_tech">Pokročilé možnosti</string>
     <string name="choose_upload_location">Vyberte místo pro uložení</string>
