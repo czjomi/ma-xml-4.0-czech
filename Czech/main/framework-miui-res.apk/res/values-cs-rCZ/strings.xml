@@ -42,6 +42,10 @@
     <string name="global_action_privacy_mode_on_status">Režim návštěvník je Zapnutý</string>
     <string name="global_action_privacy_mode_on_toast">Režim návštěvník je zapnutý. Hovory, poznámky, galerie a sms jsou skryty a Spouštěč je uzamknutý.</string>
     <string name="global_action_toggle_privacy_mode">Návštěvník</string>
+    <string name="group_name_contacts">Kontakty</string>
+    <string name="group_name_coworkers">Kolegové</string>
+    <string name="group_name_family">Rodina</string>
+    <string name="group_name_friends">Přátelé</string>
     <string name="check_phone_error_title">Otevření synchronizace selhalo</string>
     <string name="check_phone_io_error">Chyba sítě</string>
     <string name="childrens_day">"Den dětí"</string>
