@@ -138,7 +138,7 @@
     <string name="loading_image">Načítání obrázku…</string>
     <string name="loading_thumbnail">Stahování náhledů...</string>
     <string name="loading_video">Načítání videa...</string>
-    <string name="loading_will_cost">Stahování fotografií vyžaduje přenos dat</string>
+    <string name="loading_will_cost">Stahování fotografií vyžaduje přenos dat (%1$dK)</string>
     <string name="location">Lokalita</string>
     <string name="locations">Lokality</string>
     <string name="login_account">Přihlášení Xiaomi &amp; Sync</string>
