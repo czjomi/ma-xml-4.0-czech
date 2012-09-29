@@ -7,7 +7,7 @@
     <string name="audio_db_playlist_name">Moje záznamy</string>
     <string name="audio_db_title_format">dd-MM.yyyy HH:mm:ss</string>
     <string name="button_ok">OK</string>
-    <string name="call_record">Nahrávání hovoru</string>
+    <string name="call_record">Nahrávání hovoru (%d)</string>
     <string name="call_record_or">nebo</string>
     <string name="default_record_name">nepojmenovaný záznam</string>
     <string name="delete_dialog_message">Smazat aktuální záznam?</string>  
