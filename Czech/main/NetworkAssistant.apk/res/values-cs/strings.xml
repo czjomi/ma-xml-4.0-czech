@@ -74,6 +74,9 @@
     <string name="mobile_traffic">2G/3G: %s</string>
     <string name="mobile_type">2G/3G</string>
     <string name="month_traffic_settings_title">Nastavení měsíčního limitu</string>
+	<string name="notify_carrier_settings_title">Nemáte nastaveného svého operátora. Nastavit teď?</string>
+    <string name="notify_traffic_settings_cancel_hint">Oznámení a monitorování spotřeby dat bude deaktivováno. Ukončit?</string>
+    <string name="notify_traffic_settings_title">Nemáte nastavený Váš limit dat. Chcete ho nastavit?</string>
     <string name="plate_traffic_already_used">Využito (%s)</string>
     <string name="plate_traffic_exceed">Překročení (%s)</string>
     <string name="plate_traffic_remain">Zbývá (%s)</string>
