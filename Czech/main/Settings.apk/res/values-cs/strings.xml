@@ -165,7 +165,7 @@
     <string name="auto_restore_summary">Při přeinstalaci aplikace obnovit zálohovaná nastavení a další data</string>
     <string name="auto_restore_title">Automatické obnovení</string>
     <string name="automatic_brightness">Automatický jas</string>
-    <string name="available_size">Dostupné %s</string>
+    <string name="available_size">%s Volné</string>
     <string name="awake">Doba provozu zařízení</string>
     <string name="back_long_press">Tlačítko zpět</string>
     <string name="back_long_press_timeout">Doba stisku</string>
@@ -628,7 +628,7 @@
     <string name="device_internal_memory">Interní paměť:</string>
     <string name="device_internal_partition">Data/SD karta:</string>	
     <string name="device_memory">RAM:</string>
-    <string name="device_miui_version">MIUI verze:</string>
+    <string name="device_miui_version">MIUI:</string>
     <string name="disable_overlays">Vypnout HW překrývání</string>
     <string name="disable_overlays_summary">Vždy použít GPU pro zobrazování</string>
     <string name="device_picker">Výběr zařízení Bluetooth</string>
@@ -1449,7 +1449,7 @@
     <string name="time_zone_auto_stub">Vyberte časovou zónu</string>
     <string name="timezone_settings">Časová zóna</string>
     <string name="title_font_size">Velikost písma</string>
-    <string name="total_size">Celkem: %s</string>
+    <string name="total_size">%s Celkem</string>
     <string name="total_size_label">Celkem</string>
     <string name="track_frame_time">Profile GPU rendering</string>
     <string name="track_frame_time_summary">Measure rendering time in adb shell dumpsys gfxinfo</string>

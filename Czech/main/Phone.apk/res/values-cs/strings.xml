@@ -79,8 +79,8 @@
     <string name="auto_ip_support_local_numbers">Podpora lokálních čísel</string>
     <string name="auto_record_call_summary_miui">Začne nahrávat hovor při spojení a ukládat jej na SD kartu</string>
     <string name="auto_record_call_title_miui">Automaticky nahrávat</string>
-    <string name="auto_record_scenario_enteries_always_miui">Automaticky nahrávat u všech tel. čísel</string>
-    <string name="auto_record_scenario_enteries_whitelist_miui">Automaticky nahrávat u vybraných tel. čísel</string>
+    <string name="auto_record_scenario_enteries_always_miui">Všechny tel. čísla</string>
+    <string name="auto_record_scenario_enteries_whitelist_miui">Vybrané tel. čísla</string>
     <string name="auto_record_scenario_title_miui">Režim nahrávání hovoru</string>
     <string name="auto_record_whitelist_miui">Nastavit vybraná čísla</string>
     <string name="auto_record_whitelist_no_item_miui">Klikněte na spodní tlačítko pro přidání čísel na automatické nahrávání hovorů</string>
