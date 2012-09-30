@@ -1356,10 +1356,10 @@ vyžadováno oprávnění"</string>
     <string name="smartone_operator_name">SmarTone</string>
     <string name="cmhk_operator_name">CMHK</string>
     <string name="lockscreen_unlock_guide_text">Pro odemknutí přejeďte po displeji</string>
-    <string name="zzz_keyguard_password_attempt_count_pin_code">Počet zbývajících pokusů: %d</string>
-    <string name="zzz_keyguard_password_attempts_count_pin_code">Počet zbývajících pokusů: %d</string>
-    <string name="zzz_keyguard_password_attempt_count_puk_code">Počet zbývajících pokusů: %d</string>
-    <string name="zzz_keyguard_password_attempts_count_puk_code">Počet zbývajících pokusů: %d</string>
+    <string name="zzz_keyguard_password_attempt_count_pin_code">Zbývá %1$d pokus</string>
+    <string name="zzz_keyguard_password_attempts_count_pin_code">%1$d špatných pokusů</string>
+    <string name="zzz_keyguard_password_attempt_count_puk_code">Zbývá %1$d pokus</string>
+    <string name="zzz_keyguard_password_attempts_count_puk_code">%1$d špatných pokusů</string>
     <string name="CCRSetting">Nastavení</string>
     <string name="CCRPopup">Každodenní automatické nahlašování informací o diagnostice a využití pomáhá vylepšovat produkty a služby společnosti Samsung. Nastavení můžete změnit pomocí O zařízení > Informace o diagnostice a využití</string>
 </resources>
