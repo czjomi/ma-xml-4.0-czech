@@ -915,7 +915,7 @@
 	<string name="t9_indexing_method_pinyin">PinYin</string>
     <string name="t9_indexing_method_title_miui">Vyhledávání T9</string>
     <string name="t9_indexing_method_zhuyin">ZhuYin</string>
-    <string name="t9_indexing_rebuilding_message">Obnovení T9 Indexov...</string>
+    <string name="t9_indexing_rebuilding_message">Obnovení T9 Indexů...</string>
     <string name="technology_news_disable">Technologické zprávy zakázány</string>
     <string name="technology_news_enable">Technologické zprávy povoleny</string>
     <string name="telocation_setting_miui">Nastavení lokality</string>
