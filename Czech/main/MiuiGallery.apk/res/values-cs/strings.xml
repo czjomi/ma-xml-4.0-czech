@@ -279,6 +279,7 @@
     <string name="slideshow_interval_invalid">Chybně zadaný interval, musí být v rozmezí 1~3600.</string>
     <string name="slideshow_repeat_mode">Opakovat</string>
     <string name="storage_all_volumes">Všechna úložná zařízení</string>
+    <string name="storage_no_space">"Není volné místo na úložišti."</string>
     <string name="straighten">Vyrovnání</string>
     <string name="straighten_tooltip">Táhnutím prstem fotografii narovnáte</string>
     <string name="switch_to_camera">Přepnout do režimu Fotoaparát</string>
