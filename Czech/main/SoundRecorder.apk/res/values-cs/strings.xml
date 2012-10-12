@@ -49,4 +49,5 @@
     <string name="second">%d s</string>
     <string name="storage_is_full">SD karta je plná</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
+    <string name="unknown_caller">Neznámé číslo</string>
 </resources>
