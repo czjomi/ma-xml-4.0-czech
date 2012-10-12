@@ -111,7 +111,9 @@
     <string name="sync_fail_notify_title">Dotaz selhal</string>
     <string name="sync_traffic_fail_message">Dotaz na operátora selhal, možná je server zaneprázdněn. Zkuste to prosím později, nebo zavolejte na zákaznickou podporu</string>
     <string name="sync_traffic_fail_title">Dotaz selhal</string>
-    <string name="sync_traffic_ing">Získávám od operátor,prosím čekejte …</string>
+    <string name="sync_traffic_ing">Získávám od operátora, prosím čekejte...</string>
+    <string name="sync_traffic_no_cmd_detail">"Napiště Váš kraj a operátora na naše fórum MIUI: http://www.miui.com/forum-172-1.html. Děkujeme."</string>
+    <string name="sync_traffic_no_cmd_title">Není dostupná vzorová SMS</string>
     <string name="sync_traffic_success">"Získána data od operátora, provoz upraven"</string>
     <string name="this_month">Tento měsíc</string>
     <string name="today">Dnes</string>

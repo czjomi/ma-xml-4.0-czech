@@ -13,6 +13,7 @@
     <string name="attachment_camera">Fotoaparát</string>
     <string name="attachment_contact">Kontakt</string>
     <string name="attachment_gallery">Galerie</string>
+    <string name="blank_char">" "</string>
     <string name="button_new_note">Nová poznámka</string>
     <string name="call_record_folder_name">Seznam volání</string>
     <string name="default_folder_name">Poznámky</string>
