@@ -598,7 +598,7 @@
     <string name="debug_input_category">Vstup</string>
     <string name="debug_intent_sender_label">Debug intent sender</string>
     <string name="debug_layout">Zobrazit layout bounds</string>
-    <string name="debug_layout_summary">Zobraziť clip bounds, margins, atd.</string>
+    <string name="debug_layout_summary">Zobrazit clip bounds, margins, atd.</string>
     <string name="debug_log">Záznam debug</string>
     <string name="debug_monitoring_category">Monitoring</string>
     <string name="debug_ui_category">Uživatelské rozhraní</string>
