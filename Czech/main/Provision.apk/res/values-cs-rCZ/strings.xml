@@ -8,7 +8,7 @@
     <string name="other_service_location">Zjišťování polohy</string>
     <string name="other_service_location_summary">Zjišťování polohy umožňuje mapám a ostatním aplikacím získat Vaši přesnou polohu pomocí GPS</string>
     <string name="other_service_user_experience">Odeslat zpětnou vazbu</string>
-    <string name="other_service_user_experience_summary0">"Jsme rádi, že využíváte náš produkt a doufáme, že nám pomůžete ho zlepšovat zasláním zpětné vazby. Vaše zpětná vazba bude zabezpečená prostřednictvím našich "</string>
+    <string name="other_service_user_experience_summary0">"Jsme rádi, že využíváte náš produkt a doufáme, že nám pomůžete ho zlepšovat zasláním zpětné vazby. Vaše zpětná vazba bude zabezpečená prostřednictvím naší "</string>
     <string name="other_service_user_experience_summary1">Zásady ochrany osobních údajů</string>
     <string name="sim_card_detection_dialog_message">Vyhledávání SIM karty. Čekejte prosím.</string>
     <string name="sim_card_detection_label">Vyhledání SIM karty</string>

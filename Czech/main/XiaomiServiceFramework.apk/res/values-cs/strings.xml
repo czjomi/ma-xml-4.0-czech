@@ -2,7 +2,7 @@
 <resources>
     <string name="access_denied">Přístup zamítnut</string>
     <string name="account">Účet</string>
-    <string name="account_dspt">"Účet Xiaomi může synchronizovat a zálohovat Vaše zprávy, kontakty, fotky, atd"</string>
+    <string name="account_dspt">"Účet Xiaomi může synchronizovat a zálohovat Vaše zprávy, kontakty, fotky, atd."</string>
     <string name="account_hint_text">Email/Telefonní číslo</string>
     <string name="account_name">Účet: %1$s</string>
     <string name="activate_fail_notification_title">Reactivate Xiaomi sync service</string>
