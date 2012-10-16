@@ -165,6 +165,7 @@
     <string name="delete_unknown_contact_calllog_title">Potvrdit smazání volání na neznámá čísla?</string>
     <string name="deleteConfirmation">Tento kontakt bude smazán.</string>
     <string name="deleteConfirmation_title">Smazat</string>
+    <string name="deleteConfirmationDetail">\"%s\" bude vymazaných.</string>
     <string name="description_add_contact">Přidat kontakt</string>
     <string name="description_call">Volat %1$s</string>
     <string name="description_call_log_incoming_call">Příchozí hovor</string>
@@ -378,6 +379,7 @@
     <string name="missing_name">(bez jména)</string>
     <string name="move_and_resize">Posuň měřítko</string>
     <string name="multipleContactDeleteConfirmation">Smazáním tohoto kontaktu smažete informace z více účtů.</string>
+    <string name="multipleContactDeleteConfirmationDetail">Vymazání \"%s\" vymaže údaje z více účtů.</string>
     <string name="name_family">Příjmení</string>
     <string name="name_given">Křestní jméno</string>
     <string name="name_middle">Prostřední jméno</string>
@@ -432,6 +434,13 @@
     <string name="notification_new_voicemail_ticker">Nová hlasová zpráva od %1$s</string>
     <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
     <string name="open_contact">Zobrazit kontakt</string>
+    <string name="option_delete_contact">Vymazat</string>
+    <string name="option_edit_contact">Upravit</string>	
+    <string name="option_not_in_group">Odebrat</string>	
+    <string name="option_not_star">Odebrat z oblíbených</string>	
+    <string name="option_send_to_desktop">Odeslat na plochu</string>	
+    <string name="option_send_to_others">Odeslat do ostatních</string>	
+    <string name="option_view_contact">Zobrazit</string>
     <string name="openDialKeyboard">Číselník</string>
     <string name="organization_company_and_title">%2$s, %1$s</string>
     <string name="organizationLabelsGroup">Organizace</string>
@@ -481,6 +490,7 @@
     <string name="reading_vcard_failed_title">Načtení dat vCard se nezdařilo</string>
     <string name="readOnlyContactDeleteConfirmation">Tento kontakt obsahuje informace z několika účtů. Informace z účtů pouze pro čtení budou v seznamech kontaktů skryty, \nale nebudou smazány.</string>
     <string name="readOnlyContactWarning">Z účtů pouze pro čtení není možné kontakty mazat, můžete je však v seznamech kontaktů skrýt.</string>
+    <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" obsahuje data z více účtů.</string>
     <string name="recent_contacts_label">Nedávné</string>
     <string name="recent_updates">Poslední aktualizace</string>
     <string name="recentCalls_addToContact">Přidat do kontaktů</string>

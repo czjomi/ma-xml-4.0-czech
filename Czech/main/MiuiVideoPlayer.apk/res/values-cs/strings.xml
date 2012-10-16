@@ -40,6 +40,11 @@
     <string name="video_info_length_label">Délka:</string>
     <string name="video_info_resolution_label">Rozlišení videa:</string>
     <string name="video_info_video_coding_label">Formát kódování videa:</string>
+    <string name="vp_VideoView_error_button">OK</string>
+    <string name="vp_VideoView_error_network_not_available">Síť je nedostupná</string>
+    <string name="vp_VideoView_error_text_invalid_progressive_playback">Omlouvám se, ale vybrané video není možné streamovat do zařízení</string>
+    <string name="vp_VideoView_error_text_unknown">Omlouvám se, ale vybraný formát není možné přehrát</string>
+    <string name="vp_VideoView_error_title">Chyba přehrávání videa!</string>
     <string name="VideoView_error_button">OK</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Omlouvám se, tento video přehrávač není platný pro streamování do tohoto zařízení</string>
     <string name="VideoView_error_text_unknown">Toto video nelze přehrát</string>
