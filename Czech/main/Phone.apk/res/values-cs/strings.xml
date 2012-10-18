@@ -712,6 +712,7 @@
     <string name="pin2_changed">Kód PIN2 byl úspěšně změněn.</string>
     <string name="pin2_changed_miui">PIN2 změněn</string>
     <string name="pin2_invalid">Povolené telefonní číslo nebylo aktualizováno: Zadali jste nesprávný kód PIN.</string>
+    <string name="pin2_invalid_or_name_is_too_long">FDN nebylo aktualizované: zadali jste nesprávný PIN2, nebo je příliš dlouhý.</string>
     <string name="pin2_lock_warning_miui">"Upozorňujeme, že funkce PIN2 bude blokována, pokud znovu selže."</string>
     <string name="pin2_locked_message_miui">Špatný PIN2, jeho funkce je nyní zablokována. PIN2 resetujete zadáním PUK2.</string>
     <string name="pin2_or_fdn_invalid">"FDN nebyla aktualizována.PIN2 byl nesprávný, nebo telefonní číslo bylo zamítnuto."</string>
