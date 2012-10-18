@@ -67,7 +67,6 @@
     <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="file_not_found">Soubor neexistuje</string>
     <string name="filter_by_duration">Filtrovat podle délky</string>
-    <string name="filter_by_duration_format" formatted="false">">%2$dmin%5$2ds</string>
     <string name="filter_by_duration_max">5 hod</string>
     <string name="filter_by_duration_min">0 s</string>
     <string name="filter_by_duration_prefix">Maximální délka (v hodinách):</string>
