@@ -86,6 +86,9 @@
     <string name="show_clock">Zobrazit hodiny</string>
     <string name="silent_alarm_summary">Tichý</string>
     <string name="slide_down_delelte_alarm">Posuňte dolů pro vypnutí budíku</string>
+    <string name="snooze_confirm_message">"Budík byl odložen. Zvonit bude opět za %s.\n Tento budík můžete i zrušit."</string>
+    <string name="snooze_confirm_ok">OK</string>
+    <string name="snooze_confirm_cancel">Zrušit budík</string>
     <string name="start">Start</string>
     <string name="start_up">Spustit</string>
     <string name="stopwatch_title">Stopky</string>

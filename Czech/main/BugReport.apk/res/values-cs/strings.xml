@@ -11,7 +11,7 @@
     <string name="btn_send">Odeslat</string>
     <string name="err_type">Typ hlášení</string>
     <string name="err_type_reboot">Restartování</string>
-    <string name="err_type_force_close">Ukončení</string>
+    <string name="err_type_force_close">Pád aplikace</string>
     <string name="err_type_network">Chyba sítě</string>
     <string name="err_type_others">Jiné</string>
     <string name="err_type_power_consuming">Vysoká spotřeba</string>
