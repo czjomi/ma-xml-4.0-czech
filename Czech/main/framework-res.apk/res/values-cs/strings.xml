@@ -910,8 +910,8 @@ Chcete-li pokračovat, dotkněte se možnosti OK. Chcete-li zůstat na aktuáln�
     <string name="low_internal_storage_view_title">V úložišti je málo místa</string>
     <string name="low_internal_storage_view_text">Některé systémové funkce nemusí fungovat</string>
     <string name="loading">Načítání...</string>
-    <string name="capital_on">I</string>
-    <string name="capital_off">O</string>
+    <string name="capital_on">ZAP</string>
+    <string name="capital_off">VYP</string>
     <string name="whichApplication">Dokončit akci pomocí aplikace</string>
     <string name="alwaysUse">Použít jako výchozí nastavení pro tuto činnost.</string>
     <string name="clearDefaultHintMsg">Výchozí nastavení vymažete v sekci Nastavení systému > Aplikace > Stažené.</string>
@@ -1216,7 +1216,7 @@ pro účet %s."</string>
     <string name="fingerprints">Digitální otisky:</string>
     <string name="sha256_fingerprint">Digitální otisk SHA-256</string>
     <string name="sha1_fingerprint">Digitální otisk SHA-1:</string>
-    <string name="activity_chooser_view_see_all"><b>Zobrazit vše</b></string>
+    <string name="activity_chooser_view_see_all">Zobrazit všechny</string>
     <string name="activity_chooser_view_dialog_title_default">Vybrat aktivitu</string>
     <string name="share_action_provider_share_with">Sdílet s</string>
     <string name="status_bar_device_locked">Zařízení je uzamčeno.</string>
