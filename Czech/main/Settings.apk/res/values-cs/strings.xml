@@ -848,7 +848,7 @@
     <string name="location_title">Moje poloha</string>
     <string name="lock_after_timeout">Automaticky zamknout</string>
     <string name="lock_after_timeout_summary">po spánku %1$s</string>
-    <string name="lock_intro_message">"Svůj telefon můžete chránit před neoprávněným použitím pomocí osobního gesta pro odemknutí obrazovky. Tečky na následující obrazovce spojte prstem \nv jakémkoli pořadí. Spojit je třeba alespoň čtyři tečky. Jakmile budete připraveni začít, dotkněte se tlačítka Další."</string>
+    <string name="lock_intro_message">"Svůj telefon můžete chránit před neoprávněným použitím pomocí osobního gesta pro odemknutí obrazovky. Tečky na následující obrazovce spojte prstem v jakémkoli pořadí. Spojit je třeba alespoň čtyři tečky. Jakmile budete připraveni začít, dotkněte se tlačítka Další."</string>
     <string name="lock_screen_unlock_show">Zobraz heslo displeje přímo</string>
     <string name="lock_screen_unlock_show_summary">"Po povolení nepoužívejte jiné zamykání displeje, jděte pouze do rozhraní pro zamykání"</string>
     <string name="lock_settings_picker_settings">Nastavit zámek obrazovky</string>
