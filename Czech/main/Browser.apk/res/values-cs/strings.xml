@@ -99,7 +99,7 @@
     <string name="contextmenu_add_contact">Přidat kontakt</string>
     <string name="contextmenu_copy">Kopírovat</string>
     <string name="contextmenu_copylink">Kopírovat odkaz</string>
-    <string name="contextmenu_dial_dot">Vytočit…</string>
+    <string name="contextmenu_dial_dot">Vytočit...</string>
     <string name="contextmenu_download_image">Uložit obrázek</string>
     <string name="contextmenu_download_image_as">Uložit obrázek jako</string>
     <string name="contextmenu_map">Mapa</string>
@@ -167,9 +167,7 @@
     <string name="google_bookmarks">"Google: "</string>	
     <string name="goto_dot">Jít</string>
     <string name="history">Historie</string>
-    <string name="homepage_base">http://www.google.com/webhp?client={CID}&amp;source=android-home</string>
     <string name="homepage_set">Nastavit domovskou stránku.</string>
-    <string name="http">http://</string>
     <string name="import_bookmark">Importovat záložky</string>
     <string name="import_bookmark_failure">Selhal import záložek!</string>
     <string name="import_bookmark_sucess">Záložky byly úspěšně importovány!</string>
@@ -186,7 +184,7 @@
     <string name="import_bookmarks_wizard_done">Hotovo</string>
     <string name="import_bookmarks_wizard_next">Další</string>
     <string name="import_bookmarks_wizard_previous">Předchozí</string>
-    <string name="importing_favorite_files">Importuji data ...</string>
+    <string name="importing_favorite_files">Importuji data...</string>
     <string name="instant_search_label">Google with Instant (Labs)</string>
     <string name="is_first_history_item">První záznam v hidtorii</string>
     <string name="is_first_tab">První záložka</string>
@@ -260,13 +258,9 @@
     <string name="pref_content_search_engine">Nastavit vyhledávač</string>
     <string name="pref_content_search_engine_summary">Vyberte vyhledávač</string>
     <string name="pref_content_title">Obsah stránky</string>
-    <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
     <string name="pref_data_preload_dialogtitle">Přednahrání výsledků vyhledávání</string>
     <string name="pref_data_preload_summary">Povolit prohlížeči načíst důvěryhodné výsledky vyhledávání na pozadí</string>
     <string name="pref_data_preload_title">Výsledek vyhledávání</string>
-    <string name="pref_data_preload_value_always">Vždy</string>
-    <string name="pref_data_preload_value_never">Nikdy</string>
-    <string name="pref_data_preload_value_wifi_only">Pouze na Wi-Fi</string>
     <string name="pref_data_title">Správa rychlosti připojení</string>
     <string name="pref_default_text_encoding">Kódování textu</string>
     <string name="pref_default_text_encoding_default">Latin-1</string>
@@ -318,15 +312,10 @@
     <string name="pref_lab_quick_controls">Rychlé ovládání</string>
     <string name="pref_lab_quick_controls_summary">Přejeďte prstem zleva doprava pro zobrazení kontrolního panelu a skrytí aplikace a řádku s adresou</string>
     <string name="pref_lab_title">Laboratoř</string>
-    <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
     <string name="pref_link_prefetch_dialogtitle">Přednačítání webstránky</string>
     <string name="pref_link_prefetch_summary">Povolit přednačítání webstránek na pozadí</string>
     <string name="pref_link_prefetch_title">Přednačítání webstránky</string>
-    <string name="pref_link_prefetch_value_always">VŽDY</string>
-    <string name="pref_link_prefetch_value_never">NIKDY</string>
-    <string name="pref_link_prefetch_value_wifi_only">POUZE_WIFI</string>
     <string name="pref_min_font_size">Minimální velikost fontu</string>
-    <string name="pref_min_font_size_value">%d pt</string>
     <string name="pref_privacy_clear_cache">Vymazat keš</string>
     <string name="pref_privacy_clear_cache_dlg">Toho smaže uložený obsah v místní keš a databázích.</string>
     <string name="pref_privacy_clear_cache_summary">Smazat místní cache a databáze.</string>
@@ -350,7 +339,7 @@
     <string name="pref_privacy_enable_geolocation_summary">Povolit www stránkám použít Vaši polohu.</string>
     <string name="pref_privacy_formdata_title">Data formulářů</string>
     <string name="pref_privacy_location_title">Lokace</string>
-    <string name="pref_privacy_security_title">Soukromí &amp; bezpečnost</string>
+    <string name="pref_privacy_security_title">Soukromí a bezpečnost</string>
     <string name="pref_reading_mode_enabled_title">Čtecí mód</string>
     <string name="pref_reading_mode_enabled_title_summary">JavaScript musí být zapnut</string>
     <string name="pref_security_accept_cookies">Přijímat cookies</string>
@@ -364,8 +353,6 @@
     <string name="pref_security_show_security_warning_summary">Zobrazit varování jestliže je problém s bezpečností stránky</string>
     <string name="pref_set_homepage_to">Nastavit</string>
     <string name="pref_text_zoom">Velikost textu</string>
-    <string name="pref_ua_mione_entry">MiOne</string>
-    <string name="pref_ua_mione_value">6</string>
     <string name="pref_ua_string">Hlásit se jako</string>
     <string name="pref_ua_title">Viditelnost prohlížeče</string>
     <string name="pref_use_instant_search">Google Instant</string>
@@ -388,10 +375,9 @@
     <string name="removed_from_bookmarks">Odstraněno ze záložek.</string>
     <string name="replace">Nahradit</string>
     <string name="report_reading_mode_issue">Oznámit problémy s čtecím módem MIUI</string>	
-    <string name="rlz_access_point">Y1</string>
     <string name="save">OK</string>
     <string name="save_to_bookmarks">Uložit do záložek</string>
-    <string name="saving_snapshot">Ukládání…</string>
+    <string name="saving_snapshot">Ukládání...</string>
     <string name="search_baidu">Baidu</string>
     <string name="search_bing">Bing</string>
     <string name="search_button_text">Jít</string>
@@ -423,7 +409,7 @@
     <string name="ssl_untrusted">"Certifikát nepochází z důvěryhodného zdroje."</string>
     <string name="ssl_warnings_header">Tato stránka má problém s bezpečnostním certifikátem!</string>
     <string name="stop">Zastavit</string>
-    <string name="stopping">Zastavuji…</string>
+    <string name="stopping">Zastavuji...</string>
     <string name="tab_bookmarks">Záložky</string>
     <string name="tab_closed">Záložka zavřena.</string>
     <string name="tab_history">Historie</string>
@@ -432,7 +418,7 @@
     <string name="tab_quicklinks">Rychlé odkazy</string>
     <string name="tab_snapshots">Uložené stránky</string>
     <string name="tab_yellowpage">Zlaté stránky</string>
-    <string name="title_bar_loading">Nahrávám…</string>
+    <string name="title_bar_loading">Nahrávám...</string>
     <string name="too_many_subwindows_dialog_message">Může být otevřené jen jedno vyskakovací okno.</string>
     <string name="too_many_subwindows_dialog_title">Vyskakovací okno je již otevřeno</string>
     <string name="too_many_windows_dialog_message">Nemohu otevřít nový panel dokud nebude nějaký zavřen.</string>
