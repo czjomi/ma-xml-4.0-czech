@@ -42,6 +42,35 @@
             ]
         },
         {
+            "cat":"Android",
+            "sites":[
+                {
+                    "title":"MôjAndroid",
+                    "url":"http://mojandroid.sk/"
+                },
+                {
+                    "title":"Svět Androida",
+                    "url":"http://svetandroida.cz/"
+                },
+                {
+                    "title":"Smartmánia",
+                    "url":"http://smartmania.cz/"
+                },
+                {
+                    "title":"Mobilmánia",
+                    "url":"http://mobilmania.cz/"
+                },
+                {
+                    "title":"Dotekománia",
+                    "url":"http://dotekomanie.cz/"
+                },
+                {
+                    "title":"sGalaxy.cz",
+                    "url":"http://sgalaxy.cz/forum/index.php/"
+                }
+            ]
+        },
+        {
             "cat":"Technika",
             "sites":[
                 {
@@ -229,35 +258,6 @@
                 {
                     "title":"NejNákup",
                     "url":"http://nejnakup.cz/"
-                }
-            ]
-        },
-        {
-            "cat":"Android",
-            "sites":[
-                {
-                    "title":"MôjAndroid",
-                    "url":"http://mojandroid.sk/"
-                },
-                {
-                    "title":"Svět Androida",
-                    "url":"http://svetandroida.cz/"
-                },
-                {
-                    "title":"Smartmánia",
-                    "url":"http://smartmania.cz/"
-                },
-                {
-                    "title":"Mobilmánia",
-                    "url":"http://mobilmania.cz/"
-                },
-                {
-                    "title":"Dotekománia",
-                    "url":"http://dotekomanie.cz/"
-                },
-                {
-                    "title":"sGalaxy.cz",
-                    "url":"http://sgalaxy.cz/forum/index.php/"
                 }
             ]
         },
