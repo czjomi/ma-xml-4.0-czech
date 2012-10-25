@@ -232,6 +232,8 @@
     <string name="mx_reactivate">Znovu aktivovat cloudové zprávy</string>
     <string name="mx_activate_hint_sim_change">SIM karta změněna. K reaktivaci je zapotřebí sms. Aktivovat teď?</string>
     <string name="mx_activating">Aktivuji</string>
+    <string name="mx_auto_resend_mms">Auto. odeslání MMS</string>
+    <string name="mx_auto_resend_mms_summary">Odeslat jako MMS pokud Cloud zprávy nejsou dostupné. Bude zpoplatněno Vaším operátorem.</string>
     <string name="mx_auto_resend_sms">Poslat jako SMS</string>
     <string name="mx_auto_resend_sms_summary">Poslat jako SMS pokud cloudové zprávy nejsou k dispozici. Zprávy mohou být zpoplatněny</string>
     <string name="mx_btn_enable">Zapnout</string>

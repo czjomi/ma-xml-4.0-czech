@@ -59,6 +59,8 @@
     <string name="lockscreen_sms_bottom_hint">Posunutím dolů zobrazíte Konverzace</string>
     <string name="lockscreen_time_bottom_hint">Posunutím dolů odemknete telefon</string>
     <string name="lockscreen_unlock_sim_via_puk">Zadejte PUK kód pro odblokování SIM karty</string>
+    <string name="memory_clear_nothing_result">Paměť vyčištěná</string>
+    <string name="memory_clear_result">"Uvolněné: %1$s | Volné: %2$s"</string>
     <string name="miui_copyright_title">Autorská práva</string>
     <string name="miui_privacy_policy_title">Ochrana osobních údajů</string>
     <string name="miui_user_agreement_title">Podmínky použití</string>
@@ -83,6 +85,8 @@
     <string name="online_no_network">Nemohu se připojit do sítě</string>
     <string name="online_search_hint">Hledat online</string>
     <string name="payphone">Telefonní automat</string>
+    <string name="permdesc_accessNote">Povolí aplikaci číst a upravit Vaše poznámky uložené v telefonu.</string>
+    <string name="permlab_accessNote">Přístup k poznámkám</string>
     <string name="perm_auto_backup">Automatická záloha</string>
     <string name="perm_get_user_info_dspt">Zobrazit detaily účtu Xiaomi</string>
     <string name="perm_get_user_info_lab">Získat informace o účtě Xiaomi</string>

@@ -183,6 +183,7 @@
     <string name="no_storage_title">Chybí úložiště</string>
     <string name="no_such_item">"Nelze najít položku."</string>
     <string name="no_thumbnail">Chybí miniatura</string>
+    <string name="none_picture">V galerii nebyly nalezeny žádné fotky</string>
     <string name="not_auto_create_recent_album">Nevytvářet automatická alba</string>
     <string name="only_upload_in_charging">Fotografie budou odeslané pouze při připojené nabíječce.</string>
     <string name="open_map">Otevřít mapu</string>

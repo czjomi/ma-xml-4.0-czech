@@ -324,6 +324,10 @@
     <string name="liveFolder_all_label">Všechny kontakty</string>
     <string name="liveFolder_favorites_label">Oblíbené</string>
     <string name="liveFolder_phones_label">Telefony</string>
+    <string name="loading_group_members">Načítání kontaktů ve skupině...</string>
+    <string name="loading_groups">Načítání skupin...</string>
+    <string name="loading_recent">Načítání nedávných kontaktů...</string>
+    <string name="local_invisible_directory">Ostatné</string>
     <string name="liveFolderAll">Všechny kontakty</string>
     <string name="liveFolderFavorites">Oblíbené kontakty</string>
     <string name="liveFolderPhone">Kontakty s telefonními čísly</string>
@@ -478,6 +482,13 @@
     <string name="preference_others">Ostatní</string>
     <string name="preference_remove_duplicate">Sloučit duplicitní kontakty</string>
     <string name="preference_select_account_display">Filtrovat dle účtu</string>
+    <string name="preference_smart_group_company_summary">Skupina kontaktů podle firmy</string>
+    <string name="preference_smart_group_company_title">Podle firmy</string>
+    <string name="preference_smart_group_frequency_summary">Skupina podle posledních hovorů, nebo SMS</string>
+    <string name="preference_smart_group_frequency_title">Podle posledně kontaktovaných</string>
+    <string name="preference_smart_group_location_summary">Skupina podle předvolby krajiny</string>
+    <string name="preference_smart_group_location_title">Podle adresy</string>
+    <string name="preference_smart_group_title">Inteligentní skupiny</string>
     <string name="preview_contact_card_title">Importovat vizitku</string>
     <string name="primary_indicator">(výchozí)</string>
     <string name="private_num">Soukromé číslo</string>
@@ -543,6 +554,17 @@
     <string name="sim_export_loading">Informace o SIM kartě se načítají. Tato operace může trvat déle.</string>
     <string name="sim_indexed_contact_not_exist" formatted="false">Pozice %1$d na SIM kartě není platná, should between %2$d and %3$d</string>
     <string name="sim_no_contact">Žádné kontakty na SIM kartě</string>
+    <string name="smart_group_action_bar_title">%1$s-%2$s</string>
+    <string name="smart_group_company_label">Podle firmy</string>
+    <string name="smart_group_company_unavailable">Neznámá firma</string>
+    <string name="smart_group_frequency_1">Kontaktovaní poslední měsíc</string>
+    <string name="smart_group_frequency_2">Kontaktovaní poslední 3 měsíce</string>
+    <string name="smart_group_frequency_3">Kontaktovaní posledních 6 mesíců</string>
+    <string name="smart_group_frequency_4">Žádné kontakty posledních 6 měsíců</string>
+    <string name="smart_group_frequency_label">Naposledy kontaktovaní</string>
+    <string name="smart_group_label">Inteligentní skupiny</string>
+    <string name="smart_group_location_label">Podle adresy</string>
+    <string name="smart_group_location_unavailable">Žádná adresa</string>
     <string name="simContacts_emptyLoading">Načítání z karty SIM...</string>
     <string name="simContacts_title">Kontakty na kartě SIM</string>
     <string name="sms">SMS</string>
