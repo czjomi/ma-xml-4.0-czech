@@ -90,6 +90,8 @@
     <string name="perm_auto_backup">Automatická záloha</string>
     <string name="perm_get_user_info_dspt">Zobrazit detaily účtu Xiaomi</string>
     <string name="perm_get_user_info_lab">Získat informace o účtě Xiaomi</string>
+    <string name="perm_send_push_dspt">Povolit okamžité zprávy Xiaomi</string>
+    <string name="perm_send_push_lab">Odeslat okamžitou zprávu</string>
     <string name="perm_tigger_toggle_dspt">Povolit aplikacím použít přepínače ve stav. liště</string>
     <string name="perm_tigger_toggle_lab">Použít přepínače ze stav. lišty</string>
     <string name="perm_use_find_device">Zjistit polohu zařízení</string>

@@ -48,6 +48,7 @@
     <string name="confirm_delete">Opravdu chcete smazat %s položek?</string>
     <string name="confirm_know">OK</string>
     <string name="contact_photo">Foto kontaktu</string>
+    <string name="contrast">Kontrast</string>
     <string name="crop">Oříznout</string>
     <string name="crop_action">Oříznout</string>
     <string name="crop_fail_to_load_image">Načítání obrázku pro oříznutí selhalo.</string>
@@ -103,6 +104,12 @@
     <string name="flip">Převrácení</string>
     <string name="flip_tooltip">Táhnutím prstem fotografii převrátíte</string>
     <string name="focal_length">Ohnisk. vzdál.</string>
+    <string name="frame_black">Černý</string>
+    <string name="frame_button">Rámeček</string>
+    <string name="frame_classic">Klasický</string>
+    <string name="frame_movie">Film</string>
+    <string name="frame_semicircle">Půlkruh</string>
+    <string name="frame_white">Bílý</string>
     <string name="free_space_format">Volná paměť: %s</string>
     <string name="gadget_title">Rámeček fotografie</string>
     <string name="gallery_cloud_provider_name">Galerie</string>
