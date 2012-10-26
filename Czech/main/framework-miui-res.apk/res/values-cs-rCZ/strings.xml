@@ -147,5 +147,6 @@
     <string name="user_agreement3">" a "</string>
     <string name="user_agreement4">ochraně osobních údajů</string>
     <string name="user_agreement5">Klepněte na OK pokud souhlasíte s následujícím ujednáním, klepnutím na Zrušit akci ukončíte.</string>
+    <string name="miui_user_manual_title">Návod</string>
     <string name="wake_alarm_message">Zastavit budík. Upozornit za %s</string>
 </resources>
