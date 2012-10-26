@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Správce oprávnění</string>
+    <string name="app_name">Správce práv</string>
     <string name="Dashboard_App">Aplikace</string>
     <string name="Dashboard_HIPS_Disable_Content">Vypnutí zastaví sledování požadavků od aplikací. Tím pádem MIUI přestane chránit Vaši bezpečnost a soukromí. Určitě chcete sledování vypnout?</string>
     <string name="Dashboard_HIPS_Disable_Title">Sledování oprávnění</string>
     <string name="Dashboard_Log">Logy</string>
     <string name="Dashboard_Log_Clear_Content">Všechny logy budou vymazány. Opravdu chcete pokračovat?</string>
     <string name="Dashboard_Log_Clear_Title">Vymazat logy</string>
-    <string name="Dashboard_Perm">Oprávnění</string>
+    <string name="Dashboard_Perm">Práva</string>
     <string name="Dashboard_Perm_AutoStart">Po startu</string>
     <string name="Dashboard_Perm_AutoStart_Desc">Zap/vyp autom. spouštění aplikací</string>
     <string name="Dashboard_Perm_AutoStart_Switch">Správce autom. spuštění</string>
