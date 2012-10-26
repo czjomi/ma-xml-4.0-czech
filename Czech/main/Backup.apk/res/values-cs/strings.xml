@@ -23,7 +23,7 @@
     <string name="backup_finished">Záloha hotova</string>
     <string name="backup_hint">Nevypínejte, nebo nerestartujte telefon!</string>
     <string name="backup_items_app_tailer">x: data aplikací</string>
-    <string name="backup_items_sysdata_tailer">x: systémová data</string>
+    <string name="backup_items_sysdata_tailer">x: systémová data\u0020</string>
     <string name="backup_new">Nový</string>
     <string name="backup_progress">Zálohuji..</string>
     <string name="backup_recently">" (Poslední)"</string>
