@@ -327,7 +327,6 @@
     <string name="loading_group_members">Načítání kontaktů ve skupině...</string>
     <string name="loading_groups">Načítání skupin...</string>
     <string name="loading_recent">Načítání nedávných kontaktů...</string>
-    <string name="local_invisible_directory">Ostatné</string>
     <string name="liveFolderAll">Všechny kontakty</string>
     <string name="liveFolderFavorites">Oblíbené kontakty</string>
     <string name="liveFolderPhone">Kontakty s telefonními čísly</string>
