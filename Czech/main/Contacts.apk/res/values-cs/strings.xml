@@ -27,7 +27,7 @@
     <string name="caching_vcard_message">Probíhá ukládání vizitek do dočasného úložiště, samotný import proběhne za okamžik</string>
     <string name="caching_vcard_title">Ukládání vizitek do dočasného úložiště</string>
     <string name="callBack">Zpětné volání</string>
-    <string name="callDetailsDurationFormat" formatted="false">%s minut %s vteřin</string>
+    <string name="callDetailsDurationFormat" formatted="false">%s min %s s</string>
     <string name="callDetailTitle">Detaily hovoru</string>
     <string name="callNoAnswerTimeFormat">Zvonil %s krát</string>
     <string name="callShortcutActivityTitle">Vyberte číslo, kterému chcete volat</string>
@@ -41,8 +41,6 @@
     <string name="call_fax_work">Volat pracovní fax</string>
     <string name="call_home">Volat domů</string>
     <string name="call_isdn">Volat na číslo ISDN</string>
-    <string name="call_log_empty_gecode">-</string>
-    <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
     <string name="call_log_new_header">Nový</string>
     <string name="call_log_old_header">Starší</string>
     <string name="call_main">Volat na hlavní číslo</string>
@@ -110,14 +108,8 @@
     <string name="composer_failed_to_get_database_infomation">Načtení informací z databáze se nezdařilo</string>
     <string name="composer_has_no_exportable_contact">Nelze exportovat žádné kontakty. Pokud máte v telefonu skutečně uložené kontakty, je možné, že některý poskytovatel datových služeb zakázal jejich export mimo telefon.</string>
     <string name="composer_not_initialized">Editor vCard není správně inicializován</string>
-    <string name="config_export_dir">/mnt/sdcard</string>
-    <string name="config_export_extensions_to_consider"/>
-    <string name="config_export_file_extension">vcf</string>
-    <string name="config_export_file_prefix"/>
-    <string name="config_export_file_suffix"/>
-    <string name="config_export_vcard_type">výchozí</string>
+    <string name="config_export_vcard_type">Výchozí</string>
     <string name="config_import_vcard_type">výchozí</string>
-    <string name="config_prohibited_phone_number_regexp"/>
     <string name="confirm_delete_selected_call_log">Potvrdit smazání %1d záznamů o volání?</string>
     <string name="confirm_export_message">Opravdu chcete exportovat seznam kontaktů do souboru %s?</string>
     <string name="confirm_export_title">Potvrdit export</string>
@@ -191,7 +183,7 @@
     <string name="description_quick_contact_for">Rychlý kontakt pro %1$s</string>
     <string name="description_send_message">Poslat zprávu %1$s</string>
     <string name="description_send_text_message">Poslat textovou zprávu %1$s</string>
-    <string name="description_star">oblíbený</string>
+    <string name="description_star">Oblíbený</string>
     <string name="description_view_contact">Zobrazit kontakt %1$s</string>
     <string name="description_view_contact_detail">Zobrazit kontakt</string>
     <string name="deselect_all">Zrušit výběr všech</string>
@@ -208,7 +200,7 @@
     <string name="dirty_contacts_notification_message">(Můžete vypnout upozornění v nastavení kontaktů)</string>
     <string name="dirty_contacts_notification_title">Chcete synchronizovat kontakty?</string>
     <string name="display_all_contacts">Všechny kontakty</string>
-    <string name="display_more_groups">Další skupiny…</string>
+    <string name="display_more_groups">Další skupiny...</string>
     <string name="display_only_phones">Pouze kontakty s tel. číslem</string>
     <string name="display_options_sort_by_family_name">Příjmení</string>
     <string name="display_options_sort_by_given_name">Jméno</string>
@@ -264,7 +256,6 @@
     <string name="frequency_three_days">Zkontrolovat a připomenout každé 3 dny</string>
     <string name="frequency_weekly">Zkontrolovat a připomenout každý týden</string>
     <string name="frequentList">Často používaní</string>
-    <string name="from_account_format">%1$s</string>
     <string name="full_name">Celé jméno</string>
     <string name="ghostData_company">Společnost</string>
     <string name="ghostData_title">Titulek</string>
@@ -281,8 +272,6 @@
     <string name="hint_findContacts">Najít kontakty</string>
     <string name="hint_search_phone_numbers">%d tel. čísel kontaktů</string>
     <string name="hint_search_contacts">%d kontaktů</string>
-    <string name="imLabelsGroup">IM</string>
-    <string name="imei">IMEI</string>
     <string name="import_all_vcard_string">Importovat všechny vizitky</string>
     <string name="import_contact_card_button">Import</string>
     <string name="import_failure_no_vcard_file">Na SD kartě nebyla nalezena žádná vizitka</string>
@@ -302,7 +291,6 @@
     <string name="insertContactDescription">Vytvořit kontakt</string>
     <string name="invalidContactMessage">Kontakt neexistuje.</string>
     <string name="keep_local">Místní</string>
-    <string name="label_duplicate_count">(%1$d)</string>
     <string name="label_no_duplicate_contacts">Gratuluji! Nemáte žádné duplicitní kontakty</string>
     <string name="label_notes">Poznámky</string>
     <string name="label_sip_address">Internetový telefon (SIP)</string>
@@ -340,7 +328,6 @@
     <string name="map_home">Zobrazit adresu domů</string>
     <string name="map_other">Zobrazit adresu</string>
     <string name="map_work">Zobrazit pracovní adresu</string>
-    <string name="meid">MEID</string>
     <string name="menu_accounts">Účty</string>
     <string name="menu_addStar">Přidat k oblíbeným položkám</string>
     <string name="menu_batch_delete">Dávkové odstranění kontaktů</string>
@@ -435,7 +422,6 @@
     <string name="noRecentContacts">Žádné poslední kontakty</string>
     <string name="not_applied">Není podporováno</string>
     <string name="notification_new_voicemail_ticker">Nová hlasová zpráva od %1$s</string>
-    <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
     <string name="open_contact">Zobrazit kontakt</string>
     <string name="option_delete_contact">Vymazat</string>
     <string name="option_edit_contact">Upravit</string>	
@@ -445,11 +431,9 @@
     <string name="option_send_to_others">Odeslat do ostatních</string>	
     <string name="option_view_contact">Zobrazit</string>
     <string name="openDialKeyboard">Číselník</string>
-    <string name="organization_company_and_title">%2$s, %1$s</string>
     <string name="organizationLabelsGroup">Organizace</string>
     <string name="payphone">Veřejný telefon</string>
     <string name="people">Lidé</string>
-    <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">Telefon</string>
     <string name="photo_package_activity_title">Balíček fotografií</string>
     <string name="photoPickerNotFoundText">V telefonu nejsou k dispozici žádné obrázky.</string>
@@ -556,13 +540,12 @@
     <string name="sim_export_loading">Informace o SIM kartě se načítají. Tato operace může trvat déle.</string>
     <string name="sim_indexed_contact_not_exist" formatted="false">Pozice %1$d na SIM kartě není platná, should between %2$d and %3$d</string>
     <string name="sim_no_contact">Žádné kontakty na SIM kartě</string>
-    <string name="smart_group_action_bar_title">%1$s-%2$s</string>
     <string name="smart_group_company_label">Podle firmy</string>
     <string name="smart_group_company_unavailable">Neznámá firma</string>
-    <string name="smart_group_frequency_1">Kontaktovaní poslední měsíc</string>
-    <string name="smart_group_frequency_2">Kontaktovaní poslední 3 měsíce</string>
-    <string name="smart_group_frequency_3">Kontaktovaní posledních 6 mesíců</string>
-    <string name="smart_group_frequency_4">Žádné kontakty posledních 6 měsíců</string>
+    <string name="smart_group_frequency_1">Poslední měsíc</string>
+    <string name="smart_group_frequency_2">Poslední 3 měs.</string>
+    <string name="smart_group_frequency_3">Posledních 6 měs.</string>
+    <string name="smart_group_frequency_4">Nekontakt. 6 měs.</string>
     <string name="smart_group_frequency_label">Naposledy kontaktovaní</string>
     <string name="smart_group_label">Inteligentní skupiny</string>
     <string name="smart_group_location_label">Podle adresy</string>
@@ -593,7 +576,7 @@
     <string name="sms_work_mobile">Odeslat zprávu na pracovní mobil</string>
     <string name="sms_work_pager">Odeslat zprávu na pracovní pager</string>
     <string name="social_widget_label">Kontakt</string>
-    <string name="social_widget_loading">Nahrávám …</string>
+    <string name="social_widget_loading">Nahrávám...</string>
     <string name="splitConfirmation">Opravdu chcete tento kontakt rozdělit do více kontaktů? Pro každou připojenou kontaktní informaci bude vytvořen samostatný kontakt?</string>
     <string name="splitConfirmation_title">Oddělit kontakt</string>
     <string name="starredList">Označené hvězdičkou</string>
@@ -640,7 +623,7 @@
     <string name="viewContactDesription">Zobrazit kontakty</string>
     <string name="viewContactTitle">Detaily kontaktu</string>
     <string name="voicemail">Hlasová zpráva</string>
-    <string name="voicemail_buffering">Buffering…</string>
+    <string name="voicemail_buffering">Buffering...</string>
     <string name="voicemail_fetching_content">Stahuji hlasovou zprávu…</string>
     <string name="voicemail_fetching_timout">Nemohu stáhnout hlasovou zprávu.</string>
     <string name="voicemail_playback_error">Nemohu přehrát hlasovou zprávu.</string>
@@ -656,6 +639,5 @@
     <string name="voicemail_status_messages_waiting">Nemohu se připojit k hlasové schránce. Jsou dostupné nové hlasové zprávy.</string>
     <string name="voicemail_status_voicemail_not_available">Nemohu se připojit na server s hlasovou schránkou.</string>
     <string name="websiteLabelsGroup">WWW stránka</string>
-    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Vymazat data</string>
 </resources>
