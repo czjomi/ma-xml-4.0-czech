@@ -42,7 +42,7 @@
         <item>Zobrazit čas přijetí</item>
         <item>Zobrazit čas odeslání</item>
     </string-array>
-    <string-array name="resent_via_entries">
+    <string-array name="resent_via_entries_sms">
         <item>Pomocí SMS</item>
         <item>Pomocí Cloud SMS</item>
     </string-array>  
