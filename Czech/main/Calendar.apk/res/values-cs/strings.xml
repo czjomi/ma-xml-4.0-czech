@@ -90,6 +90,8 @@
     <string name="hint_description">Popis</string>
     <string name="hint_what">Název události</string>
     <string name="hint_where">Místo</string>
+    <string name="jump_date">Skoč</string>
+    <string name="jump_date_full">Skoč na datum</string>
     <string name="loading">Načítání...</string>
     <string name="local_calendar_display_name">Místní kalendář</string>
     <string name="local_owner_account_name">Místní účet</string>
