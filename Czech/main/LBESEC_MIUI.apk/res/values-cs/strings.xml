@@ -11,23 +11,23 @@
     <string name="Dashboard_Perm_AutoStart">Po startu</string>
     <string name="Dashboard_Perm_AutoStart_Desc">Zap/vyp autom. spouštění aplikací</string>
     <string name="Dashboard_Perm_AutoStart_Switch">Správce autom. spuštění</string>
-    <string name="Dashboard_Perm_Header">Sledování %1$d applikací</string>
+    <string name="Dashboard_Perm_Header">Sledování %1$d aplikací</string>
     <string name="Dashboard_Perm_Header_Disabled">Sledování práv je vypnuto</string>
     <string name="Dashboard_Perm_HIPS">Spravovat práva aplikací</string>
     <string name="Dashboard_Perm_HIPS_Desc">Sledování %1$d aplikací kvůli bezpečnosti a soukromí</string>
     <string name="Dashboard_Perm_HIPS_Desc2">Sledování %1$d kvůli bezpečnosti a soukromí</string>
     <string name="Dashboard_Perm_HIPS_Disabled">Sledování práv je vypnuto</string>
     <string name="Dashboard_Perm_HIPS_Risky">Riskantní práva (%1$d)</string>
-    <string name="Dashboard_Perm_HIPS_Safe">Béžné práva (%1$d)</string>
+    <string name="Dashboard_Perm_HIPS_Safe">Běžná práva (%1$d)</string>
     <string name="Dashboard_Perm_HIPS_Switch">Sledování práv</string>
     <string name="Dashboard_Perm_SU">Spravovat oprávnění ROOT</string>
     <string name="Dashboard_Perm_SU_Desc">Sledování %1$d aplikací s oprávněními ROOT</string>
-    <string name="Dashboard_Perm_SU_Disabled">Práva ROOT jsou zakázáná</string>
+    <string name="Dashboard_Perm_SU_Disabled">Práva ROOT jsou zakázána</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable">ROOT není dostupný ve Stabilní verzi MIUI</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Povolení práv ROOT aplikacím třetích stran může způsobit nestabilitu systému, ztrátu Vašich osobních dat, nebo poškození telefonu. Pro povolení ROOT přejděte na vývojářskou verzi MIUI."</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Stáhnout MIUI</string>
     <string name="Dashboard_Perm_SU_Switch">Práva ROOT</string>
-    <string name="Dashboard_Su_Enable_Content">Povolení dovolí požádat aplikace o práva ROOT. Aplikace s tímto právy mohou způsobit nestabilitu systému, nebo ztrátu dat, případně i poškození systému a hardwaru. Buďte prosím opatrný. Opravdu chcete ROOT povolit?</string>
+    <string name="Dashboard_Su_Enable_Content">Povolení dovolí požádat aplikace o práva ROOT. Aplikace s těmito právy mohou způsobit nestabilitu systému, nebo ztrátu dat, případně i poškození systému a hardwaru. Buďte prosím opatrný. Opravdu chcete ROOT povolit?</string>
     <string name="Dashboard_Su_Enable_Title">Práva ROOT</string>
     <string name="Generic_Canceling">Ruším...</string>
     <string name="Generic_Clean">Vymazat</string>
@@ -87,7 +87,7 @@
     <string name="HIPS_Perm_CallMonitor_Hint">%1$s aplikace mají povolení k monitorování příchozích a odchozích hovorů, kontrole hlasitosti atd.</string>
     <string name="HIPS_Perm_CallState">Stav telefonu</string>
     <string name="HIPS_Perm_CallState_Desc">Zjistí stav telefonu</string>
-    <string name="HIPS_Perm_CallState_Hint">%1$s aplikace mají povolení k zjistění stavu telefonu</string>
+    <string name="HIPS_Perm_CallState_Hint">%1$s aplikace mají povolení k zjištěni stavu telefonu</string>
     <string name="HIPS_Perm_CancelMissedCalls">Smazat upozornění na zmeškané hovory</string>
     <string name="HIPS_Perm_Contact">Kontakty</string>
     <string name="HIPS_Perm_Contact_Access">Přístup ke kontaktům</string>
@@ -118,8 +118,8 @@
     <string name="HIPS_Perm_Network_UnknownAddr">Neznámá adresa</string>
     <string name="HIPS_Perm_Network_WIFIEvent">Použít wifi síť</string>
     <string name="HIPS_Perm_PhoneID">Údaje o telefonu</string>
-    <string name="HIPS_Perm_PhoneID_Desc">Zjistí ID přístoje, včetně IMEI, IMSI, atd.</string>
-    <string name="HIPS_Perm_PhoneID_Hint">%1$s aplikace mají povolení ke zjistění údajů o telefonu</string>
+    <string name="HIPS_Perm_PhoneID_Desc">Zjistí ID přístroje, včetně IMEI, IMSI, atd.</string>
+    <string name="HIPS_Perm_PhoneID_Hint">%1$s aplikace mají povolení ke zjištěni údajů o telefonu</string>
     <string name="HIPS_Perm_PhoneID_ICCID">Získat sériové číslo SIM karty</string>
     <string name="HIPS_Perm_PhoneID_IMEI">Získat IMEI</string>
     <string name="HIPS_Perm_PhoneID_IMEISN">Získat IMEI/SN</string>
@@ -131,7 +131,7 @@
     <string name="HIPS_Perm_ROOT_Desc">Požaduje práva ROOT</string>
     <string name="HIPS_Perm_ROOT_Desc_Stable">Nedostupné ve stabilní verzi MIUI</string>
     <string name="HIPS_Perm_ROOT_Hint">%1$s aplikace mají povolení pro ROOT přístup</string>
-    <string name="HIPS_Perm_ROOT_Title">Získat přáva ROOT</string>
+    <string name="HIPS_Perm_ROOT_Title">Získat práva ROOT</string>
     <string name="HIPS_Perm_SendSMS">Poslat SMS</string>
     <string name="HIPS_Perm_SendSMS_Content">Obsah:</string>
     <string name="HIPS_Perm_SendSMS_Data">Poslat SMS %1$s:%2$d</string>
@@ -158,7 +158,7 @@
     <string name="HIPS_SecurityPrompt_Remember">Pamatovat si nastavení</string>
     <string name="HIPS_SecurityPrompt_ROOT_Caption">Důležité upozornění</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step1">Přejete si, aby aplikace %1$s získala práva ROOT..?</string>
-    <string name="HIPS_SecurityPrompt_ROOT_Step2">Práva ROOT můžou způsobit nestabilitu systému</string>
+    <string name="HIPS_SecurityPrompt_ROOT_Step2">Práva ROOT mohou způsobit nestabilitu systému</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step3">Vaše soukromá data, jako jsou účty, hesla a zprávy by mohly být ohroženy</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step4">Také je možné trvalé poškození přístroje</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step5">Použijte s opatrností!</string>
@@ -169,16 +169,16 @@
     <string name="Privacy_App_Launch">Spustit</string>
     <string name="Privacy_App_Log">Logy</string>
     <string name="Privacy_App_Manage">Detaily</string>
-    <string name="Privacy_App_Trust">Duvěřuji této aplikaci</string>
+    <string name="Privacy_App_Trust">Důvěřuji této aplikaci</string>
     <string name="Privacy_App_Trust_Summary_Off">MIUI bude tuto aplikaci sledovat</string>
     <string name="Privacy_App_Trust_Summary_On">MIUI bude této aplikaci důvěřovat</string>
     <string name="Privacy_App_TrustDialog_Content">MIUI nebude pro tuto aplikaci požadovat žádné potvrzení týkající se bezpečnosti a soukromí.</string>
     <string name="Privacy_App_TrustDialog_Title">Důvěřovat této aplikaci</string>
     <string name="Privacy_App_Uninstall">Odinstalovat</string>
     <string name="Privacy_AppPerm_Count">%1$d oprávnění</string>
-    <string name="Privacy_AppPerm_Count_Trust">%1$d práva - &lt;font color=#478800>Důveryhodné&lt;/font></string>
+    <string name="Privacy_AppPerm_Count_Trust">%1$d práva - &lt;font color=#478800>Důvěryhodné&lt;/font></string>
     <string name="Privacy_Perm_Count">Povolen: %1$d Zakázán: %2$d</string>
-    <string name="Su_Enable_Dialog">%1$s se pokouší získat práva ROOT, čož je z důvodu bezpečnosti standardně zakázáno. Jestliže chcete oprávnění povolit, učiňte tak v nastavení aplikace Správce práv.</string>
+    <string name="Su_Enable_Dialog">%1$s se pokouší získat práva ROOT, což je z důvodu bezpečnosti standardně zakázáno. Jestliže chcete oprávnění povolit, učiňte tak v nastavení aplikace Správce práv.</string>
     <string name="SysOpt_Boost_AutoStart">Oprávnění autom. spuštění</string>
     <string name="SysOpt_Boost_AutoStart_Group">Automatické spuštění</string>
     <string name="SysOpt_Boost_Boot">Boot</string>
