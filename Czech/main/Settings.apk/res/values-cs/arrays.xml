@@ -338,4 +338,49 @@
         <item>Šimpanz</item>
         <item>Opice</item>
     </string-array>
+    <string-array name="msd_pc_system">
+        <item>Windows XP or older versions</item>
+        <item>Windows Vista or newer versions</item>
+        <item>Mac OS</item>
+        <item>Linux</item>
+    </string-array>
+    <string-array name="msd_pc_system_install_start_summary">
+        <item>"For Windows XP or older versions,
+the driver needs to be manually installed"</item>
+        <item>"For Windows Vista or newer versions,
+the MI 2 music player will appear on your computer"</item>
+        <item>"For Mac OS operating system,
+the driver software needs to be manually installed"</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_step_1_summary">
+        <item>"(Please ignore the Setup Wizard’s screen pop up)
+XIAOMI storage device will appear on your computer
+Open and select Setup.exe for installation"</item>
+        <item></item>
+        <item>"XIAOMI storage device will appear on your computer
+Open and select AndroidFileTransfer.dmg for installation"</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_step_2_summary">
+        <item>"2.MI 2 mobile storage device will appear on your computer
+You can now transfer files"</item>
+        <item></item>
+        <item>"Computer will auto open and read phone data
+You can now transfer files"</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_finish_summary">
+        <item>"If you install this driver
+MI 2 mobile storage device should appear on the computer"</item>
+        <item>"For Windows Vista or newer versions,
+the MI 2 music player will appear on your computer"</item>
+        <item>"If you install this driver
+Computer will auto open and read phone data"</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_install_status">
+        <item>Instalovat ovládač</item>
+        <item>Ovládač už je nainstalovaný</item>
+    </string-array>
 </resources>
