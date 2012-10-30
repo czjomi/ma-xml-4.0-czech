@@ -17,7 +17,7 @@
     <string name="adjust_traffic_title">Upravit přenos dat</string>
     <string name="adjust_traffic_update">Aktualizace</string>
     <string name="app_detail_internet_background">Připojení k Internetu při běhu na pozadí</string>
-    <string name="app_detail_internet_background_traffic">"V popředí：%1$s     Na pozadí：%2$s"</string>
+    <string name="app_detail_internet_background_traffic">"V popředí: %1$s | Na pozadí: %2$s"</string>
     <string name="app_detail_internet_control_category">Typ sítě</string>
     <string name="app_detail_title">Detail aplikace</string>
     <string name="app_detail_version">Verze: %s</string>
@@ -28,8 +28,6 @@
     <string name="batch_connect_control">Dávkové řízení sítí</string>
     <string name="cancel_txt">Zrušit</string>
     <string name="cannot_find_sms_cmd">SMS příkaz nelze nalézt</string>
-    <string name="carrier_cmcc">%1$s, %2$s, %3$s, %4$s</string>	
-    <string name="carrier_none_cmcc">%1$s, %2$s, %3$s</string>	
     <string name="carrier_query_number_brand">Název služby</string>
     <string name="carrier_query_number_carrier">Operátor</string>
     <string name="carrier_query_number_location">Attribution</string>
@@ -104,6 +102,7 @@
     <string name="settings_page_traffic_summary_no_settings">Balíček nenastaven, Od %d. dne</string>
     <string name="sms_match_fail">SMS nesouhlasí</string>
     <string name="sms_template_match_fail">SMS vzor nesouhlasí</string>
+    <string name="sms_template_updated_label">"Aktualizované: "</string>
     <string name="sort_dialog_title">Řadit</string>
     <string name="sorted_flux">Žebříček provozu</string>
     <string name="stop_app_button">Zavřít</string>
@@ -126,6 +125,7 @@
     <string name="traffic_total">Datový balíček:%s</string>
     <string name="traffic_used_status">Využito:%s</string>
     <string name="traffic_widget_name">Monitoring sítě (1x2)</string>
+    <string name="unknown">Neznámé</string>
     <string name="unknown_free_traffic_hint">"Pokud neznáte velikost svého datového balíčku, prosím zavolejte operátorovi"</string>
     <string name="unknown_free_traffic_text">"Neznáte svůj datový balíček?"</string>
     <string name="unknown_free_traffic_title">Instrukce</string>
@@ -137,13 +137,8 @@
     <string name="update_success">Aktualizace kompletní</string>
     <string name="updating">Aktualizuji...</string>
     <string name="used_flux">Využití dat</string>
-    <string name="warning_settings_toast">"%1$d%%  %2$dMB"</string>
+    <string name="version_label">"Verze: "</string>
     <string name="warning_title">Upozornění</string>
-    <string name="widget_color_exceed_warn">\#F9882C</string>
-    <string name="widget_color_uesd_none_exceed_warn">\#579D00</string>
-    <string name="widget_color_used_all">\#C00203</string>
     <string name="widget_traffic_total">Datový balíček: %s</string>
     <string name="widget_traffic_used_status">Využito: %s</string>
-    <string name="wifi_traffic">WiFi: %s</string>
-    <string name="wifi_type">"WiFi    "</string>
 </resources>

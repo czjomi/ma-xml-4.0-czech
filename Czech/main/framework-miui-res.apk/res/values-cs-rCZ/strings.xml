@@ -59,8 +59,9 @@
     <string name="lockscreen_sms_bottom_hint">Posunutím dolů zobrazíte Konverzace</string>
     <string name="lockscreen_time_bottom_hint">Posunutím dolů odemknete telefon</string>
     <string name="lockscreen_unlock_sim_via_puk">Zadejte PUK kód pro odblokování SIM karty</string>
-	<string name="memory_clear_nothing_result">Paměť RAM je čistá</string>
+	  <string name="memory_clear_nothing_result">Paměť RAM je čistá</string>
     <string name="memory_clear_result">"Uvolněno: %1$s | Dostupné: %2$s"</string>
+    <string name="miro_menu_overflow">Více</string>
     <string name="miui_copyright_title">Autorská práva</string>
     <string name="miui_privacy_policy_title">Ochrana osobních údajů</string>
     <string name="miui_user_agreement_title">Podmínky použití</string>

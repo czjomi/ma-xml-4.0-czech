@@ -587,6 +587,7 @@
     <string name="success_message_import_from_account">Import byl úspěšný</string>
     <string name="summary_kind_title">Souhrn</string>
     <string name="t9_search_guide">Inteligentní vyhledávání jmen a čísel</string>
+    <string name="t9_search_guide_zhuyin">Vložte číslo, nebo vyhledejte kontakt pomocí indexu T9.</string>
     <string name="take_new_photo">Pořídit novou fotku</string>
     <string name="take_photo">Pořídit fotku</string>
     <string name="titleJoinContactDataWith">Spojit kontakty</string>

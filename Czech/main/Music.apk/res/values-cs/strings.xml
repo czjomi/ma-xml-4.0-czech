@@ -18,6 +18,9 @@
     <string name="artist_details_format" formatted="false">%1$s, %2$s</string>
     <string name="artist_edit">Umělec</string>
     <string name="artists_title">Umělci</string>
+    <string name="auto_correct_id3_settings">Nastavení ID3 oprav</string>
+    <string name="auto_correct_id3_summary">Automaticky se upraví ID3 tagy při přehrávání skladby.</string>
+    <string name="batch_correct_id3_completed">Dávková oprava ID3 je dokončena!</string>
     <string name="billboard">Billboard</string>
     <string name="buffering">Ukládání do vyrovnávací paměti</string>
     <string name="cancel">Zrušit</string>
@@ -25,6 +28,15 @@
     <string name="category_num_format">(%s)</string>
     <string name="click_to_shuffle">Klepněte sem pro spuštění náhodného přehrávání</string>
     <string name="confirm">Potvrdit</string>
+    <string name="continue_when_wifi_disconnect">Potvrdit poslech online hudby přes mobilní síť</string>
+    <string name="correct_id3_by_internet">Automaticky opravit ID3 pomocí internetu</string>
+    <string name="correct_id3_failed">Oprava ID3 selhala!</string>
+    <string name="correct_id3_not_support">Oprava ID3 není podporována u tohoto typu souboru.</string>
+    <string name="correct_id3_open_other_connect">Zapněte opravu ID3 pomocí mobilního internetu</string>
+    <string name="correct_id3_settings">Nastavení oprav ID3</string>
+    <string name="correct_id3_start">Začít opravu ID3</string>
+    <string name="correct_id3_success">ID3 úspěšně opravené</string>
+    <string name="correct_id3_summary">Metoda opravy ID3 může zvýšit spotřebu mobilních dat. Po dokončení prosím zavřete.</string>
     <string name="create_confirm">Potvrdit</string>
     <string name="create_equalzier_create_text_prompt">Název ekvalizéru</string>
     <string name="create_playlist_create_text_prompt">Název playlistu</string>
@@ -48,7 +60,7 @@
     <string name="download_batch_start">Spustit stahování všeho</string>
     <string name="download_finished">Stáhnuto</string>
     <string name="download_lyric_settings">Automaticky stahovat texty</string>
-    <string name="download_lyric_summary">"Downloading lyrics won't cost too much flow, you may also close this setting to save flow."</string>
+    <string name="download_lyric_summary">"Stahování textů písní."</string>
     <string name="download_processing">Stahování</string>
     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="durationformatshort">%2$d:%5$02d</string>
@@ -97,7 +109,7 @@
     <string name="listen_to_music_online_settings">Poslech online hudby</string>
     <string name="listen_to_online_summary">Poslech hudby přes mobilní, nebo Wifi internet</string>
     <string name="load_album_failed">Nepodařilo se načíst seznam alb, zkuste to prosím znovu</string>
-    <string name="load_album_in_process">Načíct seznam alb</string>
+    <string name="load_album_in_process">Načíst seznam alb</string>
     <string name="load_artist_failed">Nepodařilo se načíst seznam autorů, zkuste to prosím znovu</string>
     <string name="load_artist_in_process">Načíst seznam autorů</string>
     <string name="load_audio_failed">Nepodařilo se načíst seznam audia, zkuste to prosím znovu</string>
@@ -107,7 +119,7 @@
     <string name="load_channel_failed">Nepodařilo se načíst seznam stanic, zkuste to prosím znovu</string>
     <string name="load_channel_in_process">Načíst seznam stanic</string>
     <string name="loading">Načítám</string>
-    <string name="lpa_off_hint">Pro použití equalizéru je nutné vypnout přehrávání s nízkou spotřebou energie, Nastavte v Nastavení-> Systém -> Nastavení baterie. Spotřeba baterie se může zvýšit.</string>	
+    <string name="lpa_off_hint">Pro použití ekvalizéru je nutné vypnout přehrávání s nízkou spotřebou energie, Nastavte v Nastavení -> Systém -> Nastavení baterie. Spotřeba baterie se může zvýšit.</string>	
     <string name="lrc_progress_modify">Nastavit rychlost textu písně</string>	
     <string name="lrc_progress_modify_helper">Nastavte rychlost textu písně posunutím nahoru, nebo dolů</string>
     <string name="lrc_search_failed">Texty nenalezeny!</string>

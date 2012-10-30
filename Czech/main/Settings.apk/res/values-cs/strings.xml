@@ -1448,6 +1448,7 @@
     <string name="sync_one_time_sync">"Dotykem provedete synchronizaci nyní \n%1$s"</string>
     <string name="sync_plug">"Vítá vás aplikace Google Sync. Nový pohled na synchronizaci dat v režii Googlu. Poskytuje vám přístup ke kontaktům, schůzkám a dalším informacím, \nať jste kdekoli."</string>
     <string name="sync_settings">Účty a synchronizace</string>
+    <string name="sync_wifi_label">Nastavení Wi-Fi synch.</string>
     <string name="system_package">Aktualizace systému nelze nainstalovat na externí média.</string>
     <string name="system_update_settings_list_item_summary" />
     <string name="system_update_settings_list_item_title">Aktualizace systému</string>
@@ -1654,8 +1655,15 @@
     <string name="virus_scan_app_scanning">Skenování...</string>
     <string name="virus_scan_app_stop_scan">Zastavit skenování</string>
     <string name="virus_scan_app_uninstall">Hromadná odinstalace (%d)</string>
-    <string name="virus_scan_app_waiting">Čekání na</string>
-    <string name="virus_scanner_kinsoft_provider">Bezpečnost najišťuje Kingsoft Phone Guardian</string>
+    <string name="virus_scan_app_waiting">Čeká na skenování</string>
+    <string name="virus_scanner_auto_update">Aktualizovat automaticky</string>
+    <string name="virus_scanner_kinsoft_provider">Bezpečnost zajišťuje Kingsoft Phone Guardian</string>
+    <string name="virus_scanner_lib_already_latest">Virová databáze je aktuální</string>
+    <string name="virus_scanner_lib_update">Je dostupná aktualizace virové databáze</string>
+    <string name="virus_scanner_lib_update_failed">Aktualizace virové databáze selhala!</string>
+    <string name="virus_scanner_lib_updating">Aktualizace databáze...</string>
+    <string name="virus_scanner_manual_update">Aktualizovat manuálně</string>
+    <string name="virus_scanner_provider">Bezpečnost zabezpečuje %s</string>
     <string name="virus_scanner_scan">Skenovat</string>
     <string name="virus_scanner_scanning">AntiVirus</string>
     <string name="virus_scanner_select_Cancel">Zrušit</string>
@@ -1663,7 +1671,7 @@
     <string name="virus_scanner_select_multi">Vybrání více, než jedné virové databáze. Bude vyžadována reinstalace</string>
     <string name="virus_scanner_select_OK">OK</string>
     <string name="virus_scanner_select_single">Zvolte virovou databázi</string>
-    <string name="virus_scanner_select_trust_lib">Zvolte knihu virusů</string>
+    <string name="virus_scanner_select_trust_lib">Zvolte virovou databázi</string>
     <string name="virus_scanner_title">AntiVirus</string>
     <string name="virus_scanner_update_lib">Aktualizovat virovou databázi</string>
     <string name="voice_category">Řeč</string>
