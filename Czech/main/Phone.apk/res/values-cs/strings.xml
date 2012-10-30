@@ -84,7 +84,6 @@
     <string name="auto_record_scenario_title_miui">Režim nahrávání hovoru</string>
     <string name="auto_record_whitelist_miui">Nastavit vybraná čísla</string>
     <string name="auto_record_whitelist_no_item_miui">Klikněte na spodní tlačítko pro přidání čísel na automatické nahrávání hovorů</string>
-    <string name="auto_record_whitelist_summary_for_one_miui">1</string>
     <string name="auto_record_whitelist_summary_miui">%d čísel</string>
     <string name="auto_redial_pref_summary_miui">Automaticky volat zpět pokud je linka obsazená</string>
     <string name="auto_redial_pref_title_miui">Automaticky volat zpět</string>
@@ -118,7 +117,6 @@
     <string name="call_log_number_limit_setting_switcher">Limit</string>
     <string name="call_log_number_limit_setting_switcher_summary">Zvolte max počet položek ve výpisu hovorů</string>
     <string name="call_log_number_limit_setting_title">Nastavení úložíště výpisu hovorů</string>
-    <string name="call_log_number_limit_subsummary">%d</string>
     <string name="call_log_number_limit_summary_miui">Nastavení ukládání seznamu hovorů</string>
     <string name="call_log_number_limit_title">Nastavte úložiště pro seznam hovorů</string>
     <string name="call_lost">Hovor byl ztracen.</string>
@@ -445,7 +443,7 @@
     <string name="hac_mode_summary_miui">Zapne podporu naslouchátek</string>
     <string name="hac_mode_title">Naslouchátka</string>
     <string name="hac_mode_title_miui">Naslouchátka</string>
-    <string name="handon_ringer_summary_miui">Není funkční pokud jsou zapnuty vibrace pro příchozí hovor</string>
+    <string name="handon_ringer_summary_miui">Nefunguje pokud jsou zapnuty vibrace pro příchozí hovor</string>
     <string name="handon_ringer_title_miui">Zvednutím ztišit</string>
     <string name="hangup_sms_miui">Odpovědět pomocí SMS</string>
     <string name="change_num">Aktualizovat</string>
@@ -454,7 +452,6 @@
     <string name="change_pin2">Změna kódu PIN2</string>
     <string name="change_pin2_miui">Změnit PIN2</string>
     <string name="ignore_miui">Ignorovat</string>
-    <string name="imei">IMEI</string>
     <string name="import_all_sim_entries_miui">Importovat všechny kontakty</string>
     <string name="import_all_sim_entry_miui">Importovat vše</string>
     <string name="import_selected_sim_entries_miui">Importovat vybrané kontakty</string>
@@ -504,8 +501,6 @@
     <string name="label_puk2_code">Zadejte kód PUK2</string>
     <string name="label_puk2_code_miui">Zadat PUK2 kód</string>
     <string name="label_rcdp">UIM firemní PIN</string>
-    <string name="label_rdp">UIM UIM PIN</string>
-    <string name="label_rhrpd">UIM hrpd PIN</string>
     <string name="label_rn1dp">UIM síť1 PIN</string>
     <string name="label_rn2dp">UIM síť2 PIN</string>
     <string name="label_rspdp">UIM PIN poskytovatele služeb</string>
@@ -947,10 +942,7 @@
     <string name="tone_miui">Tóny</string>
     <string name="transport">Protocol</string>
     <string name="transport_title">Typ trasportu</string>
-    <string name="tty_mode_entries_full_miui">plný TTY</string>
-    <string name="tty_mode_entries_hco_miui">TTY HCO</string>
     <string name="tty_mode_entries_off_miui">TTY vypnuto</string>
-    <string name="tty_mode_entries_vco_miui">TTY VCO</string>
     <string name="tty_mode_option_summary">Nastavit režim TTY</string>
     <string name="tty_mode_option_summary_miui">Nastavit TTY režim</string>
     <string name="tty_mode_option_title">Režim TTY</string>
