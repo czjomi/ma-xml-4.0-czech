@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Návod MIUI</string>
+  <string name="grid_list_title">Naučte sa ako používať MIUI naplno!</string>
+  <string name="loading_userbook">Načítavanie...</string>
+  <string name="read_progress_title">Dokončené</string>
+</resources>
