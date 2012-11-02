@@ -1074,7 +1074,7 @@
     <string name="power_wifi">WiFi</string>
     <string name="pref_button_light">Osvětlení tlačítek</string>
     <string name="pref_button_light_summary">Menu,Home a Zpět tlačítko</string>
-    <string name="pref_operational_key">Operational key</string>
+    <string name="pref_operational_key">Ovládací tlačítko</string>
     <string name="pref_volume_category_title">Ovládání hlasitosti</string>
     <string name="pref_volume_wake_summary">Stiskem tlačítka zesílit/ztlumit probudíte zařízení.. Určeno pro zařízení s těžko dostupným zapínacím tlačítkem.</string>
     <string name="pref_volume_wake_title">Probudit tlačítkem hlasitosti</string>
