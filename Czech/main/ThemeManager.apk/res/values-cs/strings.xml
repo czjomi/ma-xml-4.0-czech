@@ -61,6 +61,7 @@
     <string name="theme_changed_message">Téma %1$s bylo úspěšně změněno!</string>
     <string name="theme_changing_dialog_title">Připravuje se nové téma, čekejte prosím..</string>
     <string name="theme_import">Nahrát z SD karty</string>
+    <string name="theme_importing">Nahrávání tématu...</string>
     <string name="theme_select_others">Ostatní</string>
     <string name="third_party_pickers_activity_title">Nastavit %1$s</string>
     <string name="title_component">Mix</string>
