@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stock_settings">Základní nastavení</string>
+    <string name="stock_settings_entry_title">Internet pass-through</string>
+    <string name="stock_settings_entry_summary">Připojení k internetu přes PC. Prosím připojte USB kabel.</string>
+    <string name="PSFail">Nelze se připojit k PC</string>
+    <string name="PSPass">Internet pass-through připojen</string>
+    <string name="PSMsg">Pokud nejste schopni připojit se k Internetu přes internet pass-through, ujistěte se, že Vaše nastavení Firewallu v PC umožňuje tento typ připojení. Internet pass-through podporuje pouze připojení TCP, pokud se váš počítač připojuje k Internetu prostřednictvím PPP (např. telefonické připojení, xDSL, nebo VPN).</string>
+    <string name="PSTitle">Internet pass-through oznámení</string>
+    <string name="PSButton">OK</string>
+    <string name="do_not_show_psmsg">"Příště nezobrazovat"</string>
+</resources>
