@@ -162,6 +162,15 @@
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
     <string name="sync_one_time_sync">Klepněte pro synchronizaci (%1$s)</string>
     <string name="text_pastelist">Schránka</string>
+    <string name="theme_update_complete_content_fail">, %1$d selhalo</string>
+    <string name="theme_update_complete_content_success">%1$d úspěšné</string>
+    <string name="theme_update_complete_title">Aktualizace dokončena</string>
+    <string name="theme_update_request_content">Je vyžadován nový formát témy, proces aktualizace může trvat déle, témy stažené mimo online market už nejsou podporované, stiskněte OK pro aktualizaci.</string>
+    <string name="theme_update_request_continue_content">Poslední aktualizace témy nebyla kompletní, pokračovat?</string>
+    <string name="theme_update_request_title">Aktualizace témy</string>
+    <string name="theme_updating_content">Aktualizování %1$d/%2$d</string>
+    <string name="theme_updating_precontent">Připravuji...</string>
+    <string name="theme_updating_title">Aktualizování témy</string>
     <string name="unknown">Neznámé číslo</string>
     <string name="user_agreement1">Budete používat systém a služby poskytované společností Xiaomi, prosím přečtěte si</string>
     <string name="user_agreement2">podmínky použití</string>
