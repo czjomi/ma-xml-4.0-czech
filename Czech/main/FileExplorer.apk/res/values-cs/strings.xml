@@ -160,6 +160,7 @@
     <string name="operation_unfavorite">Odebrat z oblíbených</string>
     <string name="pan_settting">Nastavení MiDrive</string>
     <string name="remote_management">FTP</string>
+    <string name="rename">Přejmenovat</string>
     <string name="rename_description">Přejmenovávání, čekejte...</string>
     <string name="rename_failed">Přejmenování %1$s selhalo</string>
     <string name="rename_success">Přejmenování %1$s úspěšné</string>

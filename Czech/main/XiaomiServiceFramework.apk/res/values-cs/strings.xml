@@ -44,6 +44,8 @@
     <string name="error_dup_phone">Telefon byl zaregistrován</string>
     <string name="error_has_bought_summary">Tento produkt již zakoupený máte</string>
     <string name="error_has_bought_title">Opakovat nákup</string>
+    <string name="error_illegal_order_summary">Během vyřizování objednávky se vyskytla chyba, zkuste to znovu.</string>
+    <string name="error_illegal_order_title">Chyba objednávky!</string>
     <string name="error_mili_summary">Nedostatečný Mi kredit, navyšte si ho</string>
     <string name="error_mili_title">Nedostatečný Mi kredit</string> 
     <string name="error_network">Chyba sítě</string>
@@ -60,6 +62,8 @@
     <string name="error_sim_not_ready">SIM není připravena</string>
     <string name="error_time">Vybraný čas/datum nemůže být použitý</string>
     <string name="error_unknown">Neznámá chyba: %1$s</string>
+    <string name="error_user_id_mismatch_summary">Zkontrolujte Vaše přihlašovací údaje a zkuste to znovu.</string>
+    <string name="error_user_id_mismatch_title">Chyba přihlášení!</string>
     <string name="failed_to_send_activate_email">Chyba při zasílání aktivačního emailu.</string>
     <string name="fee">%1$s Mi kreditů</string>
     <string name="filter_query">Filtrovat</string>
