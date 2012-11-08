@@ -447,7 +447,7 @@
     <string name="choose_timezone">Vybrat časové pásmo</string>	
     <string name="clear_activities">Vymazat výchozí nastavení</string>
     <string name="clear_cache_btn_text">Vymazat mezipaměť</string>
-    <string name="clear_data_dlg_text">Veškerá data (všechny soubory, nastavení, účty, databáze apod.) této aplikace budou trvale vymazána.</string>
+    <string name="clear_data_dlg_text">Veškerá data (nastavení, účty, databáze apod.) této aplikace budou trvale vymazána.</string>
     <string name="clear_data_dlg_title">Smazat data aplikace?</string>
     <string name="clear_data_failed">Nelze smazat data aplikace.</string>
     <string name="clear_failed_dlg_text">Nepodařilo se smazat data aplikace.</string>
