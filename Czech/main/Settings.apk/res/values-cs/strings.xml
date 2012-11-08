@@ -975,6 +975,7 @@
     <string name="menu_stats_refresh">Obnovit</string>
     <string name="menu_stats_total">Využití baterie celkem</string>
     <string name="menu_stats_unplugged">%1$s od odpojení</string>
+    <string name="milicenter_settings">Nastavení MiCredit</string>
     <string name="misc_files">Různé soubory</string>
     <string name="misc_files_selected_count">vybráno: %1$d z %2$d</string>
     <string name="misc_files_selected_count_bytes">%1$s z %2$s</string>

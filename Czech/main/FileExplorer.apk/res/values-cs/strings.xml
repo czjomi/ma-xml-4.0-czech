@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="adding_upload_tasks">Přidávání souborů pro upload.</string>
     <string name="app_name">Správce souborů</string>
     <string name="cancel">Zrušit</string>
     <string name="category_all">Vše</string>
@@ -15,6 +16,7 @@
     <string name="category_zip">Archívy</string>
     <string name="clean_message">Odstraňování %1$s</string>
     <string name="clean_title">Odstranit z koše soubory starší jak 30 dní</string>
+    <string name="clean_trash_box_desctiption">Vysypávání koše...</string>
     <string name="clean_trash_box">Vyprázdnit koš</string>
     <string name="clean_trash_box_failed">Odstraňování selhalo</string>
     <string name="clear_cache">Vyčistit mezipaměť/cache</string>
@@ -25,8 +27,10 @@
     <string name="confirm_know">OK</string>
     <string name="copy_failed">Kopírování selhalo</string>
     <string name="copy_success">Kopírování dokončeno</string>
+    <string name="create_new_folder_desctiption">Vytváření nové složky...</string>
     <string name="create_new_folder_failed">Nelze vytvořit složku %1$s</string>
     <string name="create_new_folder_succeeded">Složka %1$s vytvořena</string>
+    <string name="create_share_link_description">Vytváření odkazu pro sdílení...</string>
     <string name="cution">Tipy</string>
     <string name="data_capacity">Kapacita: %1$s</string>
     <string name="decompress_cancel">Zrušit</string>
@@ -35,6 +39,7 @@
     <string name="decompress_success">Rozbalování dokončeno</string>
     <string name="decompress_to">Rozbalování…</string>
     <string name="decompress_to_here">Rozbalit do:</string>
+    <string name="delete_failed">Mazání selhalo</string>
     <string name="delete_file">Smazat?</string>
     <string name="delete_files">Potvrďte prosím smazání tohoto počtu souborů: %1$d</string>
     <string name="delete_files_and_folders">Potvrďte prosím smazání tohoto počtu souborů: %1$d a složek: %2$d</string>
@@ -42,6 +47,7 @@
     <string name="delete_folders">Opravdu chcete vymazat tyto složky?</string>
     <string name="delete_operation_result_all_success">Počet smazaných souborů: %1$d</string>
     <string name="delete_operation_result_success_and_failed">Počet smazaných souborů: %1$d. Nelze vymazat: %2$d</string>
+    <string name="delete_file_description">Mazání souborů...</string>
     <string name="dialog_select_type">Zvolte typ souboru</string>
     <string name="dialog_type_audio">Zvuk</string>
     <string name="dialog_type_image">Obrázek</string>
@@ -49,6 +55,7 @@
     <string name="dialog_type_video">Video</string>
     <string name="disconnect_notication">Všechny úkoly zastaveny z důvodu odpojení od internetu</string>
     <string name="download_items_detail_message">Kopíruji %1$d souborů na SD kartu...%2$d%%</string>
+    <string name="download_link_completed">Sdílím %1$s přes MiDrive. Klikněte na linku níže: </string>
     <string name="enable_sd_card">Povolit SD kartu</string>
     <string name="error_info_cant_send_folder">Složka nemůže být přesunuta</string>
     <string name="fail_to_create_folder">Složku nelze vytvořit, složka již existuje</string>
@@ -90,12 +97,14 @@
     <string name="guide_manage_files_through_computer">"Můžete jednoduše upravovat soubory uložené v  MiDrive na Vašem počítači"</string>
     <string name="guide_senior_tech">Pokročilé možnosti</string>
     <string name="choose_upload_location">Vyberte místo pro uložení</string>
+    <string name="choose_send_type">Zvolte typ odesílání</string>
     <string name="instruction">Zadejte v adresovém řádku prohlížeče v PC:</string>
     <string name="instruction_pre">Slouží k přenosu souborů mezi telefonem a PC pomocí ftp protokolu.</string>
     <string name="kuaipan_over_space">Váš MiDrive nemá volné místo.</string>
     <string name="kuaipan_tech_support">Technická podpora ze strany Kingsoft Kuaipan</string>
     <string name="kuaipan_prompt">MiDrive Pomoc</string>
     <string name="kuaipan_prompt_message">"Server je momentálně nedostupný, zkuste to znovu později"</string>
+    <string name="load_data_from_local">Čekejte, načítám data...</string>
     <string name="local_cache">Místní cache</string>
     <string name="local_cache_size">Velikost místní cache: %s</string>
     <string name="login_reg_content">MiDrive umožňuje ukládat soubory a synchronizovat je mezi více zařízení..</string>
@@ -108,6 +117,7 @@
     <string name="menu_item_sort_size">Velikosti</string>
     <string name="menu_item_sort_type">Typu</string>
     <string name="move_failed">Přesunutí selhalo</string>
+    <string name="move_file_description">Přesouvání souborů...</string>
     <string name="move_success">Přesunutí sokončeno</string>
     <string name="multi_select_title">Vybrané položky: %1$s</string>
     <string name="net_lose_connected">Síť není dostupná, nelze získat velikost</string>
@@ -150,6 +160,7 @@
     <string name="operation_unfavorite">Odebrat z oblíbených</string>
     <string name="pan_settting">Nastavení MiDrive</string>
     <string name="remote_management">FTP</string>
+    <string name="rename_description">Přejmenovávání, čekejte...</string>
     <string name="rename_failed">Přejmenování %1$s selhalo</string>
     <string name="rename_success">Přejmenování %1$s úspěšné</string>
     <string name="sd_card_available">"Volné místo: %1$s"</string>
@@ -161,6 +172,8 @@
     <string name="send_to_midrive_failed_message">MiDrive nepodporuje tento obsah.</string>
     <string name="server_control_advanced_settings">Pokročilé nastavení</string>
     <string name="server_control_charset">Kódování přenosu</string>
+    <string name="share_link">Sdílet odkaz</string>
+    <string name="share_link_failed">Vytváření odkazu pro sdílení selhalo, zkuste to znovu!</string>
     <string name="show_message">Soubor nelze otevřít před stažením</string>
     <string name="slide_left_text">Posuňte doleva</string>
     <string name="space_info">Kapacita: %1$s, K dispozici/Celkem: %2$s</string>

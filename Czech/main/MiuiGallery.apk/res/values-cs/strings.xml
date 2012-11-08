@@ -46,6 +46,13 @@
     <string name="cloud_gallery_space_full">Uploadování se nezdařilo!, Cloudové úložiště galerie je plné</string>
     <string name="cloud_media_set_set">Alba v Cloudu</string>
     <string name="confirm_delete">Opravdu chcete smazat %s položek?</string>
+    <string formatted="false" name="confirm_delete_album">Jste si jistý, že chcete vymazat %s alb (%s souborů)?</string>
+    <string name="confirm_delete_folders_and_pictures">Jste si jistý, že chcete vymazat %s?</string>
+    <string formatted="false" name="confirm_delete_folders_including">%s složek (%s souborů)</string>
+    <string name="confirm_delete_including_null">0 položek</string>
+    <string name="confirm_delete_pictures">%s obrázků</string>
+    <string name="confirm_delete_system_album">%s je systémové album, opravdu vymazat?</string>
+    <string name="confirm_delete_videos">%s videa</string>
     <string name="confirm_know">OK</string>
     <string name="contact_photo">Foto kontaktu</string>
     <string name="contrast">Kontrast</string>

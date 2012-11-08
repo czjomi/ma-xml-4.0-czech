@@ -64,6 +64,7 @@
     <string name="miui_copyright_title">Autorská práva</string>
     <string name="miui_privacy_policy_title">Ochrana osobních údajů</string>
     <string name="miui_user_agreement_title">Podmínky použití</string>
+    <string name="miui_user_manual_title">Návod</string>
     <string name="month_of_april">Dub</string>
     <string name="month_of_august">Srp</string>
     <string name="month_of_december">Pro</string>
@@ -193,6 +194,6 @@
     <string name="user_agreement3">" a "</string>
     <string name="user_agreement4">ochraně osobních údajů</string>
     <string name="user_agreement5">Klepněte na OK pokud souhlasíte s následujícími podmínkami, klepnutím na Zrušit akci ukončíte.</string>
-    <string name="miui_user_manual_title">Návod</string>
+    <string name="v5_icon_menu_bar_more_item_label">Více</string>
     <string name="wake_alarm_message">Zastavit budík. Upozornit za %s</string>
 </resources>
