@@ -243,7 +243,7 @@
     <string name="mx_dspt">Poslat sms přes internet pomocí MIUI, pokud odeslání přes operátora selže</string>
     <string name="mx_dspt_disabled">Poslat sms přes internet pomocí MIUI, pokud odeslání přes operátora selže</string>
     <string name="mx_enable">Zapnout cloudové zprávy</string>
-    <string name="mx_enable_popup_msg">Cloud zprávy Vám umožňují odesílat sms přez MIUI. Vyžaduje se odeslání běžné SMS pro jejich aktivaci. Chcete pokračovat?</string>
+    <string name="mx_enable_popup_msg">Cloud zprávy Vám umožňují odesílat sms přes MIUI. Vyžaduje se odeslání běžné SMS pro jejich aktivaci. Chcete pokračovat?</string>
     <string name="mx_offline">Offline</string>	
     <string name="mx_online">Online</string>
     <string name="mx_warning_notice">SMS byla odeslána k aktivaci cloudových zpráv.</string>
