@@ -125,7 +125,8 @@
     <string name="resource_get_auth_retrieving">Kontrola autorských práv...</string>
     <string name="resource_local">Místní %1$s</string>
     <string name="resource_mute">žádné</string>
-    <string name="resource_notification_default">Notifikace</string>
+    <string name="resource_no_result">Nic nebylo nalezeno</string>
+	<string name="resource_notification_default">Notifikace</string>
     <string name="resource_online">Online %1$s</string>
     <string name="resource_price_free">Zdarma</string>
     <string name="resource_price_unit">MI Dollar</string>
@@ -158,11 +159,13 @@
     <string name="send_sms_for_sync_title">Odeslat SMS pro aktivaci Synchronizace</string>
     <string name="sim_changed_reactivate_notice">Současná SIM karta není aktivovaná. Je nutné odeslat SMS zprávu pro aktivaci Xiaomi Synchronizace. Aktivovat teď?</string>
     <string name="status_bar_toggle_ac">Kontrola přístupu</string>
-    <string name="status_bar_toggle_bluetooth">BT</string>
+    <string name="status_bar_toggle_auto_brightness">Auto. jas</string>
+	<string name="status_bar_toggle_bluetooth">BT</string>
     <string name="status_bar_toggle_brightness">Jas</string>
     <string name="status_bar_toggle_data">Data</string>
     <string name="status_bar_toggle_divider">Upravit</string>
-    <string name="status_bar_toggle_flight_mode">Letadlo</string>
+    <string name="status_bar_toggle_drive_mode">AUTO</string>
+	<string name="status_bar_toggle_flight_mode">Letadlo</string>
     <string name="status_bar_toggle_gps">GPS</string>
     <string name="status_bar_toggle_lock">Zámek</string>
     <string name="status_bar_toggle_mute">Ticho</string>
