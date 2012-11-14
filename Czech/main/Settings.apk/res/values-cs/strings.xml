@@ -678,7 +678,7 @@
 	<string name="drive_mode_only_contact_reply">Odpovědět jen uloženým kontaktům</string>
 	<string name="drive_mode_phone_report">Upozornit na hovor</string>
 	<string name="drive_mode_settings">Nastav. režimu AUTO</string>
-	<string name="drive_mode_sms_auto_sms_reply">Auto. odpoveď SMS</string>
+	<string name="drive_mode_sms_auto_sms_reply">Auto. odpověď SMS</string>
 	<string name="drive_mode_sms_report">Upozornit na SMS</string>
 	<string name="drive_mode_title">Nastavit upozornění na hovor a odpověď</string>
 	<string name="drive_mode_voice_report">Upozornit na hovor</string>
