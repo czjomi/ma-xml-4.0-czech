@@ -462,7 +462,9 @@
     <string name="importingSimContacts">Importování kontaktů z karty SIM</string>
     <string name="importSimEntry">Importovat</string>
     <string name="importToFDNfromContacts">Import z kontaktů</string>
-    <string name="incall_call_type_label_sip">Internetový hovor</string>
+    <string name="in_calling">Volat</string>
+ 	<string name="in_sms">Zpráva</string>
+	<string name="incall_call_type_label_sip">Internetový hovor</string>
     <string name="incall_error_call_failed">Hovor nebyl spojen.</string>
     <string name="incall_error_emergency_only">Přihlášení k síti nebylo úspěšné.</string>
     <string name="incall_error_no_phone_number_supplied">Hovor nelze spojit, nebylo zadáno platné číslo.</string>
@@ -885,7 +887,9 @@
     <string name="sliding_down_hint_miui">Odpovědět posunutím dolů</string>
     <string name="sliding_target_hint_miui">Přetažení</string>
     <string name="sliding_up_hint_miui">Zamítnutí posunutím nahoru</string>
-    <string name="sports_news_settings">Sportovní zprávy</string>
+    <string name="sms_content">Obsah zprávy</string>
+ 	<string name="sms_sender">Od</string>
+	<string name="sports_news_settings">Sportovní zprávy</string>
     <string name="stock_quotes_disable">Zprávy z akciových trhů zakázány</string>
     <string name="stock_quotes_enable">Zprávy z akciových trhů povoleny</string>
     <string name="sum_carrier_select">Vyberte nového operátora</string>
@@ -957,7 +961,8 @@
     <string name="turnover_mute_title_miui">Otočením ztišit</string>
     <string name="undefined_miui">Nedefinované</string>
     <string name="unknown">Neznámé číslo</string>
-    <string name="unlock_failed">Požadavek na odblokování sítě se nezdařil.</string>
+    <string name="unknown_num">Neznámé číslo</string>
+	<string name="unlock_failed">Požadavek na odblokování sítě se nezdařil.</string>
     <string name="unlock_success">Síť byla úspěšně odblokována.</string>
     <string name="updating_fdn_contact">Probíhá aktualizace povoleného telefonního čísla...</string>
     <string name="updating_settings">Probíhá aktualizace nastavení...</string>
