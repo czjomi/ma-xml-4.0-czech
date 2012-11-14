@@ -157,7 +157,9 @@
     <string name="has_draft">Koncept</string>
     <string name="has_invalid_recipient">Neplatní příjemci: %1$s</string>
     <string name="hidden_sender_address">Adresa skrytého odesílatele</string>
-    <string name="inline_subject">Předmět: %s></string>
+    <string name="in_calling">Volat</string>	
+    <string name="in_sms">Správa</string>
+	<string name="inline_subject">Předmět: %s></string>
     <string name="insufficient_drm_rights">Nemáte dostatečná práva DRM.</string>
     <string name="invalid_destination">Zadali jste neplatnou adresu.</string>
     <string name="invalid_recipient_message">Zprávu nelze doručit, opravte zadané údaje příjemců.</string>
@@ -419,11 +421,13 @@
     <string name="slide_number">Přechod %s</string>
     <string name="slide_show_part">Část %1$s/%2$s</string>
     <string name="slideshow_activity">Prezentace</string>
-    <string name="sms_full_body">Příchozí zpráva odmítnuta z důvodu zaplnění paměti. Odstraňte prosím staré zprávy.</string>
+    <string name="sms_content">Obsah zprávy</string>
+	<string name="sms_full_body">Příchozí zpráva odmítnuta z důvodu zaplnění paměti. Odstraňte prosím staré zprávy.</string>
     <string name="sms_full_title">Textové zprávy mají zaplněnou paměť</string>
     <string name="sms_rejected_body">Příchozí zpráva odmítnuta z neznámého důvodu.</string>
     <string name="sms_rejected_title">Textová zpráva odmítnuta</string>
-    <string name="status_failed">Neúspěšný</string>
+    <string name="sms_sender">Od</string>
+	<string name="status_failed">Neúspěšný</string>
     <string name="status_label">"Status: "</string>
     <string name="status_none">Žádné</string>
     <string name="status_pending">Probíhá</string>
@@ -464,7 +468,8 @@
     <string name="undelivered_msg_dialog_body">"Zprávu se nepodařilo odeslat. Pokus: %s."</string>
     <string name="undelivered_msg_dialog_title">Nedoručená zpráva</string>
     <string name="undelivered_sms_dialog_body">Zprávu se nepodařilo odeslat.</string>
-    <string name="unknown_sender">Neznámý odesílatel</string>
+    <string name="unknown_num">Neznámé číslo</string>
+	<string name="unknown_sender">Neznámý odesílatel</string>
     <string name="unsupported_media_format">%1$s je v nepodporovaném formátu</string>
     <string name="view">Zobrazit</string>
     <string name="view_bookmark">Zobrazit původní zprávu</string>
