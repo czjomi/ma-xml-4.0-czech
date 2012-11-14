@@ -158,7 +158,7 @@
     <string name="has_invalid_recipient">Neplatní příjemci: %1$s</string>
     <string name="hidden_sender_address">Adresa skrytého odesílatele</string>
     <string name="in_calling">Volat</string>	
-    <string name="in_sms">Správa</string>
+    <string name="in_sms">Zpráva</string>
 	<string name="inline_subject">Předmět: %s></string>
     <string name="insufficient_drm_rights">Nemáte dostatečná práva DRM.</string>
     <string name="invalid_destination">Zadali jste neplatnou adresu.</string>
