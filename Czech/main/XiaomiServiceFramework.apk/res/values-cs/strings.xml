@@ -9,7 +9,8 @@
     <string name="activating">Aktivuji...</string>
     <string name="alert_title_remove_account">Smazat účet</string>
     <string name="alipay_edit_hint">Navýšit kredit</string>
-    <string name="alipay_edit_unit">RMB</string>
+    <string name="alipay_edit_limit">Méně než 500</string>
+	<string name="alipay_edit_unit">RMB</string>
     <string name="alipay_error_denomination">Vložte správnou hodnotu navýšení</string>
     <string name="alipay_error_install">Instalování Alipay pluginu selhalo!</string>
     <string name="alipay_error_msp">Zadání nového navýšení Alipay selhalo!</string>
@@ -145,7 +146,13 @@
     <string name="prepaid_number_edit_hint">Číslo předplacené karty</string>
     <string name="prepaid_password_edit_hint">Heslo předplacené karty</string>
     <string name="prepaid_picker_hint">Zadaná cena navýšení musí být stejná, jako suma na předplacené kartě</string>
-    <string name="prev">Zpět</string>
+    <string name="prepaid_picker_hint_1_1">1.</string>
+	<string name="prepaid_picker_hint_1_2">Je možné navýšit jen jednou;</string>
+	<string name="prepaid_picker_hint_2_1">2.</string>
+	<string name="prepaid_picker_hint_2_2_a">Zvolená suma musí být v rámci hodnoty předplacené karty.</string>
+	<string name="prepaid_picker_hint_2_2_b">Když suma předplacené karty není %1$s Jen, dojde k chybě a karta bude neplatná</string>
+	<string name="prepaid_picker_title">Navýšit kredit</string>
+	<string name="prev">Zpět</string>
     <string name="progress_alipay_creating">Vytváření objednávky Alipay...</string>
     <string name="progress_alipay_installing">Instalování Alipay pluginu...</string>
     <string name="progress_creating">Získávání informace objednávky...</string>
