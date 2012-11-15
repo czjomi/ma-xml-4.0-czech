@@ -672,7 +672,7 @@
 	<string name="dolby_bassboost_high">Více</string>
 	<string name="dolby_bassboost_low">Méně</string>
 	<string name="dolby_bassboost_normal">Normální</string>
-	<string name="dolby_bassboost_title">Bass Boost: </string>
+	<string name="dolby_bassboost_title">Bass Boost:\u0020</string>
 	<string name="dolby_effects">Dolby Efekt</string>
 	<string name="dolby_eq_auto">Vlastní</string>
 	<string name="dolby_eq_blues">Blues</string>
@@ -684,6 +684,7 @@
 	<string name="dolby_eq_electronic">Electronic</string>
 	<string name="dolby_eq_enter_alert_msg">Chcete otevřít nastavení Dolby EQ?</string>
 	<string name="dolby_eq_enter_alert_title">Otevřít Dolby EQ</string>
+	<string name="dolby_eq_flat">Plochý</string>
 	<string name="dolby_eq_hiphop">Hiphop</string>
 	<string name="dolby_eq_jazz">Jazz</string>
 	<string name="dolby_eq_jungle">Jungle</string>
@@ -706,7 +707,7 @@
 	<string name="dolby_roomsize_low">Malá místnost</string>
 	<string name="dolby_roomsize_normal">Normální místnost</string>
 	<string name="dolby_roomsize_summary">Prostorový zvuk je dostupný jen při zapojených sluchátkách</string>
-	<string name="dolby_roomsize_title">Prostorový zvuk: </string>
+	<string name="dolby_roomsize_title">Priestorový zvuk:\u0020</string>
 	<string name="drive_mode">Režim AUTO</string>
 	<string name="drive_mode_auto_reply">Auto. odpověď</string>
 	<string name="drive_mode_auto_sms_reply_content">Promiňte, Právě řídím. Zavolám později...</string>
