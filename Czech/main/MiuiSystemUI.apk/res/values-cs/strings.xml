@@ -102,8 +102,9 @@
     <string name="dlg_confirm_kill_storage_users_title">Zapnout USB úložiště</string>
     <string name="dlg_error_title">USB operace nedokončena</string>
     <string name="dlg_ok">OK</string>
-    <string name="dreams_dock_launcher">Aktivovat spořič obrazovky</string>	
-    <string name="ext_media_badremoval_notification_message">Odpojte USB úložiště před odebráním, aby se zabránilo poškození dat.</string>
+	<string name="dreams_dock_launcher">Aktivovat spořič obrazovky</string>	
+    <string name="drive_mode_tip">Režim AUTO je aktivovaný, jeďte opatrně..!</string>
+	<string name="ext_media_badremoval_notification_message">Odpojte USB úložiště před odebráním, aby se zabránilo poškození dat.</string>
     <string name="ext_media_badremoval_notification_title">USB úložiště neočekávaně odebráno</string>
     <string name="ext_media_checking_notification_message">Kontroluji chyby.</string>
     <string name="ext_media_checking_notification_title">Připravuji USB úložiště</string>
