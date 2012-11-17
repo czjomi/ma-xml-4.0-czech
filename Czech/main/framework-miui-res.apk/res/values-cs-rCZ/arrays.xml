@@ -1705,6 +1705,9 @@
         <item>51001</item>
         <item>40466</item>
         <item>45502</item>
+		<item>23004</item>
+		<item>23099</item>
+		<item>23104</item>
     </string-array>
     <string-array name="mobile_operator_display_names">
         <item>EE</item>
@@ -1752,7 +1755,7 @@
         <item>T - Mobile</item>
         <item>RO COSMOTE</item>
         <item>vodafone ES</item>
-        <item>"O2 - SK "</item>
+        <item>O2 - SK</item>
         <item>orange</item>
         <item>Claro</item>
         <item>SYRIATEL</item>
@@ -1761,7 +1764,7 @@
         <item>"Virgin "</item>
         <item>" Mobile Vikings"</item>
         <item>BH GSMBIH</item>
-        <item>"O2 - CZ "</item>
+        <item>O2 - CZ</item>
         <item>Telenor HU</item>
         <item>Digi.Mobil</item>
         <item>T-Mobile CZ</item>
@@ -3411,6 +3414,9 @@
         <item>IM3</item>
         <item>BSNL MOBILE</item>
         <item>Sprint</item>
+		<item>U:fon CZ</item>
+		<item>Vodafone CZ</item>
+		<item>Telekom SK</item>
     </string-array>
     <array name="config_virtualKeyUpPattern" />
     <string-array name="alphabet_table">
@@ -5150,6 +5156,9 @@
         <item>51001</item>
         <item>40466</item>
         <item>45502</item>
+		<item>23004</item>
+		<item>23099</item>
+		<item>23104</item>
     </string-array>
     <item type="array" name="android_config_longPressVibePattern">@*android:array/config_longPressVibePattern</item>
     <item type="array" name="android_config_keyboardTapVibePattern">@*android:array/config_keyboardTapVibePattern</item>
