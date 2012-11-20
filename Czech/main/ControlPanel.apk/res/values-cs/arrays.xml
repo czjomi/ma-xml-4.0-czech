@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cpu_zram_size_entries">
+        <item>Disable</item>
+        <item>10%</item>
+        <item>18%</item>
+        <item>26%</item>
+    </string-array>
+    <string-array name="entries_animations">
+        <item>Off</item>
+        <item>Fast</item>
+        <item>Normal</item>
+        <item>Slow</item>
+        <item>Slower</item>
+        <item>Very Slow</item>
+        <item>Slowest</item>
+    </string-array>
+    <string-array name="entries_overscroll_type">
+        <item>None</item>
+        <item>Glow</item>
+        <item>Bounce</item>
+        <item>Bounce &amp;amp;amp; Glow</item>
+    </string-array>
+    <string-array name="entries_overscroll_weight">
+        <item>Extra Heavy</item>
+        <item>Heavy</item>
+        <item>Medium</item>
+        <item>Light</item>
+        <item>Extra Light</item>
+    </string-array>
+    <string-array name="entries_status_styles">
+        <item>Right</item>
+        <item>Centred</item>
+        <item>Centred (Icons Switched)</item>
+    </string-array>
+</resources>
