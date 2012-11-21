@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="cpu_zram_size_entries">
-        <item>Disable</item>
+        <item>Vypnout</item>
         <item>10%</item>
         <item>18%</item>
         <item>26%</item>
     </string-array>
     <string-array name="entries_animations">
-        <item>Off</item>
-        <item>Fast</item>
-        <item>Normal</item>
-        <item>Slow</item>
-        <item>Slower</item>
-        <item>Very Slow</item>
-        <item>Slowest</item>
+        <item>Vypnuté</item>
+        <item>Rychle</item>
+        <item>Normální</item>
+        <item>Pomalé</item>
+        <item>Pomalejší</item>
+        <item>Hodně pomalé</item>
+        <item>Nejpomalejší</item>
     </string-array>
     <string-array name="entries_overscroll_type">
-        <item>None</item>
-        <item>Glow</item>
-        <item>Bounce</item>
-        <item>Bounce &amp;amp;amp; Glow</item>
+        <item>Žádné</item>
+        <item>Záře</item>
+        <item>Skočit</item>
+        <item>Skočit a zářit</item>
     </string-array>
     <string-array name="entries_overscroll_weight">
-        <item>Extra Heavy</item>
-        <item>Heavy</item>
-        <item>Medium</item>
-        <item>Light</item>
-        <item>Extra Light</item>
+        <item>Extra těžké</item>
+        <item>Těžké</item>
+        <item>Střední</item>
+        <item>Lehké</item>
+        <item>Extra lehké</item>
     </string-array>
     <string-array name="entries_status_styles">
-        <item>Right</item>
-        <item>Centred</item>
-        <item>Centred (Icons Switched)</item>
+        <item>Vpravo</item>
+        <item>Uprostřed</item>
+        <item>Uprostřed ((přehozený ikony)</item>
     </string-array>
 </resources>
