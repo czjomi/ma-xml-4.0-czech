@@ -31,6 +31,6 @@
     <string-array name="entries_status_styles">
         <item>Vpravo</item>
         <item>Uprostřed</item>
-        <item>Uprostřed ((přehozený ikony)</item>
+        <item>Uprostřed (přehozené ikony)</item>
     </string-array>
 </resources>

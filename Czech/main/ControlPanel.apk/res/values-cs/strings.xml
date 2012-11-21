@@ -106,7 +106,7 @@ Současné nastavení: "</string>
     <string name="equaliser_settings">Ekvalizér</string>
     <string name="equaliser_summary">Doladění výstupu zvuku na vašem přístroji</string>
     <string name="nativeandroid_settings">Native Android Settings</string>
-    <string name="nativeandroid_summary">Seznam skrytých a někdy těžko přístupních nastavení v Android OS</string>
+    <string name="nativeandroid_summary">Seznam skrytých a někdy těžko přístupných nastavení v Android OS</string>
     <string name="battery_category">Nastavení spotřeby</string>
     <string name="other_category">Různé</string>
     <string name="accessibility_settings">Nastavení přístupnosti</string>
