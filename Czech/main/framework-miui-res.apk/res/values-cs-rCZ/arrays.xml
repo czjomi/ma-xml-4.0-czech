@@ -3418,7 +3418,6 @@
 		<item>Vodafone CZ</item>
 		<item>Telekom SK</item>
     </string-array>
-    <array name="config_virtualKeyUpPattern" />
     <string-array name="alphabet_table">
         <item>\#</item>
         <item>A</item>
@@ -3448,9 +3447,6 @@
         <item>Y</item>
         <item>Z</item>
     </string-array>
-    <item type="array" name="android_config_virtualKeyVibePattern">@*android:array/config_virtualKeyVibePattern</item>
-    <item type="array" name="android_config_mobile_hotspot_provision_app">@*android:array/config_mobile_hotspot_provision_app</item>
-    <item type="array" name="android_common_nicknames">@*android:array/common_nicknames</item>
     <string-array name="mobile_operator_numeric_equivalencies">
         <item>23430</item>
         <item>310410</item>
@@ -5160,26 +5156,11 @@
 		<item>23099</item>
 		<item>23104</item>
     </string-array>
-    <item type="array" name="android_config_longPressVibePattern">@*android:array/config_longPressVibePattern</item>
-    <item type="array" name="android_config_keyboardTapVibePattern">@*android:array/config_keyboardTapVibePattern</item>
-    <integer-array name="detailed_am_pm_segments">
-        <item>0</item>
-        <item>1</item>
-        <item>6</item>
-        <item>12</item>
-        <item>13</item>
-        <item>18</item>
-        <item>19</item>
-    </integer-array>
-    <string-array name="detailed_am_pm_names">
-        <item>AM</item>
-        <item>AM</item>
-        <item>AM</item>
-        <item>PM</item>
-        <item>PM</item>
-        <item>PM</item>
-        <item>PM</item>
+	<string-array name="supported_locale">
+        <item>zh_CN</item>
+        <item>zh_TW</item>
+        <item>en_US</item>
+		<item>sk_SK</item>
+		<item>cs_CZ</item>
     </string-array>
-    <item type="array" name="android_special_locale_codes">@*android:array/special_locale_codes</item>
-    <item type="array" name="android_special_locale_names">@*android:array/special_locale_names</item>
 </resources>
