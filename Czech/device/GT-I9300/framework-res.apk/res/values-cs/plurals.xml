@@ -73,7 +73,7 @@
     </plurals>
     <plurals name="wifi_available_detailed">
         <item quantity="other">Otevřít dostupné Wi-Fi sítě</item>
-        <item quantity="one">Otevřít dostupnou síť Wi-Fi</item>
+        <item quantity="one">Otevřít dostupné Wi-Fi sítě</item>
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d z %2$d</item>
