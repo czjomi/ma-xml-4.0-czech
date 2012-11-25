@@ -728,7 +728,7 @@
     <string name="enableNetwork">Zapnout síť</string>   
     <string name="enable_adb">Ladění USB</string>
     <string name="enable_adb_summary">Povolit režim ladění s připojeným zařízením USB</string>
-    <string name="enable_assist_key_long_press">Dlouho podržení Menu spustí hlasový asistent</string>	
+    <string name="enable_assist_key_long_press">Podržením Menu spustit hlas. asistent</string>	
     <string name="enable_back_long_press">Zabití aplikací držením tlačítka zpět</string>
     <string name="enable_compatibility">Upravit velikost aplikace</string>
     <string name="enable_snapshot_screenlock">Screenshot na zamyk. obr.</string>
