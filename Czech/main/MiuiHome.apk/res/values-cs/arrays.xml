@@ -2,7 +2,7 @@
 <resources>
     <string-array name="transformation_entries">
         <item>Klasický</item>
-        <item>Klasický(bez překmitu)</item>
+        <item>Klasický(bez odrazu)</item>
         <item>Prolnutí</item>
         <item>Přetočení</item>
         <item>Strana</item>
