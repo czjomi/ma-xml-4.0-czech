@@ -20,7 +20,7 @@
     <string name="Dashboard_Perm_HIPS_Risky">Riskantní práva (%1$d)</string>
     <string name="Dashboard_Perm_HIPS_Safe">Běžná práva (%1$d)</string>
     <string name="Dashboard_Perm_HIPS_Switch">Sledování práv</string>
-    <string name="Dashboard_Perm_SU">Spravovat oprávnění ROOT</string>
+    <string name="Dashboard_Perm_SU">Povolit práva ROOT</string>
     <string name="Dashboard_Perm_SU_Desc">Sledování %1$d aplikací s oprávněními ROOT</string>
     <string name="Dashboard_Perm_SU_Disabled">Práva ROOT jsou zakázána</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable">ROOT není dostupný ve Stabilní verzi MIUI</string>
