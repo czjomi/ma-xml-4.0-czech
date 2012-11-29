@@ -31,7 +31,7 @@
     <string name="lockstyle_personal_settings">Přizpůsobení</string>	
     <string name="long_ringtone_resource">Dlouhé (&gt;5sec)</string>
     <string name="menu_refresh">Obnovit</string>
-	<string name="play_all_audio_effect">přehrát zvukový efekt (celkom: %1$s)</string>
+	<string name="play_all_audio_effect">přehrát zvukový efekt (celkem: %1$s)</string>
 	<string name="resource_comment_account_need_activitied">Váš účet není aktivován, Chcete ho aktivovat nyní?</string>
 	<string name="resource_comment_count">%1$s má hodnocení %2$s a komentáře (%3$s verze)</string>
 	<string name="resource_comment_description">%1$s komentovat na %2$s:%3$s:%4$s</string>
@@ -50,7 +50,7 @@
 	<string name="resource_comment_upload_data_invalid">Promiňte, odeslání komentáře selhalo</string>
 	<string name="resource_comment_upload_failed">Uložení komentáře selhalo</string>
 	<string name="resource_comment_upload_not_bought">Téma musíte aplikovat před zanecháním komentáře.</string>
-	<string name="resource_comment_upload_not_logined">Přihlašte se</string>
+	<string name="resource_comment_upload_not_logined">Přihlaste se</string>
 	<string name="resource_comment_upload_success">Komentář odeslaný! Za chvíli bude zobrazen</string>
 	<string name="resource_comment_version_name">(%1$s verze)</string>  
 	<string name="resource_fail_to_show">Téma neobsahuje potřebný obsah.</string>
