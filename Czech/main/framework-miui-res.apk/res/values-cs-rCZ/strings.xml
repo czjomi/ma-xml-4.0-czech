@@ -124,7 +124,10 @@
     <string name="resource_downloaded_title">Stáhnout</string>
     <string name="resource_downloading">Stahování</string>
     <string name="resource_get_auth">Nemáte autorská práva pro toto téma..</string>
-    <string name="resource_get_auth_failed">Kontrola autorských práv selhala.</string>
+    <string name="resource_get_auth_exceed_max_limit_tips">Téma nemůže být použito pro toto zařízení. Váš Xiaomi účet je limitovaný pro 10 zařízení. Zkuste jiný účet Xiaomi.</string>
+	<string name="resource_get_auth_exceed_max_limit_title">Dosažen limit používání</string>
+	<string name="resource_importing">Nahrávání</string>
+	<string name="resource_get_auth_failed">Kontrola autorských práv selhala.</string>
     <string name="resource_get_auth_checking">Kontrola autorských práv...</string>
     <string name="resource_get_auth_missing">Téma není staženo z oficiálního marketu MIUI.</string>
     <string name="resource_get_auth_retrieving">Kontrola autorských práv...</string>
@@ -139,7 +142,9 @@
     <string name="resource_see_more">Více</string>
     <string name="resource_select">Vybrat</string>
     <string name="resource_selected_number">Vybráno %1$d zdrojů</string>
-    <string name="resource_system_title">Systémové zdroje</string>
+    <string name="resource_server_out_of_service">Server je momentálně nedostupný, zkuste to znovu za chvíli.</string>
+	<string name="resource_switch_account">Přepnout účet</string>
+	<string name="resource_system_title">Systémové zdroje</string>
     <string name="resource_title">Detaily</string>
     <string name="resource_transparent_wallpaper">Průhledné pozadí</string>
     <string name="resource_update">Aktualizovat</string>
