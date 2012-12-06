@@ -88,7 +88,7 @@
     <string name="theme_import">Nahrát z SD karty</string>
     <string name="theme_import_success">Import dokončen</string>
     <string name="theme_importing">Nahrávání tématu...</string>
-    <string name="theme_import_activity_label">Aktualizovať tému</string>
+    <string name="theme_import_activity_label">Aktualizovat téma</string>
 	<string name="theme_import_from_sdcard">Nahrát z SD karty</string>
 	<string name="theme_import_importing">Aktualizace.. Zbývá %1$d</string>
 	<string name="theme_import_item_delete_request_button">Vymazat</string>
