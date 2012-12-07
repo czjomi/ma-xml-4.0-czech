@@ -105,6 +105,7 @@
 	<string name="theme_import_oper_stop_request_content">Téma musí být aktualizováno, aby mohlo pracovat správně. Chcete zrušit jeho aktualizaci?</string>
 	<string name="theme_import_preparing">Kontrola místních témat</string>
 	<string name="theme_import_stoping">Zastavování...</string>
+	<string name="theme_is_imported">Téma je importované</string>
 	<string name="theme_pick_import_fail">Nahrávání téma selhalo</string>
 	<string name="theme_sdcard_importing">Nahrávání z SD karty</string>
 	<string name="theme_select_others">Ostatní</string>
