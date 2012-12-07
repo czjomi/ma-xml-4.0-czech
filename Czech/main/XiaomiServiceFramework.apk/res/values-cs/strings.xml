@@ -21,7 +21,10 @@
     <string name="balance">Zůstatek: %1$s Mi kreditů</string>
     <string name="basic_info">Základní informace</string>
     <string name="btn_back">Zpět</string>
-    <string name="btn_mili_center_recharge">Navýšit Mi kredit</string>
+    <string name="btn_call">Podpora</string>
+	<string name="btn_count_down_auto">%1$s sekund</string>
+	<string name="btn_count_down_wait">Čekejte %1$s sekund</string>
+	<string name="btn_mili_center_recharge">Navýšit Mi kredit</string>
     <string name="btn_query">Informace</string>
     <string name="btn_recharge_large">Navýšit teď</string>
     <string name="btn_recharge_other">Jiné metody navýšení</string>
@@ -155,7 +158,8 @@
 	<string name="prev">Zpět</string>
     <string name="progress_alipay_creating">Vytváření objednávky Alipay...</string>
     <string name="progress_alipay_installing">Instalování Alipay pluginu...</string>
-    <string name="progress_creating">Získávání informace objednávky...</string>
+    <string name="progress_connecting">Připojování...</string>
+	<string name="progress_creating">Získávání informace objednávky...</string>
     <string name="progress_error_common">Navýšení kreditu selhalo, zkuste znovu později.</string>
     <string name="progress_error_contact_server">"Spojení selhalo. Kontaktujte naše partnery v Shenzhou na čísle: 400-001-0195，Vaše sériové číslo je: %1$s"</string>
     <string name="progress_error_invalid_number">Číslo karty a heslo je nesprávné.</string>
@@ -166,13 +170,17 @@
     <string name="progress_loading">Zpracovávání, čekejte prosím...</string>
     <string name="progress_prepaid_creating">Vytváření objednávky navýšení kreditu...</string>
     <string name="progress_querying">Zpracovávání filtru plateb...</string>
-    <string name="progress_submit_hint_init">Navýšení bude vykonané do 3 min, aktualizuje se za %1$s s</string>
+    <string name="progress_submit_hint">Trvá asi 3 minuty</string>
+	<string name="progress_submit_hint_init">Navýšení bude vykonané do 3 min, aktualizuje se za %1$s s</string>
     <string name="progress_submit_hint_query">Navýšení bude vykonané do 3 min, můžete aktualizovat za %1$s s</string>
     <string name="progress_submit_summary">Navýšení: %1$s RMB</string>
     <string name="progress_submit_title">Navýšení odesláno</string>
     <string name="progress_success_summary">Stav účtu: %1$s Mi kreditů</string>
     <string name="progress_success_title">Navýšení %1$s Mi kreditů úspěšné</string>
-    <string name="quick_login_title">Je vyžadováno ověření, prosím, vložte vaše heslo</string>
+    <string name="progress_warning_contact_server">"Zpráva nebyla doručena:
+	1. Kontaktujte zákaznicku podporu na: %1$s
+	2. Vaše sériové číslo: %2$s"</string>
+	<string name="quick_login_title">Je vyžadováno ověření, prosím, vložte vaše heslo</string>
     <string name="reg_by_email_failure">Registrace se nezdařila: %1$s</string>
     <string name="reg_failed">Registrace se nezdařila</string>
     <string name="recharge_alipay_summary">Alipay navýšení</string>
