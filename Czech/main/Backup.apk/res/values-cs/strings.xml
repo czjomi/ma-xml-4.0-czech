@@ -161,7 +161,7 @@
     <string name="task_stopped_exception">Operace byla zastavena</string>
     <string name="total_num">Celkem záznamů: %d</string>
     <string name="unit_byte">\u0020B</string>
-    <string name="unit_piece">u0020ks</string>
+    <string name="unit_piece">\u0020ks</string>
     <string name="unknown_hint">Neznámý</string>
     <string name="wifi_title">Wifi nastavení</string>
 </resources>
