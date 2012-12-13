@@ -42,7 +42,8 @@
     <string name="close">Zavřít</string>
     <string name="cloud_albums">Alba v Cloudu</string>
     <string name="cloud_gallery_no_pictures">Žádné fotografie v MiCloud</string>
-    <string name="cloud_gallery_setting">Nastavení galerie v Cloudu</string>
+    <string name="cloud_gallery_recyclebin_full">Koš v Cloudu je plný, vyprázdněte ho na stránce i.xiaomi.com</string>
+	<string name="cloud_gallery_setting">Nastavení galerie v Cloudu</string>
     <string name="cloud_gallery_space_full">Uploadování se nezdařilo!, Cloudové úložiště galerie je plné</string>
     <string name="cloud_media_set_set">Alba v Cloudu</string>
     <string name="confirm_delete">Opravdu chcete smazat %s položek?</string>

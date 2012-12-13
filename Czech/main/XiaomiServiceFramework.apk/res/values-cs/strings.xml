@@ -142,7 +142,8 @@
     <string name="prepaid_china_mobile">China Mobile</string>
     <string name="prepaid_china_telcom">China Telecom</string>
     <string name="prepaid_china_unicom">China Unicom</string>
-    <string name="prepaid_error_card_number">Zadejte správnou sumu navýšení</string>
+    <string name="prepaid_error_card_length">Vložte správné číslo předplacené karty nebo heslo</string>
+	<string name="prepaid_error_card_number">Zadejte správnou sumu navýšení</string>
     <string name="prepaid_error_carrier">Zvolte svého operátora (pouze Čína)</string>
     <string name="prepaid_error_denomination">Zvolte o kolik navýšit kredit</string>
     <string name="prepaid_error_password">Zadejte správné číslo a heslo Vaší karty</string>

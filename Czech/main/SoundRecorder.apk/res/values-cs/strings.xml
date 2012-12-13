@@ -44,7 +44,8 @@
     <string name="preferences_title">Nastavení</string>
     <string name="record_list">Seznam nahrávek</string>
     <string name="recording">Nahrávám...</string>
-    <string name="recording_stopped">Nahrávání zastaveno</string>
+    <string name="record_saving">Ukládání nahrávky, čekejte prosím!</string>
+	<string name="recording_stopped">Nahrávání zastaveno</string>
     <string name="sd_card_not_available">SD karta není dostupná</string>
     <string name="second">%d s</string>
     <string name="storage_is_full">SD karta je plná</string>
