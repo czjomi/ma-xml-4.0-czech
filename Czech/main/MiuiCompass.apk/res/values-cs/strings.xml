@@ -2,11 +2,17 @@
 <resources>
     <string name="altitude">Nadmořská výška %.1fm</string>
     <string name="app_label">Kompas</string>
-    <string name="cannot_get_location">Nelze zjistit polohu</string>
-    <string name="getting_location">Zjišťování polohy...</string>
+    <string name="calibrate_success">Kalibrace dokončena</string>
+	<string name="cannot_get_location">Nelze zjistit polohu</string>
+    <string name="dialog_content">Kalibrace kompasu není dokončena a nemusí pracovat správně. Jste si jisti, že ji chcete ukončit?</string>
+	<string name="dialog_title">Ukončit kalibraci</string>
+	<string name="getting_location">Zjišťování polohy...</string>
     <string name="location_east">%s V</string>
     <string name="location_north">%s S</string>
     <string name="location_south">%s J</string>
     <string name="location_west">%s Z</string>
-    <string name="pressure">Tlak %.1fhPa</string>
+    <string name="menu_calibrate">Kalibrace</string>
+	<string name="pressure">Tlak %.1fhPa</string>
+	<string name="toast_accuracy_low">"Přesnost není dostačující, sťiskněte Menu pro kalibraci kompasu."</string>
+	<string name="user_guide_calibrate">Sťiskněte Menu pro kalibraci kompasu</string>
 </resources>
