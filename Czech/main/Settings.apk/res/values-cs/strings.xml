@@ -1271,13 +1271,16 @@
     <string name="runningservices_settings_summary">Umožňuje zobrazit a ovládat aktuálně spuštěné služby</string>
     <string name="runningservices_settings_title">Spuštěné služby</string>
     <string name="scan_list_label">Výsledky skenování:</string>
+    <string name="screen">Displej</string>
     <string name="screen_button_custom">Úprava pozic tlačítek na displeji</string>    	
     <string name="screen_button_key">Virtuální tlačítka na displeji</string>	
+    <string name="screen_color_temperature_adjust">Teplota barev</string>
     <string name="screen_compatibility_label">Kompatibilita s obrazovkou</string>
     <string name="screen_compatibility_text">Tato aplikace nejspíš není určena pro vaši obrazovku. Zde můžete nastavit, jak se aplikace obrazovce přizpůsobí.</string>
     <string name="screen_timeout">Vypnutí displeje</string>
     <string name="screen_timeout_summary">Při nečinnosti: %1$s</string>
     <string name="screen_timeout_title">Vypnutí displaye</string>
+    <string name="screen_saturation_adjust">Sýtost barev</string>
     <string name="screensaver_activate_on_dock_title">Spustit i po vložení do doku</string>
     <string name="screensaver_component_title">Vybraná dekorace</string>
     <string name="screensaver_settings_summary_off">Vypnuto</string>
@@ -1504,6 +1507,7 @@
     <string name="sync_plug">"Vítá vás aplikace Google Sync. Nový pohled na synchronizaci dat v režii Googlu. Poskytuje vám přístup ke kontaktům, schůzkám a dalším informacím, \nať jste kdekoli."</string>
     <string name="sync_settings">Účty a synchronizace</string>
     <string name="sync_wifi_label">Nastavení Wi-Fi synch.</string>
+    <string name="system">Systém</string>
     <string name="system_package">Aktualizace systému nelze nainstalovat na externí média.</string>
     <string name="system_update_settings_list_item_summary" />
     <string name="system_update_settings_list_item_title">Aktualizace systému</string>
