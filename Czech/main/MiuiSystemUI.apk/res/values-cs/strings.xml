@@ -84,8 +84,6 @@
     <string name="compat_mode_help_header">Kompatibilní zoom</string>
     <string name="compat_mode_off">Roztáhnout pro vyplnění obrazovky</string>
     <string name="compat_mode_on">Zvětšit pro vyplnění obrazovky</string>
-    <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
-    <string name="config_systemBarComponent">com.android.systemui.statusbar.tablet.TabletStatusBar</string>
     <string name="data_usage_disabled_dialog">"Byl dosažen datový limit. Další použití datového připojení se může projevit na výši vašeho vyúčtování."</string>
     <string name="data_usage_disabled_dialog_3g_title">2G-3G data vypnuta</string>
     <string name="data_usage_disabled_dialog_4g_title">4G data vypnuta</string>

@@ -192,8 +192,9 @@
 	<string name="status_bar_toggle_power_mid">Normální</string>
 	<string name="status_bar_toggle_privacy_mode">Návštěvník</string>
     <string name="status_bar_toggle_reboot">Restart</string>
-    <string name="status_bar_toggle_rotate">Otáčení</string>
-    <string name="status_bar_toggle_screen_button">ScreenButton</string>
+    <string name="status_bar_toggle_ring">Zvuk</string>
+	<string name="status_bar_toggle_rotate">Otáčení</string>
+    <string name="status_bar_toggle_screen_button">Přepínač</string>
     <string name="status_bar_toggle_screenshot">Screenshot</string>
     <string name="status_bar_toggle_shutdown">Vypnout</string>
     <string name="status_bar_toggle_sync">Synchro.</string>  
