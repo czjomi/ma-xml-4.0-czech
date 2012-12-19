@@ -21,7 +21,8 @@
     <string name="fm_record">FM nahrávání (%d)</string>
     <string name="hour">%d h</string>
     <string name="insert_sd_card">Vložte SD kartu</string>
-    <string name="mark_now">(Stávající)</string>
+    <string name="loading_duration">Načítání délky záznamu...</string>
+	<string name="mark_now">(Stávající)</string>
     <string name="max_length_reached">Dosažena maximální délka</string>
     <string name="menu_setting">Nastavení</string>
     <string name="menu_view_record_list">Zobrazit nahrávky</string>
@@ -42,7 +43,8 @@
     <string name="prefDefault_recordType">audio/3gpp</string>
     <string name="prefDialogTitle_recordType">Typ nahrávaného souboru</string>
     <string name="preferences_title">Nastavení</string>
-    <string name="record_list">Seznam nahrávek</string>
+    <string name="preparing_playback">Načítání nahrávky, čekejte prosím...</string>
+	<string name="record_list">Seznam nahrávek</string>
     <string name="recording">Nahrávám...</string>
     <string name="record_saving">Ukládání nahrávky, čekejte prosím!</string>
 	<string name="recording_stopped">Nahrávání zastaveno</string>
