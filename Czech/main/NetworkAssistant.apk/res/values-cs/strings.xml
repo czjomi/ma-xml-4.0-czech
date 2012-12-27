@@ -54,7 +54,8 @@
     <string name="finish_traffic_settings_message">"Využité data jsou %s. Souhlasí data?\n Můžete je upravit."</string>
     <string name="finish_traffic_settings_title">Upravit data</string>
     <string name="fire_rule_program_list">Seznam aplikací</string>
-    <string name="force_stop_dlg_text">Pokud vynutíte zastavení aplikace, může to vyvolat chybu.</string>
+    <string name="fire_wall_is_closed">Firewall není aktivní</string>
+	<string name="force_stop_dlg_text">Pokud vynutíte zastavení aplikace, může to vyvolat chybu.</string>
     <string name="force_stop_dlg_title">Vynutit ukončení?</string>
     <string name="i_known_button">OK</string>
     <string name="input_hint">Prosím zadejte</string>
