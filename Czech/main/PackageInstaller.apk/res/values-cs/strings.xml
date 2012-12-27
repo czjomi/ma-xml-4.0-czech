@@ -48,4 +48,5 @@
     <string name="unknown">Neznámé</string>
     <string name="unknown_apps_dlg_text">Váš telefon je z důvodu zabezpečení nastaven tak, aby blokoval instalaci aplikací, které nepocházejí ze služby Google Play.</string>
     <string name="unknown_apps_dlg_title">Instalace byla zablokována</string>
+	<string name="safe_guard_support">Technická podpora %1$s</string>
 </resources>
