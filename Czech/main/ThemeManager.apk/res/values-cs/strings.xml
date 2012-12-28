@@ -113,6 +113,10 @@
 	<string name="theme_select_others">Ostatní</string>
     <string name="theme_update_request_content">Téma musí být aktualizováno, aby mohlo pracovat správně. Je nutné internetové připojení, chcete pokračovat..?</string>
 	<string name="theme_update_request_title">Aktualizace tématu</string>
+	<string name="theme_upgrade_request_cancel">Zrušit</string>
+	<string name="theme_upgrade_request_content">Vaše Téma musí být konvertováno pro jeho lepší funkčnost. Může to trvat pár minut a telefon nemusí reagovat. Konvertovat nyní?</string>
+	<string name="theme_upgrade_request_title">Vyžaduje se konverze téma</string>
+	<string name="theme_upgrade_request_yes">OK</string>
 	<string name="third_party_pickers_activity_title">Nastavit %1$s</string>
     <string name="title_component">Mix</string>
     <string name="title_download_resource">Stažené položky</string>

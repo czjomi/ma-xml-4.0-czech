@@ -207,7 +207,8 @@
 	<string name="storage_warning">Externí úložiště není přístupné nebo jej nelze přečíst.</string>
     <string name="tab_category">Knihovna</string>
     <string name="tab_networkdisk">MiDrive</string>
-    <string name="tab_sd">SD karta</string>
+    <string name="tab_phone">Telefon</string>
+	<string name="tab_sd">SD karta</string>
     <string name="toast_file_not_can_read">Soubor je poškozený.</string>
     <string name="trans_task">Přenos po síti</string>
 	<string name="transing">Přenos dat...</string>
