@@ -314,7 +314,6 @@
     <string-array name="led_color_entries">
         <item>Modrá</item>
         <item>Červená</item>
-        <item>Oranžová</item>
         <item>Žlutá</item>
         <item>Zelená</item>
         <item>Azurová</item>
