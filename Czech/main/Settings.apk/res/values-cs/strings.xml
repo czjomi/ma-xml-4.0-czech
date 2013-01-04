@@ -647,7 +647,7 @@
     <string name="display_label">Obrazovka</string>
     <string name="display_order_text">Řadit podle:</string>
     <string name="display_preview_label">Náhled:</string>
-    <string name="display_settings">Obraz</string>
+    <string name="display_settings">Zobrazení</string>
     <string name="display_settings_title">Zobrazení</string>
     <string name="dlg_cancel">Zrušit</string>
     <string name="dlg_confirm_unmount_text">Pokud SD kartu odpojíte, některé používané aplikace přestanou fungovat. Tyto aplikace pravděpodobně nebudou k dispozici, dokud úložiště USB znovu nepřipojíte.</string>
