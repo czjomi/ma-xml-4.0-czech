@@ -2,8 +2,8 @@
 <resources>
     <string name="display_options_sort_by_family_name">Příjmení</string>
     <string name="display_options_sort_by_given_name">Jméno</string>
-    <string name="display_options_view_family_name_first">Třiď podle příjmení</string>
-    <string name="display_options_view_given_name_first">Třiď podle jména</string>
+    <string name="display_options_view_family_name_first">Nejprve příjmení</string>
+    <string name="display_options_view_given_name_first">Nejprve křestní jméno</string>
     <string name="name_family">Příjmení</string>
     <string name="name_given">Jméno</string>
 </resources>

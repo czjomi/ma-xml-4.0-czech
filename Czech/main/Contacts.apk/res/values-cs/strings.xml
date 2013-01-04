@@ -204,10 +204,10 @@
     <string name="display_only_phones">Pouze kontakty s tel. číslem</string>
     <string name="display_options_sort_by_family_name">Příjmení</string>
     <string name="display_options_sort_by_given_name">Jméno</string>
-    <string name="display_options_sort_list_by">Setřídit podle</string>
-    <string name="display_options_view_family_name_first">Příjmení</string>
-    <string name="display_options_view_given_name_first">Jméno</string>
-    <string name="display_options_view_names_as">Zobrazit jména kontaktů podle</string>
+    <string name="display_options_sort_list_by">Setřídit kontakty podle</string>
+    <string name="display_options_view_family_name_first">Nejprve příjmení</string>
+    <string name="display_options_view_given_name_first">Nejprve křestní jméno</string>
+    <string name="display_options_view_names_as">Zobrazení jmen kontaktů</string>
     <string name="display_sim_contacts">Zobrazit kontakty ze SIM karty</string>
     <string name="display_ungrouped">Všechny další kontakty</string>
     <string name="display_warn_remove_ungrouped">"Odstranění \"%s\" ze synchronizace zároveň odstraní všechny neseskupené kontakty."</string>

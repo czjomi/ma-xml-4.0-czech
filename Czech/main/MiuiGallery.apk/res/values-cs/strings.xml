@@ -46,7 +46,7 @@
 	<string name="cloud_gallery_setting">Nastavení galerie v Cloudu</string>
     <string name="cloud_gallery_space_full">Uploadování se nezdařilo!, Cloudové úložiště galerie je plné</string>
     <string name="cloud_media_set_set">Alba v Cloudu</string>
-    <string name="confirm_delete">Opravdu chcete smazat %s položek?</string>
+    <string name="confirm_delete">Opravdu chcete smazat %s?</string>
     <string formatted="false" name="confirm_delete_album">Jste si jistý, že chcete vymazat %s alb (%s souborů)?</string>
     <string name="confirm_delete_folders_and_pictures">Jste si jistý, že chcete vymazat %s?</string>
     <string formatted="false" name="confirm_delete_folders_including">%s složek (%s souborů)</string>
@@ -133,10 +133,10 @@
     <string name="group_by_time">Podle času</string>
     <string name="height">Výška</string>
     <string name="highlight">Odlesky</string>
-    <string name="home_my_captured_items">Mé vyfocené fotky</string>
-    <string name="how_many_pics">%d Fotek</string>
-    <string name="how_many_sub_folders">%d Složek</string>
-    <string name="how_many_videos">%d Videí</string>
+    <string name="home_my_captured_items">Mé fotografie</string>
+    <string name="how_many_pics">%d fotek</string>
+    <string name="how_many_sub_folders">%d složek</string>
+    <string name="how_many_videos">%d videí</string>
     <string name="how_many_volumes">%d úložných zařízení</string>
     <string name="image_property">Vlastnosti fotky</string>
     <string name="Import">Importovat</string>
@@ -218,7 +218,7 @@
     <string name="people">Lidé</string>
     <string name="photo_saved">Snímek uložen do alba %s</string>
     <string name="photoeditor_name">Foto Studio</string>
-    <string name="photos">Snímků</string>
+    <string name="photos"> snímků</string>
     <string name="picasa_posts">Příspěvky</string>
     <string name="play_video">Přehrát video</string>
     <string name="posterize">Posterizace</string>
