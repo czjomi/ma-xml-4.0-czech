@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MIUIStats</string>
+    <string name="app_name">Statistika</string>
     <string name="main_btn_preview">Náhled dat</string>
     <string name="main_btn_save">Uložit nastavení</string>
     <string name="main_desc">"Přihlášení se k odesílání anonymních dat použití umožní vývojářům MIUI získat přehled o instalacích na zařízeních. Odesílané data obsahují unikátní identifikátor, který žádným způsobem neohrozí Vaše soukromí, nezveřejní typ zařízení, nebo informace o verzi. Data jsou odesílána při každém startu zařízení. Stisknutím tlačítka 'Náhled dat' níže uvidíte příklad dat, která jsou odesílána."</string>

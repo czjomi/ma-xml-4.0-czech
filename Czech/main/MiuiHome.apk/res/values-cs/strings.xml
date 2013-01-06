@@ -56,7 +56,7 @@
     <string name="menu_edit">Upravit widgety</string>
     <string name="menu_exit_scene">Opustit Free Desktop</string>
     <string name="menu_item_add_item">Přidat na plochu</string>
-    <string name="menu_launcher_setting">Nastavení MIUI Launcher</string>
+    <string name="menu_launcher_setting">Nastavení spouštěče</string>
     <string name="menu_reset_scene">Obnovit na výchozí scénu</string>
     <string name="menu_search">Hledat</string>
     <string name="menu_settings">Nastavení</string>
@@ -104,7 +104,7 @@
 	<string name="toggle_select_title">Zvolit přepínač</string>
     <string name="toggle_title">Přepínač</string>
     <string name="transformation_type_classic">Klasicky</string>
-    <string name="transformation_type_classic_no_overshoot">Klasický (bez odrazu)</string>
+    <string name="transformation_type_classic_no_overshoot">Klasický (bez překmitu)</string>
     <string name="transformation_type_crossfade">Prolnutí</string>
     <string name="transformation_type_cube">3D kostka</string>
     <string name="transformation_type_falldown">2D rotace</string>
