@@ -13,6 +13,7 @@ Thumbs.db
 *.exe
 *.o
 *.so
+*.xml~
 
 # Packages #
 ############
