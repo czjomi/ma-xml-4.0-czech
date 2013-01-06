@@ -106,7 +106,7 @@
     <string name="input_station">Frekvence (MHz)</string>
     <string name="frequency_should_not_null">Frekvence musí být zadána</string>
     <string name="frequency_out_of_range">(%1$s~%2$s) Frekvence je mimo povolený rozsah</string>
-    <string name="frequency_already_exist">Frekvence již exisistuje</string>
+    <string name="frequency_already_exist">Frekvence již existuje</string>
     <string name="alert_title_new_station">Nová stanice</string>
     <string name="alert_title_delete">Odstranit</string>
     <string name="alert_message_delete_station">Opravdu chcete odstranit tuto stanici?</string>
