@@ -6,7 +6,7 @@
     <string name="account_hint_text">Email/Telefonní číslo</string>
     <string name="account_name">Účet: %1$s</string>
     <string name="activate_fail_notification_title">Reactivate Xiaomi sync service</string>
-    <string name="activating">Aktivuji...</string>
+    <string name="activating">Aktivuji\u2026</string>
     <string name="alert_title_remove_account">Smazat účet</string>
     <string name="alipay_edit_hint">Navýšit kredit</string>
     <string name="alipay_edit_limit">Méně než 500</string>
@@ -35,6 +35,7 @@
     <string name="btn_activate">Aktivovat</string>
     <string name="completed">Dokončit</string>
     <string name="confirm">Potvrdit</string>
+	<string name="checking_account">Ověřování účtu\u2026</string>
     <string name="data_keep_in_phone">Ponechat v mém zařízení</string>
     <string name="data_sync_notice">Použijte svůj účet Xiaomi k synchronizaci zpráv, kontaktů a dalších údajů.</string>
     <string name="data_wipe_from_phone">Smazat z mého zařízení</string>
@@ -75,8 +76,8 @@
     <string name="find_device">Poloha zařízení</string>
     <string name="find_device_disabled_notice">"Můžete opět otevřít přes Nastavení - Účty - Synch. - Účet Xiaomi"</string>
     <string name="find_device_disabled_title">Zjitování polohy zařízení je vypnuté</string>
-    <string name="find_device_disabling">Vypínání...</string>
-    <string name="find_device_enabling">Zapínání...</string>
+    <string name="find_device_disabling">Vypínání\u2026</string>
+    <string name="find_device_enabling">Zapínání\u2026</string>
     <string name="find_device_error_network">Síť je nedostupná</string>
     <string name="find_device_error_server">Chyba serveru</string>
     <string name="find_device_check_phone_error_title">Nepodařilo se zapnout zjišťování polohy zařízení</string>
@@ -94,7 +95,7 @@
     <string name="label_order_price">Množství: </string>
     <string name="login">Přihlásit se</string>
     <string name="login_failed">Přihlášení se nezdařilo</string>
-    <string name="login_notice">Přihlašování...</string>
+    <string name="login_notice">Přihlašování\u2026</string>
     <string name="login_retry">Opakovat</string>
     <string name="micloud_about">" "<u>Více o MiCloud</u>" "</string>
     <string name="micloud_account">XiaoMi</string>
@@ -125,7 +126,7 @@
     <string name="micloud_title">MiCloud</string>
     <string name="micloud_use_existing">Existující</string>
     <string name="micloud_val_sms_alert">Zašle se SMS k potvrzení Vašeho telefonního čísla, pokračovat?</string>
-    <string name="micloud_waiting">Čekejte...</string>
+    <string name="micloud_waiting">Čekejte\u2026</string>
     <string name="micloud_welcome_banner">XiaoMi účet</string>
     <string name="micloud_welcome_skip_login"><u>Přeskočit tento krok</u></string>
     <string name="mili_center">Centrum Mi kreditů</string>
@@ -157,10 +158,10 @@
 	<string name="prepaid_picker_hint_2_2_b">Když suma předplacené karty není %1$s Jen, dojde k chybě a karta bude neplatná</string>
 	<string name="prepaid_picker_title">Navýšit kredit</string>
 	<string name="prev">Zpět</string>
-    <string name="progress_alipay_creating">Vytváření objednávky Alipay...</string>
-    <string name="progress_alipay_installing">Instalování Alipay pluginu...</string>
-    <string name="progress_connecting">Připojování...</string>
-	<string name="progress_creating">Získávání informace objednávky...</string>
+    <string name="progress_alipay_creating">Vytváření objednávky Alipay\u2026</string>
+    <string name="progress_alipay_installing">Instalování Alipay pluginu\u2026</string>
+    <string name="progress_connecting">Připojování\u2026</string>
+	<string name="progress_creating">Získávání informace objednávky\u2026</string>
     <string name="progress_error_common">Navýšení kreditu selhalo, zkuste znovu později.</string>
     <string name="progress_error_contact_server">"Spojení selhalo. Kontaktujte naše partnery v Shenzhou na čísle: 400-001-0195，Vaše sériové číslo je: %1$s"</string>
     <string name="progress_error_invalid_number">Číslo karty a heslo je nesprávné.</string>
@@ -168,9 +169,9 @@
     <string name="progress_error_server">Chyba serveru, zkuste znovu později.</string>
     <string name="progress_error_title">Navýšení kreditu selhalo</string>
     <string name="progress_error_waiting">Neaktualizované, zkuste znovu později!</string>
-    <string name="progress_loading">Zpracovávání, čekejte prosím...</string>
-    <string name="progress_prepaid_creating">Vytváření objednávky navýšení kreditu...</string>
-    <string name="progress_querying">Zpracovávání filtru plateb...</string>
+    <string name="progress_loading">Zpracovávání, čekejte prosím\u2026</string>
+    <string name="progress_prepaid_creating">Vytváření objednávky navýšení kreditu\u2026</string>
+    <string name="progress_querying">Zpracovávání filtru plateb\u2026</string>
     <string name="progress_submit_hint">Trvá asi 3 minuty</string>
 	<string name="progress_submit_hint_init">Navýšení bude vykonané do 3 min, aktualizuje se za %1$s s</string>
     <string name="progress_submit_hint_query">Navýšení bude vykonané do 3 min, můžete aktualizovat za %1$s s</string>
@@ -178,9 +179,7 @@
     <string name="progress_submit_title">Navýšení odesláno</string>
     <string name="progress_success_summary">Stav účtu: %1$s Mi kreditů</string>
     <string name="progress_success_title">Navýšení %1$s Mi kreditů úspěšné</string>
-    <string name="progress_warning_contact_server">"Zpráva nebyla doručena:
-	1. Kontaktujte zákaznicku podporu na: %1$s
-	2. Vaše sériové číslo: %2$s"</string>
+    <string name="progress_warning_contact_server">"Zpráva nebyla doručena:\n	1. Kontaktujte zákaznicku podporu na: %1$s\n	2. Vaše sériové číslo: %2$s"</string>
 	<string name="quick_login_title">Je vyžadováno ověření, prosím, vložte vaše heslo</string>
     <string name="reg_by_email_failure">Registrace se nezdařila: %1$s</string>
     <string name="reg_failed">Registrace se nezdařila</string>
@@ -195,6 +194,7 @@
     <string name="recharge_record">Historie navýšení</string>
     <string name="recharge_record_empty">Žádné navýšení</string>
     <string name="remove_account_notice">Co si přejete udělat s dříve synchronizovanými zprávami, kontakty, protokoly volání, a poznámkami ve vašem zařízení?</string>
+	<string name="removing_account">Odstraňuji účet\u2026</string>
     <string name="send_sms_for_sync_notice">Je zapotřebí zaslat aktivační sms, pokračovat?</string>
     <string name="send_sms_for_sync_title">Služba synchronizace není aktivní</string>
     <string name="sim_changed_notification_content">SIM nebyla aktivována, aktivujte ji prosím znovu</string>

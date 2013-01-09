@@ -11,7 +11,7 @@
     <string name="auto_backup_choose_title">Automatická záloha</string>
     <string name="auto_backup_only_wifi">Použít pouze WIFI</string>
     <string name="auto_backup_open">Povolit automatické zálohování</string>
-    <string name="auto_backup_progress">Probíhá automatická záloha, počkejte prosím...</string>
+    <string name="auto_backup_progress">Probíhá automatická záloha, počkejte prosím\u2026</string>
     <string name="auto_backup_setting">Nastavení auto-zálohování</string>
     <string name="auto_backup_time">Plán zálohování</string>
     <string name="backup">Záloha</string>
@@ -25,7 +25,7 @@
     <string name="backup_items_app_tailer">x: data aplikací</string>
     <string name="backup_items_sysdata_tailer">x: systémová data\u0020</string>
     <string name="backup_new">Nový</string>
-    <string name="backup_progress">Zálohuji..</string>
+    <string name="backup_progress">Zálohuji\u2026</string>
     <string name="backup_recently">" (Poslední)"</string>
     <string name="backup_report">Hlášení zálohování</string>
     <string name="backup_update">Aktualizace</string>
@@ -51,7 +51,7 @@
     <string name="cloud_restore_guide">"Klepněte na Start pro obnovu zálohovaných dat\n Můžete také obnovit %s v záloze"</string>
     <string name="cloud_restore_title">Obnovit zálohovaná data</string>
     <string name="cloud_restore_window_title">Online obnova dat</string>
-    <string name="cloud_search">Hledání..</string>
+    <string name="cloud_search">Hledání\u2026</string>
     <string name="compute_backup_info">Info o zálohování</string>
     <string name="compute_delete_contact_info">Smazat informace o kontaktech</string>
     <string name="contact_title">Kontakty</string>
@@ -98,11 +98,11 @@
     <string name="no_network">Připojení k síti není k dispozici\nOvěřte prosím připojení a zkuste to znovu</string>
     <string name="note_title">Poznámky</string>
     <string name="nothing_searched">Výsledek hledání: nic nenalezeno</string>
-    <string name="progress_backup_hint">Zálohování dat..</string>
-    <string name="progress_restore_hint">Obnovování dat..</string>
-    <string name="prompt_reading">Čtení..</string>
-    <string name="prompt_sending">Odesílání..</string>
-    <string name="prompt_writing">Zálohování..</string>
+    <string name="progress_backup_hint">Zálohování dat\u2026</string>
+    <string name="progress_restore_hint">Obnovování dat\u2026</string>
+    <string name="prompt_reading">Čtení\u2026</string>
+    <string name="prompt_sending">Odesílání\u2026</string>
+    <string name="prompt_writing">Zálohování\u2026</string>
     <string name="read_encrypt_fail">Šifrování se nezdařilo</string>
     <string name="refresh">Obnovit</string>
     <string name="restore">Obnovení</string>
@@ -136,7 +136,7 @@
     <string name="start_backup">Spustit zálohu</string>
     <string name="start_restore">Obnovit</string>
     <string name="succeed">Dokončeno</string>
-    <string name="task_backup_cancel_progress">Probíhá rušení...</string>
+    <string name="task_backup_cancel_progress">Probíhá rušení\u2026</string>
     <string name="task_backup_finished_local">Zálohování dokončeno</string>
     <string name="task_canceled">Stornováno</string>
     <string name="task_canceled_all_local">Zrušit všechny úlohy</string>
@@ -152,7 +152,7 @@
     <string name="task_pre_running">Příprava</string>
     <string name="task_progress">Průběh</string>
     <string name="task_restore_cancel_dialog">"Obnovení ještě nebylo dokončeno\n přerušení může vést k poškození dat"</string>
-    <string name="task_restore_cancel_progress">Zastavuji..</string>
+    <string name="task_restore_cancel_progress">Zastavuji\u2026</string>
     <string name="task_restore_finished_local">Obnovení dokončeno</string>
     <string name="task_restore_none">Obnovení není třeba</string>
     <string name="task_running_dialog">Zálohování a obnova dat na pozadí probíhá, pro zobrazení stiskněte ANO!</string>

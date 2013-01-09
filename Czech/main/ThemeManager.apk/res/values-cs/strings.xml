@@ -45,7 +45,7 @@
 	<string name="resource_comment_no_comment">Bez komentáře</string>
 	<string name="resource_comment_publish">Odeslat</string>
 	<string name="resource_comment_rate">Hodnocení:</string>
-	<string name="resource_comment_sending">Odesílání komentáře...</string>
+	<string name="resource_comment_sending">Odesílání komentáře\u2026</string>
 	<string name="resource_comment_title">Komentáře: %1$s</string>
 	<string name="resource_comment_upload_data_invalid">Promiňte, odeslání komentáře selhalo</string>
 	<string name="resource_comment_upload_failed">Uložení komentáře selhalo</string>
@@ -58,7 +58,7 @@
     <string name="short_ringtone_resource">Krátké (&lt;5sec)</string>
     <string name="theme_activity_label">Správce témat</string>
 	<string name="theme_activity_lable">Správce témat</string>
-	<string name="theme_another_import_running">Právě probíhá importování tématu, prosím čekejte...</string>
+	<string name="theme_another_import_running">Právě probíhá importování tématu, prosím čekejte\u2026</string>
 	<string name="theme_component_title_alarm">Budík</string>
     <string name="theme_component_title_all">Téma</string>
     <string name="theme_component_title_audio_effect">Zvukové efekty</string>
@@ -89,14 +89,14 @@
     <string name="theme_import_data">Importování téma</string>
 	<string name="theme_import_fail">Importování %1$s selhalo</string>
 	<string name="theme_import_success">Import dokončen</string>
-    <string name="theme_importing">Nahrávání tématu...</string>
+    <string name="theme_importing">Nahrávání tématu\u2026</string>
     <string name="theme_import_activity_label">Aktualizovat téma</string>
 	<string name="theme_import_from_sdcard">Nahrát z SD karty</string>
 	<string name="theme_import_importing">Aktualizace.. Zbývá %1$d</string>
 	<string name="theme_import_item_delete_request_button">Vymazat</string>
 	<string name="theme_import_item_delete_request_content">Téma nebylo aktualizováno, můžete ho použít až po jeho aktualizaci nebo ho vymazat.</string>
 	<string name="theme_import_item_delete_request_title">Téma nebylo aktualizováno</string>
-	<string name="theme_import_item_importing">Aktualizace...</string>
+	<string name="theme_import_item_importing">Aktualizace\u2026</string>
 	<string name="theme_import_item_not_upgraded">Neaktualizované</string>
 	<string name="theme_import_item_reject_use">Téma se aktualizuje, čekejte prosím.</string>
 	<string name="theme_import_item_waiting">Čekání</string>
@@ -106,7 +106,7 @@
 	<string name="theme_import_oper_stop">Zastavit</string>
 	<string name="theme_import_oper_stop_request_content">Téma musí být aktualizováno, aby mohlo pracovat správně. Chcete zrušit jeho aktualizaci?</string>
 	<string name="theme_import_preparing">Kontrola místních témat</string>
-	<string name="theme_import_stoping">Zastavování...</string>
+	<string name="theme_import_stoping">Zastavování\u2026</string>
 	<string name="theme_is_imported">Téma je importované</string>
 	<string name="theme_pick_import_fail">Nahrávání téma selhalo</string>
 	<string name="theme_sdcard_importing">Nahrávání z SD karty</string>
@@ -125,7 +125,7 @@
     <string name="title_system_resource">Systémové položky</string>
     <string name="wallpaper_crop">Oříznout</string>
     <string name="wallpaper_decoded_error">Nepodařilo se dekódovat</string>
-    <string name="wallpaper_loading_text">Nahrávám ...</string>
+    <string name="wallpaper_loading_text">Nahrávám \u2026</string>
     <string name="wallpaper_set_as_both">Nastavit jako zámek i tapetu</string>
     <string name="wallpaper_set_as_destop">Nastavit jako tapetu</string>
     <string name="wallpaper_set_as_lockscreen">Nastavit jako zámek</string>

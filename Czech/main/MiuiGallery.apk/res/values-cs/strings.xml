@@ -10,7 +10,7 @@
     <string name="alert_message_sync_histoy_power_on">Ve výchozím nastavení se historie obrázků synchronizuje pouze při nabíjení baterie. Toto nastavení lze změnit v menu Nastavení.</string>
     <string name="all_album">Všechny</string>
     <string name="all_albums_desc">Alba</string>
-    <string name="all_albums_loading">Nahrávání...</string>
+    <string name="all_albums_loading">Nahrávání\u2026</string>
     <string name="all_media">Všechny fotky</string>
     <string name="all_recent">Oblíbené</string>
     <string name="all_recent_albums_desc">Oblíbené alba</string>
@@ -25,7 +25,7 @@
     <string name="auto_create_recent_album_over_ten_times">Automaticky označí album jako oblíbené, pokud je často prohlížené.</string>
     <string name="autofix">Automat. oprava</string>
     <string name="bigscrren_slide_exit">Ukončit prezentaci v  TV</string>
-    <string name="caching_label">Ukládání do mezipaměti...</string>
+    <string name="caching_label">Ukládání do mezipaměti\u2026</string>
     <string name="camera_connected">Fotoaparát byl připojen.</string>
     <string name="camera_disconnected">Fotoaparát byl odpojen.</string>
     <string name="camera_folder_display_name">Fotky z fotoaparátu</string>
@@ -33,7 +33,7 @@
     <string name="camera_view_none_message">Zde budou zobrazené Vaše fotografie.</string>
     <string name="cancel">Zrušit</string>
     <string name="cancel_bookmark">Odebrat z oblíbených</string>
-    <string name="cleaning_cache">Mazání mezipaměti...</string>
+    <string name="cleaning_cache">Mazání mezipaměti\u2026</string>
     <string name="clear_thumbnail_cache">Mazání náhledů</string>
     <string name="clear_thumbnail_cache_confirm">Náhledy byly smazány. Galerie přeskenuje veškerá média a vytvoří náhledy znovu.</string>
     <string name="clear_thumbnail_cache_summary">Prohlížení galerie vytvoří náhledy. Vymazání mezipaměti uvolní místo na úložišti.</string>
@@ -70,7 +70,7 @@
     <string name="damaged_file">Soubor je poškozen</string>
     <string name="defalt_local_mobile">mobilní</string>
     <string name="delete">Smazat</string>
-    <string name="deleting_files">Mazání souborů...</string>
+    <string name="deleting_files">Mazání souborů\u2026</string>
     <string name="description">Popis</string>
     <string name="deselect_all">Odznačit vše</string>
     <string name="details">Podrobnosti</string>
@@ -146,13 +146,13 @@
     <string name="internal_miui_capture_screen_folder_display_name">Screenshoty na interním úložišti</string>
     <string name="internal_sd_card">Interní SD karta</string>
     <string name="iso">ISO</string>
-    <string name="loading">Načítání...</string>
+    <string name="loading">Načítání\u2026</string>
     <string name="loading_account">Načítání účtu…</string>
     <string name="loading_failure">Fotku nelze nahrát.</string>
-    <string name="loading_files">Načítám...</string>
+    <string name="loading_files">Načítám\u2026</string>
     <string name="loading_image">Načítání obrázku…</string>
-    <string name="loading_thumbnail">Stahování náhledů...</string>
-    <string name="loading_video">Načítání videa...</string>
+    <string name="loading_thumbnail">Stahování náhledů\u2026</string>
+    <string name="loading_video">Načítání videa\u2026</string>
     <string name="loading_will_cost">Stahování fotografií vyžaduje přenos dat (%1$dK)</string>
     <string name="location">Lokalita</string>
     <string name="locations">Lokality</string>
@@ -237,7 +237,7 @@
     <string name="rotate_left">Otočit doleva</string>
     <string name="rotate_right">Otočit doprava</string>
     <string name="rotate_tooltip">Táhnutím prstem fotografii otočíte</string>
-    <string name="running_face_detection">Zadávám identifikaci obličeje,prosím čekejte...</string>
+    <string name="running_face_detection">Zadávám identifikaci obličeje,prosím čekejte\u2026</string>
     <string name="saturation">Sytost</string>
     <string name="save">Uložit</string>
     <string name="save_error">Oříznutý obrázek nelze uložit.</string>
@@ -246,7 +246,7 @@
     <string name="save_pic_to_success">"Obrázek uložen do %s"</string>
     <string name="save_to_sdcard">Uloženo na SD kartu</string>
     <string name="saving_failure">Fotku nelze uložit.</string>
-    <string name="saving_image">Ukládání fotografie...</string>
+    <string name="saving_image">Ukládání fotografie\u2026</string>
     <string name="screen_saver_wallpaper">Tapeta zámku</string>
     <string name="sd_explorer">Procházet úložiště</string>
     <string name="sd_not_available">SD karta odpojena, nebo nedostupná</string>

@@ -274,7 +274,7 @@
     <string name="silent_mode_silent">Vyzvánění vypnuto</string>
     <string name="silent_mode_vibrate">Vibrační vyzvánění</string>
     <string name="silent_mode_ring">Vyzvánění zapnuto</string>
-    <string name="shutdown_progress">Vypínání...</string>
+    <string name="shutdown_progress">Vypínání\u2026</string>
     <string name="shutdown_confirm">Váš telefon bude vypnut.</string>
     <string name="shutdown_confirm_question">Chcete zařízení vypnout?</string>
     <string name="reboot_safemode_title">Restart v nouzovém režimu</string>
@@ -762,7 +762,7 @@
     <string name="lockscreen_sim_puk_locked_message">SIM karta je zablokována pomocí kódu PUK.</string>
     <string name="lockscreen_sim_puk_locked_instructions">Další informace naleznete v uživatelské příručce; nebo kontaktujte zákaznickou podporu.</string>
     <string name="lockscreen_sim_locked_message">SIM karta je zablokována.</string>
-    <string name="lockscreen_sim_unlock_progress_dialog_message">Odblokování SIM karty...</string>
+    <string name="lockscreen_sim_unlock_progress_dialog_message">Odblokování SIM karty\u2026</string>
     <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Již %dkrát jste použili nesprávné bezpečnostní gesto. 
 
 Zkuste to znovu za %d s."</string>
@@ -788,7 +788,7 @@ Zkuste to znovu za %d s."</string>
     <string name="lockscreen_glogin_invalid_input">Neplatné uživatelské jméno nebo heslo.</string>
     <string name="lockscreen_glogin_account_recovery_hint">"Zapomněli jste uživatelské jméno nebo heslo?
 Přejděte na stránku "<b>google.com/accounts/recovery</b>.</string>
-    <string name="lockscreen_glogin_checking_password">Kontrola...</string>
+    <string name="lockscreen_glogin_checking_password">Kontrola\u2026</string>
     <string name="lockscreen_unlock_label">Odemknout</string>
     <string name="lockscreen_sound_on_label">Zapnout zvuk</string>
     <string name="lockscreen_sound_off_label">Vypnout zvuk</string>
@@ -909,7 +909,7 @@ Chcete-li pokračovat, dotkněte se možnosti OK. Chcete-li zůstat na aktuáln�
     <string name="editTextMenuTitle">Operace s textem</string>
     <string name="low_internal_storage_view_title">V úložišti je málo místa</string>
     <string name="low_internal_storage_view_text">Některé systémové funkce nemusí fungovat</string>
-    <string name="loading">Načítání...</string>
+    <string name="loading">Načítání\u2026</string>
     <string name="capital_on">ZAP</string>
     <string name="capital_off">VYP</string>
     <string name="whichApplication">Dokončit akci pomocí aplikace</string>
@@ -946,7 +946,7 @@ Chcete ji zavřít?"</string>
     <string name="screen_compat_mode_hint">Tento režim znovu povolíte v sekci Nastavení systému > Aplikace > Stažené.</string>
     <string name="smv_application">Aplikace %1$s (proces %2$s) porušila své vlastní vynucené zásady StrictMode.</string>
     <string name="smv_process">Proces %1$s porušil své vlastní vynucené zásady StrictMode.</string>
-    <string name="android_upgrading_title">Android se upgraduje...</string>
+    <string name="android_upgrading_title">Android se upgraduje\u2026</string>
     <string name="android_upgrading_apk">Optimalizace aplikace %1$d z %2$d.</string>
     <string name="android_upgrading_starting_apps">Spouštění aplikací.</string>
     <string name="android_upgrading_complete">Probíhá dokončování spouštění.</string>
@@ -1118,8 +1118,8 @@ pro účet %s."</string>
     <string name="no_matches">Žádné shody</string>
     <string name="find_on_page">Hledat na stránce</string>
     <string name="action_mode_done">Hotovo</string>
-    <string name="progress_unmounting">Odpojování úložiště USB...</string>
-    <string name="progress_erasing">Mazání úložiště USB...</string>
+    <string name="progress_unmounting">Odpojování úložiště USB\u2026</string>
+    <string name="progress_erasing">Mazání úložiště USB\u2026</string>
     <string name="format_error">Úložiště USB nelze smazat.</string>
     <string name="media_bad_removal">Karta SD nebyla před odebráním odpojena.</string>
     <string name="media_checking">Probíhá kontrola úložiště USB.</string>
@@ -1221,7 +1221,7 @@ pro účet %s."</string>
     <string name="share_action_provider_share_with">Sdílet s</string>
     <string name="status_bar_device_locked">Zařízení je uzamčeno.</string>
     <string name="list_delimeter">", "</string>
-    <string name="sending">Odesílání...</string>
+    <string name="sending">Odesílání\u2026</string>
     <string name="launchBrowserDefault">Spustit prohlížeč?</string>
     <string name="SetupCallDefault">Přijmout hovor?</string>
     <string name="activity_resolver_use_always">Vždy</string>

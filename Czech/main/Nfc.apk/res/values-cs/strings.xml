@@ -6,7 +6,7 @@
     <string name="beam_complete">Přenos byl dokončen</string>
     <string name="beam_failed">Přenos nebyl dokončen</string>
     <string name="beam_handover_not_supported">Zařízení příjemce nepodporuje přenos velkých souborů přes funkci Beam.</string>
-    <string name="beam_progress">Příchozí přenos...</string>
+    <string name="beam_progress">Příchozí přenos\u2026</string>
     <string name="beam_touch_to_view">Zobrazte dotykem</string>
     <string name="cancel">Zrušit</string>
     <string name="confirm_pairing">Opravdu chcete spárovat zařízení Bluetooth %1$s?</string>

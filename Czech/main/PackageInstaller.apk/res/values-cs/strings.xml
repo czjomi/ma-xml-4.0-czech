@@ -23,7 +23,7 @@
     <string name="install_failed_older_sdk">Balíček funguje pouze v novějších verzích systému Android.</string>
     <string name="install_failed_verify_failed">Balíček neprošel ověřením a nemůže být nainstalován.</string>
     <string name="install_failed_verify_timeout">Při ověřování tohoto balíčku vypršel časový limit. Zkuste jej nainstalovat znovu později.</string>
-    <string name="installing">Probíhá instalace...</string>
+    <string name="installing">Probíhá instalace\u2026</string>
     <string name="launch">Otevřít</string>
     <string name="lift_ban">Zrušit zákaz</string>
     <string name="manage_applications">Správa aplikací</string>
@@ -44,7 +44,7 @@
     <string name="uninstall_failed_msg">Aplikaci %1$s nelze odinstalovat.</string>
     <string name="uninstall_update_text">Aplikace bude nahrazena výchozí verzí z výroby.</string>
     <string name="uninstall_update_title">Odinstalovat aktualizaci</string>
-    <string name="uninstalling">Probíhá odinstalace...</string>
+    <string name="uninstalling">Probíhá odinstalace\u2026</string>
     <string name="unknown">Neznámé</string>
     <string name="unknown_apps_dlg_text">Váš telefon je z důvodu zabezpečení nastaven tak, aby blokoval instalaci aplikací, které nepocházejí ze služby Google Play.</string>
     <string name="unknown_apps_dlg_title">Instalace byla zablokována</string>

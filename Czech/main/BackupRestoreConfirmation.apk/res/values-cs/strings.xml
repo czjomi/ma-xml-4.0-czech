@@ -15,8 +15,8 @@
     <string name="restore_confirm_title">Úplné obnovení</string>
     <string name="restore_enc_password_text">Pokud jsou obnovená data šifrována, zadejte prosím heslo níže:</string>
     <string name="toast_backup_ended">Zálohování bylo dokončeno</string>
-    <string name="toast_backup_started">Spouští se zálohování...</string>
+    <string name="toast_backup_started">Spouští se zálohování\u2026</string>
     <string name="toast_restore_ended">Obnovení skončilo</string>
-    <string name="toast_restore_started">Spouští se obnovení...</string>
+    <string name="toast_restore_started">Spouští se obnovení\u2026</string>
     <string name="toast_timeout">Časový limit operace vypršel</string>
 </resources>

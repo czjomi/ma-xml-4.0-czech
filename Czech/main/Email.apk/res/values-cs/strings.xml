@@ -102,9 +102,9 @@
     <string name="account_setup_failed_security">Nelze navázat připojení k serveru z důvodu chyby zabezpečení.</string>
     <string name="account_setup_failed_security_policies_unsupported">Server vyžaduje funkce zabezpečení, které toto zařízení Android nepodporuje, například: %s</string>
     <string name="account_setup_failed_tls_required">Služba TLS je požadována, ale není podporována na serveru.</string>
-    <string name="account_setup_check_settings_check_incoming_msg">Kontrola nastavení serveru příchozí pošty...</string>
-    <string name="account_setup_check_settings_check_outgoing_msg">Kontrola nastavení serveru odchozí pošty...</string>
-    <string name="account_setup_check_settings_retr_info_msg">Načítání informací o účtu...</string>
+    <string name="account_setup_check_settings_check_incoming_msg">Kontrola nastavení serveru příchozí pošty\u2026</string>
+    <string name="account_setup_check_settings_check_outgoing_msg">Kontrola nastavení serveru odchozí pošty\u2026</string>
+    <string name="account_setup_check_settings_retr_info_msg">Načítání informací o účtu\u2026</string>
     <string name="account_setup_incoming_delete_policy_delete_label">Při smazání z Doručené pošty</string>
     <string name="account_setup_incoming_delete_policy_label">Mazat e-maily ze serveru</string>
     <string name="account_setup_incoming_delete_policy_never_label">Nikdy</string>
@@ -205,14 +205,14 @@
     <string name="contextmenu_add_contact">Přidat kontakt</string>
     <string name="contextmenu_copy">Kopírovat</string>
     <string name="contextmenu_copylink">Kopírovat adresu URL odkazu</string>
-    <string name="contextmenu_dial_dot">Vytočit...</string>
+    <string name="contextmenu_dial_dot">Vytočit\u2026</string>
     <string name="contextmenu_feedback">Odeslat názor</string>
     <string name="contextmenu_help">Nápověda</string>
     <string name="contextmenu_map">Mapa</string>
     <string name="contextmenu_openlink">Otevřít v prohlížeči</string>
     <string name="contextmenu_send_mail">Odeslat e-mail</string>
     <string name="contextmenu_sharelink">Sdílet odkaz</string>
-    <string name="contextmenu_sms_dot">SMS...</string>
+    <string name="contextmenu_sms_dot">SMS\u2026</string>
     <string name="copy_email">Kopírovat e-mailovou adresu</string>
     <string name="copy_number">Kopírovat číslo telefonu</string>
     <string name="create_action">Vytvořit novou</string>
@@ -235,8 +235,8 @@
     <string name="dialog_sync_all_canceled">Synchronizace všeho zrušena</string>
     <string name="dialog_sync_all_error_title">Synchronizovat vše</string>
     <string name="dialog_sync_all_found_none">Není potřeba nahrávat žádné další fotografie nebo videa.</string>
-    <string name="dialog_sync_all_preparing" formatted="false">Příprava %1$d fotografií a %2$d videí k nahrání...</string>
-    <string name="dialog_sync_all_scanning">Vyhledávání souborů...</string>
+    <string name="dialog_sync_all_preparing" formatted="false">Příprava %1$d fotografií a %2$d videí k nahrání\u2026</string>
+    <string name="dialog_sync_all_scanning">Vyhledávání souborů\u2026</string>
     <string name="dialog_sync_all_server_error">Při komunikaci se serverem došlo k potížím. Zkuste to prosím znovu později.</string>
     <string name="disable_admin_warning">UPOZORNĚNÍ: Deaktivujete-li oprávnění aplikace E-mail spravovat toto zařízení, budou smazány všechny účty aplikace E-mail, které toto oprávnění vyžadují. Společně s těmito účty budou smazány i všechny jejich e-maily, kontakty, události v kalendářích a další údaje.</string>
     <string name="discard_action">Zrušit</string>
@@ -383,7 +383,7 @@
     <string name="message_view_message_details_dialog_title">Podrobnosti zprávy</string>
     <string name="message_view_move_to_newer">Novější</string>
     <string name="message_view_move_to_older">Starší</string>
-    <string name="message_view_parse_message_toast">Otevírání zprávy...</string>
+    <string name="message_view_parse_message_toast">Otevírání zprávy\u2026</string>
     <string name="message_view_show_details">Zobrazit podrobnosti</string>
     <string name="message_view_show_invite_action">Pozvánka</string>
     <string name="message_view_show_message_action">Zpráva</string>
@@ -392,7 +392,7 @@
     <string name="message_view_status_attachment_saved">Příloha uložena jako %s.</string>
     <string name="message_view_subject_label">Předmět:</string>
     <string name="message_view_to_label">Komu:</string>
-    <string name="more_string">Ještě %1$s...</string>
+    <string name="more_string">Ještě %1$s\u2026</string>
     <string name="more_than_999">999+</string>
     <string name="move_action">Přesunout</string>
     <string name="move_to_folder_dialog_title">Přesunout do</string>
@@ -506,7 +506,7 @@
     <string name="settings_activity_title">Nastavení</string>
     <string name="show_quick_text_list_dialog_action">Vložit rychlou odpověď</string>
     <string name="single_new_message_notification_big_text">"%1$s%2$s"</string>   
-    <string name="status_loading_messages">Načítání zpráv...</string>
+    <string name="status_loading_messages">Načítání zpráv\u2026</string>
     <string name="status_network_error">Problém s připojením.</string>
     <string name="subject_hint">Předmět</string>
     <string name="summary_menu_show_finished">Zobrazit dokončená nahrávání</string>
@@ -546,7 +546,7 @@
     <string name="waitinf_for_sync_message_1">Čekání na synchronizaci</string>
     <string name="waitinf_for_sync_message_2">Vaše e-maily se brzy zobrazí.</string>
     <string name="widget_all_mail">Všechny Doručené p.</string>
-    <string name="widget_loading">Načítání...</string>
+    <string name="widget_loading">Načítání\u2026</string>
     <string name="widget_no_accounts">Zatím jste nenastavili e-mailový účet.</string>
     <string name="widget_no_mailboxes">"Tento účet není synchronizovaný. Zkuste to znovu později."</string>
     <string name="widget_other_views">Změníte klepnutím na ikonu.</string>

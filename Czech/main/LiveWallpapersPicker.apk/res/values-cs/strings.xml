@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="application_name">Live Wallpaper Picker</string>
-    <string name="configure_wallpaper">Nastavení…</string>
+    <string name="configure_wallpaper">Nastavení\u2026</string>
     <string name="live_wallpaper_empty">Žádné živé tapety.</string>
     <string name="live_wallpaper_loading">Nahrávám živé tapety...</string>
     <string name="live_wallpaper_picker_title">Vybrat živou tapetu</string>

@@ -92,7 +92,7 @@
     <string name="hint_where">Místo</string>
     <string name="jump_date">Skoč</string>
     <string name="jump_date_full">Skoč na datum</string>
-    <string name="loading">Načítání...</string>
+    <string name="loading">Načítání\u2026</string>
     <string name="local_calendar_display_name">Místní kalendář</string>
     <string name="local_owner_account_name">Místní účet</string>
     <string name="menu_about_preferences">O Kalendáři</string>
@@ -106,7 +106,7 @@
     <string name="monthly">Měsíčně</string>
     <string name="monthly_on_day">Měsíčně (%s. den)</string>
     <string name="monthly_on_day_count" formatted="false">Měsíčně (vždy %1$s %2$s)</string>
-    <string name="more_string">Ještě %1$s...</string>
+    <string name="more_string">Ještě %1$s\u2026</string>
     <string name="new_event_dialog_label">Nová událost</string>
     <string name="new_event_dialog_option">Nová událost</string>
     <string name="no_calendars_found">Před přidáním události je nutné přidat do zařízení alespoň jeden účet s kalendářem a zobrazit ho. Chcete-li přidat účet, klepněte na tlačítko Přidat účet (pokud jste účet právě přidali, počkejte na dokončení synchronizace a zkuste to znovu). Případně se dotkněte tlačítka Zrušit a zkontrolujte, zda je zobrazen alespoň jeden kalendář.</string>
@@ -142,7 +142,7 @@
     <string name="preferences_week_start_day_title">Začátek týdne</string>
     <string name="presence_label">Zobrazit mě jako</string>
     <string name="privacy_label">Soukromá/Veřejná</string>
-    <string name="quick_response_custom_msg">Vlastní odpověď...</string>
+    <string name="quick_response_custom_msg">Vlastní odpověď\u2026</string>
     <string name="quick_response_dialog_title">Vyber vlastní odpověď</string>
     <string name="quick_response_email_failed">Není možné najít aplikaci Email</string>
     <string name="quick_response_settings">Rychlá odpověď</string>

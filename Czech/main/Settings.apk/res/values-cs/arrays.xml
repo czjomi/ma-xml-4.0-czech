@@ -66,13 +66,13 @@
     </string-array>
     <string-array name="wifi_status">
         <item></item>
-        <item>Vyhledávání...</item>
-        <item>Připojování...</item>
-        <item>Ověřování...</item>
+        <item>Vyhledávání\u2026</item>
+        <item>Připojování\u2026</item>
+        <item>Ověřování\u2026</item>
         <item>Načítání adresy IP…</item>
         <item>Připojeno</item>
         <item>Pozastaveno</item>
-        <item>Odpojování...</item>
+        <item>Odpojování\u2026</item>
         <item>Odpojeno</item>
         <item>Neúspěšné</item>
 	<item>Blokované</item>
@@ -80,13 +80,13 @@
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Vyhledávání...</item>
-        <item>Připojování k síti %1$s...</item>
-        <item>Ověřování v síti %1$s...</item>
-        <item>Získávání adresy IP ze sítě %1$s...</item>
+        <item>Vyhledávání\u2026</item>
+        <item>Připojování k síti %1$s\u2026</item>
+        <item>Ověřování v síti %1$s\u2026</item>
+        <item>Získávání adresy IP ze sítě %1$s\u2026</item>
         <item>Připojeno k síti %1$s</item>
         <item>Pozastaveno</item>
-        <item>Odpojování od sítě %1$s...</item>
+        <item>Odpojování od sítě %1$s\u2026</item>
         <item>Odpojeno</item>
         <item>Neúspěšné</item>
 	<item>Blokované</item>

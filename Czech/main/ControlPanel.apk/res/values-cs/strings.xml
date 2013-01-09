@@ -9,9 +9,7 @@
     <string name="progress_cpu_working">Načítání hodnot CPU</string>
     <string name="progress_storage_working">Načítání hodnot úložiště</string>
     <string name="progress_info_working">Načítání informací ROM</string>
-    <string name="no_root">"Panel nastavení nezískal práva ROOT.
-Některé funkce nebudou fungovat správně, nebo nebudou fungovat vůbec.
-Prosím ověřte jestli má Vaše ROM povolen ROOT a následně zkuste znovu."</string>
+    <string name="no_root">"Panel nastavení nezískal práva ROOT.\nNěkteré funkce nebudou fungovat správně, nebo nebudou fungovat vůbec.\nProsím ověřte jestli má Vaše ROM povolen ROOT a následně zkuste znovu."</string>
     <string name="no_root_accept">Zrušit</string>
     <string name="unavailable_toast">Aplikace není nainstalována</string>
     <string name="reboot_now_toast">Restartujte pro provedení změn</string>
@@ -89,7 +87,7 @@ Současné nastavení: "</string>
     <string name="storage_external">Externí úložiště</string>
     <string name="storage_set_on_boot">Nastavit při zapnutí</string>
     <string name="storage_set_on_boot_summary">Použij scheduler a read-ahead nastavení automaticky po restartu</string>
-    <string name="applying_pref">Aplikuji nastavení...</string>
+    <string name="applying_pref">Aplikuji nastavení\u2026</string>
     <string name="dual_mount">Dual Mount SD Card</string>
     <string name="dual_mount_warning_summary">Používejte opatrně!</string>
     <string name="sdbuffer">SD Card Buffer</string>

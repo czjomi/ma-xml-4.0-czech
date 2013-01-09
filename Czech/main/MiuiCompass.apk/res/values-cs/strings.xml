@@ -10,7 +10,7 @@
 	<string name="dialog_content">Kalibrace kompasu není dokončena a nemusí pracovat správně. Jste si jisti, že ji chcete ukončit?</string>
 	<string name="dialog_title">Ukončit kalibraci</string>
 	<string name="dialog_title_no_network">Síť nenalezena, připojte se na Wi-Fi a nebo povolte Data</string>
-	<string name="getting_location">Zjišťování polohy...</string>
+	<string name="getting_location">Zjišťování polohy\u2026</string>
     <string name="latitude">LAT</string>
 	<string name="location_east">%s V</string>
     <string name="location_north">%s S</string>

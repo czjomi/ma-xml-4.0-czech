@@ -123,7 +123,7 @@
     <string name="lrc_progress_modify">Nastavit rychlost textu písně</string>	
     <string name="lrc_progress_modify_helper">Nastavte rychlost textu písně posunutím nahoru, nebo dolů</string>
     <string name="lrc_search_failed">Texty nenalezeny!</string>
-    <string name="lrc_searching">Hledání textů...</string>
+    <string name="lrc_searching">Hledání textů\u2026</string>
     <string name="lrc_select">Vyberte text</string>
     <string name="lyric_and_album">Texty a Alba</string>
     <string name="lyric_display_settings">Zobrazovat texty</string>
@@ -185,9 +185,9 @@
     <string name="recentlyplayed_title">Naposledy přehrávané</string>
     <string name="recommend">Doporučit</string>
     <string name="refresh_finish">Aktualizace dokončena</string>
-    <string name="refresh_in_processing">Aktualizuji...</string>
+    <string name="refresh_in_processing">Aktualizuji\u2026</string>
     <string name="refresh_media_db">Aktualizovat</string>
-    <string name="refresh_start">Aktualizace zahájena, prosím čekejte...</string>
+    <string name="refresh_start">Aktualizace zahájena, prosím čekejte\u2026</string>
     <string name="remove_from_favorite">Odebrat z oblíbených</string>
     <string name="remove_item">Odebrat</string>
     <string name="rename_album_menu">Přejmenovat album</string>

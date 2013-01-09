@@ -99,7 +99,7 @@
     <string name="contextmenu_add_contact">Přidat kontakt</string>
     <string name="contextmenu_copy">Kopírovat</string>
     <string name="contextmenu_copylink">Kopírovat odkaz</string>
-    <string name="contextmenu_dial_dot">Vytočit...</string>
+    <string name="contextmenu_dial_dot">Vytočit\u2026</string>
     <string name="contextmenu_download_image">Uložit obrázek</string>
     <string name="contextmenu_download_image_as">Uložit obrázek jako</string>
     <string name="contextmenu_map">Mapa</string>
@@ -184,7 +184,7 @@
     <string name="import_bookmarks_wizard_done">Hotovo</string>
     <string name="import_bookmarks_wizard_next">Další</string>
     <string name="import_bookmarks_wizard_previous">Předchozí</string>
-    <string name="importing_favorite_files">Importuji data...</string>
+    <string name="importing_favorite_files">Importuji data\u2026</string>
     <string name="instant_search_label">Google with Instant (Labs)</string>
     <string name="is_first_history_item">První záznam v hidtorii</string>
     <string name="is_first_tab">První záložka</string>
@@ -377,7 +377,7 @@
     <string name="report_reading_mode_issue">Oznámit problémy s čtecím módem MIUI</string>	
     <string name="save">OK</string>
     <string name="save_to_bookmarks">Uložit do záložek</string>
-    <string name="saving_snapshot">Ukládání...</string>
+    <string name="saving_snapshot">Ukládání\u2026</string>
     <string name="search_baidu">Baidu</string>
     <string name="search_bing">Bing</string>
     <string name="search_button_text">Jít</string>
@@ -409,7 +409,7 @@
     <string name="ssl_untrusted">"Certifikát nepochází z důvěryhodného zdroje."</string>
     <string name="ssl_warnings_header">Tato stránka má problém s bezpečnostním certifikátem!</string>
     <string name="stop">Zastavit</string>
-    <string name="stopping">Zastavuji...</string>
+    <string name="stopping">Zastavuji\u2026</string>
     <string name="tab_bookmarks">Záložky</string>
     <string name="tab_closed">Záložka zavřena.</string>
     <string name="tab_history">Historie</string>
@@ -418,7 +418,7 @@
     <string name="tab_quicklinks">Rychlé odkazy</string>
     <string name="tab_snapshots">Uložené stránky</string>
     <string name="tab_yellowpage">Zlaté stránky</string>
-    <string name="title_bar_loading">Nahrávám...</string>
+    <string name="title_bar_loading">Nahrávám\u2026</string>
     <string name="too_many_subwindows_dialog_message">Může být otevřené jen jedno vyskakovací okno.</string>
     <string name="too_many_subwindows_dialog_title">Vyskakovací okno je již otevřeno</string>
     <string name="too_many_windows_dialog_message">Nemohu otevřít nový panel dokud nebude nějaký zavřen.</string>

@@ -2,7 +2,7 @@
 <resources>
     <string name="activity_not_found">Aplikace není v telefonu nainstalována.</string>
     <string name="application_name">MIUI Launcher</string>
-    <string name="buffering">Načítání...</string>
+    <string name="buffering">Načítání\u2026</string>
     <string name="cancel_action">Zrušit</string>
     <string name="cancel_btn_label">Zrušit</string>
     <string name="cant_remove_folder">Nelze smazat složky které nejsou prázdné</string>
@@ -29,7 +29,7 @@
     <string name="gadget_clock_22_label">Hodiny 2x2</string>
     <string name="gadget_clock_24_label">Hodiny 2x4</string>
     <string name="gadget_error_text">Problém s načtením widgetu</string>
-    <string name="gadget_load_error">Chyba načtení widgetu...</string>
+    <string name="gadget_load_error">Chyba načtení widgetu\u2026</string>
     <string name="gadget_photo_22_label">Fotorámeček 2x2</string>
     <string name="gadget_photo_24_label">Fotorámeček 2x4</string>
     <string name="gadget_photo_44_label">Fotorámeček 4x4</string>
@@ -121,7 +121,7 @@
     <string name="upside_edit_bar_empty">Prázdné</string>
     <string name="upside_edit_bar_select_app">Vybrat aplikaci</string>
     <string name="upside_edit_bottom_empty_tip">Klepněte na obdélník pro editaci</string>
-    <string name="upside_londing_text">Uvolněte se a rozšiřte svou představivost...</string>
+    <string name="upside_londing_text">Uvolněte se a rozšiřte svou představivost\u2026</string>
     <string name="wallpaper_scrolling">vše</string>
     <string name="widget_favorite_contacts_edit">Editor</string>
     <string name="widget_favorite_contacts_label">Oblíbené</string>

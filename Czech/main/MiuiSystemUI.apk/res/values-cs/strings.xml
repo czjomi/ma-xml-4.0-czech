@@ -178,7 +178,7 @@
     <string name="settings_toggle">Přepínače</string>
     <string name="settings_toggle_collapse_after_clicked">Zavřít po dotknutí</string>
     <string name="settings_toggle_layout_style">Styl přepínačů</string>
-    <string name="settings_toggle_layout_style_applying">Upravit pozici přepínačů...</string>
+    <string name="settings_toggle_layout_style_applying">Upravit pozici přepínačů\u2026</string>
     <string name="settings_toggle_layout_style_compact">Kompaktní</string>
     <string name="settings_toggle_layout_style_single_page">Stránka</string>
     <string name="settings_toggle_position">"Upravit pozici přepínačů"</string>

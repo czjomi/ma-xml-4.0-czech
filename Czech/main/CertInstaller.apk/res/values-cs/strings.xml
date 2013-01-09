@@ -3,7 +3,7 @@
     <string name="app_name">Instalační program certifikátu</string>
     <string name="pick_file_title">Vybrat certifikát</string>
     <string name="pkcs12_password_dialog_title">Extrahovat certifikát</string>
-    <string name="extracting_pkcs12">Rozbalování...</string>
+    <string name="extracting_pkcs12">Rozbalování\u2026</string>
     <string name="pkcs12_file_password_dialog_title">Extrahovat z %s</string>
     <string name="name_credential_dialog_title">Název certifikátu</string>
     <string name="credential_name">Název certifikátu:</string>

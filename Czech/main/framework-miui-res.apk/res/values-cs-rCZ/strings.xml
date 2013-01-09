@@ -2,7 +2,7 @@
 <resources>
     <string name="activate">Aktivovat</string>
     <string name="activate_fail_notification_title">Znovu aktivujte synchronizaci Xiaomi</string>
-    <string name="activating">Aktivace...</string>
+    <string name="activating">Aktivace\u2026</string>
     <string name="all_resources">Vše</string>
     <string name="android_lockscreen_glogin_instructions">Pro odemknutí se přihlašte ke svému účtu</string>
     <string name="arbor_day">Arbor Day</string>
@@ -58,7 +58,7 @@
     <string name="chinese_youth_day">Den mládeže</string>
     <string name="invalid_url">Neplatná URL:</string>
     <string name="keyguard_incorrect_pin_with_retry_count">Zbývá %d pokusů</string>
-    <string name="loading">Nahrávání...</string>
+    <string name="loading">Nahrávání\u2026</string>
     <string name="lock_screen_date">d. MMMM EEEE</string>
     <string name="lockscreen_call_bottom_hint">Posunutím dolů zobrazíte Telefonování</string>
     <string name="lockscreen_sms_bottom_hint">Posunutím dolů zobrazíte Konverzace</string>
@@ -112,9 +112,9 @@
     <string name="perm_tigger_toggle_lab">Použít přepínače ze stav. lišty</string>
     <string name="perm_use_find_device">Zjistit polohu zařízení</string>
     <string name="private_num">Soukromé číslo</string>
-    <string name="processing">Zpracovávám ...</string>
+    <string name="processing">Zpracovávám \u2026</string>
     <string name="reboot_confirm">Telefon se restartuje</string>
-    <string name="reboot_progress">Restartuji...</string>
+    <string name="reboot_progress">Restartuji\u2026</string>
     <string name="resource_alarm_default">Alarm</string>
     <string name="resource_apply">Použít</string>
     <string name="resource_buy">Koupit</string>
@@ -132,9 +132,9 @@
 	<string name="resource_get_auth_exceed_max_limit_title">Dosažen limit používání</string>
 	<string name="resource_importing">Nahrávání</string>
 	<string name="resource_get_auth_failed">Kontrola autorských práv selhala.</string>
-    <string name="resource_get_auth_checking">Kontrola autorských práv...</string>
+    <string name="resource_get_auth_checking">Kontrola autorských práv\u2026</string>
     <string name="resource_get_auth_missing">Téma není staženo z oficiálního marketu MIUI.</string>
-    <string name="resource_get_auth_retrieving">Kontrola autorských práv...</string>
+    <string name="resource_get_auth_retrieving">Kontrola autorských práv\u2026</string>
     <string name="resource_local">Místní %1$s</string>
     <string name="resource_mute">žádné</string>
     <string name="resource_no_result">Nic nebylo nalezeno</string>
@@ -213,7 +213,7 @@
     <string name="theme_update_request_continue_content">Poslední aktualizace téma nebyla kompletní, pokračovat?</string>
     <string name="theme_update_request_title">Aktualizace téma</string>
     <string name="theme_updating_content">Aktualizování %1$d/%2$d</string>
-    <string name="theme_updating_precontent">Připravuji...</string>
+    <string name="theme_updating_precontent">Připravuji\u2026</string>
     <string name="theme_updating_title">Aktualizování téma</string>
     <string name="to_vibrate_settings">Nastavení vibrací</string>
 	<string name="unknown">Neznámé číslo</string>

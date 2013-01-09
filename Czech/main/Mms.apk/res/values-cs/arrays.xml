@@ -31,7 +31,7 @@
         <item>8 sekund</item>
         <item>9 sekund</item>
         <item>10 sekund</item>
-        <item>Ostatní...</item>
+        <item>Ostatní\u2026</item>
     </string-array>
     <string-array name="prefEntries_vibrateWhen">
         <item>Vždy</item>

@@ -111,7 +111,7 @@
     <string name="start_update">Aktualizovat</string>
     <string name="submit">Odeslat</string>
     <string name="submit_fail">Odesílání selhalo</string>
-    <string name="submit_progress">Odesílání...</string>
+    <string name="submit_progress">Odesílání\u2026</string>
     <string name="submit_success">Úspěšně odesláno, děkujeme!</string>
     <string name="system_backup_button_text">Záloha systému</string>
     <string name="system_backup_cancel_text">Přeskočit</string>

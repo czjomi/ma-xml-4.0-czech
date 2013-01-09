@@ -70,7 +70,7 @@
     <string name="accessibility_tutorial_title">Kurz o zjednodušení přístupu</string>
     <string name="account_settings">Účty</string>
     <string name="account_sync_settings_title">Natavení synchronizace</string>
-    <string name="activating">Aktivuji...</string>
+    <string name="activating">Aktivuji\u2026</string>
     <string name="active_device_admin_msg">Správce zařízení</string>
     <string name="active_input_method_subtypes">Aktivní metody vstupu</string>
     <string name="activity_picker_label">Vybrat aktivitu</string>
@@ -186,7 +186,7 @@
     <string name="backup_pw_set_button_text">Nastavit heslo pro zálohy</string>
     <string name="backup_section_title">Zálohování a obnovení</string>
     <string name="band_mode_failed">Neúspěšné</string>
-    <string name="band_mode_loading">Načítání seznamu pásem...</string>
+    <string name="band_mode_loading">Načítání seznamu pásem\u2026</string>
     <string name="band_mode_set">Nastavit</string>
     <string name="band_mode_succeeded">Pásmo nastaveno.</string>
     <string name="band_mode_title">Nastavit pásmo pro GSM a UMTS</string>
@@ -286,7 +286,7 @@
     <string name="bluetooth_connected_no_a2dp">Připojeno (žádná média)</string>
     <string name="bluetooth_connected_no_headset">Připojeno (žádný telefon)</string>
     <string name="bluetooth_connected_no_headset_no_a2dp">Připojeno (žádný telefon nebo média)</string>
-    <string name="bluetooth_connecting">Připojování...</string>
+    <string name="bluetooth_connecting">Připojování\u2026</string>
     <string name="bluetooth_connecting_error_message">Při připojování k zařízení %1$s došlo k potížím.</string>
     <string name="bluetooth_connection_dialog_text">Chcete se připojit k zařízení %1$s?</string>
     <string name="bluetooth_connection_notif_message">Klepnutím se připojíte k zařízení %1$s.</string>
@@ -318,7 +318,7 @@
     <string name="bluetooth_disconnect_pan_user_profile">Internetové připojení pomocí zařízení %1$s bude odpojeno.</string>
     <string name="bluetooth_disconnect_title">Odpojit?</string>
     <string name="bluetooth_disconnected">Odpojeno</string>
-    <string name="bluetooth_disconnecting">Odpojování...</string>
+    <string name="bluetooth_disconnecting">Odpojování\u2026</string>
     <string name="bluetooth_display_passkey_pin_msg">Párování se zařízením:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Zadejte:&lt;br>&lt;b>%2$s&lt;/b> a poté \nstiskněte klávesu Return nebo Enter.</string>
     <string name="bluetooth_dock_settings">Nastavení doku</string>
     <string name="bluetooth_dock_settings_a2dp">Pro hudbu a média</string>
@@ -353,7 +353,7 @@
     <string name="bluetooth_opp_profile_summary_connected">Připojeno k serveru pro přenos dat</string>
     <string name="bluetooth_opp_profile_summary_not_connected">Nepřipojeno k serveru pro přenos souborů</string>
     <string name="bluetooth_opp_profile_summary_use_for">Použít pro přenos souborů</string>
-    <string name="bluetooth_pairing">Párování...</string>
+    <string name="bluetooth_pairing">Párování\u2026</string>
     <string name="bluetooth_pairing_accept">Párovat</string>
     <string name="bluetooth_pairing_decline">Zrušit</string>
     <string name="bluetooth_pairing_device_down_error_message">Se zařízením %1$s nelze navázat komunikaci.</string>
@@ -536,7 +536,7 @@
     <string name="data_usage_enable_3g">Datové přenosy 2G a 3G</string>
     <string name="data_usage_enable_4g">Datové přenosy 4G</string>
     <string name="data_usage_enable_mobile">Mobilní datové přenosy</string>
-    <string name="data_usage_change_cycle">Změnit cyklus...</string>
+    <string name="data_usage_change_cycle">Změnit cyklus\u2026</string>
     <string name="data_usage_label_background">Pozadí</string>
     <string name="data_usage_label_foreground">Popředí</string>
     <string name="data_usage_limit_dialog">"Po dosažení stanoveného limitu bude datové připojení k síti %1$s zakázáno. Protože se přenesená data měří pomocí telefonu \na operátor je může účtovat odlišně, je vhodné nastavit nízký limit."</string>
@@ -710,7 +710,7 @@
 	<string name="dolby_roomsize_title">Prostorový zvuk:\u0020</string>
 	<string name="drive_mode">Režim AUTO</string>
 	<string name="drive_mode_auto_reply">Auto. odpověď</string>
-	<string name="drive_mode_auto_sms_reply_content">Promiňte, Právě řídím. Zavolám později...</string>
+	<string name="drive_mode_auto_sms_reply_content">Promiňte, Právě řídím. Zavolám později\u2026</string>
 	<string name="drive_mode_auto_sms_reply_content_title">Zpráva odpovědi</string>
 	<string name="drive_mode_calling_auto_sms_reply">Zrušit hovor s SMS</string>
 	<string name="drive_mode_invert_stop_report">Otočit pro zastavení upozornění</string>
@@ -1237,7 +1237,7 @@
     <string name="recognizer_settings_summary">Nastavení pro poskytovatele %s</string>
     <string name="recognizer_settings_title">Hlasové vyhledávání</string>
     <string name="recognizer_title">Rozpoznávání hlasu</string>
-    <string name="recompute_size">Přepočítávání velikosti...</string>
+    <string name="recompute_size">Přepočítávání velikosti\u2026</string>
     <string name="remove_account_failed">Některé aplikace tento účet vyžadují. Můžete jej odebrat pouze tím, že v telefonu v nabídce Nastavení > Zálohovat a obnovit obnovíte tovární \nnastavení (vymažete tak všechna svá osobní data).</string>
     <string name="remove_account_label">Odebrat účet</string>
     <string name="remove_device_admin">Deaktivovat</string>
@@ -1374,10 +1374,10 @@
     <string name="settings_button">Nastavení</string>
     <string name="settings_label">Nastavení</string>
     <string name="settings_label_launcher">Nastavení</string>
-    <string name="settings_license_activity_loading">Načítání...</string>
+    <string name="settings_license_activity_loading">Načítání\u2026</string>
     <string name="settings_license_activity_title">Licence open source</string>
     <string name="settings_license_activity_unavailable">Při načítání licencí došlo k chybě.</string>
-    <string name="settings_safetylegal_activity_loading">Načítání...</string>
+    <string name="settings_safetylegal_activity_loading">Načítání\u2026</string>
     <string name="settings_safetylegal_activity_title">Bezpečnostní informace</string>
     <string name="settings_safetylegal_activity_unreachable">Datové připojení momentálně není k dispozici. \nChcete-li tyto informace zobrazit, přejděte z libovolného počítače připojeného k internetu na stránku %s.</string>
     <string name="settings_safetylegal_title">Bezpečnostní informace</string>
@@ -1498,7 +1498,7 @@
     <string name="sync_enabled">Synchronizace ZAP.</string>
     <string name="sync_error">Chyba synchronizace</string>
     <string name="sync_gmail">Gmail</string>
-    <string name="sync_in_progress">Synchronizace...</string>	
+    <string name="sync_in_progress">Synchronizace\u2026</string>	
     <string name="sync_is_failing">Nastaly potíže se synchronizací. Služba bude brzy obnovena.</string>
     <string name="sync_item_title">Synchr.: %s</string>
     <string name="sync_menu_sync_cancel">Zrušit synchronizaci</string>
@@ -1677,7 +1677,7 @@
     <string name="user_dict_settings_context_menu_edit_title">Upravit</string>
     <string name="user_dict_settings_edit_dialog_title">Upravit slovo</string>
     <string name="user_dict_settings_empty_text">V uživatelském slovníku nejsou žádná slova. Slovo můžete přidat stisknutím tlačítka Přidat (+).</string>
-    <string name="user_dict_settings_more_languages">Více jazyků...</string>
+    <string name="user_dict_settings_more_languages">Více jazyků\u2026</string>
     <string name="user_dict_settings_summary" />
     <string name="user_dict_settings_titlebar">Uživatelský slovník</string>
     <string name="user_dict_single_settings_title">Osobní slovník</string>
@@ -1711,7 +1711,7 @@
     <string name="virus_scan_app_risk">Nalezena hrozba!</string>
     <string name="virus_scan_app_safe_scanning">Probíhá skenování.</string>
     <string name="virus_scan_app_scan_finish">Skenování dokončeno.</string>
-    <string name="virus_scan_app_scanning">Skenování...</string>
+    <string name="virus_scan_app_scanning">Skenování\u2026</string>
     <string name="virus_scan_app_stop_scan">Zastavit skenování</string>
     <string name="virus_scan_app_uninstall">Hromadná odinstalace (%d)</string>
     <string name="virus_scan_app_waiting">Čeká na skenování</string>
@@ -1721,7 +1721,7 @@
     <string name="virus_scanner_lib_already_latest">Virová databáze je aktuální</string>
     <string name="virus_scanner_lib_update">Je dostupná aktualizace virové databáze</string>
     <string name="virus_scanner_lib_update_failed">Aktualizace virové databáze selhala!</string>
-    <string name="virus_scanner_lib_updating">Aktualizace databáze...</string>
+    <string name="virus_scanner_lib_updating">Aktualizace databáze\u2026</string>
     <string name="virus_scanner_manual_update">Aktualizovat manuálně</string>
     <string name="virus_scanner_provider">Bezpečnost zabezpečuje %s</string>
     <string name="virus_scanner_scan">Skenovat</string>
@@ -1795,7 +1795,7 @@
     <string name="wfd_disconnect_diag_title">Přerušit připojení Wi-Fi?</string>
     <string name="wfd_disconnect_multiple_diag_message">Pokud přerušíte Wi-Fi Displej, Vaše spojení s %1$s a %2$s ostatními zařízeními se ukončí.</string>
     <string name="wfd_menu_search">Vyhledat zařízení</string>
-    <string name="wfd_menu_searching">Vyhledávání...</string>
+    <string name="wfd_menu_searching">Vyhledávání\u2026</string>
     <string name="wfd_menu_teardown">Odpojit</string>
     <string name="wfd_settings_title">Nastavení Wi-Fi Displej</string>
     <string name="wfd_wps_keypad">Stlačení tlačítka</string>
@@ -1879,7 +1879,7 @@
     <string name="wifi_p2p_menu_remove_group">Odebrat skupinu</string>
     <string name="wifi_p2p_menu_rename">Přejmenovat zařízení</string>
     <string name="wifi_p2p_menu_search">Vyhledávání</string>
-    <string name="wifi_p2p_menu_searching">Hledání...</string>
+    <string name="wifi_p2p_menu_searching">Hledání\u2026</string>
     <string name="wifi_p2p_peer_devices">Zařízení Peer</string>
     <string name="wifi_p2p_persist_network">Pamatovat si toho připojení</string>	
     <string name="wifi_p2p_settings_summary">Nastavit připojení typu peer-to-peer</string>
@@ -1929,7 +1929,7 @@
     <string name="wifi_setup_cancel">Zrušit</string>
     <string name="wifi_setup_connect">Připojit</string>
     <string name="wifi_setup_description_connected">"Chcete-li pokračovat v nastavení, dotkněte se možnosti Další. Dotkněte se možnosti Zpět, chcete-li se připojit k jiné síti Wi-Fi."</string>
-    <string name="wifi_setup_description_connecting">Připojování může trvat několik minut...</string>
+    <string name="wifi_setup_description_connecting">Připojování může trvat několik minut\u2026</string>
     <string name="wifi_setup_detail">Podrobnosti sítě</string>
     <string name="wifi_setup_eap_not_supported">Připojení Wi-Fi EAP nelze nakonfigurovat při instalaci. Můžete to provést po dokončení instalace v nabídce Nastavení v části \nBezdrátová připojení a sítě.</string>
     <string name="wifi_setup_forget">Odstranit</string>
@@ -1944,13 +1944,13 @@
     <string name="wifi_setup_status_existing_network">Připojit k existující síti</string>
     <string name="wifi_setup_status_new_network">Připojit k nové síti</string>
     <string name="wifi_setup_status_proceed_to_next">Přejít k dalšímu kroku</string>
-    <string name="wifi_setup_status_scanning">Vyhledávání sítí...</string>
+    <string name="wifi_setup_status_scanning">Vyhledávání sítí\u2026</string>
     <string name="wifi_setup_status_select_network">K síti se připojíte tak, že se jí dotknete</string>
     <string name="wifi_setup_status_unsecured_network">Připojit k nezabezpečené síti</string>
     <string name="wifi_setup_title">Nastavení připojení k síti Wi-Fi</string>
     <string name="wifi_setup_title_add_network">Přidat síť</string>
     <string name="wifi_setup_title_connected_network">Připojeno k síti Wi-Fi %s</string>
-    <string name="wifi_setup_title_connecting_network">Připojování k síti Wi-Fi %s...</string>
+    <string name="wifi_setup_title_connecting_network">Připojování k síti Wi-Fi %s\u2026</string>
     <string name="wifi_setup_title_editing_network">Připojit k síti Wi-Fi %s</string>
     <string name="wifi_setup_wizard_title">Vybrať Wi-Fi</string>
     <string name="wifi_setup_wps">Automatické nastavení (WPS)</string>
@@ -1968,7 +1968,7 @@
     <string name="wifi_state_unknown">Neznámý</string>
     <string name="wifi_status">Stav</string>
     <string name="wifi_status_test">stav Wi-Fi</string>
-    <string name="wifi_stopping">Vypínání Wi-Fi...</string>
+    <string name="wifi_stopping">Vypínání Wi-Fi\u2026</string>
     <string name="wifi_tether_configure_ap_text">Konfigurace hotspotu Wi-Fi</string>
     <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
     <string name="wifi_tether_configure_subtext">Přenosný hotspot Wi-Fi %1$s %2$s</string>
@@ -2005,7 +2005,7 @@
     <string name="wifi_wapi_user_certificate">Uživatelský certifikát</string>
     <string name="wifi_wps_available_first_item">Je k dispozici chráněná síť</string>
     <string name="wifi_wps_available_second_item">" (k dispozici je chráněná síť)"</string>
-    <string name="wifi_wps_complete">WPS úspěšné. Připojování k síti...</string>
+    <string name="wifi_wps_complete">WPS úspěšné. Připojování k síti\u2026</string>
     <string name="wifi_wps_connected">Připojené k Wi-Fi síti %s</string>
     <string name="wifi_wps_failed">Službu WPS se nepodařilo spustit. Zkuste to znovu.</string>
     <string name="wifi_wps_failed_auth">Ověření selhalo. Zkuste prosím znovu.</string>
@@ -2019,7 +2019,7 @@
     <string name="wifi_wps_overlap_error">Zjištěna další relace zabezpečené sítě Wi-Fi. Zkuste to znovu za chvíli.</string>
     <string name="wifi_wps_pin">Zadejte kód PIN z přístupového bodu</string>
     <string name="wifi_wps_pin_output">Zadejte kód PIN %1$s přístupového bodu</string>
-    <string name="wifi_wps_setup_msg">Zapínání WPS...</string>    
+    <string name="wifi_wps_setup_msg">Zapínání WPS\u2026</string>    
     <string name="wifi_wps_setup_title">Nastavení WPS</string>
     <string name="wimax_settings">Nastavení sítě 4G</string>
     <string name="wimax_settings_summary">Nastavení a správa sítě 4G a modemu</string>

@@ -18,7 +18,7 @@
     <string name="err_type_call">Chyba hovoru</string>
     <string name="err_type_suggestion">Návrhy</string>
     <string name="err_type_data_lost">Ztracená data</string>
-    <string name="status_msg_pending_upload">Odesílání %d hlášení...</string>
+    <string name="status_msg_pending_upload">Odesílání %d hlášení\u2026</string>
     <string name="status_msg_collecting_log">Shromažďování logů</string>
     <string name="action_submit">Odeslat</string>
     <string name="section_err_type">Typ hlášení</string>
@@ -42,5 +42,5 @@
     <string name="wlan_unavailable_dialog_content">%s se požaduje pro 2G/3G data, stiskněte OK pro odeslání přes Wifi</string>
     <string name="wlan_unavailable_dialog_button_sent">Odeslat okamžitě</string>
     <string name="wlan_unavailable_dialog_button_ok">OK</string>
-    <string name="packaging_dialog_content">Generuje se hlášení, čekejte prosím...</string>
+    <string name="packaging_dialog_content">Generuje se hlášení, čekejte prosím\u2026</string>
 </resources>

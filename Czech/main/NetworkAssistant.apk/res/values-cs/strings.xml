@@ -4,7 +4,7 @@
     <string name="adjust_traffic_auto_adjust_hint">Systém se ptá a upravuje údaje pravidelně od operátora. Je třeba nastavit informace o operátorovi.</string>
     <string name="adjust_traffic_auto_adjust_open_hint">Automatické upravování měsíčního balíčku je nastaveno</string>
     <string name="adjust_traffic_auto_adjust_title">Automatické nastavení</string>
-    <string name="adjust_traffic_carrier_adjusting">Nastavování provozu...</string>
+    <string name="adjust_traffic_carrier_adjusting">Nastavování provozu\u2026</string>
     <string name="adjust_traffic_carrier_adjust">Zjistit od operátora</string>
     <string name="adjust_traffic_carrier_settings_title">Mobilní operátor</string>
     <string name="adjust_traffic_carrier_summary_more_onemonth_before">"Více jak měsíc už nebylo aktualizované"</string>
@@ -115,7 +115,7 @@
     <string name="sync_fail_notify_title">Dotaz selhal</string>
     <string name="sync_traffic_fail_message">Dotaz na operátora selhal, možná je server zaneprázdněn. Zkuste to prosím později, nebo zavolejte na zákaznickou podporu</string>
     <string name="sync_traffic_fail_title">Dotaz selhal</string>
-    <string name="sync_traffic_ing">Získávám od operátora, prosím čekejte...</string>
+    <string name="sync_traffic_ing">Získávám od operátora, prosím čekejte\u2026</string>
     <string name="sync_traffic_no_cmd_detail">"Napiště Váš kraj a operátora na naše fórum MIUI: http://www.miui.com/forum-172-1.html. Děkujeme."</string>
     <string name="sync_traffic_no_cmd_title">Není dostupná vzorová SMS</string>
     <string name="sync_traffic_success">"Získána data od operátora, provoz upraven"</string>
@@ -140,7 +140,7 @@
     <string name="update_fail">Aktualizace selhala</string>
     <string name="update_no_network">Nelze aktualizovat, zkontrolujte prosím připojení k internetu.</string>
     <string name="update_success">Aktualizace kompletní</string>
-    <string name="updating">Aktualizuji...</string>
+    <string name="updating">Aktualizuji\u2026</string>
     <string name="used_flux">Využití dat</string>
     <string name="version_label">"Verze: "</string>
     <string name="warning_title">Upozornění</string>

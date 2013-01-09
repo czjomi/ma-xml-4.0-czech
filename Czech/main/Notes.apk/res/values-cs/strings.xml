@@ -74,7 +74,7 @@
     <string name="notealert_enter">Zobrazit</string>
     <string name="notealert_ok">Ok</string>
     <string name="notelist_menu_new">Přidat poznámku</string>
-    <string name="notelist_string_info">...</string>
+    <string name="notelist_string_info">\u2026</string>
     <string name="preferences_account_summary">Synchronizace poznámek s Google Task</string>
     <string name="preferences_account_title">Účet synchronizce</string>
     <string name="preferences_add_account">Přidat účet</string>
@@ -100,13 +100,13 @@
     <string name="send_to_note">Odeslat do Poznámky</string>
     <string name="success_sdcard_export">Export úspěšný</string>
     <string name="success_sync_account">Synchronizace s účtem %1$s byla úspěšná</string>
-    <string name="sync_progress_init_list">Získávám seznam vzdálených poznámek...</string>
-    <string name="sync_progress_login">Přihlášení k %1$s...</string>
-    <string name="sync_progress_syncing">Synchronizuji poznámky s Google Task...</string>
+    <string name="sync_progress_init_list">Získávám seznam vzdálených poznámek\u2026</string>
+    <string name="sync_progress_login">Přihlášení k %1$s\u2026</string>
+    <string name="sync_progress_syncing">Synchronizuji poznámky s Google Task\u2026</string>
     <string name="ticker_cancel">Synchronizace byla zrušena</string>
     <string name="ticker_fail">Synchronizace byla neúspěšná</string>
     <string name="ticker_success">Synchronizace byla úspěšná</string>
-    <string name="ticker_syncing">Synchronizace poznámek...</string>
+    <string name="ticker_syncing">Synchronizace poznámek\u2026</string>
     <string name="time_picker_dialog_title">Nastavit čas upozornění</string>
     <string name="toast_message_add_image_fail">Vložení obrázku selhalo!</string>
     <string name="toast_message_replace_image_fail">Nahrazení obrázku selhalo!</string>

@@ -53,7 +53,7 @@
     <string name="chenghu_disable_mms">Editace Mms adres je neplatná</string>
     <string name="class_0_message_activity">Třída 0 zpráv</string>
     <string name="close">Zavřít</string>
-    <string name="compressing">Fotografie je příliš velká. Probíhá komprese...</string>
+    <string name="compressing">Fotografie je příliš velká. Probíhá komprese\u2026</string>
     <string name="confirm">Potvrdit</string>
     <string name="confirm_clear_search_text">Historie hledání bude vymazána.</string>
     <string name="confirm_clear_search_title">Vymazat</string>
@@ -82,8 +82,8 @@
     <string name="conversation">Zprávy</string>
     <string name="conversation_list_empty_text">Žádné zprávy</string>
     <string name="conversation_style">bubliny</string>
-    <string name="converting_to_picture_message">Převádění na multimediální zprávu...</string>
-    <string name="converting_to_text_message">Převádění na textovou zprávu...</string>
+    <string name="converting_to_picture_message">Převádění na multimediální zprávu\u2026</string>
+    <string name="converting_to_text_message">Převádění na textovou zprávu\u2026</string>
     <string name="copy_message_text">Kopírovat text zprávy</string>
     <string name="copy_to_sdcard">Uložit přílohu</string>
     <string name="copy_to_sdcard_fail">Uložit přílohu</string>
@@ -138,7 +138,7 @@
     <string name="fdn_check_failure">Můžete pouze posílat zprávy na Vaše povolená čísla.</string>
     <string name="festival">Doporučené</string>
     <string name="festival_sms_category_count_format">(%s)</string>
-    <string name="festival_sms_loading">Načítám...</string>
+    <string name="festival_sms_loading">Načítám\u2026</string>
     <string name="festival_sms_push">Doporučené</string>
     <string name="fetion_prefix">[Otevřít]</string>
     <string name="found_old_messages">Celkem z: %1$s bylo nalezených ze starého účtu. Přejete si je nahrát do stávajícího účtu: %2$s?</string>
@@ -167,10 +167,10 @@
     <string name="layout_bottom">Rozložení (dole)</string>
     <string name="layout_selector_title">"Rozložení prezentace "</string>
     <string name="layout_top">Rozložení (nahoře)</string>
-    <string name="loading_all_messages">Načítání všech zpráv...</string>
-    <string name="loading_contacts">Načítám kontakty...</string>
-    <string name="loading_conversations">Načítám konverzace...</string>
-    <string name="loading_mms">Načítání MMS...</string>
+    <string name="loading_all_messages">Načítání všech zpráv\u2026</string>
+    <string name="loading_contacts">Načítám kontakty\u2026</string>
+    <string name="loading_conversations">Načítám konverzace\u2026</string>
+    <string name="loading_mms">Načítání MMS\u2026</string>
     <string name="me">Já</string>
     <string name="menu_add_address_to_contacts">Přidat %s mezi Kontakty</string>
     <string name="menu_add_to_contacts">Přidat do kontaktů</string>
@@ -200,7 +200,7 @@
     <string name="message_failed">Neúspěšné</string>
     <string name="message_failed_body">Vyberte pro přezkoumání zprávy a zkuste to znovu.</string>
     <string name="message_options">Možnosti zprávy</string>
-    <string name="message_pending">Odesílání...</string>
+    <string name="message_pending">Odesílání\u2026</string>
     <string name="message_queued">V současné době nelze zprávu odeslat. Bude odeslána, jakmile bude služba k dispozici.</string>
     <string name="message_readed">Přečtěte si</string>
     <string name="message_received">Doručeno</string>
@@ -249,7 +249,7 @@
     <string name="mx_offline">Offline</string>	
     <string name="mx_online">Online</string>
     <string name="mx_warning_notice">SMS byla odeslána k aktivaci cloudových zpráv.</string>
-    <string name="need_download">Čekání na synchr...</string>
+    <string name="need_download">Čekání na synchr\u2026</string>
     <string name="new_message">Nová zpráva</string>
     <string name="new_message_arrived">Došla nová zpráva</string>
     <string name="new_phrase">Nová fráze</string>
@@ -351,7 +351,7 @@
     <string name="pref_title_system_mms_priority">Systém. SMS aplik. má přednost</string>
     <string name="pref_title_wake_up_screen">Rozsvítit displej</string>
     <string name="preferences_title">Nastavení</string>
-    <string name="prepare_send">Připraveno k odeslání...</string>
+    <string name="prepare_send">Připraveno k odeslání\u2026</string>
     <string name="preview">Náhled</string>
     <string name="preview_slideshow">Náhled</string>
     <string name="priority_high">Vysoká</string>
@@ -359,7 +359,7 @@
     <string name="priority_low">Nízká</string>
     <string name="priority_normal">Střední</string>
     <string name="privacy_mode_hint">V režimu návštěvník nelze odeslat zprávu</string>
-    <string name="processing">Zpracovávám...</string>
+    <string name="processing">Zpracovávám\u2026</string>
     <string name="random_pick">Náhodný výběr</string>
     <string name="rate_limit_surpassed">Potvrdit</string>
     <string name="received_label">"Přijaté: "</string>
@@ -368,7 +368,7 @@
     <string name="recipient_label">"Příjemce: "</string>
     <string name="refresh">Obnovit</string>
     <string name="refresh_failed">Obnovení selhalo</string>
-    <string name="refreshing">Obnovování...</string>
+    <string name="refreshing">Obnovování\u2026</string>
     <string name="remove">Odstranit</string>
     <string name="remove_music">Odstranit hudbu</string>
     <string name="remove_picture">Odstranit fotografii</string>
@@ -447,7 +447,7 @@
     <string name="text_message">Text zprávy</string>
     <string name="timed_message_expired_title">Neodeslané zprávy: %d</string>
     <string name="timed_message_expired_title_2">Chcete odeslat teď?</string>
-    <string name="timed_message_in_total">... (%d celkem)</string>
+    <string name="timed_message_in_total">\u2026 (%d celkem)</string>
     <string name="timed_message_to">komu</string>
     <string name="title_date_type">Časy zpráv</string>
     <string name="title_timed_message_dialog">Nastavete prosím čas</string>

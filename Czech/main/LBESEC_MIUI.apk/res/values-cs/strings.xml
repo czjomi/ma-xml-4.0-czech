@@ -29,7 +29,7 @@
     <string name="Dashboard_Perm_SU_Switch">Práva ROOT</string>
     <string name="Dashboard_Su_Enable_Content">Povolení dovolí požádat aplikace o práva ROOT. Aplikace s těmito právy mohou způsobit nestabilitu systému, nebo ztrátu dat, případně i poškození systému a hardwaru. Buďte prosím opatrný. Opravdu chcete ROOT povolit?</string>
     <string name="Dashboard_Su_Enable_Title">Práva ROOT</string>
-    <string name="Generic_Canceling">Ruším...</string>
+    <string name="Generic_Canceling">Ruším\u2026</string>
     <string name="Generic_Clean">Vymazat</string>
     <string name="Generic_Configuration">Nastavení</string>
     <string name="Generic_Copyright">Vytvořil Team LBE</string>
@@ -39,9 +39,9 @@
     <string name="Generic_HideSystemApp">Skrýt systémové aplikace</string>
     <string name="Generic_Check">Zkontrolovat</string>
     <string name="Generic_InvalidInput">Neplatný vstup</string>
-    <string name="Generic_Loading">Nahrávám...</string>
+    <string name="Generic_Loading">Nahrávám\u2026</string>
     <string name="Generic_MonitoredApp">Monitorované aplikace (%1$d)</string>
-    <string name="Generic_Operating">Vykonávám...</string>
+    <string name="Generic_Operating">Vykonávám\u2026</string>
     <string name="Generic_Optimize">Optimalizovat</string>
     <string name="Generic_Service_Disabled">Služba je vypnuta</string>
     <string name="Generic_Service_Enabled">Služba je povolena</string>

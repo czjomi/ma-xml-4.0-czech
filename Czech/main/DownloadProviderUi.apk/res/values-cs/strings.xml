@@ -38,7 +38,7 @@
     <string name="download_title_sorted_by_date">Stažené - dle data</string>
     <string name="download_title_sorted_by_size">Stažené - dle velikosti</string>
     <string name="download_when_network_connected">Wi-Fi + Mobilní data</string>
-    <string name="downloads_operating">Pracuji...</string>
+    <string name="downloads_operating">Pracuji\u2026</string>
     <string name="editmode_menu_delete">Smazat</string>
     <string name="editmode_menu_share">Sdílet</string>
     <string name="keep_queued_download">Udržet</string>
