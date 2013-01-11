@@ -85,7 +85,7 @@
     <string name="presetlist_autoselect_title">Potvrdit výběr</string>
     <string name="radio_text_string">Toto je dlouhý text z rádia který by se měl pohybovat</string>
     <string name="record_error_unknown">Nahrávání bylo ukončeno, došlo k neznámé chybě.</string>
-    <string name="record_fail">Nahrávání zlyhalo</string>
+    <string name="record_fail">Nahrávání selhalo</string>
     <string name="record_file_format">%1$s_%2$s</string>
     <string name="record_file_location_format">Klepni pro zobrazení souboru %s</string>
     <string name="record_sucess">Nahrávání dokončeno</string>
