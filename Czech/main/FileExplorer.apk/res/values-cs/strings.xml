@@ -40,8 +40,8 @@
     <string name="decompress_confirm">Rozbalit?</string>
     <string name="decompress_fail">Rozbalování selhalo!</string>
     <string name="decompress_success">Rozbalování dokončeno</string>
-    <string name="decompress_to">Rozbalování…</string>
-    <string name="decompress_to_here">Rozbalit do:</string>
+    <string name="decompress_to">Rozbalit do jiné složky</string>
+    <string name="decompress_to_here">Rozbalit do této složky</string>
     <string name="delete_failed">Mazání selhalo</string>
     <string name="delete_file">Smazat?</string>
     <string name="delete_files">Potvrďte prosím smazání tohoto počtu souborů: %1$d</string>
