@@ -3,7 +3,8 @@
     <string name="add_task">Přidat úlohu</string>
 	<string name="adding_upload_tasks">Přidávání souborů pro upload.</string>
     <string name="app_name">Správce souborů</string>
-    <string name="cancel">Zrušit</string>
+    <string name="background">Stáhnout na pozadí</string>
+	<string name="cancel">Zrušit</string>
     <string name="category_all">Vše</string>
     <string name="category_apk">Aplikace</string>
     <string name="category_bluetooth">Bluetooth</string>
@@ -132,7 +133,8 @@
     <string name="multi_select_title">Vybrané položky: %1$s</string>
     <string name="net_lose_connected">Síť není dostupná, nelze získat velikost</string>
     <string name="networkView_notConnected">Žádná síť k dispozici</string>
-    <string name="new_folder_name">Nová složka</string>
+    <string name="networkView_offline">Režim offline, obnovení obsahu složky je dočasně nedostupné</string>
+	<string name="new_folder_name">Nová složka</string>
     <string name="no">Ne</string>
     <string name="no_file">Žádné soubory</string>
     <string name="no_tasks">Žádné úkoly</string>
