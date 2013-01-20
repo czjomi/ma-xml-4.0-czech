@@ -147,7 +147,7 @@
     <string name="task_failed_local">Selhalo zálohování %1$s úloh(a)</string>
     <string name="task_finished">Hotovo</string>
     <string name="task_local_backup_cancel_dialog">"Záloha není kompletní\nKlikněte na OK ke zrušení zálohy"</string>
-    <string name="task_pending">Čekání</string>
+    <string name="task_pending">Čeká na zálohování</string>
     <string name="task_post_running">Dokončování</string>
     <string name="task_pre_running">Příprava</string>
     <string name="task_progress">Průběh</string>
