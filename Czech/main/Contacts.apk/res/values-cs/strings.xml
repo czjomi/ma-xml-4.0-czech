@@ -22,7 +22,9 @@
     <string name="aggregation_suggestion_join_dialog_title">Sloučit kontakty</string>
     <string name="attach_photo_dialog_title">Fotka kontaktu</string>
     <string name="audio_chat">Audio chat</string>
-    <string name="batch_delete_msg">"Smazat %d vybraných kontaktů? Kontaktní informace uložené v cloudu budou také odstraněny"</string>
+    <string name="auto_nickname">Auto</string>
+    <string name="auto_set_nickname">Auto</string>
+<string name="batch_delete_msg">"Smazat %d vybraných kontaktů? Kontaktní informace uložené v cloudu budou také odstraněny"</string>
     <string name="blurbJoinContactDataWith">Vyberte kontakt se kterým chcete sloučit %s.</string>
     <string name="caching_vcard_message">Probíhá ukládání vizitek do dočasného úložiště, samotný import proběhne za okamžik</string>
     <string name="caching_vcard_title">Ukládání vizitek do dočasného úložiště</string>
@@ -143,6 +145,7 @@
     <string name="create_group_item_label">[Vytvořit novou skupinu]</string>
     <string name="custom_list_filter">Definovat vlastní zobrazení</string>
     <string name="customLabelPickerTitle">Vlastní označení</string>
+    <string name="custom_nickname_hint">Vložte oslovení jako: Pan/Paní</string>
     <string name="date_picker_label">Připomenout 3 dny před narozeninami</string>
     <string name="date_time_set">Nastavit</string>
     <string name="date_year_toggle">Zadejte rok</string>
@@ -500,6 +503,7 @@
     <string name="remind_btn_ignore">Ignorovat</string>
     <string name="remind_btn_sync_now">Synchronizovat nyní</string>
     <string name="removePhoto">Odstranit fotku</string>
+    <string name="restore_nickname">Obnovit</string>
     <string name="ringLabelsGroup">Vyzváněcí tón</string>
     <string name="save_photo_progress">Ukládám fotku\u2026</string>
     <string name="savingDisplayGroups">Ukládám nastavení zobrazení…</string>
