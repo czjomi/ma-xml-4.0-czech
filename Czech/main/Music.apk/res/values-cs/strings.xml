@@ -15,7 +15,7 @@
     <string name="all_tracks">Veškerá hudba</string>
     <string name="android_album_settings">Použít integrovaný obrázek alba.</string>
     <string name="android_album_summary">Automaticky použije obrázek ze skladby. Může způsobit chyby.</string>
-    <string name="artist_details_format" formatted="false">%1$s, %2$s</string>
+    <string name="artist_details_format">%1$s, %2$s</string>
     <string name="artist_edit">Umělec</string>
     <string name="artists_title">Umělci</string>
     <string name="auto_correct_id3_settings">Nastavení ID3 oprav</string>
@@ -152,7 +152,7 @@
     <string name="new_playlist_name_template">Nový playlist %d</string>
     <string name="no_effect">Bez efektu</string>
     <string name="not_selected">Vyberte prosím skladbu</string>
-    <string name="notification_artist_album" formatted="false">"%2$s%1$s"</string>
+    <string name="notification_artist_album">"%2$s%1$s"</string>
     <string name="online_indicator">-online</string>
     <string name="online_music">Online hudba</string>
     <string name="online_search_hint">Hledat hudbu online</string>

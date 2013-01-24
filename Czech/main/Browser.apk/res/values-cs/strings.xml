@@ -185,7 +185,8 @@
     <string name="import_bookmarks_wizard_next">Další</string>
     <string name="import_bookmarks_wizard_previous">Předchozí</string>
     <string name="importing_favorite_files">Importuji data\u2026</string>
-    <string name="instant_search_label">Google with Instant (Labs)</string>
+    <string name="instant_base">http://www.google.com/webhp?client={CID}&amp;source=android-instant&amp;ion=1</string>
+    <string name="instant_search_label">Google s Instant (Labs)</string>
     <string name="is_first_history_item">První záznam v hidtorii</string>
     <string name="is_first_tab">První záložka</string>
     <string name="is_last_history_item">Poslední záznam v historii</string>
@@ -282,6 +283,7 @@
     <string name="pref_development_uastring">UAString</string>
     <string name="pref_development_viewport">Použít široký výřez</string>
     <string name="pref_development_visual_indicator">Povolit vizuální indikátor</string>
+    <string name="pref_development_woff">Povolit WOFF</string>
     <string name="pref_exit_on_closing_last_tab_enabled_summary">Zaškrtněte pro zavření prohlížeče zároveň se zavřením posledního panelu. Nezaškrtnuté zobrazí domovskou stránku.</string>
     <string name="pref_exit_on_closing_last_tab_enabled_title">Ukončit při zavření posledního panelu.</string>
     <string name="pref_extras_reset_default">Nastavit výchozí hodnoty</string>
