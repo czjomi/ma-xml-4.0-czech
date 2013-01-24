@@ -6,7 +6,7 @@
         <item>Zobrazit číslo</item>
     </string-array>
    <string-array name="preferred_network_mode_choices">
-        <item>LTE / CDMA</item>
+        <item>LTE/CDMA</item>
         <item>Pouze EvDo</item>
         <item>CDMA w/o EvDo</item>
         <item>Automaticky CDMA / EvDo</item>
@@ -15,38 +15,11 @@
         <item>Pouze GSM</item>
         <item>GSM / WCDMA preferováno</item>
     </string-array>
-    <string-array name="list_language_entries">
-        <item>English</item>
-        <item>French</item>
-        <item>Spanish</item>
-        <item>Japanese</item>
-        <item>Korean</item>
-        <item>Chinese</item>
-        <item>Hebrew</item>
-    </string-array>
     <string-array name="gsm_umts_network_preferences_choices">
         <item>GSM/WCDMA (auto režim)</item>
         <item>Pouze WCDMA</item>
         <item>Pouze GSM</item>
         <item>GSM/WCDA (preferovat WCDMA)</item>
-    </string-array>
-    <string-array name="cdma_system_select_choices">
-        <item>Pouze doma</item>
-        <item>Automaticky</item>
-    </string-array>
-    <string-array name="cdma_roaming_mode_choices">
-        <item>Pouze domácí síť</item>
-        <item>Přidružené sítě</item>
-        <item>Jakákoli síť</item>
-    </string-array>
-    <string-array name="cdma_network_preferences_choices">
-        <item>CDMA/EvDo</item>
-        <item>Pouze CDMA</item>
-        <item>Pouze EvDo</item>
-    </string-array>
-    <string-array name="cdma_subscription_choices">
-        <item>UIM</item>
-        <item>NV</item>
     </string-array>
     <string-array name="tty_mode_entries">
         <item>TTY vypnuto</item>
@@ -60,13 +33,7 @@
     </string-array>
     <string-array name="voicemail_notification_vibrate_when_entries">
         <item>Vždy</item>
-        <item>Pouze v tíchém</item>
+        <item>Pouze v tichém režimu</item>
         <item>Nikdy</item>
-    </string-array>
-    <string-array name="ecc_numbers">
-        <item>110</item>
-        <item>120</item>
-        <item>119</item>
-        <item>122</item>
     </string-array>
 </resources>
