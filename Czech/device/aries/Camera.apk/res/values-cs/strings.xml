@@ -108,7 +108,7 @@
   <string name="not_selectable_in_effect">Není možné vybrat při zapnutých efektech.</string>
   <string name="not_selectable_in_scene_mode">Není možné vybrat v řežimu scény.</string>
   <string name="ok">OK</string>
-  <string name="open">Otvor</string>
+  <string name="open">Otevřít</string>
   <string name="orientation">Orientace</string>
   <string name="pano_capture_indication">Focení panoramatu</string>
   <string name="pano_dialog_panorama_failed">Není možné uložit panoramatický snímek</string>

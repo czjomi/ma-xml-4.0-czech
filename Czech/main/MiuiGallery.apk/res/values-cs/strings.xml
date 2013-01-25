@@ -9,7 +9,8 @@
     <string name="albums">Alba</string>
     <string name="alert">Oznámení</string>
     <string name="alert_message_initial_cloud">Systém automaticky odešle Vaše staré a nové fotografie pouze, pokud je telefon připojený k Wi-fi.</string>
-    <string name="alert_message_sync_histoy_power_on">Ve výchozím nastavení se historie obrázků synchronizuje pouze při nabíjení baterie. Toto nastavení lze změnit v menu Nastavení.</string>
+    <string name="alert_message_open_sync">Je vyžadována synchronizace, chcete synchronizovat nyní?</string>
+		<string name="alert_message_sync_histoy_power_on">Ve výchozím nastavení se historie obrázků synchronizuje pouze při nabíjení baterie. Toto nastavení lze změnit v menu Nastavení.</string>
     <string name="all_album">Všechny</string>
     <string name="all_albums_desc">Alba</string>
     <string name="all_albums_loading">Nahrávání\u2026</string>
@@ -43,11 +44,12 @@
     <string name="click_import">Klepněte sem pro import</string>
     <string name="click_to_enter_camera">Otevřít fotoaparát</string>
     <string name="close">Zavřít</string>
-    <string name="cloud_albums">Alba v Cloudu</string>
+    <string name="cloud_album_set_create">Nový</string>
+		<string name="cloud_albums">Alba v Cloudu</string>
     <string name="cloud_camera_display_name">Netříděné</string>
     <string name="cloud_gallery_no_pictures">Žádné fotografie v MiCloud</string>
     <string name="cloud_gallery_recyclebin_full">Koš v Cloudu je plný, vyprázdněte ho na stránce i.xiaomi.com</string>
-	<string name="cloud_gallery_setting">Nastavení galerie v Cloudu</string>
+		<string name="cloud_gallery_setting">Nastavení galerie v Cloudu</string>
     <string name="cloud_gallery_space_full">Uploadování se nezdařilo!, Cloudové úložiště galerie je plné</string>
     <string name="cloud_media_set_set">Alba v Cloudu</string>
     <string name="cloud_screenshots_display_name">Screenshoty</string>
@@ -192,7 +194,8 @@
     <string name="more">Více:</string>
     <string name="move_cloud_data">Data v Cloudu galerie byla přesunuta do: %s</string>
     <string name="move_to_cloud_album">Přemístit do Cloudu</string>
-    <string name="movie_view_label">Přehrávač videa</string>
+    <string name="move_to_cloud_folder">Přemístit do Cloudu</string>
+		<string name="movie_view_label">Přehrávač videa</string>
     <string name="multiface_crop_help">Začněte klepnutím na obličej.</string>
     <string name="must_pick_file">Zvolte obrázek</string>
     <string name="negative">Negativ</string>
@@ -215,9 +218,11 @@
     <string name="only_upload_in_charging">Fotografie budou odeslané pouze při připojené nabíječce.</string>
     <string name="open_map">Otevřít mapu</string>
     <string name="open_single_image_failure">Nelze načíst obrázek!</string>
+		<string name="open">Otevřít synchronizaci</string>
     <string name="open_sync">Synchr. teď</string>
     <string name="operation_cancel">Zrušit</string>
-    <string name="operation_delete">Smazat</string>
+    <string name="open_sync_title">Synchronizace</string>
+		<string name="operation_delete">Smazat</string>
     <string name="operation_info">Detaily</string>
     <string name="operation_refresh">Obnovit</string>
     <string name="operation_rename">Přejmenovat</string>
