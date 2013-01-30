@@ -1991,7 +1991,7 @@
     <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Vytvoření složky selhalo</string>
     <string name="wifi_wapi_cert_mgmt_subdir_exist">Složka s tímto názvem již existuje!</string>
     <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Vložte jméno zložky, kterou chcete vytvořit!</string>
-    <string name="wifi_wapi_cert_mgmt_titlebar">WAPI Certificate Management</string>
+    <string name="wifi_wapi_cert_mgmt_titlebar">Správa WAPI Certifikátů</string>
     <string name="wifi_wapi_cert_mgmt_user_dont_exist">Vložte jméno WAPI user certifikátu</string>
     <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">WAPI user certifikát má nesprávný formát! Nainstalujte platný WAPI user certifikát</string>
     <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Vložte jméno WAPI user certifikátu</string>

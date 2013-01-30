@@ -379,7 +379,21 @@ Computer will auto open and read phone data"</item>
         <item></item>
     </string-array>
     <string-array name="msd_install_status">
-        <item>Instalovat ovládač</item>
-        <item>Ovládač už je nainstalovaný</item>
+        <item>Instalovat ovladač</item>
+        <item>Ovladač už je nainstalovaný</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>Výkonný režim</item>
+        <item>Normální režim</item>
+        <item>Úspora energie</item>
+    </string-array>
+    <string-array name="screen_color_title">
+        <item>Teplé barvy</item>
+        <item>Přirozené barvy</item>
+        <item>Studené barvy</item>
+    </string-array>
+    <string-array name="screen_saturation_title">
+        <item>Brilliant</item>
+        <item>Standard</item>
     </string-array>
 </resources>
