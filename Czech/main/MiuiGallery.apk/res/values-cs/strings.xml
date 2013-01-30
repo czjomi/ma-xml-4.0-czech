@@ -102,7 +102,7 @@
     <string name="expand_album_in_home_page">Expand album in home page</string>
     <string name="exposure_time">Doba expozice</string>
     <string name="external_sd_card">SD karta</string>
-    <string name="external_usb_device">USB zařízení</string>
+    <string name="external_usb_device">SD karta</string>
     <string name="facelift">Zářivý obličej</string>
     <string name="facetan">Opálený obličej</string>
     <string name="fail_init_gallery_db_helper">Aplikace je zamknutá, nelze otevřít databázi galerie, paměť je plná.</string>
