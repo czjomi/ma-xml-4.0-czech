@@ -97,6 +97,9 @@
     <string name="login_failed">Přihlášení se nezdařilo</string>
     <string name="login_notice">Přihlašování\u2026</string>
     <string name="login_retry">Opakovat</string>
+    <string name="mibi_license_message">Xiaomi Mi Kredity. Kliknutím na OK souhlasíte s %1$s.</string>
+    <string name="mibi_license_message_span">Podmínky používání Mi kreditů</string>
+    <string name="mibi_license_title">Podmínky používání Mi kreditů</string>
     <string name="micloud_about">" "<u>Více o MiCloud</u>" "</string>
     <string name="micloud_account">XiaoMi</string>
     <string name="micloud_account_label">Účet: %1$s</string>

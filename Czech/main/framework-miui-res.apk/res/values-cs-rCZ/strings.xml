@@ -67,6 +67,7 @@
 	  <string name="memory_clear_nothing_result">Paměť RAM je čistá</string>
     <string name="memory_clear_result">"Uvolněno: %1$s\nDostupné: %2$s"</string>
     <string name="miro_menu_overflow">Více</string>
+    <string name="miui_mibi_license_title">Podmínky používání Mi kreditů</string>
     <string name="miui_copyright_title">Autorská práva</string>
     <string name="miui_privacy_policy_title">Ochrana osobních údajů</string>
     <string name="miui_user_agreement_title">Podmínky použití</string>
