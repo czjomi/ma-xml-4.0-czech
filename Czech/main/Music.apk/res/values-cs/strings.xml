@@ -238,7 +238,7 @@
     <string name="streamloadingtext">Připojování k %s</string>
     <string name="track_edit">Skladba</string>
     <string name="track_num_format">(%s)</string>
-    <string name="tracks_title">Všechny skladby</string>
+    <string name="tracks_title">Vše</string>
     <string name="unknown_album_name">Neznámé album</string>
     <string name="unknown_artist_name">Neznámy umělec</string>
     <string name="use_local_album">Použít uložený obrázek alba</string>
