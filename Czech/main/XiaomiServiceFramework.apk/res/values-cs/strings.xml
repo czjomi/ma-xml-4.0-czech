@@ -16,7 +16,7 @@
     <string name="alipay_error_msp">Zadání nového navýšení Alipay selhalo!</string>
     <string name="alipay_msp_not_installed">Alipay plugin není nainstalovaný, instalovat teď?</string>
     <string name="alipay_picker_hint">Zvolte o kolik chcete navýšit Mi kredit:</string>
-    <string name="app_name">XiaoMi Service Framework</string>
+    <string name="app_name">Xiaomi Service Framework</string>
     <string name="bad_authentication">Ověření se nezdařilo, špatné uživatelské jméno nebo heslo</string>
     <string name="balance">Zůstatek: %1$s Mi kreditů</string>
     <string name="basic_info">Základní informace</string>
@@ -103,9 +103,9 @@
     <string name="mibi_license_message_span">Podmínky používání Mi kreditů</string>
     <string name="mibi_license_title">Podmínky používání Mi kreditů</string>
     <string name="micloud_about">" "<u>Více o MiCloud</u>" "</string>
-    <string name="micloud_account">XiaoMi</string>
+    <string name="micloud_account">Xiaomi</string>
     <string name="micloud_account_label">Účet: %1$s</string>
-    <string name="micloud_account_name">XiaoMi</string>
+    <string name="micloud_account_name">Xiaomi</string>
     <string name="micloud_account_not_actived">Účet není aktivován</string>
     <string name="micloud_active_email_sent_1">Zaslat aktivační email na adresu:</string>
     <string name="micloud_active_email_sent_2" />
@@ -121,7 +121,7 @@
     <string name="micloud_error_illegal_pwd">Nepovolené heslo</string>
     <string name="micloud_input_email_prompt">Vložte svůj email</string>
     <string name="micloud_input_password_prompt">Vložte heslo</string>
-    <string name="micloud_log_prompt">Přihlášení ke XiaoMi účtu</string>
+    <string name="micloud_log_prompt">Přihlášení ke Xiaomi účtu</string>
     <string name="micloud_on_pc_notice">"Navštivte i.xiaomi.com \nke správě vašich dat"</string>
     <string name="micloud_password_confirm_hint">Potvrďte heslo</string>
     <string name="micloud_password_error_inconsistent">Hesla se neshodují</string>
@@ -132,7 +132,7 @@
     <string name="micloud_use_existing">Existující</string>
     <string name="micloud_val_sms_alert">Zašle se SMS k potvrzení Vašeho telefonního čísla, pokračovat?</string>
     <string name="micloud_waiting">Čekejte\u2026</string>
-    <string name="micloud_welcome_banner">XiaoMi účet</string>
+    <string name="micloud_welcome_banner">Xiaomi účet</string>
     <string name="micloud_welcome_skip_login"><u>Přeskočit tento krok</u></string>
     <string name="mili_center">Centrum Mi kreditů</string>
     <string name="next">Další</string>
@@ -210,7 +210,7 @@
     <string name="sub_sync_item_sms_summary">Doporučeno zapnout pro snížení datového provozu</string>
     <string name="sub_sync_item_sms_title_wifi_only">Pouze WIFI pro MMS</string>
     <string name="sub_sync_item_title_wifi_only">Pouze WIFI</string>
-    <string name="sync_dspt">Použijte svůj XiaoMi účet pro synchronizaci dat</string>
+    <string name="sync_dspt">Použijte svůj Xiaomi účet pro synchronizaci dat</string>
     <string name="sync_item_contact_summary">Povolením se budou synchronizovat Vaše kontakty s Xiaomi účtem</string>
     <string name="sync_item_contact_title">Synchronizovat kontakty</string>
     <string name="sync_item_gallery_summary">Povolením se budou synchronizovat Vaše fotografie a snímky obrazovky.</string>
@@ -223,15 +223,15 @@
     <string name="sync_settings">Nastavení synchronizace</string>
     <string name="sync_sub_dspt">Odešle se SMS pro aktivaci služby</string>
     <string name="title_alipay">Navýšení přes Alipay</string>
-    <string name="title_activate">Aktivujte svůj XiaoMi účet</string>
-    <string name="title_login">Přihlašte se ke XiaoMi účtu</string>
+    <string name="title_activate">Aktivujte svůj Xiaomi účet</string>
+    <string name="title_login">Přihlašte se ke Xiaomi účtu</string>
     <string name="title_mili_center">Centrum Mi kreditů</string>
     <string name="title_pay_record">%1$s historie plateb</string>
     <string name="title_payment">Mobilní platby Xiaomi</string>
     <string name="title_prepaid">Navýšení pomocí karty</string>
     <string name="title_recharge">Navýšit Mi kredit</string>
     <string name="title_recharge_record">Historie navýšení</string>
-    <string name="title_reg">Zaregistrujte XiaoMi účet</string>
+    <string name="title_reg">Zaregistrujte Xiaomi účet</string>
     <string name="unactivated_user">Neaktivován</string>
     <string name="user_agreement_p1">"Přihlášením se souhlasíte s"</string>
     <string name="user_agreement_p2">podmínkami služby Xiaomi</string>
