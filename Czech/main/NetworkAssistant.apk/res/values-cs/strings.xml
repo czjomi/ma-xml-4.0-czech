@@ -44,7 +44,7 @@
     <string name="daily_limit_result_no_limit">Upozornit mě, když denní provoz překročí limit. Vypnuto</string>
     <string name="detail_app_button">Detaily aplikace</string>
     <string name="dialog_button_adjust">Upravit</string>
-    <string name="disable_background_connect_warning">Pokud zakážete připojování k internetu na pozadí, některé aplikace, nebo služby nebudou moct použít 2g/3g internet. Opravdu chcete pokračovat?</string>
+    <string name="disable_background_connect_warning">Pokud zakážete připojování k internetu na pozadí, některé aplikace, nebo služby nebudou moct použít 2G/3G internet. Opravdu chcete pokračovat?</string>
     <string name="disable_background_mobile_connect">Připojení na pozadí zakázáno</string>
     <string name="edit_frame_free_traffic_title">Zbývající data v balíčku</string>
     <string name="edit_frame_month_start_title">Monitorovat ode dne:</string>
@@ -122,7 +122,7 @@
     <string name="this_month">Tento měsíc</string>
     <string name="today">Dnes</string>
     <string name="traffic_none">Žádný</string>
-    <string name="traffic_package_widget_name">Monitoring sítě (1x4)</string>
+    <string name="traffic_package_widget_name">Spotřeba dat (1x4)</string>
     <string name="traffic_remain">Zbývající</string>
     <string name="traffic_settings_error">Chyba nastavení balíčku. Vámi nastavení datový balíček je %1$s, ale zpráva od operátora udává, že zbývá %2$s.</string>
     <string name="traffic_suffix">Provoz</string>
