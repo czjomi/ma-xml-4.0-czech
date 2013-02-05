@@ -6,9 +6,9 @@
         <item>Řadit dle celkového provozu</item>
     </string-array>
     <string-array name="date_of_traffic">
-        <item>Provoz za včerejšek</item>
-        <item>Provoz za dnešek</item>
-        <item>Provoz za měsíc</item>
+        <item>Provoz za včerejšek\u0020</item>
+        <item>Provoz za dnešek\u0020</item>
+        <item>Provoz za měsíc\u0020</item>
     </string-array>
     <string-array name="date_of_app">
         <item>Včera 2G/3G</item>
