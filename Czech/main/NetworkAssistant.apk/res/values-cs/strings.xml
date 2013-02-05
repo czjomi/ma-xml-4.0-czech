@@ -22,7 +22,7 @@
     <string name="app_detail_internet_control_category">Typ sítě</string>
     <string name="app_detail_title">Detail aplikace</string>
     <string name="app_detail_version">Verze:\u0020%s</string>
-    <string name="app_name">Monitoring sítě</string>
+    <string name="app_name">Spotřeba dat</string>
     <string name="app_traffic_detail">"\u0020provoz (%s)"</string>
     <string name="apply_rules_failed">"Nepodařilo se použít bránu firewall, prosím zkuste znovu.\n(%s)"</string> 
     <string name="apply_rules_failed_known">OK</string>
@@ -36,7 +36,7 @@
     <string name="carrier_settings_button">Nastavení operátora</string>
     <string name="close_txt">Zavřít</string>
     <string name="control_app_internet">Řízení využití sítě</string>
-    <string name="current_warning_value">Varovná hodnota %s</string>
+    <string name="current_warning_value">Varovná hodnota:\u0020%s</string>
     <string name="daily_limit_dialog_disconnect_hint">Odpojit internet při překročení limitu</string>
     <string name="daily_limit_dialog_hint">Denní limit dat (prázdné nebo 0 znamená bez omezení)</string>
     <string name="daily_limit_result">Upozornit mě a odpojit internet, pokud denní provoz překročí %dMB</string>
@@ -55,7 +55,7 @@
     <string name="finish_traffic_settings_title">Upravit data</string>
     <string name="fire_rule_program_list">Seznam aplikací</string>
     <string name="fire_wall_is_closed">Firewall není aktivní</string>
-	<string name="force_stop_dlg_text">Pokud vynutíte zastavení aplikace, může to vyvolat chybu.</string>
+    <string name="force_stop_dlg_text">Pokud vynutíte zastavení aplikace, může to vyvolat chybu.</string>
     <string name="force_stop_dlg_title">Vynutit ukončení?</string>
     <string name="i_known_button">OK</string>
     <string name="input_hint">Prosím zadejte</string>
@@ -72,16 +72,16 @@
     <string name="menu_sort">Seřadit</string>
     <string name="menu_traffic_adjust">Přizpůsobení provozu</string>
     <string name="menu_traffic_settings">Nastavení balíčku dat</string>
-    <string name="mobile_traffic">2G/3G: %s</string>
+    <string name="mobile_traffic">2G/3G:\u0020%s</string>
     <string name="mobile_type">2G/3G</string>
     <string name="month_traffic_settings_title">Nastavení měsíčního limitu</string>
-	<string name="notify_carrier_settings_title">Nemáte nastaveného svého operátora. Nastavit teď?</string>
+    <string name="notify_carrier_settings_title">Nemáte nastaveného svého operátora. Nastavit teď?</string>
     <string name="notify_traffic_settings_cancel_hint">Oznámení a monitorování spotřeby dat bude deaktivováno. Ukončit?</string>
     <string name="notify_traffic_settings_title">Nemáte nastavený Váš limit dat. Chcete ho nastavit?</string>
     <string name="overseas_menu_traffic_adjust">Nastavit manuálně</string>
-	<string name="overseas_menu_traffic_settings">Limit dat</string>
-	<string name="overseas_unknown_traffic_hint">Nemáte nastavený limit stažených dat. Chcete ho nastavit?</string>
-	<string name="plate_traffic_already_used">Využito (%s)</string>
+    <string name="overseas_menu_traffic_settings">Limit dat</string>
+    <string name="overseas_unknown_traffic_hint">Nemáte nastavený limit stažených dat. Chcete ho nastavit?</string>
+    <string name="plate_traffic_already_used">Využito (%s)</string>
     <string name="plate_traffic_exceed">Překročení (%s)</string>
     <string name="plate_traffic_remain">Zbývá (%s)</string>
     <string name="powered_by">Technická podpora poskytovaná WALL-E</string>
@@ -107,7 +107,7 @@
     <string name="settings_page_traffic_summary_no_settings">Balíček nenastaven, Od %d. dne</string>
     <string name="sms_match_fail">SMS nesouhlasí</string>
     <string name="sms_template_match_fail">SMS vzor nesouhlasí</string>
-    <string name="sms_template_updated_label">"Aktualizované: "</string>
+    <string name="sms_template_updated_label">"Aktualizované:\u0020"</string>
     <string name="sort_dialog_title">Řadit</string>
     <string name="sorted_flux">Žebříček provozu</string>
     <string name="stop_app_button">Zavřít</string>
@@ -142,7 +142,7 @@
     <string name="update_success">Aktualizace kompletní</string>
     <string name="updating">Aktualizuji\u2026</string>
     <string name="used_flux">Využití dat</string>
-    <string name="version_label">"Verze: "</string>
+    <string name="version_label">"Verze:\u0020"</string>
     <string name="warning_title">Upozornění</string>
     <string name="widget_traffic_total">Datový balíček: %s</string>
     <string name="widget_traffic_used_status">Využito: %s</string>
