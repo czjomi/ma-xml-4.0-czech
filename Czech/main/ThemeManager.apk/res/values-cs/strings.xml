@@ -12,7 +12,7 @@
     <string name="backup_theme_dialog_ok">Zálohování</string>
     <string name="backup_theme_name">Moje zálohy</string>
     <string name="backup_theme_progress_message">Zálohování aktuálního tématu,
-    čekejte prosím...\u2026</string>
+    čekejte prosím\u2026</string>
     <string name="backup_theme_success_message">Záloha hotova</string>
     <string name="close">Zavřít</string>
     <string name="component_category_finest_title">Doporučené</string>
