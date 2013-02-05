@@ -15,7 +15,7 @@
     <string name="category_apk">Aplikace</string>
     <string name="category_bluetooth">Bluetooth</string>
     <string name="category_default_number_text">(0)</string>
-    <string name="category_document">Dokumenty</string>
+    <string name="category_document">Dokum.</string>
     <string name="category_favorite">Oblíbené</string>
     <string name="category_log">Záznamy</string>
     <string name="category_music">Hudba</string>
@@ -125,8 +125,8 @@
     <string name="loading">Načítám\u2026</string>
     <string name="local_cache">Místní cache</string>
     <string name="local_cache_size">Velikost místní cache: %s</string>
-    <string name="login_reg_content">MiDrive umožňuje ukládat soubory a synchronizovat je mezi více zařízení..</string>
-    <string name="login_reg_content0">KuaiPan je Vaše Cloud úložiště</string>
+    <string name="login_reg_content">S MiDrive můžete synchronizovat soubory.</string>
+    <string name="login_reg_content0">KuaiPan je Váš Cloud</string>
     <string name="login_reg_login_xiaomi">Přihlásit se k Xiaomi účtu</string>
     <string name="menu_item_ftp">FTP</string>
     <string name="menu_item_search">Hledat</string>
