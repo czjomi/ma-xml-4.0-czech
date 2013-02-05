@@ -11,7 +11,7 @@
     <string name="backup_theme_dialog_message">Zálohování aktuálního tématu %1$s</string>
     <string name="backup_theme_dialog_ok">Zálohování</string>
     <string name="backup_theme_name">Moje zálohy</string>
-    <string name="backup_theme_progress_message">Zálohování aktuální tématu,
+    <string name="backup_theme_progress_message">Zálohování aktuálního tématu,
     čekejte prosím...</string>
     <string name="backup_theme_success_message">Záloha hotova</string>
     <string name="close">Zavřít</string>
