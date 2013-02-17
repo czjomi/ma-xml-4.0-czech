@@ -9,12 +9,6 @@
         <item>Tichomoří</item>
         <item>Vše</item>
     </string-array>
-    <string-array name="date_format_values">
-        <item></item>
-        <item>MM-dd-yyyy</item>
-        <item>dd-MM-yyyy</item>
-        <item>yyyy-MM-dd</item>
-    </string-array>
     <string-array name="screen_timeout_entries">
         <item>15 s</item>
         <item>30 s</item>
@@ -75,8 +69,8 @@
         <item>Odpojování\u2026</item>
         <item>Odpojeno</item>
         <item>Neúspěšné</item>
-	<item>Blokované</item>
-	<item>Dočasně nedostupné kvůli slabému signálu</item>
+	    <item>Blokované</item>
+	    <item>Dočasně nedostupné kvůli slabému signálu</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
@@ -89,8 +83,8 @@
         <item>Odpojování od sítě %1$s\u2026</item>
         <item>Odpojeno</item>
         <item>Neúspěšné</item>
-	<item>Blokované</item>
-	<item>Dočasně nedostupné kvůli slabému signálu</item>
+	    <item>Blokované</item>
+	    <item>Dočasně nedostupné kvůli slabému signálu</item>
     </string-array>
     <string-array name="wifi_ap_security">
         <item>Nezabezpečená</item>
@@ -320,6 +314,16 @@
         <item>Azurová</item>
         <item>Bílá</item>
         <item>Purpurová</item>
+    </string-array>
+	<string-array name="led_color_values">
+        <item>blue</item>
+        <item>red</item>
+        <item>\#FFFF3300</item>
+        <item>yellow</item>
+        <item>green</item>
+        <item>cyan</item>
+        <item>white</item>
+        <item>\#FFAA00AA</item>
     </string-array>
 	<string-array name="animator_duration_scale_entries">
         <item>Animace vypnuté</item>
