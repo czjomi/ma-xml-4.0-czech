@@ -24,7 +24,7 @@
     <string name="audio_chat">Audio chat</string>
     <string name="auto_nickname">Auto</string>
     <string name="auto_set_nickname">Auto</string>
-<string name="batch_delete_msg">"Smazat %d vybraných kontaktů? Kontaktní informace uložené v cloudu budou také odstraněny"</string>
+    <string name="batch_delete_msg">"Smazat %d vybraných kontaktů? Kontaktní informace uložené v cloudu budou také odstraněny"</string>
     <string name="blurbJoinContactDataWith">Vyberte kontakt se kterým chcete sloučit %s.</string>
     <string name="caching_vcard_message">Probíhá ukládání vizitek do dočasného úložiště, samotný import proběhne za okamžik</string>
     <string name="caching_vcard_title">Ukládání vizitek do dočasného úložiště</string>
@@ -72,7 +72,7 @@
     <string name="callrecordview_menu_delete_accepted">Smazat přijaté hovory</string>
     <string name="callrecordview_menu_delete_all">Smazat všechny záznamy o hovorech</string>
     <string name="callrecordview_menu_delete_called">Smazat volané hovory</string>
-    <string name="callrecordview_menu_delete_confirm">Smazat %s?</string>
+    <string name="callrecordview_menu_delete_confirm">%s?</string>
     <string name="callrecordview_menu_delete_missed">Smazat zmeškané hovory</string>
     <string name="callrecordview_menu_delete_one">Smazat záznam o hovoru</string>
     <string name="callrecordview_menu_delete_stranger">Smazat neznámá čísla</string>
