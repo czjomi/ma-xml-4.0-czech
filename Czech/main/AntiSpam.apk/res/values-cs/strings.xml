@@ -28,7 +28,7 @@
     <string name="anti_private_title">Blokovat soukromá čísla</string>
     <string name="anti_stranger_summary">Nejsou filtrovány žádné kontakty</string>
     <string name="anti_stranger_title">Anti-cizinec mód</string>
-    <string name="app_name">Režim nerušit</string>
+    <string name="app_name">Anti-Spam</string>
     <string name="black_white_list_tab_title">Černá listina</string>
     <string name="calllog">Log hovorů</string>
     <string name="call_log_tab_title">Log hovorů</string>
